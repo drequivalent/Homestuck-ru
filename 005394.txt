@@ -1,0 +1,30 @@
+==&gt;
+###
+dc70d2b5a4
+###
+1297563481
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03491.gif
+###
+|PESTERLOG|
+<span style="color: #005682">AG: Good.</span>
+<span style="color: #005682">AG: I think it's time for me to get going too. I will prepare for 8attle.</span>
+<span style="color: #0715cd">EB: oh, man.</span>
+<span style="color: #0715cd">EB: i guess if there is nothing i can say to change your mind, and it's something you really have to do, then i understand.</span>
+<span style="color: #0715cd">EB: but, how about this...</span>
+<span style="color: #005682">AG: What?</span>
+<span style="color: #0715cd">EB: can this not be the last time we talk before you go?</span>
+<span style="color: #0715cd">EB: it would be nice to hear from you at least once before you leave to fight him.</span>
+<span style="color: #005682">AG: Yeah! You got it. I will message you 8efore I leave.</span>
+<span style="color: #0715cd">EB: in my future, too! none of this messaging me in the past nonsense, before i even knew you.</span>
+<span style="color: #005682">AG: Of course.</span>
+<span style="color: #0715cd">EB: ok, great. i will hold you to that, vriska.</span>
+<span style="color: #005682">AG: It will 8e a certainty.</span>
+<span style="color: #005682">AG: That said, there is no need for any sort of farewell right now.</span>
+<span style="color: #005682">AG: Go do your amazing windy thing, John. 8e cre8tive! I will talk to you l8er.</span>
+<span style="color: #0715cd">EB: ok, i will, later!</span>
+
+<span style="color: #005682">arachnidsGrip [AG]</span> ceased trolling <span style="color: #0715cd">ectoBiologist [EB]</span>
+###
+005395
+X

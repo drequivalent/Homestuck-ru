@@ -1,0 +1,33 @@
+John: Check message.
+###
+94c8c51adb
+###
+1240192555
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00063.gif
+###
+|PESTERLOG|
+<span style="color: #b536da">TT: I understand you have recently come into possession of the beta release of &quot;The Game of the Year&quot;, as featured in respectable periodicals such as GameBro Magazine.</span>
+<span style="color: #0715cd">EB: that's an ugly rumor.</span>
+<span style="color: #0715cd">EB: whoever told you that is a filthy liar.</span>
+<span style="color: #0715cd">EB: and you should probably stop hitting on him all the time or whatever.</span>
+<span style="color: #b536da">TT: I can't control myself. </span>
+<span style="color: #b536da">TT: I must have a weakness for insufferable pricks. </span>
+<span style="color: #0715cd">EB: anyway i still haven't checked the mail, my dad has it.</span>
+<span style="color: #0715cd">EB: i'm trying to go get it from him, so brb</span>
+<span style="color: #b536da">TT: John.</span>
+<span style="color: #0715cd">EB: what?</span>
+<span style="color: #b536da">TT: You're wearing one of your disguises now, aren't you?</span>
+<span style="color: #b536da">TT: You are typing to me right now while wearing something ridiculous.</span>
+<span style="color: #0715cd">EB: no, why would you even think that??</span>
+<span style="color: #0715cd">EB: that's so stupid.</span>
+<span style="color: #b536da">TT: Ok.</span>
+<span style="color: #b536da">TT: Why don't you go get the game from your father?</span>
+<span style="color: #0715cd">EB: alright, wish me luck.</span>
+<span style="color: #0715cd">EB: oh, btw...</span>
+<span style="color: #0715cd">EB: jk I was wearing a funny disguise this whole time.</span>
+<span style="color: #0715cd">EB: gotcha! hehehehe</span>
+<span style="color: #b536da">TT: I know, John.</span>
+###
+001964
+X

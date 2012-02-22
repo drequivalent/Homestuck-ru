@@ -1,0 +1,14 @@
+==&gt;
+###
+ae423aefa2
+###
+1293830402
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03214.gif
+###
+|SPRITELOG|
+<span style="color: #1f9400">JADESPRITE:</span>
+<img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/whatdidyoudo.gif" border="0" />
+###
+005118
+X

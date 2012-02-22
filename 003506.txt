@@ -1,0 +1,19 @@
+John: Examine gate.
+###
+560991185b
+###
+1269305420
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01606.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">EB: so this is the seventh gate?</span>
+<span style="color: #0715cd">EB: that'll take me into the palace and down to the sleeping denizen?</span>
+<span style="color: #008282">GC: NOP3 &gt;:]</span>
+<span style="color: #008282">GC: TH1S 1S JUST 4 S1MPL3 R3TURN NOD3</span>
+<span style="color: #008282">GC: TH3R3 4R3 LOTS OF TH3S3 4ROUND</span>
+<span style="color: #008282">GC: JUST HOP 1N</span>
+<span style="color: #008282">GC: DONT WORRY 1LL G3T YOU TO TH3 G4T3 SOON 4FT3R TH4T</span>
+###
+003507
+X

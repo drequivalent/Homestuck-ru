@@ -1,0 +1,14 @@
+Dave: Get beta.
+###
+047735735f
+###
+1262302421
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01086.gif
+###
+You get the <span style="color: green">BETA</span> (3+1+1+1), now yielding a radically different hash value with the Scrabble function.
+
+Which is to say a radically exactly the same value.
+###
+002987
+X

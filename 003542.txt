@@ -1,0 +1,38 @@
+Dave: Consult with Calsprite.
+###
+5e368ffe76
+###
+1270242766
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01642.gif
+###
+|SPRITELOG|
+<span style="color: #f2a400">CALSPRITE: HAA HAA HEE HEE HOO HOO</span>
+<span style="color: #e00707">DAVE: shut up</span>
+<span style="color: #f2a400">CALSPRITE: HOO HOO HAA HAA HEE HEE </span>
+<span style="color: #f2a400">CALSPRITE: HEE HEE HAA HAA HOO HOO</span>
+<span style="color: #e00707">DAVE: no</span>
+<span style="color: #e00707">DAVE: just</span>
+<span style="color: #e00707">DAVE: god damn it</span>
+<span style="color: #f2a400">CALSPRITE: HEE HEE HEE HEE HAA HAA</span>
+<span style="color: #f2a400">CALSPRITE: HEE HEE HOO HOO HEE HEE</span>
+<span style="color: #e00707">DAVE: please</span>
+<span style="color: #e00707">DAVE: just once</span>
+<span style="color: #e00707">DAVE: shut the hell up</span>
+<span style="color: #f2a400">CALSPRITE: HOO HOO HAA HEE HEE HOO</span>
+<span style="color: #f2a400">CALSPRITE: HOO HOO HEE HAA HEE HAA</span>
+<span style="color: #f2a400">CALSPRITE: HAA HAA HAA HAA HAA HAA</span>
+<span style="color: #e00707">DAVE: shut up</span>
+<span style="color: #f2a400">CALSPRITE: HEE HEE HEE HAA HAA HAA</span>
+<span style="color: #f2a400">CALSPRITE: HOO HOO HOO HEE HEE HEE</span>
+<span style="color: #e00707">DAVE: shut</span>
+<span style="color: #f2a400">CALSPRITE: HAA HAA HEE HEE HOO HOO</span>
+<span style="color: #e00707">DAVE: the</span>
+<span style="color: #f2a400">CALSPRITE: HAA HAA HEE HEE HOO HOO</span>
+<span style="color: #e00707">DAVE: fuck</span>
+<span style="color: #f2a400">CALSPRITE: HAA HAA HEE HEE HOO HOO</span>
+<span style="color: #e00707">DAVE: up</span>
+<span style="color: #f2a400">CALSPRITE:</span> <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/calhead.gif" border="0" />
+###
+003543
+X

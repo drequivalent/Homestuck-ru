@@ -1,0 +1,12 @@
+WV: Move spirograph switch.
+###
+61cf291c26
+###
+1254764511
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00748.gif
+###
+You cannot move it! It has a spirograph-shaped indentation, and possibly will require a special kind of key to turn it.
+###
+002649
+X

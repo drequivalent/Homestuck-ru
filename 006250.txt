@@ -1,0 +1,79 @@
+[A6I1] ==&gt;
+###
+de9eae1eec
+###
+1324275263
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04347.gif
+###
+|DIALOGLOG|
+<span style="color: #626262">KARKAT: IS IT GOING TO SHIT ON EVERYBODY'S GREAT TIME IF I DARE TO BRING UP IMPORTANT THINGS NOW?</span>
+<span style="color: #626262">KARKAT: IS IT SAFE TO POKE OUR HEADS UP FROM THIS GULCH OF IDIOTIC BANTER AND SEE IF THE COAST IS CLEAR FOR ADULT, BUSINESSLIKE CONVERSATION?</span>
+<span style="color: #626262">KARKAT: YES, YES, HUMANS, SO NICE TO MEET YOU, AND IT SEEMS YOU'RE GOD TIERS NOW? NEAT, YADA YADA, WHAT THE FUCK EVER.</span>
+<span style="color: #626262">KARKAT: JUST ONE QUESTION</span>
+<span style="color: #626262">KARKAT: WE FOLLOWED THAT GREEN BEACON OF WHAT I THOUGHT WAS THE AFTERMATH OF A SUCCESSFUL BLOW UP THE SUN MISSION</span>
+<span style="color: #626262">KARKAT: AND AFTER A BREAKNECK WARP SPEED JOURNEY IN WHICH MY BEST FUCKING FRIEND *EVER* PSYCHED ME OUT INTO THINKING HE DIED *YET A FUCKING GAIN* BY EXPELLING LITER AFTER GRUESOME LITER OF GRUBSAUCE FROM HIS EVERY ORIFICE</span>
+<span style="color: #626262">KARKAT: WHAT DO I FIND HERE?</span>
+<span style="color: #626262">KARKAT: WHY, IN ADDITION TO A PAIR OF HUMANS DRAPED IN CIRCUSWEAR AND ALL THEIR FLIPPANT GIBES LOCKED AND GODDAMN LOADED</span>
+<span style="color: #626262">KARKAT: IT SEEMS WE HAVE ALSO CHANCED UPON NONE OTHER THAN THE GREEN FUCKING SUN ITSELF</span>
+<span style="color: #626262">KARKAT: WHICH UNLESS MY RAW, RUDDY GANDERBULBS ARE STILL A LITTLE GRIEFBLEARY, STRIKES ME AS STILL BEING SOMEWHAT RATHER FUCKING *UNBLOWN* UP.</span>
+<span style="color: #626262">KARKAT: SO WHAT AM I MISSING HERE</span>
+<span style="color: #e00707">DAVE: dude chill out we just got hornswoggled is all</span>
+<span style="color: #626262">KARKAT: OH!</span>
+<span style="color: #626262">KARKAT: CASE CLOSED</span>
+<span style="color: #626262">KARKAT: OK THEN, LET'S START PITCHING DEAD PALS INTO THE LIMITLESS INFERNO. MY CURIOSITY WAS TOTALLY FUCKING SATED JUST THEN!</span>
+<span style="color: #a10000">ARADIA: the sun will never be destroyed karkat</span>
+<span style="color: #a10000">ARADIA: im sorry but you were misinformed!</span>
+<span style="color: #626262">KARKAT: AH! MORE BREATHTAKING REASSURANCE!</span>
+<span style="color: #626262">KARKAT: EVERYTHING WILL BE FINE GUYS, WE WERE JUST HORNSWOGGLED AND MISINFORMED, CARRY ON THEN!</span>
+<span style="color: #626262">KARKAT: WASN'T THE WHOLE POINT TO TAKE OUT THE SUN TO NEUTRALIZE JACK?</span>
+<span style="color: #b536da">ROSE: It shouldn't be a problem.</span>
+<span style="color: #626262">KARKAT: OH NO??? THEN WHAT'S THE PLAN NOW???</span>
+<span style="color: #b536da">ROSE: It's simple.</span>
+<span style="color: #b536da">ROSE: We regroup, and then defeat him in person.</span>
+<span style="color: #626262">KARKAT: OH! OHHHHHHHHHHHHHH.</span>
+<span style="color: #626262">KARKAT: FUCKING OH.</span>
+<span style="color: #626262">KARKAT: AND HERE I THOUGHT THE NEW PLAN WAS GOING TO BE SOMETHING INCREDIBLY STUPID AND SUICIDAL.</span>
+<span style="color: #626262">KARKAT: DID I SAY OH YET?</span>
+<span style="color: #626262">KARKAT: BECAUSE THAT'S THE SOUND I MAKE WHEN I'M FUCKING RELIEVED!!!!!!!!!!!!!!!!!</span>
+<span style="color: #2b0057">GAMZEE: honk.</span>
+<span style="color: #626262">KARKAT: WHAT.</span>
+<span style="color: #2b0057">GAMZEE: HONK.</span>
+<span style="color: #626262">KARKAT: WHAT DOES HONK MEAN THIS TIME YOU WHIMSICAL PIECE OF SHIT?????</span>
+<span style="color: #626262">KARKAT: DON'T YOU START WITH ME</span>
+<span style="color: #626262">KARKAT: DO. NOT. START WITH ME.</span>
+<span style="color: #626262">KARKAT: I WILL GET YOU IN A HEADLOCK SO TIGHT IT WILL BE A MIRACLE IF PEOPLE DON'T MISTAKE OUR TUSSLE FOR AN ILL CONCEIVED VENTRILOQUIST ACT.</span>
+<span style="color: #626262">KARKAT: I WILL SHOOSH YOU AGAIN, SO HELP ME GOD. I WILL SHOOSH YOUR CLOWN ASS TO SHANGRI-BULLSHIT-LA AND BACK, AND FILL YOUR EAR WITH MY WHITE HOT PALEBRO SPITTLE.</span>
+<span style="color: #626262">KARKAT: I AM FULL AND FUCKING WELL PREPARED TO GET CONCILIATORY WITH YOU AGAIN IF YOU SO MUCH AS PASS GAS MURDEROUSLY, DO YOU UNDERSTAND?</span>
+<span style="color: #626262">KARKAT: IS THAT WHAT YOU WANT??? DO I NEED TO CALM YOUR FAYGO-STICKY TENTSQUATTING SHIT DOWN AGAIN????</span>
+<span style="color: #2b0057">GAMZEE: naw brother, i was just about to all say for you to try and get your settle down on, maybe.</span>
+<span style="color: #2b0057">GAMZEE: :o(</span>
+<span style="color: #e00707">DAVE: man what the hell even happened on this meteor anyway</span>
+<span style="color: #e00707">DAVE: actually dont even tell me</span>
+<span style="color: #626262">KARKAT: OK</span>
+<span style="color: #626262">KARKAT: OK YEAH</span>
+<span style="color: #626262">KARKAT: I GUESS YOU'RE RIGHT.</span>
+<span style="color: #626262">KARKAT: NO, YOU'RE RIGHT, I SHOULD RELAX.</span>
+<span style="color: #626262">KARKAT: AND BREATHE.</span>
+<span style="color: #626262">KARKAT: I MEAN, WHAT ARE MOIRAILS FOR, RIGHT?</span>
+<span style="color: #626262">KARKAT: THIS IS HOW IT WORKS, I STOP YOU FROM KILLING EVERYBODY, THEN YOU RETURN THE FAVOR AND CALM ME DOWN AND I JUST</span>
+<span style="color: #626262">KARKAT: BREATHE</span>
+<span style="color: #626262">KARKAT: LIKE</span>
+<span style="color: #626262">KARKAT: THIS...</span>
+<span style="color: #626262">KARKAT: SNIIIIIIIIIIIIFFFFFFFFFFFFFUCK, THAT SUN IS BRIGHT.</span>
+<span style="color: #626262">KARKAT: CALL ME CRAZY, BUT IT'S KIND OF HARD TO RELAX WITHIN A STONE'S THROW FROM, OH, I GUESS ONLY THE BIGGEST FUCKING STAR ANY MORTAL HAS EVER LAID EYES ON.</span>
+<span style="color: #008141">KANAYA: Actually I Was Just Thinking</span>
+<span style="color: #008141">KANAYA: Its Nice To Get A Little Sun After So Long</span>
+<span style="color: #626262">KARKAT: SURE, THAT'S ALL WELL AND GOOD FOR YOU.</span>
+<span style="color: #626262">KARKAT: BUT I MEAN, CAN THIS BE HEALTHY?</span>
+<span style="color: #626262">KARKAT: AREN'T WE GOING TO GET BURNED OR HAVE OUR RETINAS SCORCHED BY LOOKING AT IT?</span>
+<span style="color: #626262">KARKAT: OH GOD I THINK I'M HAVING A PANIC ATTACK.</span>
+<span style="color: #008282">TEREZI: K4RK4T YOUR3 3MB4RR4SS1NG US 1N FRONT OF TH3 HUM4NS</span>
+<span style="color: #626262">KARKAT: FUCK YOU</span>
+<span style="color: #626262">KARKAT: I CAN'T BREATHE...</span>
+<span style="color: #626262">KARKAT: IT'S SO BRIGHT, I NEED SUNGLASSES OR SOMETHING.</span>
+<span style="color: #626262">KARKAT: QUICK, WHICH ONE OF YOU AWESOME DUDES HAS A RADICAL PAIR OF SHADES I CAN BORROW???</span>
+<span style="color: #008141">KANAYA: One Moment</span>
+###
+006251
+X

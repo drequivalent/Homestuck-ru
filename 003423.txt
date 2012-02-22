@@ -1,0 +1,55 @@
+You guide the Heir. Consult with him.
+###
+6cc401da75
+###
+1267509800
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01523.gif
+###
+|PESTERLOG|
+-- ectoBiologist <span style="color: #0715cd">[EB]</span> began pestering tentacleTherapist <span style="color: #b536da">[TT]</span> --
+
+<span style="color: #0715cd">EB: rose?</span>
+<span style="color: #0715cd">EB: are you there?</span>
+<span style="color: #0715cd">EB: i went through the gate, nanna said you might be here too.</span>
+<span style="color: #0715cd">EB: are you in kind of this spooky glowy place with oily rivers and stuff?</span>
+<span style="color: #0715cd">EB: let me know ok. </span>
+<span style="color: #b536da">TT: I guess one could use those words to describe it.</span>
+<span style="color: #b536da">TT: If armed with a predilection for the inapt. </span>
+<span style="color: #0715cd">EB: bluh bluh bluuuuuhhhhh.</span>
+<span style="color: #0715cd">EB: ok, what words would you use, miss wordypants mcsmartybluh.</span>
+<span style="color: #b536da">TT: Eerily iridescent?</span>
+<span style="color: #0715cd">EB: umm...</span>
+<span style="color: #b536da">TT: I certainly don't see any oily rivers.</span>
+<span style="color: #b536da">TT: There's an ocean though.</span>
+<span style="color: #0715cd">EB: i haven't found an ocean yet.</span>
+<span style="color: #0715cd">EB: but i dunno, the place is really big.</span>
+<span style="color: #0715cd">EB: it's like a whole planet down here.</span>
+<span style="color: #0715cd">EB: oh man, which reminds me.</span>
+<span style="color: #0715cd">EB: i just got hounded by a troll.</span>
+<span style="color: #b536da">TT: Yes, one of them is bugging me now.</span>
+<span style="color: #b536da">TT: I thought it was odd timing.</span>
+<span style="color: #0715cd">EB: yeah well, they say they want to be friends, also they're playing sburb but like not the same session as ours or something.</span>
+<span style="color: #0715cd">EB: oh also they're moving backwards in time, which sounds really retarded, but whatever.</span>
+<span style="color: #b536da">TT: Color my curiosity piqued, I guess.</span>
+<span style="color: #0715cd">EB: yeah, i guess answer him if you want. or not.</span>
+<span style="color: #0715cd">EB: but anyway, it's great you made it here alive and stuff!</span>
+<span style="color: #0715cd">EB: so dave came through?</span>
+<span style="color: #b536da">TT: Eventually.</span>
+<span style="color: #b536da">TT: Pardon the envy I'm about to vent in your direction.</span>
+<span style="color: #0715cd">EB: for what?</span>
+<span style="color: #b536da">TT: For finding yourself at the mercy of a rational orchestrator.</span>
+<span style="color: #0715cd">EB: oh, haha.</span>
+<span style="color: #0715cd">EB: yeah, i'd feel kinda weird if dave was watching me too.</span>
+<span style="color: #b536da">TT: You don't feel weird when I watch you?</span>
+<span style="color: #0715cd">EB: rose i feel weird when you're just TALKING to me, when you're watching me it's just like the weird frosting on the big weirdo cake.</span>
+<span style="color: #b536da">TT: I can't see you now, for what it's worth.</span>
+<span style="color: #0715cd">EB: yes i'm freeeeeeeeee :D</span>
+<span style="color: #0715cd">EB: ok, i'm going to go over this river and through these woods.</span>
+<span style="color: #0715cd">EB: you talk to your troll i guess.</span>
+<span style="color: #0715cd">EB: we'll compare notes later.</span>
+<span style="color: #b536da">TT: Ok.</span>
+<span style="color: #b536da">TT: Bye, John.</span>
+###
+003424
+X

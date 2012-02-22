@@ -1,0 +1,21 @@
+==&gt;
+###
+acbc4ff5e3
+###
+1288151435
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02799.gif
+###
+|SPRITELOG|
+<span style="color: #0715cd">JOHN: ok. what is it?</span>
+<span style="color: #00d5f2">NANNASPRITE: You can use it to summon me wherever you go.</span>
+<span style="color: #00d5f2">NANNASPRITE: Now we needn't endure those long spells without a good visit!</span>
+<span style="color: #0715cd">JOHN: oh cool, that is great!</span>
+<span style="color: #00d5f2">NANNASPRITE: And now, the most important question of all.</span>
+<span style="color: #00d5f2">NANNASPRITE: When was the last time you have eaten anything, young man??</span>
+<span style="color: #0715cd">JOHN: hmm, i guess it has been a good while!</span>
+<span style="color: #0715cd">JOHN: i've been snacking on gushers a whole lot. bluh...</span>
+<span style="color: #0715cd">JOHN: i never realized how terrible they were, actually.</span>
+###
+004701
+X

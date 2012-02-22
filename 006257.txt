@@ -1,0 +1,67 @@
+[A6I1] ==&gt;
+###
+42ac31ab44
+###
+1324453940
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04354.gif
+###
+|DIALOGLOG|
+<span style="color: #626262">KARKAT: SOLLUX, WHERE DID YOUR BODY GO???</span>
+<span style="color: #a1a100">SOLLUX: hell if i kn0w.</span>
+<span style="color: #a10000">ARADIA: oh nooo :(</span>
+<span style="color: #626262">KARKAT: WAIT A MINUTE.</span>
+<span style="color: #626262">KARKAT: WAIT JUST A FUCKING MINUTE, WHERE'S...</span>
+<span style="color: #626262">KARKAT: SHIT</span>
+<span style="color: #626262">KARKAT: VRISKA'S BODY IS GONE TOO!</span>
+<span style="color: #e00707">DAVE: wait</span>
+<span style="color: #e00707">DAVE: shes dead too</span>
+<span style="color: #008282">TEREZI: 3R...</span>
+<span style="color: #e00707">DAVE: you guys are so messed up</span>
+<span style="color: #626262">KARKAT: WHERE ARE THEY?</span>
+<span style="color: #626262">KARKAT: DID ANYONE SEE WHAT HAPPENED??</span>
+<span style="color: #626262">KARKAT: DAMMIT, WHEN THE FUCK WILL I LEARN NOT TO TURN MY BACK ON THE BODIES.</span>
+<span style="color: #626262">KARKAT: HOLD ON</span>
+<span style="color: #626262">KARKAT: OH NO, WHERE'S GAMZEE</span>
+<span style="color: #008141">KANAYA: He Took Them</span>
+<span style="color: #008141">KANAYA: Look At The Trails</span>
+<span style="color: #626262">KARKAT: OHHHH FUCK</span>
+<span style="color: #626262">KARKAT: NO, FUCK NO, FUCK THAT CORPSE HOARDING SACK OF HORRIBLE GARBAGE.</span>
+<span style="color: #e00707">DAVE: wait has the juggalo troll been giving you guys fits like this or something</span>
+<span style="color: #e00707">DAVE: like this is a thing</span>
+<span style="color: #e00707">DAVE: like a pattern</span>
+<span style="color: #626262">KARKAT: NICE GUESS SHIT HEAD!</span>
+<span style="color: #e00707">DAVE: oh man one of you has got to sit me down and tell me what actually happened here it all just sounds fuckin amazing in sort of the stupidest way possible</span>
+<span style="color: #e00707">DAVE: i mean like personal tragedies notwithstanding</span>
+<span style="color: #626262">KARKAT: YEAH, HE DOES THIS</span>
+<span style="color: #626262">KARKAT: HE SORT OF COLLECTS BODIES AND DECAPITATES THEM AND STUFF</span>
+<span style="color: #626262">KARKAT: STICKS THEM IN BIG SCIENCE JARS, FOR SOME REASON??</span>
+<span style="color: #008141">KANAYA: Im Pretty Sure He Kisses Them Too Sometimes</span>
+<span style="color: #626262">KARKAT: NO NO NO I'M NOT LISTENING TO SHIT LIKE THAT, I DIDN'T EVEN HEAR THAT.</span>
+<span style="color: #626262">KARKAT: IT'S LIKE</span>
+<span style="color: #626262">KARKAT: YOU KNOW HOW EVERY NOW AND THEN YOUR LUSUS WILL BRING SOME RANDOM ASS DEAD ANIMAL BACK TO YOUR HIVE FOR NO FUCKING REASON</span>
+<span style="color: #626262">KARKAT: AND THEY DON'T EVER STOP DOING THAT NO MATTER HOW MUCH YOU YELL</span>
+<span style="color: #626262">KARKAT: IT'S LIKE THAT, YOU KNOW WHAT I MEAN</span>
+<span style="color: #e00707">DAVE: not really</span>
+<span style="color: #e00707">DAVE: oh wait</span>
+<span style="color: #e00707">DAVE: against all odds i sorta do</span>
+<span style="color: #e00707">DAVE: mine actually did do that once</span>
+<span style="color: #626262">KARKAT: YES, THERE YOU GO.</span>
+<span style="color: #e00707">DAVE: when i was really young</span>
+<span style="color: #e00707">DAVE: he made this stupid leather bib for me out of a goddamn horse</span>
+<span style="color: #e00707">DAVE: for the ironies obviously</span>
+<span style="color: #b536da">ROSE: Was that the one you mentioned had a pink heart on it?</span>
+<span style="color: #e00707">DAVE: yeah</span>
+<span style="color: #b536da">ROSE: Hmm.</span>
+<span style="color: #e00707">DAVE: what</span>
+<span style="color: #b536da">ROSE: It's just that with the clarity afforded by my new abilities, it occurred to me just now that dead horse was likely the beautiful pet pony my mother gave me recently.</span>
+<span style="color: #b536da">ROSE: It was crushed to death by your newborn ass.</span>
+<span style="color: #b536da">ROSE: You bastard.</span>
+<span style="color: #e00707">DAVE: well shit</span>
+<span style="color: #e00707">DAVE: thats a hell of a mystery no one thought was a mystery and didnt even really need solving</span>
+<span style="color: #e00707">DAVE: but damn if it didnt just get solved so nice work</span>
+<span style="color: #b536da">ROSE: Thanks.</span>
+<span style="color: #626262">KARKAT: KANAYA WHERE ARE YOU GOING?</span>
+###
+006258
+X

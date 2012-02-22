@@ -1,0 +1,51 @@
+==&gt;
+###
+b8a6dd9aa6
+###
+1288919490
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02836.gif
+###
+|SPRITELOG|
+<span style="color: #f2a400">DAVESPRITE: oh yeah why</span>
+<span style="color: #f2a400">DAVESPRITE: rose beckoning you again</span>
+<span style="color: #e00707">DAVE: yeah probably</span>
+<span style="color: #e00707">DAVE: anyway monsters will show up soon and try to eat my sleeping corpse</span>
+<span style="color: #f2a400">DAVESPRITE: yeah they werent too happy with my reckless indiana jones bullshit either</span>
+<span style="color: #e00707">DAVE: yeah</span>
+<span style="color: #e00707">DAVE: so thats where you come in</span>
+<span style="color: #f2a400">DAVESPRITE: i got your back dude dont worry</span>
+<span style="color: #e00707">DAVE: ok</span>
+<span style="color: #e00707">DAVE: guess ill make myself comfortable here</span>
+<span style="color: #f2a400">DAVESPRITE: when you wake up</span>
+<span style="color: #f2a400">DAVESPRITE: ill probably get going</span>
+<span style="color: #e00707">DAVE: what do you mean</span>
+<span style="color: #f2a400">DAVESPRITE: ill just sort of</span>
+<span style="color: #f2a400">DAVESPRITE: release myself</span>
+<span style="color: #f2a400">DAVESPRITE: go do my own thing</span>
+<span style="color: #f2a400">DAVESPRITE: after this i dont think youll need me</span>
+<span style="color: #f2a400">DAVESPRITE: seems like youve got the stable time loop thing figured out already</span>
+<span style="color: #f2a400">DAVESPRITE: which means youll be alright</span>
+<span style="color: #f2a400">DAVESPRITE: future yous will get you out of trouble</span>
+<span style="color: #f2a400">DAVESPRITE: if youre gonna live up to the responsibility of eventually becoming them</span>
+<span style="color: #f2a400">DAVESPRITE: and by virtue of loop stability it sort of means you cant technically fuck up anymore</span>
+<span style="color: #f2a400">DAVESPRITE: but dont let that idea go to your head itll mess you up</span>
+<span style="color: #e00707">DAVE: where will you go</span>
+<span style="color: #f2a400">DAVESPRITE: dunno</span>
+<span style="color: #f2a400">DAVESPRITE: fly around</span>
+<span style="color: #f2a400">DAVESPRITE: up away to the sun like a fucknig piece of gargbage</span>
+<span style="color: #f2a400">DAVESPRITE: see if i can catch up with bro maybe</span>
+<span style="color: #f2a400">DAVESPRITE: elusive bastard</span>
+<span style="color: #e00707">DAVE: oh yeah</span>
+<span style="color: #e00707">DAVE: where do you think he is</span>
+<span style="color: #e00707">DAVE: what happened to him in your timeline</span>
+<span style="color: #f2a400">DAVESPRITE: who knows</span>
+<span style="color: #f2a400">DAVESPRITE: i completely lost track of him</span>
+<span style="color: #f2a400">DAVESPRITE: in that timeline and this one</span>
+<span style="color: #f2a400">DAVESPRITE: the dude is fucking inscrutable we both know that</span>
+<span style="color: #e00707">DAVE: yeah</span>
+<span style="color: #e00707">DAVE: ok good luck with that</span>
+<span style="color: #f2a400">DAVESPRITE: thanks man</span>
+###
+004738
+X

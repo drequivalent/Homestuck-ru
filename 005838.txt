@@ -1,0 +1,55 @@
+[o] ==&gt;
+###
+328c5fcb81
+###
+1310676210
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03935.gif
+###
+|PESTERLOG|
+<span style="color: #e00707">TG: ok then do it</span>
+<span style="color: #b536da">TT: But you have to promise to stay put.</span>
+<span style="color: #b536da">TT: Don't try to stop me. Just let it go.</span>
+<span style="color: #e00707">TG: but this was my mission</span>
+<span style="color: #b536da">TT: It really makes no sense for you to go. This was never your preoccupation.</span>
+<span style="color: #b536da">TT: They selected me a long time ago.</span>
+<span style="color: #e00707">TG: that doesnt make sense</span>
+<span style="color: #e00707">TG: why would they drag me into it just to have me make a map and then let you ditch me</span>
+<span style="color: #e00707">TG: theyve obviously been gunning for me too</span>
+<span style="color: #b536da">TT: Yes, they helped you chart a path through the Ring. And they will open that path for a pilot they have marked.</span>
+<span style="color: #b536da">TT: I believe I fit the description. I'm not sure about you.</span>
+<span style="color: #e00707">TG: why do you think that</span>
+<span style="color: #b536da">TT: I am the pilot. That's all there is to say on the matter.</span>
+<span style="color: #e00707">TG: but i dont want you to die</span>
+<span style="color: #b536da">TT: Help John and Jade.</span>
+<span style="color: #e00707">TG: this isnt right</span>
+<span style="color: #b536da">TT: Then I'm not going to help you wake you up.</span>
+<span style="color: #b536da">TT: I'll stall some more.</span>
+<span style="color: #e00707">TG: so you admit you were stalling with all that bullshit</span>
+<span style="color: #b536da">TT: I said not entirely.</span>
+<span style="color: #e00707">TG: what do you mean</span>
+<span style="color: #b536da">TT: It's going to be a long ride through all this nothingness.</span>
+<span style="color: #b536da">TT: Maybe I just thought some company would be nice.</span>
+<span style="color: #b536da">TT: Before it's all over.</span>
+<span style="color: #e00707">TG: ............</span>
+<span style="color: #b536da">TT: So what'll it be?</span>
+<span style="color: #e00707">TG: what</span>
+<span style="color: #b536da">TT: I'll wake you, but only if you promise to rejoin the others.</span>
+<span style="color: #b536da">TT: Could you give a message to John for me?</span>
+<span style="color: #e00707">TG: sure</span>
+<span style="color: #e00707">TG: but</span>
+<span style="color: #e00707">TG: if im promising not to chase you down then theres not really any hurry to wake up</span>
+<span style="color: #b536da">TT: Aw, are you sure?</span>
+<span style="color: #b536da">TT: I was looking forward to bowling another wicked googly with the yarn.</span>
+<span style="color: #b536da">TT: Sportsways.</span>
+<span style="color: #e00707">TG: nah ill stay asleep a while</span>
+<span style="color: #b536da">TT: Ok.</span>
+<span style="color: #e00707">TG: what did you want me to tell john</span>
+<span style="color: #b536da">TT: What was that?</span>
+<span style="color: #e00707">TG: what</span>
+<span style="color: #b536da">TT: Did you hear something?</span>
+<span style="color: #e00707">TG: no what</span>
+<span style="color: #b536da">TT: I thought I heard something outside.</span>
+###
+005839
+X

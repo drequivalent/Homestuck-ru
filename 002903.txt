@@ -1,0 +1,46 @@
+Rose: Pester John.
+###
+48850f7146
+###
+1260596625
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01003.gif
+###
+|PESTERLOG|
+<span style="color: #b536da">TT: That's quite a totem collection.</span>
+<span style="color: #b536da">TT: What are you planning?</span>
+<span style="color: #0715cd">EB: oh whoa hi!</span>
+<span style="color: #0715cd">EB: oh...</span>
+<span style="color: #0715cd">EB: gonna make some stuff.</span>
+<span style="color: #0715cd">EB: are you ok? hasn't your house been on fire for like...</span>
+<span style="color: #0715cd">EB: five hours now?</span>
+<span style="color: #b536da">TT: No, that was the nearby forest, which up until quite recently would have been best described as &quot;on fire&quot;.</span>
+<span style="color: #b536da">TT: But you may be excited to learn that just as recently, my house finally notched that achievement.</span>
+<span style="color: #0715cd">EB: wow, congrats i guess?</span>
+<span style="color: #b536da">TT: Thank you. Have you seen Dave?</span>
+<span style="color: #0715cd">EB: nah.</span>
+<span style="color: #0715cd">EB: his bro is probably busy kicking his ass.</span>
+<span style="color: #0715cd">EB: that's probably all there is to say on the matter.</span>
+<span style="color: #b536da">TT: Ok.</span>
+<span style="color: #b536da">TT: I'm going to start putting this grist to use too.</span>
+<span style="color: #b536da">TT: Let's be sparing with the frivolous knickknack breeding and focus on getting you up to the gate, ok?</span>
+<span style="color: #0715cd">EB: yeah, ok i hear you, but...</span>
+<span style="color: #0715cd">EB: i think we'll have plenty. i've been killing imps all over the house and now its lousy with gushers.</span>
+<span style="color: #b536da">TT: Gushers?</span>
+<span style="color: #0715cd">EB: i mean grist.</span>
+<span style="color: #0715cd">EB: serves them right for ruining my posters. the bastards.</span>
+<span style="color: #b536da">TT: Which posters?</span>
+<span style="color: #0715cd">EB: don't you see? my sweet movie posters. look at them, they're fucking ruined.</span>
+<span style="color: #b536da">TT: John.</span>
+<span style="color: #0715cd">EB: ??????</span>
+<span style="color: #b536da">TT: Are you suggesting that imps are responsible for defacing your movie posters?</span>
+<span style="color: #0715cd">EB: uh, YEAH?</span>
+<span style="color: #b536da">TT: Your posters have looked like that ever since I first saw your room.</span>
+<span style="color: #b536da">TT: The moment we started playing this game.</span>
+<span style="color: #b536da">TT: I thought you had defaced them ironically to mock your father's interests.</span>
+<span style="color: #b536da">TT: John?</span>
+<span style="color: #b536da">TT: ...?</span>
+<span style="color: #0715cd">EB: VERY FUNNY ROSE HAHAHAHAHAHAHAHAHAHAHAHA</span>
+###
+002904
+X

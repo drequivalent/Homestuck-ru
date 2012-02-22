@@ -1,0 +1,56 @@
+[o] ==&gt;
+###
+2b04ed7912
+###
+1310677171
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03943.gif
+###
+|SPRITELOG|
+<span style="color: #1f9400">JADESPRITE: whats happening?</span>
+<span style="color: #f2a400">DAVESPRITE: reckoning</span>
+<span style="color: #f2a400">DAVESPRITE: its getting close to the end</span>
+<span style="color: #f2a400">DAVESPRITE: more meteors are getting by the portals</span>
+<span style="color: #f2a400">DAVESPRITE: the battlefield will probably be wiped out soon</span>
+<span style="color: #1f9400">JADESPRITE: can we do something to stop it?</span>
+<span style="color: #f2a400">DAVESPRITE: would there be a point</span>
+<span style="color: #1f9400">JADESPRITE: i dont know.....</span>
+<span style="color: #1f9400">JADESPRITE: i like it here though</span>
+<span style="color: #1f9400">JADESPRITE: i felt like i was drawn to come here when i wasnt sure where to go</span>
+<span style="color: #f2a400">DAVESPRITE: yeah me too</span>
+<span style="color: #1f9400">JADESPRITE: the meteors</span>
+<span style="color: #1f9400">JADESPRITE: and all the fire...</span>
+<span style="color: #1f9400">JADESPRITE: it reminds me of when i died</span>
+<span style="color: #1f9400">JADESPRITE: and i was trying to wake john up</span>
+<span style="color: #1f9400">JADESPRITE: i was scared then too</span>
+<span style="color: #1f9400">JADESPRITE: but i didnt let the fear stop me from trying to save him</span>
+<span style="color: #f2a400">DAVESPRITE: what would you want to do</span>
+<span style="color: #f2a400">DAVESPRITE: if you werent scared</span>
+<span style="color: #1f9400">JADESPRITE: i have no idea</span>
+<span style="color: #1f9400">JADESPRITE: i guess try to help</span>
+<span style="color: #1f9400">JADESPRITE: what is there to do?</span>
+<span style="color: #f2a400">DAVESPRITE: well</span>
+<span style="color: #f2a400">DAVESPRITE: i was going to bring this sword to dave</span>
+<span style="color: #1f9400">JADESPRITE: oh noo</span>
+<span style="color: #1f9400">JADESPRITE: does that mean youre going to leave?</span>
+<span style="color: #f2a400">DAVESPRITE: no</span>
+<span style="color: #f2a400">DAVESPRITE: i was gonna say</span>
+<span style="color: #f2a400">DAVESPRITE: im not in any shape for more adventuring</span>
+<span style="color: #f2a400">DAVESPRITE: i figure this is probably my last stop</span>
+<span style="color: #1f9400">JADESPRITE: :(</span>
+<span style="color: #f2a400">DAVESPRITE: but maybe this is a way you can help</span>
+<span style="color: #1f9400">JADESPRITE: you mean...</span>
+<span style="color: #1f9400">JADESPRITE: that i should give him the sword?</span>
+<span style="color: #f2a400">DAVESPRITE: if you want</span>
+<span style="color: #1f9400">JADESPRITE: but i dont want to leave you here either</span>
+<span style="color: #f2a400">DAVESPRITE: maybe you dont have to actually go anywhere</span>
+<span style="color: #f2a400">DAVESPRITE: you oughta have a lot of special powers remember</span>
+<span style="color: #f2a400">DAVESPRITE: because of ascending to doghood</span>
+<span style="color: #1f9400">JADESPRITE: oh yeah!</span>
+<span style="color: #f2a400">DAVESPRITE: try doing your spacey thing</span>
+<span style="color: #f2a400">DAVESPRITE: i mean not to sound condescending or anything but its got to be like borderline omnipotence pretty much</span>
+<span style="color: #f2a400">DAVESPRITE: just put your mind to it</span>
+<span style="color: #1f9400">JADESPRITE: alright, i will try.....</span>
+###
+005847
+X

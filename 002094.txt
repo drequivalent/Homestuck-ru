@@ -1,0 +1,14 @@
+John: Switch modus and use telescope to inspect sky.
+###
+206ac98e30
+###
+1243041189
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00194.gif
+###
+You switch back to STACK MODUS and get a closer look with your TELESCOPE.
+
+Whatever it is, the KERNELSPRITE seems particularly agitated about it.
+###
+002095
+X

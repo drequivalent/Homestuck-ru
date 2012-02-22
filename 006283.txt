@@ -1,0 +1,15 @@
+[A6I1] ==&gt;
+###
+7a53644db9
+###
+1324711795
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04380.gif
+###
+|DIALOGLOG|
+<span style="color: #e00707">DAVE: whos this guy</span>
+<span style="color: #b536da">ROSE: The visitor I mentioned earlier.</span>
+<span style="color: #b536da">ROSE: He will be traveling with us too.</span>
+###
+006284
+X

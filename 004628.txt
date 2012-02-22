@@ -1,0 +1,88 @@
+==&gt;
+###
+a0bbdb8b2b
+###
+1286168302
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02727.gif
+###
+|PESTERLOG|
+<span style="color: #b536da">TT: Yes.</span>
+<span style="color: #008141">GA: Are These Tactics Really Necessary</span>
+<span style="color: #b536da">TT: It's faster this way.</span>
+<span style="color: #b536da">TT: If there's one thing you and your friends regularly remind us, it's that time is not on our side.</span>
+<span style="color: #008141">GA: I Know</span>
+<span style="color: #008141">GA: But I Thought Our Methods Earlier Were Effective</span>
+<span style="color: #008141">GA: In Illuminating The Underpinnings Of The Game</span>
+<span style="color: #008141">GA: You Ask Some Questions</span>
+<span style="color: #008141">GA: And I Answer</span>
+<span style="color: #008141">GA: If I Can</span>
+<span style="color: #b536da">TT: Yes, that has been effective.</span>
+<span style="color: #b536da">TT: But you don't know everything, do you?</span>
+<span style="color: #008141">GA: No</span>
+<span style="color: #b536da">TT: My current strategy is comprehensive.</span>
+<span style="color: #b536da">TT: Your notes have been helpful, but the facts you've supplied are being cross-referenced with understandings I already have, and data gathered by the sort of means presently on display.</span>
+<span style="color: #b536da">TT: I still have more questions for you, which I will ask in time.</span>
+<span style="color: #008141">GA: Okay</span>
+<span style="color: #008141">GA: But These Means Presently On Display</span>
+<span style="color: #008141">GA: Are Making Me A Little Nervous</span>
+<span style="color: #008141">GA: I Think Its Kind Of A Reckless Use Of</span>
+<span style="color: #b536da">TT: Of what?</span>
+<span style="color: #008141">GA: These Forces</span>
+<span style="color: #b536da">TT: Dark magic, you mean?</span>
+<span style="color: #008141">GA: Yes</span>
+<span style="color: #008141">GA: Well</span>
+<span style="color: #008141">GA: Influence By The Gods From The Furthest Ring</span>
+<span style="color: #008141">GA: The Communion You Seem To Have Developed With Them I Find Kind Of Troubling</span>
+<span style="color: #b536da">TT: I don't think they are as nefarious as you might imagine.</span>
+<span style="color: #b536da">TT: Many of them seem to be intent on helping us.</span>
+<span style="color: #008141">GA: How Exactly Do You Know That</span>
+<span style="color: #b536da">TT: From their whispers in my dreams.</span>
+<span style="color: #008141">GA: How Much Time Have You Really Spent Sleeping</span>
+<span style="color: #008141">GA: Since You Began Playing</span>
+<span style="color: #b536da">TT: Not much.</span>
+<span style="color: #b536da">TT: But quite a lot in a failed timeline.</span>
+<span style="color: #b536da">TT: And now and then, memories surface from that alternate reality.</span>
+<span style="color: #b536da">TT: Vague memories, but unmistakable in familiarity, like spontaneously remembering a dream from years ago by some inexplicable catalyst.</span>
+<span style="color: #b536da">TT: In that reality, they spoke to me in my sleep and told me much of what I needed to know.</span>
+<span style="color: #b536da">TT: Including what to do to reset our timeline and create the present reality.</span>
+<span style="color: #008141">GA: That Makes Me No Less Nervous</span>
+<span style="color: #008141">GA: Our Understanding Is That Influence From Doomed Timelines</span>
+<span style="color: #008141">GA: Though Seemingly Necessary To Advance In The Alpha Reality</span>
+<span style="color: #008141">GA: Is Generally Inauspicious</span>
+<span style="color: #008141">GA: Travelers From Such Branches Are Marked For Death</span>
+<span style="color: #008141">GA: And Though It Was Only An Insubstantial Part Of You Which Traveled</span>
+<span style="color: #008141">GA: Just Memories I Suppose</span>
+<span style="color: #008141">GA: Its Still Troubling</span>
+<span style="color: #b536da">TT: I have assurances I'm on the right track.</span>
+<span style="color: #b536da">TT: Surely you must have spoken to the gods by now.</span>
+<span style="color: #b536da">TT: What did they tell you to make you so suspicious?</span>
+<span style="color: #008141">GA: Actually</span>
+<span style="color: #008141">GA: I Havent</span>
+<span style="color: #008141">GA: I Have Never Visited Derse Or Traveled Beyond The Veil</span>
+<span style="color: #008141">GA: Prospits Moon Was My Home</span>
+<span style="color: #008141">GA: For Most Of My Dreaming Life</span>
+<span style="color: #b536da">TT: It was?</span>
+<span style="color: #008141">GA: Yes</span>
+<span style="color: #b536da">TT: This surprises me.</span>
+<span style="color: #008141">GA: Why</span>
+<span style="color: #b536da">TT: ...</span>
+<span style="color: #b536da">TT: Good question.</span>
+<span style="color: #008141">GA: Skaia Was Always The Foil For My Curiosity</span>
+<span style="color: #008141">GA: But It Only Showed Me What I Needed To See</span>
+<span style="color: #008141">GA: It Very Much Had The Presence Of Something Sentient</span>
+<span style="color: #008141">GA: And</span>
+<span style="color: #008141">GA: Benevolent</span>
+<span style="color: #008141">GA: But Silent</span>
+<span style="color: #008141">GA: Not Something To Converse With Or Be Instructed By</span>
+<span style="color: #008141">GA: Or Anything With An Agenda Beyond Which It Knows To Be Manifest Already</span>
+<span style="color: #008141">GA: Like A Very Clear Mirror</span>
+<span style="color: #008141">GA: That Has Everything There Is To See Inside It</span>
+<span style="color: #008141">GA: But Only Some Things Are Visible At Any Given Moment</span>
+<span style="color: #008141">GA: I Always Trusted It</span>
+<span style="color: #008141">GA: And I Dont Trust Gods That Would Eschew Its Light</span>
+<span style="color: #b536da">TT: You didn't actually answer my question.</span>
+<span style="color: #b536da">TT: When was it exactly that you read my walkthrough?</span>
+###
+004629
+X

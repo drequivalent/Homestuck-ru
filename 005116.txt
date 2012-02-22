@@ -1,0 +1,13 @@
+==&gt;
+###
+c96f57cfee
+###
+1293830351
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03213.gif
+###
+|SPRITELOG|
+<span style="color: #1f9400">JADESPRITE: WHAT DID YOU DO??????</span>
+###
+005117
+X

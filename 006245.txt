@@ -1,0 +1,16 @@
+[A6I1] ==&gt;
+###
+be3cb551c2
+###
+1324113414
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04342.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: wait a minute!</span>
+<span style="color: #0715cd">JOHN: i forgot, trolls hate cleaning products for some alien reason! shit, that's going to make everyone so uncomfortable.</span>
+<span style="color: #0715cd">JOHN: oh well, there it goes. too late i guess.</span>
+<span style="color: #f2a400">DAVESPRITE: ahahahaha you fucked up</span>
+###
+006246
+X

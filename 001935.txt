@@ -1,0 +1,46 @@
+John: Answer chum.
+###
+aa64f4eeab
+###
+1239918836
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00035.gif
+###
+|PESTERLOG| 
+<span style="color: #e00707">TG: is it there</span>
+<span style="color: #e00707">TG: plz say yes</span>
+<span style="color: #e00707">TG: maybe you can play with TT shes been pestering me all day about it</span>
+<span style="color: #e00707">TG: shes mackin on me so hard all the time i start to feel embarrassed for her</span>
+<span style="color: #e00707">TG: i mean not that i can blame her or anything</span>
+<span style="color: #0715cd">EB: yes, it is understandable because you are really attractive. i am attracted to you.</span>
+<span style="color: #e00707">TG: thank you</span>
+<span style="color: #0715cd">EB: jk haha.</span>
+<span style="color: #0715cd">EB: no, i don't have it yet.</span>
+<span style="color: #0715cd">EB: my dad has the mail and i guess i have to go get it from him and see if it's there.</span>
+<span style="color: #0715cd">EB: and i've been busy spending all afternoon shitting around with my stupid sylladex.</span>
+<span style="color: #0715cd">EB: it's so frustrating.</span>
+<span style="color: #e00707">TG: whats your modus</span>
+<span style="color: #0715cd">EB: what?</span>
+<span style="color: #e00707">TG: how do you retrieve artifacts from it</span>
+<span style="color: #0715cd">EB: oh. like one at a time i guess. and if i put too much in, something falls out.</span>
+<span style="color: #e00707">TG: stack?? hahahahahaha</span>
+<span style="color: #0715cd">EB: what is yours?</span>
+<span style="color: #e00707">TG: hash map</span>
+<span style="color: #e00707">TG: my bro taught me a few tricks he basically knows everything and is awesome</span>
+<span style="color: #0715cd">EB: what the hell is that?</span>
+<span style="color: #e00707">TG: you should probably brush up on your data structures</span>
+<span style="color: #0715cd">EB: i guess.</span>
+<span style="color: #e00707">TG: did you at least allocate your strife specibus</span>
+<span style="color: #0715cd">EB: no.</span>
+<span style="color: #e00707">TG: it could free up a card for you</span>
+<span style="color: #e00707">TG: plus let you attack stuff whenever things get too hot to handle</span>
+<span style="color: #e00707">TG: which is never</span>
+<span style="color: #e00707">TG: what have you got</span>
+<span style="color: #0715cd">EB: well, i've got a hammer but it's trapped under some arms.</span>
+<span style="color: #e00707">TG: wow you really suck at this dont you</span>
+<span style="color: #e00707">TG: just get rid of the arms and then allocate the hammer to the specibus</span>
+<span style="color: #0715cd">EB: how?</span>
+<span style="color: #e00707">TG: i dont know just use the arms on any old thing and see if it works</span>
+###
+001936
+X

@@ -1,0 +1,17 @@
+[o]
+###
+8506877a69
+###
+1312308634
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04000_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/04000_2.gif
+http://www.mspaintadventures.com/storyfiles/hs2/04000_3.gif
+###
+|PESTERLOG|
+<span style="color: #626262">PAST carcinoGeneticist [PCG]</span> 01:34 HOURS AGO responded to memo.
+<span style="color: #626262">PCG: JADE?</span>
+<span style="color: #626262">PCG: ARE YOU STILL RESPONDING TO THIS MEMO?</span>
+###
+005904
+X

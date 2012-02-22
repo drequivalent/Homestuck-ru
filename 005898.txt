@@ -1,0 +1,22 @@
+[o]
+###
+02760d16c7
+###
+1311632492
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03995.gif
+###
+|PESTERLOG|
+<span style="color: #a10000">AA: hey what are you doing out here!</span>
+<span style="color: #a1a100">TA: 0ut where?</span>
+<span style="color: #a10000">AA: out of your bubble</span>
+<span style="color: #a1a100">TA: oh, i dunn0.</span>
+<span style="color: #a1a100">TA: am i not supp0sed to leave?</span>
+<span style="color: #a10000">AA: i just didnt think you could</span>
+<span style="color: #a10000">AA: i guess you must have a foot on either side</span>
+<span style="color: #a10000">AA: cant say im surprised!</span>
+<span style="color: #a1a100">TA: uh, ok.</span>
+<span style="color: #a1a100">TA: s0 what are you d0ing out here?</span>
+###
+005899
+X

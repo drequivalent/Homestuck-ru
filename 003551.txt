@@ -1,0 +1,14 @@
+==&gt;
+###
+2d6ef9a58c
+###
+1270274440
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01651.gif
+###
+|SPRITELOG|
+<span style="color: #e00707">DAVE: hey</span>
+<span style="color: #f2a400">DAVESPRITE: sup</span>
+###
+003552
+X

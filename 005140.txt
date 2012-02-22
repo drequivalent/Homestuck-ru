@@ -1,0 +1,19 @@
+==&gt;
+###
+7b801642f2
+###
+1294087668
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03237.gif
+###
+|SPRITELOG|
+<span style="color: #4ac925">JADE: uuugh</span>
+<span style="color: #4ac925">JADE: what happened?</span>
+<span style="color: #1f9400">JADESPRITE: boo hoo hoo hoo hoo hoo</span>
+<span style="color: #4ac925">JADE: oh god</span>
+<span style="color: #1f9400">JADESPRITE: what did you do what did you do what did you do</span>
+<span style="color: #4ac925">JADE: oh no oh god.....</span>
+<span style="color: #4ac925">JADE: what did i dooooo</span>
+###
+005141
+X

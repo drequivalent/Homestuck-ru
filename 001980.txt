@@ -1,0 +1,12 @@
+John: Exit.
+###
+8abfcd7098
+###
+1240535133
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00080.gif
+###
+You exit the house.
+###
+001981
+X

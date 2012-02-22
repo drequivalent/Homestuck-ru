@@ -1,0 +1,46 @@
+Jade: Check unknown objects.
+###
+cf12163e40
+###
+1267342126
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01510.gif
+###
+|PESTERLOG|
+<span style="color: #4ac925">GG: ok some of these things we can deploy but some things we dont have nearly enough grist for!</span>
+<span style="color: #e00707">TG: you mean the jumper block thing</span>
+<span style="color: #4ac925">GG: no no weve got enough for that.....</span>
+<span style="color: #4ac925">GG: but its still pretty expensive</span>
+<span style="color: #e00707">TG: wait what</span>
+<span style="color: #e00707">TG: the thing costs 1000 for me</span>
+<span style="color: #4ac925">GG: yeah me too!</span>
+<span style="color: #4ac925">GG: and we have 2000 to work with</span>
+<span style="color: #4ac925">GG: ok 1998 ._.</span>
+<span style="color: #e00707">TG: what</span>
+<span style="color: #e00707">TG: man i only got 200 to splash around with in roses rainbow world</span>
+<span style="color: #e00707">TG: what the hell</span>
+<span style="color: #4ac925">GG: ohhh...</span>
+<span style="color: #4ac925">GG: how much did rose start with? when she was playing with john?</span>
+<span style="color: #e00707">TG: hang on ill ask</span>
+<span style="color: #4ac925">GG: k</span>
+<span style="color: #e00707">TG: she says 20</span>
+<span style="color: #4ac925">GG: i guess we keep getting more with each server/client connection!</span>
+<span style="color: #e00707">TG: yeah</span>
+<span style="color: #e00707">TG: so i guess you can buy everything now</span>
+<span style="color: #4ac925">GG: no!!!!</span>
+<span style="color: #4ac925">GG: i cant buy the holopad thingy and the intellibeam laserstation</span>
+<span style="color: #e00707">TG: ok now i know youre making this shit up</span>
+<span style="color: #4ac925">GG: hahahaha no theyre right here!</span>
+<span style="color: #4ac925">GG: they cost a fortune</span>
+<span style="color: #e00707">TG: well all i got here is the designix which i cant deploy cause i dont have any purples</span>
+<span style="color: #e00707">TG: and the expensive as hell jumper thing and the cheap shunts which i assume do dick all without the jumpers to put em on</span>
+<span style="color: #e00707">TG: oh also this cd which is 100 but i didnt drop cause it seemed like a stiff allocation of resources for now</span>
+<span style="color: #4ac925">GG: yeah ive got that too!</span>
+<span style="color: #4ac925">GG: i will deploy it</span>
+<span style="color: #e00707">TG: so with each new connection in our player chain i guess new weird deployables are introduced</span>
+<span style="color: #4ac925">GG: yes i think that is how it works</span>
+<span style="color: #4ac925">GG: when john connects with me he will probably get some cool new things too!</span>
+<span style="color: #e00707">TG: hey look we're learning stuff</span>
+###
+003411
+X

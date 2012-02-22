@@ -1,0 +1,45 @@
+==&gt;
+###
+5df1d5a818
+###
+1326488864
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04452.gif
+###
+|PESTERLOG|
+<span style="color: #00d5f2">GG: I guess I should find all that ominous.</span>
+<span style="color: #00d5f2">GG: But I cannot lie, sir.</span>
+<span style="color: #00d5f2">GG: Nothing you have said has made me one iota less excited to begin this adventure!</span>
+<span style="color: #00d5f2">GG: Those dastardly agents can try to assassinate me all they like. I just want to get started!</span>
+<span style="color: #f2a400">TT: That's the most awesome way to be, Jane.</span>
+<span style="color: #f2a400">TT: And it is again why you will be our leader.</span>
+<span style="color: #f2a400">TT: (Sort of.)</span>
+<span style="color: #00d5f2">GG: Right.</span>
+<span style="color: #00d5f2">GG: Still fixing to pull the strings for us, per your extensive puppet metaphor?</span>
+<span style="color: #f2a400">TT: Pulling them as we speak.</span>
+<span style="color: #f2a400">TT: I am having Lil Seb install a real copy of the client on another computer in your house.</span>
+<span style="color: #f2a400">TT: A clean computer, not any of this BCCorp garbage you tend to accumulate.</span>
+<span style="color: #f2a400">TT: I'll have to insist from this point onward, you employ neutral devices.</span>
+<span style="color: #f2a400">TT: That shit fucks with your head.</span>
+<span style="color: #00d5f2">GG: Hrm.</span>
+<span style="color: #00d5f2">GG: Alrighty, I think I can make that concession.</span>
+<span style="color: #f2a400">TT: Once it's installed, I'll connect with you. I will be your server player.</span>
+<span style="color: #f2a400">TT: I know this isn't what you were hoping for, but some improvisation is in order.</span>
+<span style="color: #f2a400">TT: While you get the ball rolling, I'll try to talk some sense into that mercurial boozehound.</span>
+<span style="color: #00d5f2">GG: Sounds like a plan.</span>
+<span style="color: #00d5f2">GG: I do hope she comes around. It would be a bummer to play without her.</span>
+<span style="color: #f2a400">TT: She will.</span>
+<span style="color: #00d5f2">GG: Say, do I even have any machines that survived the explosion besides this one?</span>
+<span style="color: #f2a400">TT: Do you even have any machines that don't inundate you with fucking Hamburger Helper ads and Guy Fieri's heinous propaganda?</span>
+<span style="color: #00d5f2">GG: I guess not. :p</span>
+<span style="color: #00d5f2">GG: Still, some nice things were surely destroyed.</span>
+<span style="color: #00d5f2">GG: I think Detective Pony was caught in the blast.</span>
+<span style="color: #00d5f2">GG: It's unlikely Acorn survived. :'(</span>
+<span style="color: #f2a400">TT: A fitting end to a life of moral compromise.</span>
+<span style="color: #00d5f2">GG: So, since I'm apparently out of &quot;neutral devices,&quot;</span>
+<span style="color: #00d5f2">GG: Which computer is Seb installing the file on?</span>
+<span style="color: #f2a400">TT: On your dad's computer downstairs.</span>
+<span style="color: #f2a400">TT: One in the study.</span>
+###
+006356
+X

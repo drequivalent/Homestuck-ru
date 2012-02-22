@@ -1,0 +1,27 @@
+==&gt;
+###
+fbf9b47e16
+###
+1288151216
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02797.gif
+###
+|SPRITELOG|
+<span style="color: #0715cd">JOHN: nanna, what the heck!!!</span>
+<span style="color: #00d5f2">NANNASPRITE: Hoo hoo hoo!</span>
+<span style="color: #00d5f2">NANNASPRITE: John, you remind me so much of your father when he was your age. He was just as easily bested by this crafty old prankstress!</span>
+<span style="color: #0715cd">JOHN: really?</span>
+<span style="color: #00d5f2">NANNASPRITE: Yes. It would be many years before he would take the gambit in an exchange with your nanna.</span>
+<span style="color: #0715cd">JOHN: but nanna, did you know he is not really my dad? and also, i am not technically your grandson.</span>
+<span style="color: #0715cd">JOHN: you are actually sort of my mother.</span>
+<span style="color: #00d5f2">NANNASPRITE: Of course I knew this, John! I have known for many years.</span>
+<span style="color: #00d5f2">NANNASPRITE: I have also known that in a sense, you are my father as well. You were the one to push all those buttons, after all!</span>
+<span style="color: #0715cd">JOHN: huh, oh yeah.</span>
+<span style="color: #0715cd">JOHN: don't you find it all a little strange?</span>
+<span style="color: #00d5f2">NANNASPRITE: John, I am the ghost of an old lady with one arm who is dressed like a clown. Why would that seem strange to me?</span>
+<span style="color: #0715cd">JOHN: heheh.</span>
+<span style="color: #0715cd">JOHN: so where have you been, nanna? i have been looking all over for you.</span>
+<span style="color: #00d5f2">NANNASPRITE: I have been looking for you too, dear!</span>
+###
+004699
+X

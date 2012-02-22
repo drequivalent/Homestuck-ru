@@ -1,0 +1,17 @@
+==&gt;!
+###
+b3e1a3ba48
+###
+1249266895
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00426.gif
+###
+|SPRITELOG|
+<span style="color: #0715cd">JOHN: ok, i think i get it now!</span>
+<span style="color: #0715cd">JOHN: so i guess the battle against good and evil is sort of irrelevant? well, i don't know, that all sounds kind of weird, but in any case, we build the house to get to these gates, and then i can save my dad!</span>
+<span style="color: #00d5f2">NANNASPRITE: Yes, John!</span>
+<span style="color: #0715cd">JOHN: and then after that, we solve this ultimate riddle thing and save earth from destruction!!!</span>
+<span style="color: #00d5f2">NANNASPRITE: Oh no, I'm afraid not!</span>
+###
+002327
+X

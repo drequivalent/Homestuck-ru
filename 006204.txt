@@ -1,0 +1,71 @@
+[A6I1] ==&gt;
+###
+77ff183a7f
+###
+1323667845
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04301.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: what!!!</span>
+<span style="color: #0715cd">JOHN: that is an absolutely preposterous amount of time.</span>
+<span style="color: #4ac925">JADE: i know!</span>
+<span style="color: #0715cd">JOHN: are you sure you can't make it go any faster?</span>
+<span style="color: #0715cd">JOHN: i mean, not to sound too demanding, but...</span>
+<span style="color: #0715cd">JOHN: didn't you say you can teleport stuff?</span>
+<span style="color: #0715cd">JOHN: why not teleport us there?</span>
+<span style="color: #4ac925">JADE: i cant!</span>
+<span style="color: #4ac925">JADE: not here, at least</span>
+<span style="color: #0715cd">JOHN: oh. well that sucks.</span>
+<span style="color: #0715cd">JOHN: why not?</span>
+<span style="color: #4ac925">JADE: the way i understand it is...</span>
+<span style="color: #4ac925">JADE: becs powers draw from the green sun</span>
+<span style="color: #4ac925">JADE: and the green sun presides over our universe</span>
+<span style="color: #4ac925">JADE: many universes actually! and the sessions that created them, as well as the sessions created within them</span>
+<span style="color: #4ac925">JADE: including the trolls universe and their session</span>
+<span style="color: #4ac925">JADE: think of it like a giant solar system, but instead of planets revolving around the sun, there are many universes</span>
+<span style="color: #0715cd">JOHN: uh, ok.</span>
+<span style="color: #0715cd">JOHN: that sounds...</span>
+<span style="color: #0715cd">JOHN: big.</span>
+<span style="color: #4ac925">JADE: it is!</span>
+<span style="color: #4ac925">JADE: so, bec was able to teleport anywhere in the universe he wanted in an instant, much faster than light</span>
+<span style="color: #4ac925">JADE: jack was able to do this too, within our session, and then when i inherited those powers from jadesprite, so could i</span>
+<span style="color: #4ac925">JADE: but we could only teleport locally</span>
+<span style="color: #4ac925">JADE: which means, bec could jump to anywhere in our universe, but not to another universe, or into a session</span>
+<span style="color: #4ac925">JADE: and jack could jump to anywhere in our session, but not outside it</span>
+<span style="color: #4ac925">JADE: we cant even jump to the green sun itself, even though we sort of serve as a gateway to it, and all its energy</span>
+<span style="color: #4ac925">JADE: and once we leave the suns domain, our travel is limited by the speed of light, like everyone else!</span>
+<span style="color: #4ac925">JADE: for example, the furthest ring is not in the suns domain</span>
+<span style="color: #4ac925">JADE: it is more like the suns medium, allowing it to exist</span>
+<span style="color: #4ac925">JADE: so if i wanted to fly out of our session and travel to the green sun, i would have to make my way there through the furthest ring at the speed of light or less</span>
+<span style="color: #4ac925">JADE: and wherever we are now is not in the suns domain either</span>
+<span style="color: #4ac925">JADE: so the same rules apply</span>
+<span style="color: #0715cd">JOHN: i see.</span>
+<span style="color: #0715cd">JOHN: it didn't really occur to me this was all so elaborate.</span>
+<span style="color: #0715cd">JOHN: like, if the green sun is at the center of a bunch of universes, like a huge solar system...</span>
+<span style="color: #0715cd">JOHN: doesn't that mean it was sort of important?</span>
+<span style="color: #0715cd">JOHN: maybe trying to blow it up wasn't such a great idea.</span>
+<span style="color: #4ac925">JADE: yes i think youre right</span>
+<span style="color: #4ac925">JADE: but to be fair, we were all the victims of a big prank!</span>
+<span style="color: #0715cd">JOHN: oh man, a prank??</span>
+<span style="color: #0715cd">JOHN: who pranked us?</span>
+<span style="color: #4ac925">JADE: some really creepy omniscient guy</span>
+<span style="color: #4ac925">JADE: it doesnt matter much, hes supposedly dead now</span>
+<span style="color: #0715cd">JOHN: oh. well that was quite a ruse then. that son of a bitch!</span>
+<span style="color: #4ac925">JADE: yes, but its not all as bad as it seems</span>
+<span style="color: #4ac925">JADE: theres a silver lining in all of this</span>
+<span style="color: #4ac925">JADE: like you said, a sun presiding over many universes has to be pretty cosmically important</span>
+<span style="color: #4ac925">JADE: who knows what terrible consequences there would be if it was destroyed</span>
+<span style="color: #4ac925">JADE: or maybe worse, if it never existed at all</span>
+<span style="color: #4ac925">JADE: which is what made rose and daves true mission an unintended success!</span>
+<span style="color: #0715cd">JOHN: their true mission?</span>
+<span style="color: #0715cd">JOHN: what was that?</span>
+<span style="color: #4ac925">JADE: to deliver the bomb to the empty location the green sun was meant to exist for most of eternity</span>
+<span style="color: #4ac925">JADE: and then create the sun in the first place</span>
+<span style="color: #4ac925">JADE: that is what the tumor was for all along</span>
+<span style="color: #0715cd">JOHN: ...</span>
+<span style="color: #4ac925">JADE: like i said</span>
+<span style="color: #4ac925">JADE: we got played like a bunch of suckers!!!</span>
+###
+006205
+X

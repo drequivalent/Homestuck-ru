@@ -1,0 +1,15 @@
+WV: Descend.
+###
+37a6b53b55
+###
+1260663087
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01006_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/01006_2.gif
+###
+You cannot descend from the top of your mobile station. The loose cable you gathered up and tied together is not yet long enough to allow you to reach the ground safely.
+
+You have used all the cable you can find. You will have to come up with another plan.
+###
+002907
+X

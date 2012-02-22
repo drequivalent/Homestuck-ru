@@ -1,0 +1,55 @@
+John: Turn around.
+###
+51958eef64
+###
+1269305360
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01605.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">EB: oh, wow.</span>
+<span style="color: #0715cd">EB: what's that?</span>
+<span style="color: #008282">GC: 1TS YOUR D3N1Z3NS P4L4C3</span>
+<span style="color: #0715cd">EB: my denizen?</span>
+<span style="color: #008282">GC: 3V3RY PL4N3T H4S 4 D3N1Z3N</span>
+<span style="color: #008282">GC: TH4T L1V3S D33P UND3RGROUND</span>
+<span style="color: #008282">GC: SL33P1NG</span>
+<span style="color: #008282">GC: 4ND GU4RD1NG 4 HUG3 GR1ST HO4RD</span>
+<span style="color: #0715cd">EB: ok...</span>
+<span style="color: #008282">GC: TH3 W4Y DOWN TO 1TS L41R 1S THROUGH TH3 P4L4C3</span>
+<span style="color: #0715cd">EB: so you want me to go down there and kill him?</span>
+<span style="color: #0715cd">EB: won't that be, uh, kinda hard?</span>
+<span style="color: #008282">GC: H4H4H4H4H4H4</span>
+<span style="color: #008282">GC: ORD1N4R1LY YOUD H4V3 4BSOLUT3LY NO CH4NC3</span>
+<span style="color: #008282">GC: 4T YOUR M34G3R L3V3L</span>
+<span style="color: #008282">GC: BUT YOU H4V3 4N 4DV4NT4G3</span>
+<span style="color: #0715cd">EB: oh?</span>
+<span style="color: #008282">GC: USU4LLY HOW 1TS SUPPOS3D TO GO 1S</span>
+<span style="color: #008282">GC: OV3R TH3 COURS3 OF YOUR QU3ST</span>
+<span style="color: #008282">GC: YOU W1LL W4K3 TH3 D3N1Z3N</span>
+<span style="color: #008282">GC: 4ND TH3N F1N4LLY YOU GO THROUGH TH3 S3V3NTH G4T3</span>
+<span style="color: #008282">GC: WH1CH 1S TH3 ONLY W4Y 1NTO TH3 P4L4C3</span>
+<span style="color: #008282">GC: TH3N YOU GO DOWN 4ND F1GHT TH3 D3N1Z3N</span>
+<span style="color: #008282">GC: 4ND K1LL 1T</span>
+<span style="color: #008282">GC: R3L3AS1NG TH3 HO4RD</span>
+<span style="color: #0715cd">EB: so what's my advantage?</span>
+<span style="color: #008282">GC: YOU WONT BOTH3R W4K1NG 1T</span>
+<span style="color: #008282">GC: W3 W1LL SK1P R1GHT TO TH3 S3V3NTH G4T3</span>
+<span style="color: #008282">GC: F1ND 1TS L41R</span>
+<span style="color: #008282">GC: 4ND K1LL 1T 1N 1TS SL33P</span>
+<span style="color: #0715cd">EB: um, ok.</span>
+<span style="color: #0715cd">EB: what's the point of releasing the grist hoard?</span>
+<span style="color: #0715cd">EB: is it just so i can make tons more sweet loot?</span>
+<span style="color: #008282">GC: H3H3 NO W4Y</span>
+<span style="color: #008282">GC: TH3 HO4RD CONT41NS SO MUCH MOR3 GR1ST TH4N YOU COULD 3V3R US3 1N 4N 4LCH3M1T3R</span>
+<span style="color: #008282">GC: 1 M34N YOU COULD 1 GU3SS</span>
+<span style="color: #008282">GC: BUT TH4TS NOT TH3 PO1NT</span>
+<span style="color: #008282">GC: 1TS FOR TH3 ULT1M4T3 4LCH3MY</span>
+<span style="color: #0715cd">EB: what's the ultimate alchemy?</span>
+<span style="color: #008282">GC: 1TS NOTH1NG FOR YOU TO WORRY 4BOUT NOW</span>
+<span style="color: #008282">GC: S33 TH4T G4T3 OV3R BY TH3 BROK3N BR1DG3</span>
+<span style="color: #008282">GC: GO CH3CK 1T OUT</span>
+<span style="color: #0715cd">EB: alright.</span>
+###
+003506
+X

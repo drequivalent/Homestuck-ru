@@ -1,0 +1,12 @@
+Tavros: Point cherry vehicle toward X on map.
+###
+549d5101ea
+###
+1281224059
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02371.gif
+###
+
+###
+004272
+X

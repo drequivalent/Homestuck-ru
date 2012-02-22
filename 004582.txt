@@ -1,0 +1,140 @@
+John: Pester someone's server player.
+###
+894cf3e571
+###
+1285626021
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02681.gif
+###
+|PESTERLOG|
+-- ectoBiologist <span style="color: #0715cd">[EB]</span> began pestering tentacleTherapist <span style="color: #b536da">[TT]</span> --
+
+<span style="color: #0715cd">EB: hey rose!</span>
+<span style="color: #b536da">TT: Hi.</span>
+<span style="color: #0715cd">EB: how are you doing? i don't even remember the last time we talked.</span>
+<span style="color: #0715cd">EB: i have been so busy.</span>
+<span style="color: #0715cd">EB: and it looks like you have been too.</span>
+<span style="color: #0715cd">EB: i mean, hopy shit!</span>
+<span style="color: #0715cd">EB: my house is HUUUUUUUUUUUUUUUUUUUUUUUGE!</span>
+<span style="color: #b536da">TT: Actually, building up your house has been one of the more trivial ways I've passed the time.</span>
+<span style="color: #b536da">TT: Great swaths of the structure may be copied and pasted with little architectural consideration.</span>
+<span style="color: #b536da">TT: I've only bothered to do so while in contemplation.</span>
+<span style="color: #b536da">TT: It's relaxing.</span>
+<span style="color: #0715cd">EB: oh.</span>
+<span style="color: #0715cd">EB: well, it must have cost a fortune!</span>
+<span style="color: #b536da">TT: We have a lot of grist.</span>
+<span style="color: #0715cd">EB: how much?</span>
+<span style="color: #b536da">TT: I don't recall any hard figures off hand.</span>
+<span style="color: #b536da">TT: Last I checked, more than a million units of several different types.</span>
+<span style="color: #b536da">TT: Torrented between the three of us.</span>
+<span style="color: #0715cd">EB: torrented?</span>
+<span style="color: #b536da">TT: Shared, through an application.</span>
+<span style="color: #b536da">TT: I unlocked the disc from your registry, and deployed it.</span>
+<span style="color: #b536da">TT: I convinced your nanna to install it on your computer.</span>
+<span style="color: #b536da">TT: Before an imp threw it out the window, that is.</span>
+<span style="color: #0715cd">EB: you got her to do that? but she's an old lady! also, a ghost.</span>
+<span style="color: #b536da">TT: My methods of persuasion have been improving.</span>
+<span style="color: #0715cd">EB: also, she is really tricky, and plays lots of pranks.</span>
+<span style="color: #0715cd">EB: did she try to prank you?</span>
+<span style="color: #b536da">TT: No.</span>
+<span style="color: #0715cd">EB: huh.</span>
+<span style="color: #0715cd">EB: i guess you enjoyed the prankster's gambit on that exchange then.</span>
+<span style="color: #b536da">TT: ?</span>
+<span style="color: #0715cd">EB: oh yeah...</span>
+<span style="color: #0715cd">EB: what's up with the alchemiter?</span>
+<span style="color: #0715cd">EB: it looks weird.</span>
+<span style="color: #b536da">TT: Upgrades.</span>
+<span style="color: #0715cd">EB: did you get nanna to do that too?</span>
+<span style="color: #b536da">TT: No, your consorts were utilized for that.</span>
+<span style="color: #0715cd">EB: the salamanders??</span>
+<span style="color: #b536da">TT: Yes. They seem eager to receive simple instruction.</span>
+<span style="color: #b536da">TT: I'm guessing they find their way back to your house to allow the client player to remain productive while the server player is away.</span>
+<span style="color: #0715cd">EB: they aren't very smart...</span>
+<span style="color: #b536da">TT: No, they aren't.</span>
+<span style="color: #0715cd">EB: i'm surprised they even understand what to do.</span>
+<span style="color: #b536da">TT: Like I said.</span>
+<span style="color: #b536da">TT: Coercion hasn't been much of a problem.</span>
+<span style="color: #0715cd">EB: yeah...</span>
+<span style="color: #0715cd">EB: uh...</span>
+<span style="color: #0715cd">EB: what exactly does that mean?</span>
+<span style="color: #0715cd">EB: what have you been doing this whole time???</span>
+<span style="color: #b536da">TT: Why don't you tell me what you've been up to first?</span>
+<span style="color: #b536da">TT: I've been curious, but too preoccupied to inquire.</span>
+<span style="color: #0715cd">EB: well,</span>
+<span style="color: #0715cd">EB: i have been talking to a lot of trolls, for one thing.</span>
+<span style="color: #0715cd">EB: they sure are a talkative bunch!</span>
+<span style="color: #b536da">TT: I've noticed.</span>
+<span style="color: #0715cd">EB: and then i cloned some slime babies in the veil.</span>
+<span style="color: #b536da">TT: Did you?</span>
+<span style="color: #0715cd">EB: yes. um...</span>
+<span style="color: #0715cd">EB: ok, long story short is, jade is my slime clone sister, and dave is your slime clone brother, and we were all born today!</span>
+<span style="color: #b536da">TT: Yes.</span>
+<span style="color: #0715cd">EB: yes?</span>
+<span style="color: #b536da">TT: I figured that out.</span>
+<span style="color: #0715cd">EB: oh.</span>
+<span style="color: #b536da">TT: Anything else?</span>
+<span style="color: #0715cd">EB: umm...</span>
+<span style="color: #0715cd">EB: then i fell asleep, and woke up on the battlefield.</span>
+<span style="color: #0715cd">EB: oh!</span>
+<span style="color: #0715cd">EB: rose, i am fairly sure i saw your mom!</span>
+<span style="color: #b536da">TT: You did?</span>
+<span style="color: #b536da">TT: Are you sure it was her?</span>
+<span style="color: #0715cd">EB: well, it was a nice and proper looking lady, with a pink scarf, so...</span>
+<span style="color: #0715cd">EB: i dunno, who else would that be!</span>
+<span style="color: #b536da">TT: That was likely her.</span>
+<span style="color: #b536da">TT: How was she?</span>
+<span style="color: #0715cd">EB: fine, i guess...</span>
+<span style="color: #0715cd">EB: she was with my dad.</span>
+<span style="color: #b536da">TT: That's interesting.</span>
+<span style="color: #0715cd">EB: yeah!</span>
+<span style="color: #b536da">TT: Did she seem happy?</span>
+<span style="color: #0715cd">EB: happy?</span>
+<span style="color: #0715cd">EB: wow, i dunno.</span>
+<span style="color: #0715cd">EB: i don't really know her well enough to say, i guess?</span>
+<span style="color: #0715cd">EB: plus, i was a little distracted.</span>
+<span style="color: #0715cd">EB: maybe i will find out next time i go to sleep.</span>
+<span style="color: #b536da">TT: Fair enough.</span>
+<span style="color: #0715cd">EB: now stop being so spookily mysterious and tell me what you've been doing!</span>
+<span style="color: #b536da">TT: Investigating, mostly.</span>
+<span style="color: #0715cd">EB: investigating what?</span>
+<span style="color: #b536da">TT: Everything there is to investigate.</span>
+<span style="color: #b536da">TT: Information hidden in the lore of our lands, concealed in ruins and riddles.</span>
+<span style="color: #b536da">TT: I'm looking for whatever there is to discover about the game, and more importantly, whatever exceeds its boundaries.</span>
+<span style="color: #b536da">TT: The cloaked traces of myth beyond its scope.</span>
+<span style="color: #0715cd">EB: its scope?</span>
+<span style="color: #0715cd">EB: oh, rose, did you know that we are supposed to be creating a universe with this game?</span>
+<span style="color: #b536da">TT: Yes.</span>
+<span style="color: #0715cd">EB: i think that's pretty neat!</span>
+<span style="color: #b536da">TT: It is, in principle.</span>
+<span style="color: #b536da">TT: But it won't happen.</span>
+<span style="color: #0715cd">EB: so you believe the trolls then?</span>
+<span style="color: #b536da">TT: It's not a matter of believing them.</span>
+<span style="color: #b536da">TT: The writing is on the wall. Literally.</span>
+<span style="color: #0715cd">EB: it is?</span>
+<span style="color: #b536da">TT: This session was never meant to bear fruit.</span>
+<span style="color: #b536da">TT: It's barren, so to speak.</span>
+<span style="color: #0715cd">EB: that's a bit of a bummer!</span>
+<span style="color: #0715cd">EB: i am still skeptical about that, though.</span>
+<span style="color: #b536da">TT: That's why you're our leader, John.</span>
+<span style="color: #0715cd">EB: huh?</span>
+<span style="color: #b536da">TT: Optimism through stalwart skepticism is a defect not everyone is lucky enough to be cursed with.</span>
+<span style="color: #0715cd">EB: that's stupid.</span>
+<span style="color: #0715cd">EB: i'm not your leader, i am your FRIEND, there is a BIG difference!</span>
+<span style="color: #b536da">TT: Statements like that are also why you're our leader.</span>
+<span style="color: #0715cd">EB: pff.</span>
+<span style="color: #0715cd">EB: laaaaaaaame.</span>
+<span style="color: #b536da">TT: Yes, kind of.</span>
+<span style="color: #0715cd">EB: so, if you're sure that we are going to fail...</span>
+<span style="color: #0715cd">EB: what is the point of everything we're doing?</span>
+<span style="color: #b536da">TT: Simple.</span>
+<span style="color: #b536da">TT: The objective is no longer to win.</span>
+<span style="color: #0715cd">EB: um...</span>
+<span style="color: #0715cd">EB: i mean, what are we actually shooting for here?</span>
+<span style="color: #b536da">TT: To do as much damage to the game as possible.</span>
+<span style="color: #b536da">TT: To rip its stitches and pry answers from the seams.</span>
+<span style="color: #b536da">TT: We will snatch purpose from the jaws of futility.</span>
+<span style="color: #b536da">TT: Are you ready to wreak some havoc, John?</span>
+<span style="color: #0715cd">EB: i suddenly don't understand anything.</span>
+###
+004583
+X

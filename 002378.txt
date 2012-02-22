@@ -1,0 +1,31 @@
+==&gt;
+###
+ff8c9b071a
+###
+1250362570
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00478.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">EB: rose my piano!!!</span>
+<span style="color: #0715cd">EB: :C</span>
+<span style="color: #b536da">TT: Sorry.</span>
+<span style="color: #b536da">TT: No nuance to these controls at all.</span>
+<span style="color: #b536da">TT: I was hoping to bludgeon the imp without letting go of it. Guess I can't really do that.</span>
+<span style="color: #b536da">TT: A broken piano isn't the end of the world though.</span>
+<span style="color: #0715cd">EB: i guess you're right.</span>
+<span style="color: #b536da">TT: You'll need to pick up the spoils in person. I can't interact with the grist.</span>
+<span style="color: #0715cd">EB: so...</span>
+<span style="color: #0715cd">EB: that means i have to go out the back door?</span>
+<span style="color: #b536da">TT: Yes. Is there a problem?</span>
+<span style="color: #0715cd">EB: well it may sound dumb, but i was hoping to avoid nanna and her spooky ghost cookies.</span>
+<span style="color: #b536da">TT: You're right, that does sound dumb.</span>
+<span style="color: #0715cd">EB: can you see her in the kitchen? </span>
+<span style="color: #b536da">TT: Yeah.</span>
+<span style="color: #0715cd">EB: what's she doing, is she baking?</span>
+<span style="color: #b536da">TT: You could say that.</span>
+<span style="color: #0715cd">EB: are you SURE you can't get that grist up to me somehow?</span>
+<span style="color: #b536da">TT: Maybe.</span>
+###
+002379
+X

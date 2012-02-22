@@ -1,0 +1,77 @@
+John: Look to your right.
+###
+27e2e8859c
+###
+1290386770
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02921.gif
+###
+|PESTERLOG|
+<span style="color: #b536da">TT: This will at least buy you some time.</span>
+<span style="color: #b536da">TT: If you stay calm, and we work together, we can get you out of this.</span>
+<span style="color: #b536da">TT: I'm practically an expert at escaping fires by now.</span>
+<span style="color: #0715cd">EB: ok, thank you rose.</span>
+<span style="color: #0715cd">EB: hey, how do you know these things anyway?</span>
+<span style="color: #0715cd">EB: can you see me somehow?</span>
+<span style="color: #b536da">TT: Yes.</span>
+<span style="color: #b536da">TT: I have a crystal ball.</span>
+<span style="color: #0715cd">EB: oh man, really?</span>
+<span style="color: #b536da">TT: Yes.</span>
+<span style="color: #0715cd">EB: like a magic one?</span>
+<span style="color: #b536da">TT: I think so.</span>
+<span style="color: #0715cd">EB: can it show you the future?</span>
+<span style="color: #0715cd">EB: is that how you know what's going to happen?</span>
+<span style="color: #b536da">TT: No, it can only show me various locations in the present moment, as far as I can tell.</span>
+<span style="color: #b536da">TT: My perception of the future has been informed by other sources.</span>
+<span style="color: #0715cd">EB: like what?</span>
+<span style="color: #b536da">TT: Informants.</span>
+<span style="color: #0715cd">EB: durrrrr.</span>
+<span style="color: #b536da">TT: Whispering gods, memories sifted from dreams, cryptic readings from unearthed talismans, conclusions drawn from riddles deciphered - every gambit you'd expect a quest to extend to an emerging seer.</span>
+<span style="color: #b536da">TT: Just as I presume an heir would be supplied with what's needed for his maturation, assuming he's looking for it.</span>
+<span style="color: #0715cd">EB: oh... yeah.</span>
+<span style="color: #0715cd">EB: point taken. i guess i should be looking, huh?</span>
+<span style="color: #b536da">TT: You should probably be doing what you're doing.</span>
+<span style="color: #0715cd">EB: okay, so...</span>
+<span style="color: #0715cd">EB: with what you've learned from your dreams and gods and magic and stuff...</span>
+<span style="color: #0715cd">EB: do you have it all mapped out now? do you know everything?</span>
+<span style="color: #b536da">TT: I didn't know why you were asleep, did I?</span>
+<span style="color: #0715cd">EB: yeah, but...</span>
+<span style="color: #0715cd">EB: neither did i!</span>
+<span style="color: #b536da">TT: I have more pedestrian sources too, you know.</span>
+<span style="color: #b536da">TT: Sometimes trolls blither tidbits about the future, and I can't help but take note of it.</span>
+<span style="color: #b536da">TT: Just as they do with you.</span>
+<span style="color: #b536da">TT: You also have access to the oracle clouds in Skaia, whereas I do not.</span>
+<span style="color: #0715cd">EB: oh yeah.</span>
+<span style="color: #b536da">TT: Knowing the future is no remarkable feat here.</span>
+<span style="color: #b536da">TT: It appears to be a fact of life.</span>
+<span style="color: #b536da">TT: I'm not all that special, John.</span>
+<span style="color: #0715cd">EB: ok, buuuuuut...</span>
+<span style="color: #0715cd">EB: i guess that's not all i'm talking about.</span>
+<span style="color: #0715cd">EB: you seem a little different.</span>
+<span style="color: #0715cd">EB: kind of, um... spooky?</span>
+<span style="color: #b536da">TT: Really?</span>
+<span style="color: #0715cd">EB: i just mean that before, it felt like we were in this adventure together, figuring stuff out as we went along.</span>
+<span style="color: #0715cd">EB: and now you have all the answers! because of magic, and other mysterious reasons!</span>
+<span style="color: #0715cd">EB: and you want to use your powers to break the game, and i still don't really understand why, and...</span>
+<span style="color: #0715cd">EB: bluh.</span>
+<span style="color: #b536da">TT: I'm not actually trying to caricaturize a grim sorcerer.</span>
+<span style="color: #b536da">TT: There's still a perfectly intact piece of my mind which realizes how ridiculous it is to be flying across rainbow oceans with a couple of magic wands and a salamander in a little cowl.</span>
+<span style="color: #b536da">TT: And it wasn't without swallowing a little embarrassment that I revealed I was using a crystal ball just now.</span>
+<span style="color: #b536da">TT: It's all pretty absurd.</span>
+<span style="color: #b536da">TT: And yet,</span>
+<span style="color: #b536da">TT: It's been fun, and above all, practical.</span>
+<span style="color: #b536da">TT: For solving our problems.</span>
+<span style="color: #0715cd">EB: ok, yeah, you're right.</span>
+<span style="color: #0715cd">EB: i guess i just started worryin'...</span>
+<span style="color: #0715cd">EB: that you are getting away from us!</span>
+<span style="color: #0715cd">EB: because you know everything, and you're magic, and you have a crystal ball, and a salamander, and you are basically a wizard.</span>
+<span style="color: #0715cd">EB: and that's cool, and it sure does sound fun...</span>
+<span style="color: #0715cd">EB: but i kinda think it was more fun when you just did things like read books, and tell jokes.</span>
+<span style="color: #b536da">TT: I still read books and tell jokes.</span>
+<span style="color: #0715cd">EB: BA-DUM PSHHH!</span>
+<span style="color: #b536da">TT: John,</span>
+<span style="color: #b536da">TT: That was mean.</span>
+<span style="color: #0715cd">EB: sorry. :(</span>
+###
+004823
+X

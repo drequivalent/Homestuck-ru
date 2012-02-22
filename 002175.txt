@@ -1,0 +1,20 @@
+Rose: Prototype sprite with Betty Crocker box.
+###
+e7667e0c44
+###
+1245479346
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00275.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">EB: what? oh man, you're going to use that?</span>
+<span style="color: #0715cd">EB: that sucks, what a stupid idea!</span>
+<span style="color: #b536da">TT: We have to hurry along. I'm running low on battery power.</span>
+<span style="color: #0715cd">EB: but the cake mix... ugh, that's so dumb.</span>
+<span style="color: #b536da">TT: I doubt it matters.</span>
+<span style="color: #b536da">TT: We might as well just use any old crap lying around.</span>
+<span style="color: #0715cd">EB: fine.</span>
+<span style="color: #0715cd">EB: i GUESS.</span>
+###
+002176
+X

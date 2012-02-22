@@ -1,0 +1,12 @@
+WV: Examine contents of yellow container.
+###
+143b6c67bd
+###
+1253850510
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00693.gif
+###
+The container is full of MOTOR OIL. This does not seem useful to you right now.
+###
+002594
+X

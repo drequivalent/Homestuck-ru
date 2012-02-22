@@ -1,0 +1,15 @@
+Aradia: Connect to server player.
+###
+046f1b63a9
+###
+1278634667
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02186_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/02186_2.gif
+###
+You have a server player connect to you, someone you personally selected for the role. The devices required for entry are deployed. 
+
+The kernelsprite awaits prototyping. But unlike all eleven other players, your dead lusus is not available. You have to use something else.
+###
+004087
+X

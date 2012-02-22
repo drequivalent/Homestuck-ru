@@ -1,0 +1,23 @@
+[o] ==&gt;
+###
+cc1758970e
+###
+1310166520
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03908.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">GT: how is this happening?</span>
+<span style="color: #0715cd">GT: is this through the advanced alien technologies?</span>
+<span style="color: #0715cd">GT: like holograms, or teleportations?</span>
+<span style="color: #005682">AG: If that's what you want to think to keep you comfy in your stupor, sure.</span>
+<span style="color: #0715cd">GT: where are we?</span>
+<span style="color: #005682">AG: This is my home planet 8efore it was destroyed.</span>
+<span style="color: #005682">AG: It's called Alternia.</span>
+<span style="color: #0715cd">GT: oh, cool.</span>
+<span style="color: #0715cd">GT: and what's that, over there?</span>
+<span style="color: #005682">AG: That is my hive, which is a thing that you refer to as a house.</span>
+<span style="color: #005682">AG: It's where I grew up.</span>
+###
+005812
+X

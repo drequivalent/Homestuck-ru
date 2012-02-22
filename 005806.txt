@@ -1,0 +1,37 @@
+[o] ==&gt;
+###
+706160bbd9
+###
+1310166123
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03903.gif
+###
+|PESTERLOG|
+<span style="color: #005682">AG: Oh.</span>
+<span style="color: #005682">AG: Ok.</span>
+<span style="color: #0715cd">GT: hey, your clothes switched suddenly.</span>
+<span style="color: #0715cd">GT: was that some kind of alien wardrobe warpifying technology?</span>
+<span style="color: #0715cd">GT: such as a warpdrobe, if you will?</span>
+<span style="color: #005682">AG: Sure, John. Let's just say that's what it was.</span>
+<span style="color: #0715cd">GT: you look pretty cool in more normal clothes. not that your space boots and pixie outfit weren't neat.</span>
+<span style="color: #005682">AG: Thanks.</span>
+<span style="color: #005682">AG: So, is this how humans 8egin an earth d8?</span>
+<span style="color: #005682">AG: With simple acts of flattery and kindness?</span>
+<span style="color: #0715cd">GT: um, i don't know about that, really.</span>
+<span style="color: #0715cd">GT: it just seemed like the nice thing to do.</span>
+<span style="color: #0715cd">GT: is...</span>
+<span style="color: #0715cd">GT: is this a date?</span>
+<span style="color: #005682">AG: No. I've decided this definitely will not 8e a d8.</span>
+<span style="color: #005682">AG: Not until you remem8er something, at least.</span>
+<span style="color: #0715cd">GT: ok, that's probably for the best.</span>
+<span style="color: #0715cd">GT: i would probably be pretty nervous on a date with a normal girl, let alone on a...</span>
+<span style="color: #0715cd">GT: DATE WITH AN ALIEN SPACE GHOST!!!</span>
+<span style="color: #0715cd">GT: heheheheheheh.</span>
+<span style="color: #005682">AG: Now that you mention it, me too, pro8a8ly. Your goofy awkwardness is a 8it contagious, frankly.</span>
+<span style="color: #005682">AG: So now what do we do?</span>
+<span style="color: #0715cd">GT: well...</span>
+<span style="color: #0715cd">GT: since i am presuming you are new to the planet...</span>
+<span style="color: #0715cd">GT: i could show you around the place.</span>
+###
+005807
+X

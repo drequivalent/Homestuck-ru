@@ -1,0 +1,85 @@
+==&gt;
+###
+cb8b164e55
+###
+1289877358
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02879.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">EB: ok, we have 10 minutes and 25 seconds.</span>
+<span style="color: #4ac925">GG: hmmmm i wonder what the significance of that number is</span>
+<span style="color: #0715cd">EB: why would it be significant?</span>
+<span style="color: #0715cd">EB: numbers don't always need to have significance!</span>
+<span style="color: #4ac925">GG: but they usually do!</span>
+<span style="color: #0715cd">EB: ok, well the number is now less than it was, and therefore less significant.</span>
+<span style="color: #0715cd">EB: and by less, i mean more! you had better hurry upstairs and make your special item.</span>
+<span style="color: #4ac925">GG: yes, youre right</span>
+<span style="color: #0715cd">EB: hey, what do you think we should prototype this fussy little orb with?</span>
+<span style="color: #0715cd">EB: heheheh, it seems like so long ago that rose fed mine a clown.</span>
+<span style="color: #0715cd">EB: we were just messing around, we didn't even know what we were doing.</span>
+<span style="color: #4ac925">GG: i dont know...</span>
+<span style="color: #4ac925">GG: there are so many possibilities</span>
+<span style="color: #0715cd">EB: yeah...</span>
+<span style="color: #0715cd">EB: it's almost like your grandpa put all this crap here knowing we'd have to make that decision.</span>
+<span style="color: #4ac925">GG: hmmmmmm!</span>
+<span style="color: #4ac925">GG: yes, it sure seems that way</span>
+<span style="color: #0715cd">EB: he seems like he was an awesome guy, i would have liked to have the chance to talk to him.</span>
+<span style="color: #4ac925">GG: well</span>
+<span style="color: #4ac925">GG: maybe you will get that chance john</span>
+<span style="color: #0715cd">EB: oh?</span>
+<span style="color: #4ac925">GG: yes, as a matter of fact i am sure we will both get that chance!</span>
+<span style="color: #4ac925">GG: i once dreamt that we would</span>
+<span style="color: #0715cd">EB: huh...</span>
+<span style="color: #0715cd">EB: wait, are you saying we will prototype him?</span>
+<span style="color: #0715cd">EB: like i did with nanna, to bring her ghost back to life?</span>
+<span style="color: #0715cd">EB: as...</span>
+<span style="color: #0715cd">EB: another ghost?</span>
+<span style="color: #4ac925">GG: sure, why not!</span>
+<span style="color: #0715cd">EB: i guess that makes a lot of sense, actually.</span>
+<span style="color: #4ac925">GG: that is what i believe this game is for in part</span>
+<span style="color: #4ac925">GG: you got to bring back your nanna, rose brought back her cat, i can bring back grandpa, and dave...</span>
+<span style="color: #4ac925">GG: dave got to bring back a dead bird because of course he is too cool to have any dead family members</span>
+<span style="color: #0715cd">EB: yeah, also he brought back himself from the future.</span>
+<span style="color: #0715cd">EB: who... wasn't dead, but was going to die maybe? i dunno.</span>
+<span style="color: #0715cd">EB: specifically to save my life, as well as yours, i think.</span>
+<span style="color: #4ac925">GG: wait, he did????</span>
+<span style="color: #0715cd">EB: yes.</span>
+<span style="color: #4ac925">GG: that is</span>
+<span style="color: #4ac925">GG: soooo cooooool :O</span>
+<span style="color: #0715cd">EB: it's pretty neat, i guess.</span>
+<span style="color: #4ac925">GG: i almost completely forgot i was his server player!!!!!</span>
+<span style="color: #4ac925">GG: i hope hes not in trouble, i should check on him</span>
+<span style="color: #4ac925">GG: we probably have so much to catch up on</span>
+<span style="color: #0715cd">EB: i just messaged him, he is not answering.</span>
+<span style="color: #4ac925">GG: i dont see him in his house either :(</span>
+<span style="color: #0715cd">EB: ehhh, he's fine, he has been doing a lot of time traveling.</span>
+<span style="color: #0715cd">EB: i talked to him from the future, so he must be ok now to make it that far.</span>
+<span style="color: #4ac925">GG: oh, ok...</span>
+<span style="color: #4ac925">GG: jeez, i feel so out of the loop :(</span>
+<span style="color: #0715cd">EB: yes, that is why we need to get you in the loop!</span>
+<span style="color: #0715cd">EB: the loop being the game. hurry upstairs! your transporty pad thingies take you straight up, right?</span>
+<span style="color: #4ac925">GG: yes! ok here i go</span>
+<span style="color: #0715cd">EB: oh, wait!!!</span>
+<span style="color: #4ac925">GG: what!</span>
+<span style="color: #0715cd">EB: what do we do about prototyping?</span>
+<span style="color: #0715cd">EB: we shouldn't put your grandpa in yet, unless we want lots of imps and ogres and stuff that look like your grandpa.</span>
+<span style="color: #4ac925">GG: augh, nooooooooooooooo</span>
+<span style="color: #0715cd">EB: we could put in something really lame, to make all the monsters weaker!</span>
+<span style="color: #0715cd">EB: or at the very least, more ridiculous looking.</span>
+<span style="color: #0715cd">EB: like one of these weird pictures of blue ladies lying around.</span>
+<span style="color: #0715cd">EB: what's the deal with those, anyway?</span>
+<span style="color: #4ac925">GG: oh god, dont get me started :|</span>
+<span style="color: #4ac925">GG: he was a strange and silly man</span>
+<span style="color: #0715cd">EB: i guess we could just put nothing in and see what happens.</span>
+<span style="color: #4ac925">GG: hmmmmmmm, perhaps</span>
+<span style="color: #4ac925">GG: is that allowed?</span>
+<span style="color: #0715cd">EB: i don't see why not.</span>
+<span style="color: #0715cd">EB: maybe i will ask rose, because she suddenly understands everything for some reason.</span>
+<span style="color: #4ac925">GG: yes, thats a good idea</span>
+<span style="color: #0715cd">EB: we have ten minutes to think about it.</span>
+<span style="color: #0715cd">EB: whoops! i mean a lot less than ten minutes!</span>
+<span style="color: #0715cd">EB: hurry upstairs, go go go!!!</span>
+###
+004781
+X

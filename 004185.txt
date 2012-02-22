@@ -1,0 +1,18 @@
+Equius: Deliver present.
+###
+d301ec001c
+###
+1279600772
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02285.gif
+###
+|SPRITELOG|
+<span style="color: #a10000">ARADIASPRITE: it l00ks nice</span>
+<span style="color: #000056">EQUIUS: D --&gt; Yes</span>
+<span style="color: #000056">EQUIUS: D --&gt; It is perfect in every way</span>
+<span style="color: #a10000">ARADIASPRITE: ribbit</span>
+<span style="color: #000056">EQUIUS: D --&gt; Do you</span>
+<span style="color: #000056">EQUIUS: D --&gt; Have a clean towel anywhere</span>
+###
+004186
+X

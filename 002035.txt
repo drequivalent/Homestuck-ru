@@ -1,0 +1,27 @@
+John: Check Pesterchum window.
+###
+7bb88eca21
+###
+1241865105
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00135.gif
+###
+|PESTERLOG|
+-- tentacleTherapist <span style="color: #b536da">[TT]</span> began pestering ectoBiologist <span style="color: #0715cd">[EB]</span> at 17:08 --
+
+<span style="color: #b536da">TT: It looks like you managed to retrieve the beta. Excellent.</span>
+<span style="color: #b536da">TT: I'm going to try to connect.</span>
+<span style="color: #0715cd">EB: whoa ok but i just got the most awesome present.</span>
+<span style="color: #b536da">TT: The rabbit?</span>
+<span style="color: #0715cd">EB: SO SWEET.</span>
+<span style="color: #b536da">TT: I've heard tales of this wretched creature often. Its Homeric legend is practically ensconced in the fold of my personal mythology by now.</span>
+<span style="color: #0715cd">EB: ha ha, what?</span>
+<span style="color: #b536da">TT: Why don't we focus on the matter at hand?</span>
+<span style="color: #0715cd">EB: oh the game, ok.</span>
+<span style="color: #0715cd">EB: i don't really know how this works. what am i even looking at here?</span>
+<span style="color: #b536da">TT: You are running the client application. I am running the server, so I am the host user. I have established a connection with you. This is sufficient for us to play the game.</span>
+<span style="color: #0715cd">EB: oh, ok then.</span>
+<span style="color: #b536da">TT: Why don't we get started?</span>
+###
+002036
+X

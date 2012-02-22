@@ -1,0 +1,20 @@
+[A6I1] ==&gt;
+###
+6bb3cab9fb
+###
+1324113346
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04341.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: ok, i think this is a pretty good letter.</span>
+<span style="color: #f2a400">DAVESPRITE: let me check it out</span>
+<span style="color: #f2a400">DAVESPRITE: maybe ill humorously defile willis and afflecks dumb skyward yearning faces</span>
+<span style="color: #0715cd">JOHN: oh HELL no.</span>
+<span style="color: #f2a400">DAVESPRITE: come on dude hand it over</span>
+<span style="color: #4ac925">JADE: nooooo come on guys theyre about to go just stuff it in the bucket and throw it at me already!!!</span>
+<span style="color: #f2a400">DAVESPRITE: too late i already did it with sprite powers while he wasnt looking</span>
+<span style="color: #0715cd">JOHN: augh you bastard!</span>
+###
+006245
+X

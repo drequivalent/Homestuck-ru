@@ -1,0 +1,32 @@
+==&gt;
+###
+6c2836ad74
+###
+1294102330
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03240.gif
+###
+|SPRITELOG|
+<span style="color: #1f9400">JADESPRITE: why are you doing this to me, why are you making me remember</span>
+<span style="color: #4ac925">JADE: :(</span>
+<span style="color: #1f9400">JADESPRITE: it was so beautiful and it was all destroyed before i even knew what was going on....</span>
+<span style="color: #1f9400">JADESPRITE: and so many nice people were killed</span>
+<span style="color: #4ac925">JADE: i know jade i was there too...</span>
+<span style="color: #4ac925">JADE: these are both our memories!</span>
+<span style="color: #1f9400">JADESPRITE: and the queen, did she survive?</span>
+<span style="color: #1f9400">JADESPRITE: and her ring, i was protecting her ring, oh noooo what happened to it???</span>
+<span style="color: #4ac925">JADE: jade, pleeease...</span>
+<span style="color: #1f9400">JADESPRITE: i was just waiting for john to wake up, i was so sure it was going to be soon</span>
+<span style="color: #1f9400">JADESPRITE: and i was going to show him around prospit</span>
+<span style="color: #1f9400">JADESPRITE: i had so many things planned and so many friends to introduce him to...</span>
+<span style="color: #1f9400">JADESPRITE: he was my best friend and i was looking forward to meeting him for so long</span>
+<span style="color: #1f9400">JADESPRITE: but then it all burned down and everyone died and the moon fell and..........</span>
+<span style="color: #4ac925">JADE: stop...</span>
+<span style="color: #4ac925">JADE: you are going to make me cry too, stop it!!!</span>
+<span style="color: #1f9400">JADESPRITE: BOOOOOOOOOOOOOOOOOOOOOOOO hoo hoo hoo hoo hoo hoo</span>
+<span style="color: #4ac925">JADE: *sob*</span>
+<span style="color: #1f9400">JADESPRITE: woooof...</span>
+<span style="color: #4ac925">JADE: PFFheheh... *sob* hehehehehehe</span>
+###
+005144
+X

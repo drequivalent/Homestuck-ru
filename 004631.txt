@@ -1,0 +1,17 @@
+==&gt;
+###
+40f07c3a71
+###
+1286168800
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02730.gif
+###
+|PESTERLOG|
+<span style="color: #b536da">TT: What do you know about the <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/greensun.gif" border="0" />?</span>
+<span style="color: #008141">GA: Ive Never Heard Of It</span>
+<span style="color: #b536da">TT: Thank you.</span>
+<span style="color: #b536da">TT: The transaction was very tidy.</span>
+<span style="color: #008141">GA: Agreed</span>
+###
+004632
+X

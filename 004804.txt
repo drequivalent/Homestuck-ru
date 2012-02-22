@@ -1,0 +1,87 @@
+Rose: Answer John.
+###
+eac2a4c987
+###
+1290234022
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02903.gif
+###
+|PESTERLOG|
+-- tentacleTherapist <span style="color: #b536da">[TT]</span> began pestering ectoBiologist <span style="color: #0715cd">[EB]</span> --
+
+<span style="color: #0715cd">EB: rose, i have a question, and i am in a hurry!</span>
+<span style="color: #0715cd">EB: so hurry up and answer!!!</span>
+<span style="color: #b536da">TT: Did you know your planet was on fire?</span>
+<span style="color: #0715cd">EB: oh.</span>
+<span style="color: #0715cd">EB: it is?</span>
+<span style="color: #b536da">TT: Yes. It makes a good light for reading, actually.</span>
+<span style="color: #0715cd">EB: ok, haha, that's a confusing thing you said, but that topic will have to wait!</span>
+<span style="color: #0715cd">EB: jade is minutes away from entering, and i need to decide what to do with this kernel sprite.</span>
+<span style="color: #0715cd">EB: i really don't want to mess up and do something stupid.</span>
+<span style="color: #0715cd">EB: i was thinking about not prototyping at all, to not give the monsters any new powers.</span>
+<span style="color: #0715cd">EB: what do you think, rose?</span>
+<span style="color: #0715cd">EB: i thought i'd ask since you seem to know all the mysteries.</span>
+<span style="color: #b536da">TT: Yes, I do seem to be shadowed by each mystery and its somber cortege of riddles, don't I?</span>
+<span style="color: #0715cd">EB: yes.</span>
+<span style="color: #0715cd">EB: that is exactly what i was going to say.</span>
+<span style="color: #b536da">TT: First of all, I should preface this conversation by saying I know exactly what you and Jade are going to do.</span>
+<span style="color: #0715cd">EB: um...</span>
+<span style="color: #0715cd">EB: ok?</span>
+<span style="color: #b536da">TT: The more of our future I've been allowed to see, the more I'm presented with a challenge I'm not very comfortable with.</span>
+<span style="color: #b536da">TT: The trolls have tipped us off about what's to come without any regard for the consequences, as appears to be their nature.</span>
+<span style="color: #b536da">TT: But maybe that's why it's worked for them.</span>
+<span style="color: #b536da">TT: Maybe their indiscretion mingles with the cosmic noise that is the fabric of temporal uncertainty.</span>
+<span style="color: #0715cd">EB: bluhhhhhh...</span>
+<span style="color: #0715cd">EB: rose, tick tick tick!!!</span>
+<span style="color: #b536da">TT: Sorry, John.</span>
+<span style="color: #b536da">TT: I'm just nervous about it.</span>
+<span style="color: #b536da">TT: About whether telling you what you definitely will or won't do will alter a predetermined outcome.</span>
+<span style="color: #b536da">TT: The result would be a splintered timeline, and we would all be sentenced to eventual oblivion.</span>
+<span style="color: #b536da">TT: I'm presently optimistic this has not happened yet, and this is still the alpha timeline. I'd like to keep it that way.</span>
+<span style="color: #0715cd">EB: oh, wow.</span>
+<span style="color: #0715cd">EB: you mean like when i died in another dimension, because terezi hornswoggled me?</span>
+<span style="color: #b536da">TT: Yes, sort of.</span>
+<span style="color: #b536da">TT: It isn't much fun, John.</span>
+<span style="color: #0715cd">EB: what's not?</span>
+<span style="color: #b536da">TT: Living for months in an offshoot reality, waiting for the curtain to drop.</span>
+<span style="color: #0715cd">EB: oh, ok, i see.</span>
+<span style="color: #0715cd">EB: well, uh...</span>
+<span style="color: #0715cd">EB: is there anything you can tell me?</span>
+<span style="color: #b536da">TT: Hmm.</span>
+<span style="color: #b536da">TT: I guess I can permit myself to tell you this, somewhat definitively.</span>
+<span style="color: #0715cd">EB: what?</span>
+<span style="color: #b536da">TT: Failing to prototype the kernel is the absolute worst thing that you could possibly do.</span>
+<span style="color: #b536da">TT: Like, ever.</span>
+<span style="color: #0715cd">EB: oh no!</span>
+<span style="color: #b536da">TT: We would come into possession of all the disasters.</span>
+<span style="color: #b536da">TT: Exhaustive possession. Monopolization, in fact.</span>
+<span style="color: #0715cd">EB: then i guess i will not do that.</span>
+<span style="color: #0715cd">EB: why is it so bad?</span>
+<span style="color: #b536da">TT: Because the battlefield will not be able to heal, and then transform.</span>
+<span style="color: #b536da">TT: It will not reach the stage which allows it to become ready to receive our universe.</span>
+<span style="color: #0715cd">EB: but...</span>
+<span style="color: #0715cd">EB: i thought you said it wasn't going to be able to make a universe anyway?</span>
+<span style="color: #0715cd">EB: wasn't it barren or something?</span>
+<span style="color: #b536da">TT: Yes.</span>
+<span style="color: #0715cd">EB: so why is it important?</span>
+<span style="color: #b536da">TT: Because if it does not reach this stage, we will not be able to recover the treasure hidden in its core.</span>
+<span style="color: #b536da">TT: Which is to say,</span>
+<span style="color: #b536da">TT: You will not be able to recover it.</span>
+<span style="color: #b536da">TT: When you go to sleep again.</span>
+<span style="color: #0715cd">EB: OHHHHHH.</span>
+<span style="color: #0715cd">EB: why didn't you say so, of course the answer is treasure.</span>
+<span style="color: #b536da">TT: Yes. This is the treasure that will give us hope.</span>
+<span style="color: #b536da">TT: But only if it comes into being in the first place.</span>
+<span style="color: #0715cd">EB: what is the treasure exactly?</span>
+<span style="color: #b536da">TT: John, what is that sound?</span>
+<span style="color: #0715cd">EB: what sound?</span>
+<span style="color: #b536da">TT: It seems to be a ticking noise.</span>
+<span style="color: #0715cd">EB: aaaahh!</span>
+<span style="color: #0715cd">EB: yeah, i've got to go. we can chat about treasure later.</span>
+<span style="color: #0715cd">EB: anyway, i will sort out this prototyping silliness myself.</span>
+<span style="color: #0715cd">EB: thanks rose!</span>
+
+-- ectoBiologist <span style="color: #0715cd">[EB]</span> ceased pestering tentacleTherapist <span style="color: #b536da">[TT]</span> --
+###
+004805
+X

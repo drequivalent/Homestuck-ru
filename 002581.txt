@@ -1,0 +1,16 @@
+WV: Clear out all the cans inside the purple machine.
+###
+ef3412c205
+###
+1253764806
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00681.gif
+###
+You empty the peculiar cabinet and take a quick inventory of your canned goods.
+
+You have BEANS, MUSTARD, GRAVY, BREAD, SHRIMP, ASPARAGUS, CHEESE, RICE, CORN, PEAS, FLOUR, CHESTNUTS, MAYO, HAM, POTATOES, and SQUASH.
+
+Such bountiful plenty. And yet the delights taunt you from within their small metal prisons.
+###
+002582
+X

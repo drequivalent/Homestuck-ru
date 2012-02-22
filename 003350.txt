@@ -1,0 +1,12 @@
+AR: Use gunpowder and empty crates to make a campfire.
+###
+83d7c24408
+###
+1266787033
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01450.gif
+###
+
+###
+003351
+X

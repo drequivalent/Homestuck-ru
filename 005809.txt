@@ -1,0 +1,38 @@
+[o] ==&gt;
+###
+864ed5c8e7
+###
+1310166399
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03906_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/03906_2.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">GT: there is not really much to see in this town...</span>
+<span style="color: #0715cd">GT: but there are these lakes.</span>
+<span style="color: #0715cd">GT: this lake here did not used to be a lake. a long time ago, before i was born, there was a factory here.</span>
+<span style="color: #0715cd">GT: my dad says there was a huge explosion. he was walking by with my nanna when he saw it.</span>
+<span style="color: #0715cd">GT: then a little later, my nanna died. my dad never told me how, except that it involved a big joke book.</span>
+<span style="color: #0715cd">GT: i never knew her, which is too bad. she sounded nice.</span>
+<span style="color: #005682">AG: I know what happened.</span>
+<span style="color: #005682">AG: I saw it.</span>
+<span style="color: #0715cd">GT: you did?</span>
+<span style="color: #005682">AG: Yes.</span>
+<span style="color: #005682">AG: Do you want to know?</span>
+<span style="color: #005682">AG: It might jostle your memory.</span>
+<span style="color: #0715cd">GT: ok!</span>
+<span style="color: #005682">AG: I 8elieve this lake is where Jade landed. You landed a little ways over there, a8out where your hive is now. You clo88ered your nanna to death with the aforementioned joke 8ook. 8ut it wasn't your fault. You were 8oth just little wigglers, riding meteors from the future.</span>
+<span style="color: #005682">AG: You cre8ted yourself, your nanna, Jade, her grandpa, not to mention Dave and Rose and their guardians, all in a la8 using paradox slime, and sent them 8ack in time as the silly gru8s with arms and legs you call 8a8ies. And here you were dou8ting the usefulness of slime!</span>
+<span style="color: #0715cd">GT: wow, really?</span>
+<span style="color: #005682">AG: Yes, a8solutely.</span>
+<span style="color: #005682">AG: I paid close attention to all this, 8ecause I thought it might give me some clues a8out us and our ancestors, who were made the same way.</span>
+<span style="color: #005682">AG: Any of this familiar?</span>
+<span style="color: #0715cd">GT: hmm.</span>
+<span style="color: #0715cd">GT: that all sounds incredible if true, but i don't have even the foggiest memory of that happening!</span>
+<span style="color: #005682">AG: Yeah. I figured as much.</span>
+<span style="color: #005682">AG: Since you seem 8ent on staying in your dream 8u88le coma, why don't I continue the tour?</span>
+<span style="color: #0715cd">GT: the tour... of earth?</span>
+<span style="color: #005682">AG: Sort of.</span>
+###
+005810
+X

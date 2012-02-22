@@ -1,0 +1,18 @@
+==&gt;
+###
+a2e36d3fee
+###
+1291687183
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03006.gif
+###
+|SPRITELOG|
+<span style="color: #1f9400">BECSPRITE:</span>
+<img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/becspeak.gif" border="0" /><img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/becspeak.gif" border="0" /><img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/becspeak.gif" border="0" /><img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/becspeak.gif" border="0" />
+
+<img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/becspeak.gif" border="0" />
+
+<img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/becspeak.gif" border="0" /><img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/becspeak.gif" border="0" /><img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/becspeak.gif" border="0" />
+###
+004908
+X

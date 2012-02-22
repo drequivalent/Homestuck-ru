@@ -1,0 +1,32 @@
+Jade: Go upstairs.
+###
+3b8aab1b63
+###
+1290043366
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02889.gif
+###
+|PESTERLOG|
+<span style="color: #4ac925">GG: what is the problem!!!!</span>
+<span style="color: #0715cd">EB: oh, nothing.</span>
+<span style="color: #0715cd">EB: i am just dropping monsters all over the place, that is all.</span>
+<span style="color: #0715cd">EB: are you upstairs?</span>
+<span style="color: #4ac925">GG: yes</span>
+<span style="color: #0715cd">EB: ok, good.</span>
+<span style="color: #0715cd">EB: i left the cruxite by the lathe, as well as the punched card with the green thingy on it.</span>
+<span style="color: #0715cd">EB: you should have plenty of time to make it. no drama here!</span>
+<span style="color: #4ac925">GG: nice!</span>
+<span style="color: #4ac925">GG: how much time?</span>
+<span style="color: #0715cd">EB: a little more than 6 minutes.</span>
+<span style="color: #0715cd">EB: in the meantime, i will try to contact rose and get this prototyping nonsense sorted out.</span>
+<span style="color: #0715cd">EB: it's so confusing...</span>
+<span style="color: #0715cd">EB: in my foolishness, i came very close to prototyping your grandpa.</span>
+<span style="color: #4ac925">GG: D:</span>
+<span style="color: #4ac925">GG: john, try to be more careful!</span>
+<span style="color: #0715cd">EB: we very nearly had to face our grandfatherly paradox-dad as a last boss.</span>
+<span style="color: #0715cd">EB: that would probably be the worst case scenario.</span>
+<span style="color: #4ac925">GG: um.....</span>
+<span style="color: #4ac925">GG: what?</span>
+###
+004791
+X

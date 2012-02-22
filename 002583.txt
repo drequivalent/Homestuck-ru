@@ -1,0 +1,18 @@
+WV: Locate a nearby sharp object.
+###
+7ab9919840
+###
+1253764893
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00683.gif
+###
+You wield your TRUSTY KNIFE.
+
+It is actually a...
+
+You're not sure what they're called. It's an old rusted one of those red mailbox arm-swing flappy doodads, either for letting you know there is mail in the box, or maybe for alerting the mailman to outgoing mail to be collected. You don't know, really. You've wrapped a little piece of cloth around it for the grip.
+
+It is useless for opening cans.
+###
+002584
+X

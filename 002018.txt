@@ -1,0 +1,16 @@
+John: Apply Fetch Modus to Sylladex.
+###
+2531624986
+###
+1241497912
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00118.gif
+###
+Items captchalogued in your SYLLADEX are no longer immediately accessible. You can only use the item on the bottom card, and must wait for items on upper cards to be pushed back to it.
+
+For instance, the RED PACKAGE is now inaccessible. You can only use the RAZOR at the moment.
+
+This modus doesn't strike you as a significant upgrade to your previous one. In fact, it almost seems more inconvenient. You figure you might as well give it a chance though.
+###
+002019
+X

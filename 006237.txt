@@ -1,0 +1,32 @@
+[A6I1] ==&gt;
+###
+9cfae2e9ce
+###
+1324097002
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04334.gif
+###
+|DIALOGLOG|
+<span style="color: #4ac925">JADE: yes</span>
+<span style="color: #4ac925">JADE: in fact</span>
+<span style="color: #4ac925">JADE: you can hop right through me and join them</span>
+<span style="color: #4ac925">JADE: then you can travel with them to the new session if you like</span>
+<span style="color: #0715cd">JOHN: whoa!</span>
+<span style="color: #0715cd">JOHN: well, heck, why don't we do that then?</span>
+<span style="color: #0715cd">JOHN: it would probably be more fun with them than being on this golden battleship by ourselves.</span>
+<span style="color: #4ac925">JADE: it probably would!</span>
+<span style="color: #4ac925">JADE: but i cant go with you</span>
+<span style="color: #4ac925">JADE: i can serve as a gateway</span>
+<span style="color: #4ac925">JADE: but i cant travel to the sun myself, remember?</span>
+<span style="color: #0715cd">JOHN: oh yeah.</span>
+<span style="color: #0715cd">JOHN: dammit!</span>
+<span style="color: #4ac925">JADE: but its ok, really!</span>
+<span style="color: #4ac925">JADE: if thats what you wanted to do, i wouldnt mind</span>
+<span style="color: #4ac925">JADE: but whatever you do, you have to decide quickly</span>
+<span style="color: #4ac925">JADE: they will be departing from the sun very soon</span>
+<span style="color: #0715cd">JOHN: but i wouldn't want to leave you here all alone for three years.</span>
+<span style="color: #0715cd">JOHN: that would suck!</span>
+<span style="color: #4ac925">JADE: i wouldnt really be alone though</span>
+###
+006238
+X

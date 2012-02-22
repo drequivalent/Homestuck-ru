@@ -1,0 +1,44 @@
+[A6I1] ==&gt;
+###
+a9dfac0c7c
+###
+1324419851
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04351.gif
+###
+|DIALOGLOG|
+<span style="color: #a10000">ARADIA: karkat i dont know if anyone cares about formal ranks like that anymore</span>
+<span style="color: #a10000">ARADIA: or if anyone ever did!</span>
+<span style="color: #a10000">ARADIA: but for what its worth i suggest that from now on you all listen closely to the advice of our human guests</span>
+<span style="color: #e00707">DAVE: wait</span>
+<span style="color: #e00707">DAVE: really</span>
+<span style="color: #a10000">ARADIA: yes!</span>
+<span style="color: #a10000">ARADIA: no need to be so modest dave</span>
+<span style="color: #a10000">ARADIA: tactically speaking a knight of time and a seer of light is a nearly unbeatable combination</span>
+<span style="color: #e00707">DAVE: ok</span>
+<span style="color: #e00707">DAVE: i dont really have any orders to give though</span>
+<span style="color: #e00707">DAVE: except for karkat to shut the hell up because that horseshit is more obnoxious in person than i ever imagined</span>
+<span style="color: #626262">KARKAT: OH WOW, I WOULD OFFER A RETORT TO YOUR VICIOUS BARB, EXCEPT FOR THE FACT THAT UNLIKE EVERY ASSHOLE EVER, I CAN ACTUALLY FOLLOW ORDERS AND SHUT MY MOUTH!</span>
+<span style="color: #626262">KARKAT: CHECK IT OUT, &quot;DOGG&quot;</span>
+<span style="color: #626262">KARKAT: ......................................</span>
+<span style="color: #a10000">ARADIA: yes you are off to an excellent start as a subordinate</span>
+<span style="color: #a10000">ARADIA: keep doing that!</span>
+<span style="color: #a10000">ARADIA: but dave dont worry if you do not have instructions for us</span>
+<span style="color: #a10000">ARADIA: the knight of time is not necessarily the tactician</span>
+<span style="color: #a10000">ARADIA: he is a powerful warrior class which exploits the flow of time as a weapon</span>
+<span style="color: #a10000">ARADIA: rose is the one who must play the role of the strategist</span>
+<span style="color: #a10000">ARADIA: the seer class knows her aspect comprehensively</span>
+<span style="color: #a10000">ARADIA: as a knower of all fortune she can see the circuitous path that will lead to the most favorable outcome for everyone</span>
+<span style="color: #a10000">ARADIA: personally i would defer to her judgment!</span>
+<span style="color: #008282">TEREZI: R34LLY? YOU C4N DO TH4T??</span>
+<span style="color: #b536da">ROSE: Yes.</span>
+<span style="color: #008282">TEREZI: TH4T SOUNDS 4 LOT MOR3 US3FUL TH4N MY S33R POW3RS &gt;:[</span>
+<span style="color: #b536da">ROSE: Illumination of the road to victory for all is an asset considerably different from command over the outcomes of decisions made by individuals.</span>
+<span style="color: #b536da">ROSE: How do you know your talents won't be critical in blazing this auspicious trail?</span>
+<span style="color: #008282">TEREZI: UM</span>
+<span style="color: #008282">TEREZI: 1 GU3SS 1 DONT</span>
+<span style="color: #b536da">ROSE: That's because you're not me.</span>
+<span style="color: #008141">KANAYA: Okay Then What Do We Do</span>
+###
+006255
+X

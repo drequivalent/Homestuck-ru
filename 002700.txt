@@ -1,0 +1,15 @@
+Jade: Change wardrobifier setting.
+###
+ea7b914a5d
+###
+1256257688
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00800_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/00800_2.gif
+###
+You deactivate the WARDROBIFIER'S randomization mode and set it to cycle through these three shirt designs.
+
+The decision was tough, but you think you came to the <a href="http://www.mspaintadventures.com/storyfiles/hs2/scraps/poll_jadeshirt.gif" target="_blank" class="postlink">best possible conclusion</a>.
+###
+002701
+X

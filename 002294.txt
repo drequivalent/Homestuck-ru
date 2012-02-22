@@ -1,0 +1,18 @@
+Rose: Exit.
+###
+20e204962e
+###
+1248334463
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00394.gif
+###
+You leave through the back door. 
+
+Nearby is the TRANSFORMER which distributes electricity from the UNDERGROUND GENERATOR powered by the river flowing beneath your house. 
+
+The transformer was struck by lightning though, and no longer works. You wonder if your mother has any plans to have it fixed. You guess she'd rather just play her mind games in a dark house like a weirdo.
+
+You can see the MAUSOLEUM and the PORTABLE GENERATOR across your back yard. You're almost there.
+###
+002295
+X

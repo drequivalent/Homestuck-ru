@@ -1,0 +1,29 @@
+Jade: Deploy laserstation.
+###
+5a20259b29
+###
+1291831006
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03025.gif
+###
+|PESTERLOG|
+<span style="color: #4ac925">GG: what does this thing do?</span>
+<span style="color: #e00707">TG: its mostly pretty stupid and useless</span>
+<span style="color: #e00707">TG: but itll come in handy here</span>
+<span style="color: #e00707">TG: it reads captcha codes</span>
+<span style="color: #4ac925">GG: on the back of cards?</span>
+<span style="color: #e00707">TG: yeah</span>
+<span style="color: #4ac925">GG: but</span>
+<span style="color: #4ac925">GG: we can already read those!</span>
+<span style="color: #e00707">TG: some are too garbled and complicated</span>
+<span style="color: #e00707">TG: the human eye cant decipher them</span>
+<span style="color: #e00707">TG: needs sophisticated scanning technology</span>
+<span style="color: #e00707">TG: and artificial intelligence to figure it out</span>
+<span style="color: #4ac925">GG: hmm</span>
+<span style="color: #4ac925">GG: but isnt the whole point of captchas that only humans can read them?</span>
+<span style="color: #4ac925">GG: and not robots???</span>
+<span style="color: #e00707">TG: yeah well</span>
+<span style="color: #e00707">TG: thats why this is so dumb</span>
+###
+004927
+X

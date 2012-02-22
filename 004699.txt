@@ -1,0 +1,25 @@
+==&gt;
+###
+b5f822a822
+###
+1288151345
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02798.gif
+###
+|SPRITELOG|
+<span style="color: #0715cd">JOHN: you have?</span>
+<span style="color: #00d5f2">NANNASPRITE: Yes! It seems you have been rising through the rungs of your echeladder quite swiftly.</span>
+<span style="color: #0715cd">JOHN: yeah!</span>
+<span style="color: #0715cd">JOHN: now i am an ectobiolo...</span>
+<span style="color: #0715cd">JOHN: ectobiblio... shit!</span>
+<span style="color: #0715cd">JOHN: (oops! sorry.)</span>
+<span style="color: #0715cd">JOHN: ectobioblobabby sitter.</span>
+<span style="color: #0715cd">JOHN: damn it, you know what i mean.</span>
+<span style="color: #00d5f2">NANNASPRITE: Yes, that is quite high. You have climbed so much faster than I did in my youth. I am so proud of you!</span>
+<span style="color: #0715cd">JOHN: thanks!</span>
+<span style="color: #00d5f2">NANNASPRITE: You should have returned sooner! I could have given you this boon at a much lower rung.</span>
+<span style="color: #0715cd">JOHN: boon?</span>
+<span style="color: #00d5f2">NANNASPRITE: Here, John. Take this.</span>
+###
+004700
+X

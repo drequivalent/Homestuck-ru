@@ -1,0 +1,14 @@
+Tavros: Go outside and begin adventure.
+###
+7a26db4cea
+###
+1278440002
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02171.gif
+###
+You take your starting position in the field. The game is afoot, and anything can happen now. It's up to you to consult your maps and work with your teammate to discover the objective of the quest, find treasure, and slay monsters.
+
+Your STAT BAT has bonded with you. This keeps track of every attribute for your character, including vitals. While these attributes in principle remain abstractions, due to the fact that this is EXTREME role playing, they will always relate in some way to your real life attributes as well. You've got to be careful out here!
+###
+004072
+X

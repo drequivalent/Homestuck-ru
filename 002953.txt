@@ -1,0 +1,18 @@
+John: Recombine hammer and pogo ride.
+###
+94b987c232
+###
+1261449391
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01053_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/01053_2.gif
+http://www.mspaintadventures.com/storyfiles/hs2/01053_3.gif
+###
+This time instead of overlapping (&amp;&amp;) the two cards which created the POGO HAMMER, you use the two codes to double-punch (||) a blank card, producing a different hole pattern.
+
+The result is the HAMMERHEAD POGO RIDE. It doesn't look like it's as much fun as the original ride, but to be fair it's probably a lot safer.
+
+Double-punching cards creates patterns with more holes, rather than less holes by overlapping cards. This strikes you as a viable method for combining more than two items without whittling down to too few holes, or too many! Just mix up the overlaps and double-punches, and the sky's the limit.
+###
+002954
+X

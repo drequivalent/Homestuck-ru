@@ -1,0 +1,21 @@
+[A6I1] ==&gt;
+###
+44a6aca864
+###
+1323667141
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04299.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: wait, what just happened?</span>
+<span style="color: #4ac925">JADE: i dont know!</span>
+<span style="color: #0715cd">JOHN: it got darker, and greener...</span>
+<span style="color: #4ac925">JADE: :?</span>
+<span style="color: #0715cd">JOHN: this place is weird. when are we gonna bust through the other window, anyway?</span>
+<span style="color: #0715cd">JOHN: i'm kind of antsy to get on with our adventure and meet up with everybody!</span>
+<span style="color: #4ac925">JADE: yes me too</span>
+<span style="color: #4ac925">JADE: hmmmmmm</span>
+<span style="color: #0715cd">JOHN: what is it?</span>
+###
+006203
+X

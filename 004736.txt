@@ -1,0 +1,98 @@
+==&gt;
+###
+8abfa49772
+###
+1288904757
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02835.gif
+###
+|SPRITELOG|
+<span style="color: #f2a400">DAVESPRITE: oh looks like you got caledfwlch</span>
+<span style="color: #f2a400">DAVESPRITE: you found that pretty fast</span>
+<span style="color: #e00707">DAVE: is that how you pronounce that</span>
+<span style="color: #f2a400">DAVESPRITE: yeah i guess so</span>
+<span style="color: #f2a400">DAVESPRITE: i think its welsh</span>
+<span style="color: #e00707">DAVE: what are welsh things doing in this game</span>
+<span style="color: #f2a400">DAVESPRITE: thats an awesome question</span>
+<span style="color: #e00707">DAVE: fuck yeah it is</span>
+<span style="color: #e00707">DAVE: is this thing as pointless as i think it is or do i need it for something</span>
+<span style="color: #f2a400">DAVESPRITE: tactically yeah its a downgrade since its what i used to make caledscratch which is obviously way better</span>
+<span style="color: #e00707">DAVE: yeah thats what i figured</span>
+<span style="color: #f2a400">DAVESPRITE: caledscratch cycles the sword through its own timeline to points when its broken or nonbroken or old and rusted or recently forged etc</span>
+<span style="color: #f2a400">DAVESPRITE: and your snoop snowcone swords probably even better than that so yeah you got options</span>
+<span style="color: #e00707">DAVE: fuck it ill just power through the rest of the game with the SORD.....</span>
+<span style="color: #f2a400">DAVESPRITE: hahahaha</span>
+<span style="color: #f2a400">DAVESPRITE: with unreal air as a mount fit for a true artifact knight</span>
+<span style="color: #e00707">DAVE: yeah</span>
+<span style="color: #e00707">DAVE: goddamn jpeg hero</span>
+<span style="color: #e00707">DAVE: right here</span>
+<span style="color: #f2a400">DAVESPRITE: did that shit ever land or what</span>
+<span style="color: #e00707">DAVE: dude its long gone</span>
+<span style="color: #e00707">DAVE: up in skaia now or something</span>
+<span style="color: #e00707">DAVE: thrashing ill grinds on clouds</span>
+<span style="color: #f2a400">DAVESPRITE: fuck</span>
+<span style="color: #f2a400">DAVESPRITE: top priority make more</span>
+<span style="color: #f2a400">DAVESPRITE: thats an order from your celestial fuckin spirit guide</span>
+<span style="color: #e00707">DAVE: yeah you got it</span>
+<span style="color: #e00707">DAVE: so why wasnt this legendary pos in the sylladex you gave me</span>
+<span style="color: #e00707">DAVE: did you chuck it after you alchemized it</span>
+<span style="color: #e00707">DAVE: should i just chuck it too</span>
+<span style="color: #f2a400">DAVESPRITE: it was stolen</span>
+<span style="color: #f2a400">DAVESPRITE: by one of hephaestus's minions</span>
+<span style="color: #e00707">DAVE: hes the denizen right</span>
+<span style="color: #f2a400">DAVESPRITE: yeah lord of the forge</span>
+<span style="color: #e00707">DAVE: isnt that like a greek god</span>
+<span style="color: #e00707">DAVE: or roman or whatever</span>
+<span style="color: #e00707">DAVE: what is greco roman shit doing in here you know what never mind</span>
+<span style="color: #f2a400">DAVESPRITE: yeah pretty much</span>
+<span style="color: #f2a400">DAVESPRITE: anyway he gets pissed off you broke it</span>
+<span style="color: #f2a400">DAVESPRITE: and he wants it back</span>
+<span style="color: #f2a400">DAVESPRITE: to do something important with it though not really sure what</span>
+<span style="color: #f2a400">DAVESPRITE: hes a pretty ornery dude</span>
+<span style="color: #f2a400">DAVESPRITE: kept raving about how he was waiting for the forge to come</span>
+<span style="color: #f2a400">DAVESPRITE: which he needs to complete his work</span>
+<span style="color: #f2a400">DAVESPRITE: but in my timeline the forge would never come</span>
+<span style="color: #f2a400">DAVESPRITE: so he was extra pissed off</span>
+<span style="color: #e00707">DAVE: whats the forge</span>
+<span style="color: #f2a400">DAVESPRITE: volcano</span>
+<span style="color: #e00707">DAVE: huh</span>
+<span style="color: #e00707">DAVE: you mean jades volcano</span>
+<span style="color: #f2a400">DAVESPRITE: yup</span>
+<span style="color: #e00707">DAVE: so do you know this stuff cause youre from the future or cause youre a sprite</span>
+<span style="color: #f2a400">DAVESPRITE: both</span>
+<span style="color: #f2a400">DAVESPRITE: theres all sorts of stuff i suddenly knew about the game when i became this orange feathery asshole</span>
+<span style="color: #e00707">DAVE: so now youre like</span>
+<span style="color: #e00707">DAVE: a wise feathery asshole</span>
+<span style="color: #f2a400">DAVESPRITE: i am fuckin filthy with wisdom its sick</span>
+<span style="color: #f2a400">DAVESPRITE: i mostly know stuff about your personal quest</span>
+<span style="color: #f2a400">DAVESPRITE: what used to be my quest but i guess i got to deal with not being alpha dave no more</span>
+<span style="color: #e00707">DAVE: yeah i guess</span>
+<span style="color: #f2a400">DAVESPRITE: shrug</span>
+<span style="color: #f2a400">DAVESPRITE: its all good</span>
+<span style="color: #f2a400">DAVESPRITE: anyway that sword</span>
+<span style="color: #f2a400">DAVESPRITE: its important to getting your shit figured out</span>
+<span style="color: #f2a400">DAVESPRITE: you were supposed to break it to get it out of the thing</span>
+<span style="color: #f2a400">DAVESPRITE: like another personal sort of mythological milestone you were supposed to clear</span>
+<span style="color: #e00707">DAVE: really</span>
+<span style="color: #e00707">DAVE: there was no other way to get it out</span>
+<span style="color: #e00707">DAVE: thats kind of retarded</span>
+<span style="color: #f2a400">DAVESPRITE: well i dont know</span>
+<span style="color: #f2a400">DAVESPRITE: maybe if john was to try with his pure heart and shit it woulda popped out like a champagne cork and fuckin hero confetti woulda blasted him in the face</span>
+<span style="color: #f2a400">DAVESPRITE: but you</span>
+<span style="color: #f2a400">DAVESPRITE: we</span>
+<span style="color: #f2a400">DAVESPRITE: we had to break it</span>
+<span style="color: #e00707">DAVE: ok</span>
+<span style="color: #f2a400">DAVESPRITE: theres a lot more i know about your quest</span>
+<span style="color: #f2a400">DAVESPRITE: all tangled up in ridiculous riddles and bullshit enigmas</span>
+<span style="color: #f2a400">DAVESPRITE: and maybe its all a moot point anyway in this timeline who knows</span>
+<span style="color: #f2a400">DAVESPRITE: but i think ill spare you all that crap</span>
+<span style="color: #f2a400">DAVESPRITE: cause its kind of boring</span>
+<span style="color: #f2a400">DAVESPRITE: and youll find out anyway</span>
+<span style="color: #e00707">DAVE: yeah</span>
+<span style="color: #e00707">DAVE: that sounds about like something id do if i were you</span>
+<span style="color: #e00707">DAVE: which i am</span>
+<span style="color: #e00707">DAVE: so hey</span>
+<span style="color: #e00707">DAVE: apparently im about to fall asleep</span>
+###
+004737
+X

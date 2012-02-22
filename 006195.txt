@@ -1,0 +1,13 @@
+ACT 6 INTERMISSION 1
+###
+d49cab4d85
+###
+1323562972
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04292.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: where are we?</span>
+###
+006196
+X

@@ -1,0 +1,30 @@
+[S][o] ==&gt;
+###
+76707fd4b2
+###
+1310751870
+###
+F|http://www.mspaintadventures.com/storyfiles/hs2/03949
+###
+|PESTERLOG|
+<span style="color: #005682">AG: What's this?</span>
+<span style="color: #0715cd">EB: i found it very deep in the palace dungeon. i was wandering for hours, following a horrible sound through the pipes.</span>
+<span style="color: #0715cd">EB: i could tell typheus was really close, because it was very loud here. it could only be the sound of him sleeping.</span>
+<span style="color: #0715cd">EB: i was so tempted to play it, but i didn't dare risk waking him up!</span>
+<span style="color: #0715cd">EB: pretty much by then i was sweating bullets at the thought of confronting him.</span>
+<span style="color: #005682">AG: You were right to 8e nervous. Denizens are incredi8ly powerful monsters. You had no chance whatsoever at this stage of the game.</span>
+<span style="color: #005682">AG: You might have stood a chance after I started helping you. 8ut Terezi really screwed you over 8y leading you here so early.</span>
+<span style="color: #0715cd">EB: yeah...</span>
+<span style="color: #0715cd">EB: i guess if i ever see her, i should thank her too.</span>
+<span style="color: #005682">AG: Why?</span>
+<span style="color: #0715cd">EB: because this was important.</span>
+<span style="color: #005682">AG: What was? Getting killed 8y a monster?</span>
+<span style="color: #0715cd">EB: well, yes. but not just that.</span>
+<span style="color: #0715cd">EB: the whole ruse was important!</span>
+<span style="color: #0715cd">EB: if i didn't make the decision to go, then dave would not be able to go back in time and fix things.</span>
+<span style="color: #0715cd">EB: in fact, if i didn't die here in this palace, we never would have been born in the first place!</span>
+<span style="color: #005682">AG: How could you know all that?</span>
+<span style="color: #0715cd">EB: this way...</span>
+###
+005853
+X

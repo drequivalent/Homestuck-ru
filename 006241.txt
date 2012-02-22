@@ -1,0 +1,16 @@
+[A6I1] ==&gt;
+###
+cfff7cafa7
+###
+1324113097
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04338.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: i could stick it in a book i guess.</span>
+<span style="color: #0715cd">JOHN: but i kind of don't want to part with any great reading material, especially since we're going on a long trip.</span>
+<span style="color: #4ac925">JADE: john you have to hurry!</span>
+<span style="color: #0715cd">JOHN: ok, ok, um...</span>
+###
+006242
+X

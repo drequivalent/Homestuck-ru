@@ -1,0 +1,31 @@
+[A6I1] ==&gt;
+###
+36d3a1db75
+###
+1324517899
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04356.gif
+###
+|DIALOGLOG|
+<span style="color: #626262">KARKAT: OH NO...</span>
+<span style="color: #626262">KARKAT: ARE YOU SURE YOU WANT TO DO THAT?</span>
+<span style="color: #626262">KARKAT: I MEAN WHO EVEN REALLY CARES IF HE STOLE MORE BODIES.</span>
+<span style="color: #626262">KARKAT: HE CAN HAVE THEM FRANKLY, AS LONG AS IT KEEPS HIM OUT OF TROUBLE.</span>
+<span style="color: #626262">KARKAT: WE DON'T NEED TO HAVE A FUCKING CORPSE PARTY, SERIOUSLY, FUCK THAT DUMB IDEA.</span>
+<span style="color: #008141">KANAYA: ...</span>
+<span style="color: #626262">KARKAT: ALRIGHT IF YOU'RE REALLY GOING TO GO</span>
+<span style="color: #626262">KARKAT: JUST</span>
+<span style="color: #626262">KARKAT: BE CAREFUL</span>
+<span style="color: #626262">KARKAT: NO MORE POINTLESS BLOODSHED, OK? THAT'S AN ORDER!</span>
+<span style="color: #626262">KARKAT: WAIT FUCK</span>
+<span style="color: #626262">KARKAT: I'M NOT LEADER ANYMORE</span>
+<span style="color: #626262">KARKAT: ROSE CAN YOU ORDER HER TO DO THAT?</span>
+<span style="color: #626262">KARKAT: SAY WHAT I JUST SAID, REALLY ANGRILY</span>
+<span style="color: #626262">KARKAT: ASSUMING YOU CAN EVEN *BE* ANGRY.</span>
+<span style="color: #b536da">ROSE: ...</span>
+<span style="color: #626262">KARKAT: WAIT</span>
+<span style="color: #626262">KARKAT: GUYS SOMETHING'S HAPPENING...</span>
+<span style="color: #626262">KARKAT: WHAT THE FUCK IS GOING ON NOW???</span>
+###
+006260
+X

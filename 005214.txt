@@ -1,0 +1,26 @@
+==&gt;
+###
+e214d1de38
+###
+1295404851
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03311.gif
+###
+|PESTERLOG|
+<span style="color: #4ac925">GG: ok, here is a frog on the screen</span>
+<span style="color: #4ac925">GG: on no, is it trapped in ice?</span>
+<span style="color: #008141">GA: I Would Conjecture That Most Of Them Are</span>
+<span style="color: #008141">GA: And Will Stay That Way Until The Forge Is Brought To Life</span>
+<span style="color: #008141">GA: I Think The Event Is Designed To Trigger Drastic Planetary Upheaval Wherever The Forge Is Stationed</span>
+<span style="color: #008141">GA: It Did On My Planet As Well</span>
+<span style="color: #4ac925">GG: was your planet covered in ice too?</span>
+<span style="color: #008141">GA: No Mostly Water</span>
+<span style="color: #4ac925">GG: cool!</span>
+<span style="color: #4ac925">GG: anyway, i will try to rescue this frog</span>
+<span style="color: #4ac925">GG: so i push this button to appearify it?</span>
+<span style="color: #008141">GA: Yes</span>
+<span style="color: #008141">GA: It Probably Wont Do Any Good But You Can Try</span>
+<span style="color: #4ac925">GG: ok........</span>
+###
+005215
+X

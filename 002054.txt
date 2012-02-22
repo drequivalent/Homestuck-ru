@@ -1,0 +1,25 @@
+==&gt;
+###
+fe40d5415e
+###
+1242349147
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00154_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/00154_2.gif
+###
+|PESTERLOG|
+<span style="color: #b536da">TT: Now that your room is bigger, why don't you move to the far corner?</span>
+<span style="color: #b536da">TT: It will extend the range of the cursor, and I can reach the items.</span>
+<span style="color: #b536da">TT: Which... you threw out the window for some reason?</span>
+<span style="color: #0715cd">EB: good idea!</span>
+<span style="color: #b536da">TT: What have you been doing in here all afternoon, anyway?</span>
+<span style="color: #0715cd">EB: ugh, i was fussing with my retarded sylladex.</span>
+<span style="color: #0715cd">EB: but i think i have it under control now.</span>
+<span style="color: #0715cd">EB: what modus do you use?</span>
+<span style="color: #b536da">TT: I like to use trees.</span>
+<span style="color: #0715cd">EB: oh no, that sounds so awkward.</span>
+<span style="color: #b536da">TT: It's not exceptionally practical.</span>
+<span style="color: #b536da">TT: But I think they are elegant.</span>
+###
+002055
+X

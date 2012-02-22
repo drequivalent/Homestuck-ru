@@ -1,0 +1,23 @@
+John: Captchalogue/punch Heath Ledger Joker figurine.
+###
+1b6007c131
+###
+1261468803
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01064_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/01064_2.gif
+###
+If you can somehow &quot;subtract&quot; the code of the JOKER FIGURINE from the code of the poster, it might work.
+
+Luckily, the Joker code only has two holes, making the task very simple. The defaced Cosby poster shares those holes. You determine that the defaced Cosby could only result from a double-punching with the Joker, if your theory is correct. This means the original Cosby poster had one of those holes punched, or the other, or neither, making three total possibilities.
+
+You try out all three possible codes, yielding:
+
+- 1 POTTED PLANT 
+- 1 PAINTING OF A HORSE ATTACKING A FOOTBALL PLAYER 
+- 1 CLEAN COSBY POSTER 
+
+SUCCESS.
+###
+002965
+X

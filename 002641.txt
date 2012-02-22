@@ -1,0 +1,16 @@
+WV: Inspect green buttons.
+###
+3a9c071aa3
+###
+1254706447
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00741.gif
+###
+You first examine the attractive GREEN BUTTONS. 
+
+The icon for the one on the left is that house shape you've seen plenty of times before.
+
+The right one on closer inspection appears to be the map for this underground facility, with an X marking its center.
+###
+002642
+X

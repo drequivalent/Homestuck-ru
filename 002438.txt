@@ -1,0 +1,21 @@
+==&gt;
+###
+8462b8e23e
+###
+1251257861
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00538.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">EB: wow, that was so totally unnecessary!</span>
+<span style="color: #b536da">TT: I made a shortcut upstairs. I thought it would be a good idea to get up there and try the cards as soon as possible.</span>
+<span style="color: #b536da">TT: Also, you weren't being terribly responsive.</span>
+<span style="color: #0715cd">EB: you mean these stairs?</span>
+<span style="color: #0715cd">EB: man, look at these shitty stairs...</span>
+<span style="color: #0715cd">EB: they're so narrow! i'm supposed to climb those?</span>
+<span style="color: #b536da">TT: They're perfectly navigable.</span>
+<span style="color: #b536da">TT: I'm saving on grist for now.</span>
+<span style="color: #b536da">TT: If you keep slaying foes, collecting grist, and expanding the cache limit, we may not need to be so economical with our resources in the future.</span>
+###
+002439
+X

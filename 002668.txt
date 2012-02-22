@@ -1,0 +1,15 @@
+Examine room.
+###
+fb492f3225
+###
+1255508850
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00768_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/00768_2.gif
+###
+Your name is JADE. You have just woken from a restful nap, and as usual, you have no recollection of having fallen asleep. You have quite a number of INTERESTS. So many in fact, you have trouble keeping track of them all, even with an assortment of COLORFUL REMINDERS on your fingers to help you sort out everything on your mind. Nevertheless, when you spend time in your GARDEN ATRIUM, the only thing on your mind is your deep passion for HORTICULTURE.
+
+What will you do?
+###
+002669
+X

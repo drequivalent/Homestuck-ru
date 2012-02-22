@@ -1,0 +1,14 @@
+Jane: Install Sburb client.
+###
+7e91a8e80f
+###
+1326324378
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04441.gif
+###
+It doesn't even seem to install anything. It just runs a small application when you execute it.
+
+Looks like you're one keypress away from playing. Do you dare?
+###
+006345
+X

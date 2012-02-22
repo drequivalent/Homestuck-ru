@@ -1,0 +1,15 @@
+AR: Examine the wall behind you.
+###
+5201e5f9cd
+###
+1262480882
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01102_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/01102_2.gif
+###
+The wall exhibits rows of ancient hieroglyphs depicting an array of amphibious and reptilian life forms.
+
+This is illegal pictography. It makes you angry.
+###
+003003
+X

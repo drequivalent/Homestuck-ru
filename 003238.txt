@@ -1,0 +1,14 @@
+[I] SS: Enter the vault.
+###
+85ccab11a3
+###
+1265667452
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01338.gif
+###
+There's nothing in here except an opening in the floor. There is a door with a keyhole, and you have a feeling you know how to open it.
+
+You only wonder why <span style="color: #2ed73a">English</span>'s treasure would be locked behind a door with a spade on it.
+###
+003239
+X

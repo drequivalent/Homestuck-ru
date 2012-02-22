@@ -1,0 +1,60 @@
+==&gt;
+###
+daa6641186
+###
+1269655785
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01626_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/01626_2.gif
+###
+|SPRITELOG|
+<span style="color: #b536da">ROSE: Is that all you have to say?</span>
+<span style="color: #f141ef">JASPERSPRITE: Purr purr purr.</span>
+<span style="color: #b536da">ROSE: I thought you were supposed to be more helpful after your resurrection.</span>
+<span style="color: #b536da">ROSE: Like a ghostly spirit guide. Wise, if frustratingly cryptic.</span>
+<span style="color: #f141ef">JASPERSPRITE: Purrrrrrrrrr.</span>
+<span style="color: #b536da">ROSE: Actually, cryptic behavior would be welcome at this point.</span>
+<span style="color: #b536da">ROSE: This is just inane.</span>
+<span style="color: #f141ef">JASPERSPRITE: :3</span>
+<span style="color: #b536da">ROSE: Should I report to the others that my Kernelsprite is a Lolcat?</span>
+<span style="color: #b536da">ROSE: Maybe Dave can take some screen captures and overlay some poorly spelled captions.</span>
+<span style="color: #b536da">ROSE: Assuming he hasn't already.</span>
+<span style="color: #f141ef">JASPERSPRITE: Meow.</span>
+<span style="color: #b536da">ROSE: What are you doing there, by the way?</span>
+<span style="color: #f141ef">JASPERSPRITE: Im fishing!</span>
+<span style="color: #b536da">ROSE: Oh. So you can talk.</span>
+<span style="color: #f141ef">JASPERSPRITE: But sadly there are no fish i think.</span>
+<span style="color: #f141ef">JASPERSPRITE: They were all eaten by the <span style="text-decoration: underline">Denizen</span>!</span>
+<span style="color: #b536da">ROSE: Who?</span>
+<span style="color: #f141ef">JASPERSPRITE: It ate everything in the ocean and got so full that it took a long nap.</span>
+<span style="color: #f141ef">JASPERSPRITE: No there is surely not a single living thing left!</span>
+<span style="color: #f141ef">JASPERSPRITE: Which is too bad because im pretty hungry.</span>
+<span style="color: #b536da">ROSE: I think there might be some tuna in the cabinets.</span>
+<span style="color: #f141ef">JASPERSPRITE: Oh good idea i will look there!</span>
+<span style="color: #f141ef">JASPERSPRITE: Purr purr.</span>
+<span style="color: #b536da">ROSE: Jaspers, the message you gave me years ago before you disappeared...</span>
+<span style="color: #b536da">ROSE: What did you mean?</span>
+<span style="color: #f141ef">JASPERSPRITE: Meow.</span>
+<span style="color: #b536da">ROSE: Sigh...</span>
+<span style="color: #f141ef">JASPERSPRITE: :3</span>
+<span style="color: #b536da">ROSE: I don't understand.</span>
+<span style="color: #b536da">ROSE: Is there some meaning to these responses, or are you just being obstinate?</span>
+<span style="color: #f141ef">JASPERSPRITE: You will understand when you wake up!</span>
+<span style="color: #b536da">ROSE: Am I asleep?</span>
+<span style="color: #f141ef">JASPERSPRITE: Yes!</span>
+<span style="color: #f141ef">JASPERSPRITE: Rose im just a cat and i dont know much but i know that youre important and also you are what some people around here call the <span style="text-decoration: underline">Seer of Light</span>.</span>
+<span style="color: #f141ef">JASPERSPRITE: And you dont know what that means but you will see its all tied together!</span>
+<span style="color: #f141ef">JASPERSPRITE: All the life in the ocean and all the shiny rain and the songs in your head and the letters they make.</span>
+<span style="color: #f141ef">JASPERSPRITE: A beam of light i think is like a drop of rain or a long piece of yarn that dances around when you play with it and make it look enticing!</span>
+<span style="color: #f141ef">JASPERSPRITE: And the way that it shakes is the same as what makes notes in a song!</span>
+<span style="color: #f141ef">JASPERSPRITE: And a song i think can be written down as letters.</span>
+<span style="color: #f141ef">JASPERSPRITE: So if you play the right song and it makes all the right letters then those letters could be all the letters that make life possible.</span>
+<span style="color: #f141ef">JASPERSPRITE: So all you have to do is wake up and learn to play the rain!</span>
+<span style="color: #f141ef">JASPERSPRITE: Does that make sense rose sorry i disappeared for so long.</span>
+<span style="color: #b536da">ROSE: Sort of.</span>
+<span style="color: #b536da">ROSE: It sounds like you aren't exactly in complete command of this information yourself, so I won't press you on it for now.</span>
+<span style="color: #b536da">ROSE: You're a pretty good cat, Jaspers. I missed you.</span>
+<span style="color: #f141ef">JASPERSPRITE: Purr purr purrrrrrrr.</span>
+###
+003527
+X

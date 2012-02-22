@@ -1,0 +1,30 @@
+Kanaya: Have eighth conversation.
+###
+f6d31895c0
+###
+1285911658
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02720.gif
+###
+|PESTERLOG|
+-- grimAuxiliatrix <span style="color: #008141">[GA]</span> began trolling tentacleTherapist <span style="color: #b536da">[TT]</span> --
+
+<span style="color: #008141">GA: What</span>
+<span style="color: #008141">GA: The Hell</span>
+<span style="color: #008141">GA: Did You Just Do</span>
+<span style="color: #b536da">TT: Hi there.</span>
+<span style="color: #008141">GA: You Actually Did It</span>
+<span style="color: #008141">GA: Blew It Up I Mean</span>
+<span style="color: #008141">GA: I Had Begun To Believe That Was Embellishment</span>
+<span style="color: #b536da">TT: This is it, isn't it?</span>
+<span style="color: #008141">GA: What Is It</span>
+<span style="color: #b536da">TT: This is the eighth conversation between us, from your perspective.</span>
+<span style="color: #b536da">TT: As well as mine.</span>
+<span style="color: #008141">GA: Yeah</span>
+<span style="color: #b536da">TT: I've been looking forward to this.</span>
+<span style="color: #008141">GA: Really</span>
+<span style="color: #b536da">TT: Yes.</span>
+<span style="color: #b536da">TT: I have some questions for you.</span>
+###
+004622
+X

@@ -1,0 +1,23 @@
+A QUEST OF FUTILITY THEN. ==&gt;
+###
+757ac5eeaf
+###
+1249191667
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00425.gif
+###
+|SPRITELOG|
+<span style="color: #0715cd">JOHN: wow, really? then what's the point?</span>
+
+<span style="color: #00d5f2">NANNASPRITE: That remains for you to find out, dear! For you see, the journey you are about to take is <span style="text-decoration: underline">The Ultimate Riddle</span>!</span>
+
+<span style="color: #0715cd">JOHN: whoa!!!</span>
+
+<span style="color: #00d5f2">NANNASPRITE: For now, your objective is to proceed towards <span style="text-decoration: underline">Skaia</span>, and pass through <span style="text-decoration: underline">The First Gate</span> situated directly above your house, not even terribly far! The Gates will become progressively more difficult to reach, so you had better be prepared to sharpen your adventuring skills!</span>
+
+<span style="color: #0715cd">JOHN: how am i supposed to get up there?</span>
+
+<span style="color: #00d5f2">NANNASPRITE: You build!</span>
+###
+002326
+X

@@ -1,0 +1,38 @@
+======&gt;
+###
+9ecb95bc6d
+###
+1279600873
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02287.gif
+###
+|SPRITELOG|
+<span style="color: #000056">EQUIUS: D --&gt; I think it suits you</span>
+<span style="color: #000056">EQUIUS: D --&gt; Much more so than the form of a levitating ghostly amphibian</span>
+<span style="color: #000056">EQUIUS: D --&gt; How does it feel</span>
+<span style="color: #a10000">ARADIABOT: it feels</span>
+<span style="color: #a10000">ARADIABOT: different!</span>
+<span style="color: #000056">EQUIUS: D --&gt; Ok</span>
+<span style="color: #000056">EQUIUS: D --&gt; But I mean</span>
+<span style="color: #000056">EQUIUS: D --&gt; Do you feel anything else</span>
+<span style="color: #a10000">ARADIABOT: uh</span>
+<span style="color: #000056">EQUIUS: D --&gt; Any sort of</span>
+<span style="color: #000056">EQUIUS: D --&gt; Stirring sensations</span>
+<span style="color: #a10000">ARADIABOT: stirring?</span>
+<span style="color: #000056">EQUIUS: D --&gt; Yes</span>
+<span style="color: #000056">EQUIUS: D --&gt; Such as</span>
+<span style="color: #000056">EQUIUS: D --&gt; Sensations which may be stirred by flowing b100d and a beating heart</span>
+<span style="color: #a10000">ARADIABOT: im n0t sure</span>
+<span style="color: #000056">EQUIUS: D --&gt; Can you detect anything within you might describe as</span>
+<span style="color: #000056">EQUIUS: D --&gt; Smoldering passion</span>
+<span style="color: #000056">EQUIUS: D --&gt; I mean</span>
+<span style="color: #000056">EQUIUS: D --&gt; Just out of curiosity</span>
+<span style="color: #a10000">ARADIABOT: wait</span>
+<span style="color: #a10000">ARADIABOT: what is that</span>
+<span style="color: #000056">EQUIUS: D --&gt; What's what</span>
+<span style="color: #a10000">ARADIABOT: this feeling</span>
+<span style="color: #a10000">ARADIABOT: 0h g0d</span>
+<span style="color: #a10000">ARADIABOT: 0H MY G0D WHAT DID Y0U D0!</span>
+###
+004188
+X

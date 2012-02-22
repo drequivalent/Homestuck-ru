@@ -1,0 +1,16 @@
+Jade: Thank best friend.
+###
+6eba65fe35
+###
+1291687097
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03005.gif
+###
+|SPRITELOG|
+<span style="color: #4ac925">JADE: thanks bec, good boy!</span>
+<span style="color: #4ac925">JADE: soooooo...</span>
+<span style="color: #4ac925">JADE: can you talk now?</span>
+<span style="color: #4ac925">JADE: what do you have to say?</span>
+###
+004907
+X

@@ -1,0 +1,47 @@
+==&gt;
+###
+6a65d72282
+###
+1288418810
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02815.gif
+###
+|SPRITELOG|
+<span style="color: #b536da">ROSE: Hi Jaspers.</span>
+<span style="color: #f141ef">JASPERSPRITE: Hi rose!</span>
+<span style="color: #f141ef">JASPERSPRITE: Purr purr purr.</span>
+<span style="color: #b536da">ROSE: Jaspers, I am releasing you now.</span>
+<span style="color: #b536da">ROSE: You are free to go do as you please.</span>
+<span style="color: #f141ef">JASPERSPRITE: Really rose ok if thats what you want i will go do that.</span>
+<span style="color: #f141ef">JASPERSPRITE: Oh rose!</span>
+<span style="color: #f141ef">JASPERSPRITE: Rose did you get to do any of the things that are important to your quest that i said?</span>
+<span style="color: #f141ef">JASPERSPRITE: Did you learn to play the rain rose?</span>
+<span style="color: #b536da">ROSE: Not yet, Jaspers.</span>
+<span style="color: #b536da">ROSE: It's a little complicated, but I believe I've embarked on another quest, one which surpasses the scope of the objectives local to this planet.</span>
+<span style="color: #f141ef">JASPERSPRITE: Meow what :3</span>
+<span style="color: #b536da">ROSE: I'm saying there's something more important to accomplish now. Something more important than creating a universe.</span>
+<span style="color: #f141ef">JASPERSPRITE: Oh thats ok rose i wouldnt want you to feel obligated to do that.</span>
+<span style="color: #f141ef">JASPERSPRITE: I think that winning this game and getting the prize is up to you and your friends.</span>
+<span style="color: #f141ef">JASPERSPRITE: You get to decide whether or not you feel its right to do that and what kind of prize you want to make!</span>
+<span style="color: #f141ef">JASPERSPRITE: Its part of becoming who youre supposed to become i think.</span>
+<span style="color: #f141ef">JASPERSPRITE: But i really think you should consider going on the quest i said anyway!</span>
+<span style="color: #b536da">ROSE: Why?</span>
+<span style="color: #f141ef">JASPERSPRITE: Because its not just an important thing to do to win the game.</span>
+<span style="color: #f141ef">JASPERSPRITE: I dont know i hope im not being too pushy rose its not my place to be im just your cat!</span>
+<span style="color: #f141ef">JASPERSPRITE: But the thing that made me how i am now seems to really want me to say this to you.</span>
+<span style="color: #f141ef">JASPERSPRITE: Your quest is really important for you to do.</span>
+<span style="color: #f141ef">JASPERSPRITE: Not really because thats how to get the prize.</span>
+<span style="color: #f141ef">JASPERSPRITE: But because its what you need to do for yourself!</span>
+<span style="color: #b536da">ROSE: I see. I promise I will consider it seriously then.</span>
+<span style="color: #f141ef">JASPERSPRITE: Oh good!</span>
+<span style="color: #f141ef">JASPERSPRITE: I love you rose! I always have even when you were a little girl and i was an alive cat.</span>
+<span style="color: #b536da">ROSE: Thanks, Jaspers, that's nice to hear.</span>
+<span style="color: #b536da">ROSE: It's hard to remember, but I'm pretty sure I felt the same way back then.</span>
+<span style="color: #f141ef">JASPERSPRITE: It was fun getting to be your cat again rose even if it was just for a little while and also while being a princess ghost.</span>
+<span style="color: #f141ef">JASPERSPRITE: Bye rose!</span>
+<span style="color: #b536da">ROSE: See you, Jaspers!</span>
+<span style="color: #b536da">ROSE: If you see my mother in the course of your travels, tell her I said hello.</span>
+<span style="color: #f141ef">JASPERSPRITE: Ok I will do that! :3</span>
+###
+004717
+X

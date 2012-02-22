@@ -1,0 +1,17 @@
+==&gt;?
+###
+a4ee162362
+###
+1249266938
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00427.gif
+###
+|SPRITELOG|
+<span style="color: #00d5f2">NANNASPRITE: Your planet is done for, dear! There is nothing you can do about that!</span>
+<span style="color: #0715cd">JOHN: oh...</span>
+<span style="color: #00d5f2">NANNASPRITE: Your purpose is so much more important than saving that silly old planet, though!</span>
+<span style="color: #0715cd">JOHN: and that is?</span>
+<span style="color: #00d5f2">NANNASPRITE: HOO HOO HOO HOO HOO!</span>
+###
+002328
+X

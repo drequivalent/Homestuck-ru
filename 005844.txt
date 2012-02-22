@@ -1,0 +1,56 @@
+[o]
+###
+09e6cc632b
+###
+1310676690
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03941.gif
+###
+|SPRITELOG|
+<span style="color: #f2a400">DAVESPRITE: i busted into his palace</span>
+<span style="color: #f2a400">DAVESPRITE: to finish the quest</span>
+<span style="color: #f2a400">DAVESPRITE: i was expecting him to be asleep and was gonna figure out some way to wake him up</span>
+<span style="color: #f2a400">DAVESPRITE: but like last time i saw him</span>
+<span style="color: #f2a400">DAVESPRITE: he was already awake to greet me</span>
+<span style="color: #1f9400">JADESPRITE: but i thought the denizens were supposed to be asleep?</span>
+<span style="color: #1f9400">JADESPRITE: at least until you do the right things on your quest...</span>
+<span style="color: #f2a400">DAVESPRITE: they are</span>
+<span style="color: #f2a400">DAVESPRITE: as sprites were programmed to know things like that about the game</span>
+<span style="color: #f2a400">DAVESPRITE: but i guess not everything</span>
+<span style="color: #f2a400">DAVESPRITE: it seems like if you try to go fight them too soon</span>
+<span style="color: #f2a400">DAVESPRITE: you find them awake and theyre like</span>
+<span style="color: #f2a400">DAVESPRITE: what the fuck are you doing here already</span>
+<span style="color: #f2a400">DAVESPRITE: which is what happened last time i saw him</span>
+<span style="color: #f2a400">DAVESPRITE: before i became a sprite</span>
+<span style="color: #f2a400">DAVESPRITE: and i stupidly tried to fight him which was a bad idea because hes hella strong</span>
+<span style="color: #f2a400">DAVESPRITE: and the whole time he was raving about shit</span>
+<span style="color: #f2a400">DAVESPRITE: about a stolen sword and missing forge</span>
+<span style="color: #f2a400">DAVESPRITE: but i wasnt really listening</span>
+<span style="color: #f2a400">DAVESPRITE: if i had i might have understood</span>
+<span style="color: #f2a400">DAVESPRITE: he wasnt actually trying to kill me he was giving me the choice</span>
+<span style="color: #1f9400">JADESPRITE: what choice</span>
+<span style="color: #f2a400">DAVESPRITE: wait i mean <span style="text-decoration: underline">The Choice</span></span>
+<span style="color: #f2a400">DAVESPRITE: i always forget i can talk underlined for important shit</span>
+<span style="color: #1f9400">JADESPRITE: what did you choose?</span>
+<span style="color: #f2a400">DAVESPRITE: i guess i made an unwitting choice</span>
+<span style="color: #f2a400">DAVESPRITE: by deciding to flee</span>
+<span style="color: #f2a400">DAVESPRITE: i figured he was unbeatable so i decided to get the fuck out of there</span>
+<span style="color: #f2a400">DAVESPRITE: so i snapped a quick captcha to get his huge hammers code and then gtfo</span>
+<span style="color: #1f9400">JADESPRITE: what happened when you saw him this time?</span>
+<span style="color: #f2a400">DAVESPRITE: like i said he was awake again</span>
+<span style="color: #f2a400">DAVESPRITE: but this time i wasnt in any condition to fight</span>
+<span style="color: #f2a400">DAVESPRITE: so i didnt</span>
+<span style="color: #f2a400">DAVESPRITE: and thats what i didnt get</span>
+<span style="color: #f2a400">DAVESPRITE: hes this terrible angry monstrous guy but theres no need to fight him</span>
+<span style="color: #f2a400">DAVESPRITE: so he looked me up and down all hard</span>
+<span style="color: #f2a400">DAVESPRITE: saw the broken sword</span>
+<span style="color: #f2a400">DAVESPRITE: and like before gave me the choice</span>
+<span style="color: #1f9400">JADESPRITE: you mean <span style="text-decoration: underline">Choice</span>!</span>
+<span style="color: #1f9400">JADESPRITE: <span style="text-decoration: underline">hehehe :p</span></span>
+<span style="color: #1f9400">JADESPRITE: oops</span>
+<span style="color: #f2a400">DAVESPRITE: yeah</span>
+<span style="color: #1f9400">JADESPRITE: so it was the same choice?</span>
+<span style="color: #f2a400">DAVESPRITE: no</span>
+###
+005845
+X

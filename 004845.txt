@@ -1,0 +1,16 @@
+WV: Examine ring.
+###
+2ba61f939b
+###
+1291088867
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02944.gif
+###
+You have not inspected your treasure in years. You have spent ages guarding it without understanding its purpose.
+
+Its only purpose you have understood has been to remind you of things you have taken care to forget. But now...
+
+You think it is time to remember.
+###
+004846
+X

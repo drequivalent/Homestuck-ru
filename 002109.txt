@@ -1,0 +1,12 @@
+John: Use cruxite dowel on totem lathe.
+###
+ff09833ec8
+###
+1243298218
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00209.gif
+###
+You clamp the CRUXITE in the lathe.
+###
+002110
+X

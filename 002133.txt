@@ -1,0 +1,13 @@
+==&gt;
+###
+5453ab6fc5
+###
+1243901800
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00233_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/00233_2.gif
+###
+This door leads up to the OBSERVATORY. You haven't ventured up there in quite some time.
+###
+002134
+X

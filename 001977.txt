@@ -1,0 +1,12 @@
+[S] John: Play haunting piano refrain.
+###
+53e0737cd0
+###
+1240356767
+###
+F|http://www.mspaintadventures.com/storyfiles/hs2/00077
+###
+(Pages including sound will be preceded by [S] in the command.)
+###
+001978
+X

@@ -1,0 +1,87 @@
+[A6I1] ==&gt;
+###
+616d7fa849
+###
+1324453693
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04353.gif
+###
+|DIALOGLOG|
+<span style="color: #a10000">ARADIA: karkat go back to holding your breath!</span>
+<span style="color: #a10000">ARADIA: this is going to be a wonderful adventure for everyone</span>
+<span style="color: #a10000">ARADIA: im a bit jealous honestly!</span>
+<span style="color: #a10000">ARADIA: or i would be if i wasnt having such a good time with my death fangirl thing :p</span>
+<span style="color: #008141">KANAYA: So</span>
+<span style="color: #008141">KANAYA: You Arent Coming Then</span>
+<span style="color: #a10000">ARADIA: no</span>
+<span style="color: #a10000">ARADIA: i still have important work to do here</span>
+<span style="color: #008282">TEREZI: 4WW &gt;:[</span>
+<span style="color: #a10000">ARADIA: but that doesnt rule out the possibility we could meet again in bubbles along your journey!</span>
+<span style="color: #008282">TEREZI: 1 HOP3 SO</span>
+<span style="color: #a1a100">SOLLUX: yeah, i think i'll hang behind here t0o, if that's 0k with you guys.</span>
+<span style="color: #626262">KARKAT: WAIT, WHAT?</span>
+<span style="color: #626262">KARKAT: NO COME ON, DON'T BE LIKE THAT</span>
+<span style="color: #a1a100">SOLLUX: be like what? a ghost??</span>
+<span style="color: #a1a100">SOLLUX: i d0n't think i belong with the living anym0re.</span>
+<span style="color: #626262">KARKAT: YOU'RE A *HALF* GHOST, ASSHOLE.</span>
+<span style="color: #626262">KARKAT: WHAT DOES THAT EVEN MEAN? HOW ARE YOU EVEN TAKING THIS IDIOTIC &quot;HALF DEATH&quot; SERIOUSLY IF YOU JUST GO HOG WILD AS A FUCKING WHOLE-GHOST, AND SAY STUPID SHIT LIKE, BLAH BLAH, I BELONG IN THE AFTERLIFE NOW LIKE A DUMBASS.</span>
+<span style="color: #a1a100">SOLLUX: kk, SORRY.</span>
+<span style="color: #a1a100">SOLLUX: i'm just d0ne with this crap, this insane adventure bullshit, it's nothing pers0nal.</span>
+<span style="color: #a1a100">SOLLUX: i just want to spend time with aa and chill 0ut and catch up with some 0f our dead buddies, is that 0k?</span>
+<span style="color: #626262">KARKAT: WHATEVER, FINE.</span>
+<span style="color: #626262">KARKAT: I'M GOING BACK TO NOT BREATHING AGAIN.</span>
+<span style="color: #626262">KARKAT: HHHH<span style="font-style: italic">HHHHHHHHUUUUP</span>.............</span>
+<span style="color: #008141">KANAYA: Maybe I Will Stay Here Too</span>
+<span style="color: #b536da">ROSE: Why?</span>
+<span style="color: #008141">KANAYA: As Nice As It Sounds To Move On</span>
+<span style="color: #008141">KANAYA: I Dont Know If I Can Stand Three Of Your Human Years Of More Darkness</span>
+<span style="color: #008141">KANAYA: I Like This Sun Its Comforting In A Strange Way</span>
+<span style="color: #008141">KANAYA: Like Home</span>
+<span style="color: #b536da">ROSE: But what if we need your help?</span>
+<span style="color: #008141">KANAYA: What Could I Possibly Do</span>
+<span style="color: #008141">KANAYA: Aside From Providing A Light Source As You Navigate The Dim Corridors</span>
+<span style="color: #008141">KANAYA: I Would Function As A Premium Escort To The Load Gaper And Thats About It</span>
+<span style="color: #a10000">ARADIA: but kanaya you still have important work to finish too!</span>
+<span style="color: #a10000">ARADIA: we cant ignore our duties</span>
+<span style="color: #008141">KANAYA: What Are You Talking About</span>
+<span style="color: #a10000">ARADIA: our race is extinct remember</span>
+<span style="color: #a10000">ARADIA: and after a few more casualties it is now hanging by a thread</span>
+<span style="color: #a10000">ARADIA: your job was to see to the resurrection of our people</span>
+<span style="color: #008141">KANAYA: What Real Hope Is There For That</span>
+<span style="color: #008141">KANAYA: The Orb Was Destroyed</span>
+<span style="color: #008141">KANAYA: I Was Never Able To Duplicate It The Grist Cost Was Astronomical</span>
+<span style="color: #a10000">ARADIA: theres always hope though!</span>
+<span style="color: #a10000">ARADIA: you just never know and i dont think you should give up</span>
+<span style="color: #008141">KANAYA: Doesnt Rose Know</span>
+<span style="color: #008141">KANAYA: Cant You See The Path To Victory On This Matter</span>
+<span style="color: #b536da">ROSE: It's hard to say.</span>
+<span style="color: #b536da">ROSE: Does the repopulation of your species qualify as victory?</span>
+<span style="color: #b536da">ROSE: These things aren't always clear cut. Some outcomes are for your own judgment.</span>
+<span style="color: #b536da">ROSE: What outcome would you like the most?</span>
+<span style="color: #008141">KANAYA: I Would Like To Have The Orb Again And To Keep It Safe This Time</span>
+<span style="color: #008141">KANAYA: And I Guess To Not Be A Total Failure</span>
+<span style="color: #b536da">ROSE: Ok.</span>
+<span style="color: #b536da">ROSE: If you follow my advice, I can at least promise you will find yourself in the best position to determine whether that may come to pass.</span>
+<span style="color: #008141">KANAYA: ...</span>
+<span style="color: #b536da">ROSE: Can you please come?</span>
+<span style="color: #b536da">ROSE: Between the two of us, you with your inexplicably heretofore unmentioned phosphorescence, and I with my nigh-reflective traffic cone orange sun-sari, the meteor should never be <span style="font-style: italic">too</span> dark.</span>
+<span style="color: #626262">KARKAT: (sollux, oh my god is it me or is everybody already just fucking hitting on each other left and right? oh god i can't take sweeps of this shit, don't leave me alone here, please don't)</span>
+<span style="color: #a1a100">SOLLUX: ehehehehe.</span>
+<span style="color: #008141">KANAYA: Well</span>
+<span style="color: #008141">KANAYA: All Right</span>
+<span style="color: #008141">KANAYA: But Must We Really Leave So Soon</span>
+<span style="color: #b536da">ROSE: It's soon or never. But not immediately.</span>
+<span style="color: #b536da">ROSE: Even if the route were accessible right now, it would still behoove us to wait.</span>
+<span style="color: #b536da">ROSE: There's correspondence from John yet to arrive.</span>
+<span style="color: #e00707">DAVE: whoa really</span>
+<span style="color: #b536da">ROSE: And after that, we have to wait for one final guest to appear.</span>
+<span style="color: #b536da">ROSE: Then we ride like the solar wind. The race will be afoot.</span>
+<span style="color: #008141">KANAYA: Wait Another Visitor</span>
+<span style="color: #008141">KANAYA: Who</span>
+<span style="color: #626262">KARKAT: FUCK!</span>
+<span style="color: #b536da">ROSE: Oh lord.</span>
+<span style="color: #b536da">ROSE: Now what?</span>
+<span style="color: #626262">KARKAT: BRO, WHERE THE FUCK IS YOUR BODY</span>
+###
+006257
+X

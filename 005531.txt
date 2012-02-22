@@ -1,0 +1,55 @@
+==&gt;
+###
+8bc51b258a
+###
+1299753497
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03628.gif
+###
+|PESTERLOG|
+<span style="color: #b536da">TT: This doesn't sound like an especially admirable objective. Releasing an evil man, who is presumably more powerful than you, an already omnipotent being.</span>
+<span style="color: #b536da">TT: Am I right?</span>
+<span style="color: #ffffff">You are right about both. It is not admirable, and he is considerably more powerful.</span>
+<span style="color: #ffffff">But you must decide which objective is more important.</span>
+<span style="color: #ffffff">You may decide to attempt to destroy the sun and end my life. This will neutralize Jack, who is also much more powerful and dangerous than myself by virtue of the ring he wears in addition to drawing energy from the same sun as I. He poses a significant threat to reality.</span>
+<span style="color: #b536da">TT: But in the process of killing him and you, I release your master, who is just as deadly?</span>
+<span style="color: #ffffff">He's more deadly.</span>
+<span style="color: #ffffff">But the danger he poses is sanctioned by paradox space.</span>
+<span style="color: #ffffff">It is a known quantity. His very existence in a universe will mean it will inevitably be torn apart.</span>
+<span style="color: #ffffff">But there are rules to his entry, and his grim procession through paradox space is rather orderly. The present equilibrium has accounted for him, and will continue to.</span>
+<span style="color: #ffffff">Jack however is a loose cannon. He will not stop until he destroys everything he encounters.</span>
+<span style="color: #ffffff">Additionally, his existence is your responsibility.</span>
+<span style="color: #b536da">TT: Then I guess I don't have a choice.</span>
+<span style="color: #ffffff">You do.</span>
+<span style="color: #ffffff">But also know this.</span>
+<span style="color: #ffffff">Refusing to venture out to destroy the sun in no way spares anyone from my master regardless.</span>
+<span style="color: #ffffff">It is certainly true that destroying it will end my life.</span>
+<span style="color: #ffffff">And it is certainly true that </span><span style="color: #000000">The Tumor</span><span style="color: #ffffff"> you will deliver to its location has enough power to destroy it completely.</span>
+<span style="color: #ffffff">But it is not the only way to kill me.</span>
+<span style="color: #ffffff">It is simply a way I have suggested to you, which doubles as a way to disarm Jack, should you choose to go through with it.</span>
+<span style="color: #ffffff">Instances of myself have spawned in countless universes, and my objective is always the same.</span>
+<span style="color: #ffffff">I have never once failed to complete this objective, and I never will.</span>
+<span style="color: #ffffff">There is nothing noble about taking a course of action you believe would prevent his arrival, because that is impossible.</span>
+<span style="color: #ffffff">He will come.</span>
+<span style="color: #ffffff">In fact, he is already here.</span>
+<span style="color: #b536da">TT: Are you saying that I will succeed in the mission to destroy the sun?</span>
+<span style="color: #ffffff">Are you asking for another palm reading?</span>
+<span style="color: #b536da">TT: ...</span>
+<span style="color: #ffffff">You seem rather keen on acquiring a fortune from me considering you are the one with the crystal ball.</span>
+<span style="color: #b536da">TT: I'm just trying to ask as many questions as I can. It's the only way to find the dark spots in your obstinacy.</span>
+<span style="color: #ffffff">I've been very helpful. And I will continue to be.</span>
+<span style="color: #ffffff">I myself do not care to be an oracle. But I can graciously supply you with one.</span>
+<span style="color: #b536da">TT: Can you?</span>
+<span style="color: #ffffff">An eager consort has brought you one of my seeds. It appears you have amassed followers who wish to please you. How fortuitous.</span>
+<span style="color: #b536da">TT: Your seeds?</span>
+<span style="color: #ffffff">The white orb.</span>
+<span style="color: #b536da">TT: Oh. The cue ball. How did I not notice this?</span>
+<span style="color: #ffffff">It will accurately answer any question a curious girl can pose.</span>
+<span style="color: #ffffff">Provided she can see through the surface to read its reply.</span>
+<span style="color: #b536da">TT: Hmm.</span>
+<span style="color: #b536da">TT: Is that possible?</span>
+<span style="color: #ffffff">Is it, Seer?</span>
+<span style="color: #ffffff">Given your title and all the tools of prognostication at your disposal, it seems to me I should be the one asking you the questions.</span>
+###
+005532
+X

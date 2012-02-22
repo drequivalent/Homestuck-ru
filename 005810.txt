@@ -1,0 +1,19 @@
+[o] ==&gt;
+###
+e5b68f2a6f
+###
+1310166471
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03907.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">GT: what's happening?</span>
+<span style="color: #005682">AG: We are going on an adventure.</span>
+<span style="color: #0715cd">GT: where?</span>
+<span style="color: #005682">AG: Through your memories.</span>
+<span style="color: #005682">AG: Through mine too.</span>
+<span style="color: #005682">AG: This would 8e a really fun thing to do on a d8, I think!</span>
+<span style="color: #005682">AG: If we actually were on a d8, which we're not.</span>
+###
+005811
+X

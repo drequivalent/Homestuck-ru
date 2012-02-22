@@ -1,0 +1,16 @@
+Rose: Check Alchemy Excursus.
+###
+47a16b7fea
+###
+1253062900
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00645.gif
+###
+Looks like a sort of index documenting all the known results for punch card alchemy combinations.
+
+This could be a convenient resource as you start to stumble on more useful card combinations. But ever since John started punching cards, you've been contemplating other ways this item manufacturing system could be put to use. In particular, if you obtain the code for any item at your disposal, you think you could theoretically send the code to John and he could make it himself.
+
+That is, if you can think of anything that would be worth sending to him.
+###
+002546
+X

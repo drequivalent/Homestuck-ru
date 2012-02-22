@@ -1,0 +1,37 @@
+[o] ==&gt;
+###
+faa5115c0c
+###
+1311632567
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03996.gif
+###
+|PESTERLOG|
+<span style="color: #a10000">AA: i am waiting for friends to arrive</span>
+<span style="color: #a10000">AA: they will need my help</span>
+<span style="color: #a1a100">TA: what friends?</span>
+<span style="color: #a1a100">TA: m0re ghosts?</span>
+<span style="color: #a10000">AA: no theyre alive</span>
+<span style="color: #a10000">AA: first</span>
+<span style="color: #a10000">AA: there will be two humans</span>
+<span style="color: #a10000">AA: they should be joining us any minute</span>
+<span style="color: #a1a100">TA: first?</span>
+<span style="color: #a1a100">TA: then what?</span>
+<span style="color: #a10000">AA: then rest of our party</span>
+<span style="color: #a10000">AA: the survivors</span>
+<span style="color: #a1a100">TA: 0h</span>
+<span style="color: #a1a100">TA: so then, we made it 0ut here alright.</span>
+<span style="color: #a10000">AA: yes</span>
+<span style="color: #a10000">AA: well</span>
+<span style="color: #a10000">AA: they made it</span>
+<span style="color: #a10000">AA: your body will arrive with them</span>
+<span style="color: #a10000">AA: along with the others</span>
+<span style="color: #a10000">AA: hey maybe we can have a funeral!</span>
+<span style="color: #a1a100">TA: whats a funeral?</span>
+<span style="color: #a10000">AA: kind of like</span>
+<span style="color: #a10000">AA: a big corpse party</span>
+<span style="color: #a10000">AA: the humans could probably explain it better than me</span>
+<span style="color: #a1a100">TA: ok, c0ol.</span>
+###
+005900
+X

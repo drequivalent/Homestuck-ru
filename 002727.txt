@@ -1,0 +1,14 @@
+Jade: Pester John.
+###
+6a64cae88c
+###
+1256890432
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00827.gif
+###
+You greet John but he does not respond. He is undoubtedly gallivanting around his house in a state of barely restrained birthday mirth. He may also be retrieving the two packages and the two envelopes which you are certain came in the mail for him earlier.
+
+You will wait a little while and see if he returns before you head out.
+###
+002728
+X

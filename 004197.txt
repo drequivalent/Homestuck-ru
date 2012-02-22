@@ -1,0 +1,57 @@
+======&gt;
+###
+4cc764ccbd
+###
+1280289303
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02297.gif
+###
+|PESTERLOG|
+<span style="color: #626262">CG: HE HAS SOME INSIDE INFORMATION ABOUT HIS KINGDOM.</span>
+<span style="color: #626262">CG: HE WANTS TO WORK TOGETHER WITH US TO OVERTHROW THE BLACK QUEEN.</span>
+<span style="color: #626262">CG: SO I SAID OK.</span>
+<span style="color: #626262">CG: AND NOW I NEED YOUR HELP.</span>
+<span style="color: #005682">AG: Um, ok.</span>
+<span style="color: #005682">AG: I can try.</span>
+<span style="color: #005682">AG: What does he know?</span>
+<span style="color: #626262">CG: HE RECENTLY GOT HOLD OF SOME INTEL REGARDING A WEAKNESS IN THE QUEEN'S DEFENSES.</span>
+<span style="color: #626262">CG: I DON'T KNOW ANY MORE THAN THAT.</span>
+<span style="color: #626262">CG: BUT WE'VE GOT TO HURRY AND GET STARTED ON THIS THING, OR IT COULD GET KIND OF AWKWARD.</span>
+<span style="color: #005682">AG: Awkward? What do you mean?</span>
+<span style="color: #626262">CG: I MEAN HE'S JUST STANDING HERE NOW.</span>
+<span style="color: #626262">CG: WAITING FOR ME I GUESS.</span>
+<span style="color: #626262">CG: BUT IT'S OK, I THINK HE'S PRETTY MUCH SETTLED DOWN.</span>
+<span style="color: #005682">AG: Settled down?</span>
+<span style="color: #626262">CG: WELL, HE STABBED ME ONCE.</span>
+<span style="color: #005682">AG: Oh, only once!</span>
+<span style="color: #005682">AG: Are you sure you should trust him? I don't know if I would, 8ut hey I'm not the leader.</span>
+<span style="color: #626262">CG: NO, NO, IT'S COOL.</span>
+<span style="color: #626262">CG: HE'S COOL, IT'S FINE I DON'T REALLY MIND THE STABBING, IT WAS ALL A MISUNDERSTANDING.</span>
+<span style="color: #626262">CG: WELL OK I'M PRETTY SURE HE MEANT TO STAB ME.</span>
+<span style="color: #626262">CG: BUT I KIND OF THINK THAT'S LIKE</span>
+<span style="color: #626262">CG: THE WAY HE GREETS PEOPLE?</span>
+<span style="color: #005682">AG: This game is so stupid.</span>
+<span style="color: #626262">CG: IN ANY CASE I THINK HE'S PROBABLY ALL STABBED OUT.</span>
+<span style="color: #005682">AG: Whew!!!!!!!!</span>
+<span style="color: #005682">AG: Oh, man.</span>
+<span style="color: #005682">AG: Since you're 8leeding I should ask Terezi what color your 8lood is.</span>
+<span style="color: #626262">CG: GOOD LUCK WITH THAT.</span>
+<span style="color: #626262">CG: SHE CAN'T SEE ME OR SMELL ME OR ANYTHING, I'M WAY OUT OF MY HIVE SOMEWHERE ELSE ON THE PLANET.</span>
+<span style="color: #005682">AG: Ok, then I'll ask Jack.</span>
+<span style="color: #626262">CG: NO, JACK WON'T TELL, I MADE HIM PROMISE HE WOULDN'T TELL.</span>
+<span style="color: #005682">AG: Dammit! Stupid lousy tightlipped sta8happy dou8le agents. </span>
+<span style="color: #005682">AG: Doesn't Trollian have some kind of viewport feature? </span>
+<span style="color: #626262">CG: YEAH BUT I'M PRETTY SURE ONLY SOLLUX KNOWS HOW TO SET THAT UP, AND HE'S BEEN INCOMMUNICADO FOR HOURS FOR SOME REASON.</span>
+<span style="color: #626262">CG: ANYWAY THAT WHOLE FEATURE SEEMS TOTALLY INVASIVE AND LARGELY POINTLESS TO ME, SO JUST FORGET IT.</span>
+<span style="color: #005682">AG: Yeah ok, here we are a8out to em8ark on an espionage mission. A spying tool sounds totally useless!</span>
+<span style="color: #005682">AG: Another gr8 point, captain.</span>
+<span style="color: #626262">CG: WHATEVER.</span>
+<span style="color: #626262">CG: JUST GET YOUR ASS IN HERE SO WE CAN DETHRONE THIS GODDAMN QUEEN.</span>
+<span style="color: #626262">CG: IT'LL MEAN ONE LESS GOD BOSS WE HAVE TO FIGHT.</span>
+<span style="color: #005682">AG: Fine, I'll be right there.</span>
+<span style="color: #005682">AG: Just try not to lose too much of your mystery blood and die.</span>
+
+<span style="color: #005682">arachnidsGrip [AG]</span> ceased trolling <span style="color: #626262">carcinoGeneticist [CG]</span> 
+###
+004198
+X

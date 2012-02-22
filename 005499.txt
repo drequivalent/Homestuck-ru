@@ -1,0 +1,30 @@
+==&gt;
+###
+3fdc89306e
+###
+1298978966
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03596.gif
+###
+|PESTERLOG|
+<span style="color: #a15000">AT: i DON'T REMEMBER THIS,</span>
+<span style="color: #a15000">AT: i MEAN,</span>
+<span style="color: #a15000">AT: i REMEMBER GETTING JUMPED OFF THE CLIFF BY MY LEGS,</span>
+<span style="color: #a15000">AT: bUT NOT THE THING i'M DOING NOW,</span>
+<span style="color: #a10000">AA: no</span>
+<span style="color: #a10000">AA: our manipulator disguised his tracks well</span>
+<span style="color: #a15000">AT: dO i,</span>
+<span style="color: #a15000">AT: hAVE TO LIE ON THE FLOOR LIKE THIS,</span>
+<span style="color: #a15000">AT: iS THAT IMPORTANT,</span>
+<span style="color: #a10000">AA: no tavros you can get up</span>
+<span style="color: #a15000">AT: aLSO,</span>
+<span style="color: #a15000">AT: cAN WE, oR AT LEAST i, bE NOT IN THIS MEMORY,</span>
+<span style="color: #a15000">AT: bECAUSE,</span>
+<span style="color: #a15000">AT: iT'S ONE THAT'S NOT AS GREAT AS MOST,</span>
+<span style="color: #a10000">AA: we will leave it soon</span>
+<span style="color: #a10000">AA: but you were doing something very important here</span>
+<span style="color: #a15000">AT: wHAT WAS i DOING,</span>
+<span style="color: #a10000">AA: writing a part of the code</span>
+###
+005500
+X

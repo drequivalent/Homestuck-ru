@@ -1,0 +1,31 @@
+==&gt;
+###
+da01053282
+###
+1258846401
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00885.gif
+###
+|SPRITELOG|
+<span style="color: #00d5f2">NANNASPRITE: John, don't forget your book!</span>
+<span style="color: #00d5f2">NANNASPRITE: It is your birthright! You ought to give it a read when you have a moment. Particularly the first several pages!</span>
+<span style="color: #0715cd">JOHN: ok nanna, i will.</span>
+<span style="color: #0715cd">JOHN: hey, nanna?</span>
+<span style="color: #00d5f2">NANNASPRITE: Yes, dear?</span>
+<span style="color: #0715cd">JOHN: since i am trying to get up to that gate, and since you can sort of conjure floating beds and throw me around and all...</span>
+<span style="color: #0715cd">JOHN: couldn't you just throw me up to the gate?</span>
+<span style="color: #00d5f2">NANNASPRITE: Yes, of course, John!</span>
+<span style="color: #00d5f2">NANNASPRITE: But that would not serve your purpose well!</span>
+<span style="color: #00d5f2">NANNASPRITE: There is a very good reason why you should build up to it. And then keep building!</span>
+<span style="color: #0715cd">JOHN: oh, ok, i guess that's what i figured.</span>
+<span style="color: #0715cd">JOHN: so just one more thing...</span>
+<span style="color: #0715cd">JOHN: do you think that instead of telling me exactly why that is with a clear explanation, you can give me a series of really coy riddles about it and then sort of giggle?</span>
+<span style="color: #00d5f2">NANNASPRITE: John, you are a very fresh young man!</span>
+<span style="color: #00d5f2">NANNASPRITE: Your father has done such a wonderful job raising you. I am so proud of you both.</span>
+<span style="color: #0715cd">JOHN: ha ha, i guess.</span>
+<span style="color: #00d5f2">NANNASPRITE: When you pass through the first gate, everything will change. You will find the place where the constellations dance beneath the clouds. And then your true work may begin.</span>
+<span style="color: #00d5f2">NANNASPRITE: Hoo hoo hoo!</span>
+<span style="color: #0715cd">JOHN: i suddenly understand everything!</span>
+###
+002786
+X

@@ -1,0 +1,48 @@
+NOW JOHN. RESPOND TO YOUR FRIEND UNIT.
+###
+6377b12c75
+###
+1245095864
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00256.gif
+###
+|PESTERLOG|
+<span style="color: #b536da">TT: John?</span>
+<span style="color: #b536da">TT: Are you there?</span>
+-- tentacleTherapist <span style="color: #b536da">[TT]</span> is now an idle chum! --
+<span style="color: #0715cd">EB: hey, yeah i'm here!</span>
+<span style="color: #0715cd">EB: and not dead i think.</span>
+<span style="color: #b536da">TT: I know.</span>
+<span style="color: #b536da">TT: I've been watching you scramble through the house like a lunatic.</span>
+<span style="color: #b536da">TT: You should have answered me sooner.</span>
+<span style="color: #0715cd">EB: oh man, sorry, i was looking around for my dad and i can't find him anywhere!</span>
+<span style="color: #0715cd">EB: have you seen him?</span>
+<span style="color: #b536da">TT: No. I'm sure he'll turn up.</span>
+<span style="color: #b536da">TT: We have more important things to address right now.</span>
+<span style="color: #0715cd">EB: yeah, like where am i??</span>
+<span style="color: #b536da">TT: I don't know that either. But I've determined your neighborhood was destroyed by the meteor. Wherever you were transported, it saved you from the impact.</span>
+<span style="color: #b536da">TT: I've been reading reports in the news. Over the last few days, there have been many smaller meteor collisions with people's homes around the world.</span>
+<span style="color: #b536da">TT: And they seem to be getting bigger. Yours was the biggest they've identified so far.</span>
+<span style="color: #0715cd">EB: wow, ok.</span>
+<span style="color: #0715cd">EB: so then i guess if this is all the game's doing, then the point is for us to save the world?</span>
+<span style="color: #b536da">TT: Perhaps.</span>
+<span style="color: #0715cd">EB: then we'd better get moving and figure this game out!!!</span>
+<span style="color: #b536da">TT: Yes, but wait.</span>
+<span style="color: #b536da">TT: We should retrieve your PDA. Yet again.</span>
+<span style="color: #b536da">TT: It will help to keep tabs on each other while you investigate.</span>
+<span style="color: #b536da">TT: I think I can get you closer to it, if I can replenish our grist supply somewhat.</span>
+<span style="color: #b536da">TT: There may be a way to recycle some that we already used.</span>
+<span style="color: #0715cd">EB: ok.</span>
+<span style="color: #b536da">TT: I'll meet you out on the balcony.</span>
+<span style="color: #0715cd">EB: wait, rose! one thing...</span>
+<span style="color: #b536da">TT: What?</span>
+<span style="color: #0715cd">EB: you never even wished me a happy birthday!</span>
+<span style="color: #0715cd">EB: um... hello?</span>
+<span style="color: #b536da">TT: I was working on something to send you, but I was running late with it.</span>
+<span style="color: #b536da">TT: I didn't want you to think I believed meager well wishes alone would suffice for the occasion.</span>
+<span style="color: #b536da">TT: That said, happy birthday, John.</span>
+<span style="color: #0715cd">EB: haha, oh jeez, that is silly!</span>
+<span style="color: #0715cd">EB: anyway, thanks!</span>
+###
+002157
+X

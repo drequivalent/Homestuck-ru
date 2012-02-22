@@ -1,0 +1,14 @@
+PM: Command John to put the carved tablet into a pyxis.
+###
+461c371d55
+###
+1267762105
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01546.gif
+###
+You follow the command telling you to command John to put the carved tablet in the pyxis and type, &quot;John, put the carved tablet into the pyxis.&quot;
+
+You successfully do that, and he successfully does that too. Everyone is friendly and cooperative.
+###
+003447
+X

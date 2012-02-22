@@ -1,0 +1,40 @@
+Karkat: Contact John.
+###
+d44745ec02
+###
+1296685151
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03417.gif
+###
+|PESTERLOG|
+-- carcinoGeneticist <span style="color: #626262">[CG]</span> began trolling ectoBiologist <span style="color: #0715cd">[EB]</span> --
+
+<span style="color: #626262">CG: JOHN.</span>
+<span style="color: #0715cd">EB: karkat!</span>
+<span style="color: #0715cd">EB: what's up?</span>
+<span style="color: #626262">CG: I'M NOT SURE WHY I'M TELLING YOU THIS.</span>
+<span style="color: #626262">CG: I GUESS IT'S JUST OUT OF A SENSE OF OBLIGATION AT THIS POINT.</span>
+<span style="color: #626262">CG: WE'VE COME THIS FAR</span>
+<span style="color: #626262">CG: SO I FEEL LIKE YOU SHOULD KNOW.</span>
+<span style="color: #0715cd">EB: know what?</span>
+<span style="color: #626262">CG: I MIGHT NOT MAKE IT OUT OF THIS ALIVE</span>
+<span style="color: #626262">CG: THIS MIGHT EVEN BE THE LAST TIME YOU HEAR FROM ME.</span>
+<span style="color: #626262">CG: WAIT, WHAT THE FUCK AM I SAYING, THE LAST TIME YOU HEAR FROM ME WILL BE THE FIRST TIME YOU HEAR FROM ME.</span>
+<span style="color: #0715cd">EB: uh...</span>
+<span style="color: #626262">CG: I MEAN THIS COULD BE THE LAST TIME FROM MY PERSPECTIVE.</span>
+<span style="color: #626262">CG: BECAUSE FROM MY PERSPECTIVE I COULD BE DEAD SOON.</span>
+<span style="color: #0715cd">EB: oh no!</span>
+<span style="color: #0715cd">EB: are you in some sort of trouble?</span>
+<span style="color: #0715cd">EB: is it jack?</span>
+<span style="color: #0715cd">EB: karkat???</span>
+<span style="color: #0715cd">EB: what's going on?</span>
+<span style="color: #626262">CG: OH GOD THE HONKING</span>
+<span style="color: #626262">CG: WHY WON'T THE HONKING STOP</span>
+<span style="color: #626262">CG: I HAVE TO GO</span>
+<span style="color: #626262">CG: SORRY FOR BEING SUCH A DOUCHE TO YOU AND YOUR FRIENDS.</span>
+<span style="color: #626262">CG: I HOPE YOU CAN SUCCEED AS A LEADER WHERE I FAILED MISERABLY.</span>
+
+-- carcinoGeneticist <span style="color: #626262">[CG]</span> ceased trolling ectoBiologist <span style="color: #0715cd">[EB]</span> --
+###
+005321
+X

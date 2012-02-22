@@ -1,0 +1,17 @@
+Dave: Change to Scrabble Points Hash Modus.
+###
+54093cdddc
+###
+1252104335
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00585_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/00585_2.gif
+###
+First you program your modus with a SCRABBLE POINTS HASH FUNCTION, adding it to the list.
+
+<span style="color: #05d000">A</span>=1; <span style="color: #05d000">B</span>=3; <span style="color: #05d000">C</span>=3; <span style="color: #05d000">D</span>=2; <span style="color: #05d000">E</span>=1; <span style="color: #05d000">F</span>=4; <span style="color: #05d000">G</span>=2; <span style="color: #05d000">H</span>=4; <span style="color: #05d000">I</span>=1; <span style="color: #05d000">J</span>=8; <span style="color: #05d000">K</span>=5; <span style="color: #05d000">L</span>=1; <span style="color: #05d000">M</span>=3; <span style="color: #05d000">N</span>=1; <span style="color: #05d000">O</span>=1; <span style="color: #05d000">P</span>=3; <span style="color: #05d000">Q</span>=10; <span style="color: #05d000">R</span>=1; <span style="color: #05d000">S</span>=1; <span style="color: #05d000">T</span>=1; <span style="color: #05d000">U</span>=1; <span style="color: #05d000">V</span>=4; <span style="color: #05d000">W</span>=4; <span style="color: #05d000">X</span>=8; <span style="color: #05d000">Y</span>=4; <span style="color: #05d000">Z</span>=10;
+
+This might be a cool function to use, but it looks like you'll have to empty your sylladex to select it. You're just not gonna do that yet. No way.
+###
+002486
+X

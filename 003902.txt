@@ -1,0 +1,19 @@
+======&gt;
+###
+ac1e8e338d
+###
+1276476940
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02002_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/02002_2.gif
+###
+It is a thick programming manual called &quot;~ATH - A HANDBOOK FOR THE IMMINENTLY DECEASED.&quot;
+
+~ATH is an insufferable language to work with. Its logic is composed of nothing but infinite loops, or at best, loops of effectively interminable construction.
+
+The above page in the intro section documents the simplest possible ~ATH code structure. Any code deviating from this basic structure will not compile.
+
+You have a whole bunch of code samples you've been messing around with on your computer. It's been frustrating at best, and debilitating to your machine at worst.
+###
+003903
+X

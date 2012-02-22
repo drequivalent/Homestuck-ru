@@ -1,0 +1,53 @@
+John: Prepare to leave castle.
+###
+a5a7db2f92
+###
+1297563191
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03490.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">EB: ok then, i guess i will get going.</span>
+<span style="color: #005682">AG: Go where?</span>
+<span style="color: #0715cd">EB: to keep looking for my dad!</span>
+<span style="color: #005682">AG: Are you sure you don't have more important things to worry a8out?</span>
+<span style="color: #0715cd">EB: um...</span>
+<span style="color: #0715cd">EB: are you saying that i am still not supposed to find him yet?</span>
+<span style="color: #005682">AG: John, please. I thought you were done getting the future spoon fed to you like this.</span>
+<span style="color: #005682">AG: I have told you that you will find your dad eventually. That should 8e good enough! Don't you think it's time to start taking your responsi8ility more seriously?</span>
+<span style="color: #0715cd">EB: well, yeah.</span>
+<span style="color: #0715cd">EB: but what responsibility do you mean?</span>
+<span style="color: #005682">AG: We just concluded that I am going to go fight Jack. And there is a possi8ility I will fail! He could kill me easily for all I know. 8ut it's something I have to try.</span>
+<span style="color: #005682">AG: And if I do fail, your plan will serve as 8ackup. There is a lot riding on you, John. On 8oth of us!</span>
+<span style="color: #0715cd">EB: ok.</span>
+<span style="color: #0715cd">EB: so you're saying i should go get the tumor now instead of putting it off?</span>
+<span style="color: #005682">AG: I'm not telling you to do anything. Just reminding you of what's at st8ke.</span>
+<span style="color: #0715cd">EB: wait, i mean the </span><span style="color: black">tumor.</span>
+<span style="color: #0715cd">EB: wait...</span>
+<span style="color: #0715cd">EB: i mean </span><span style="color: black">The Tumor!</span>
+<span style="color: #005682">AG: Why don't we just call it what it is.</span>
+<span style="color: #005682">AG: A </span><span style="color: black">8ig fucking 8om8 in the core of your 8attlefield.</span>
+<span style="color: #0715cd">EB: yeah.</span>
+<span style="color: #0715cd">EB: which is what i was wondering about...</span>
+<span style="color: #0715cd">EB: how am i supposed to get it out?</span>
+<span style="color: #0715cd">EB: i guess go find a cave or something?</span>
+<span style="color: #005682">AG: Yes, you could pro8a8ly go looking for a sanctioned entry point.</span>
+<span style="color: #005682">AG: Or you could just do what winners in a hurry do.</span>
+<span style="color: #0715cd">EB: what...</span>
+<span style="color: #005682">AG: Cheat!</span>
+<span style="color: #0715cd">EB: uh, is that even possible?</span>
+<span style="color: #005682">AG: It's practically always possi8le.</span>
+<span style="color: #005682">AG: I won't tell you how, 8ut I will point out you could start making 8etter use of your powers than facilit8ing noisy joyrides.</span>
+<span style="color: #005682">AG: Is that what Earth is like, 8y the way? A 8unch of humans flying around in little wheeled pods constantly 8eeping at each other with their chauffeur familiars????????</span>
+<span style="color: #0715cd">EB: hehe, no.</span>
+<span style="color: #0715cd">EB: well, maybe some places, but most cars stay on the ground, because science fiction hasn't happened yet.</span>
+<span style="color: #005682">AG: Anyway, I'm just saying it's time to do something useful and impressive with your powers, deli8er8ly for a change. You are a god now, remem8er?</span>
+<span style="color: #0715cd">EB: yes, but...</span>
+<span style="color: #0715cd">EB: all i can do is make a lot of wind blow around!</span>
+<span style="color: #0715cd">EB: how is that going to help?</span>
+<span style="color: #005682">AG: Use your imagin8tion!</span>
+<span style="color: #005682">AG: That windy thing of yours is more vers8tile than you think.</span>
+<span style="color: #0715cd">EB: alright, i will try.</span>
+###
+005394
+X

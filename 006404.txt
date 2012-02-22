@@ -1,0 +1,14 @@
+Roxy: Retrieve mutant kitten.
+###
+67164eb5e3
+###
+1327562292
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04501.gif
+###
+You swap the bottle with one dead cat in it for another. You often use this little guy to break in the planes, like an intrepid test pilot.
+
+Not while it's in the bottle though. That would be ridiculous, since the bottles are sort of just inventory abstractions. You have to break the bottle first, before you can get serious about breaking some glass.
+###
+006405
+X

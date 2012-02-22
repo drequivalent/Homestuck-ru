@@ -1,0 +1,16 @@
+John: Remove PDA, envelope and package from cake.
+###
+a21fa6661d
+###
+1241246512
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00106_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/00106_2.gif
+http://www.mspaintadventures.com/storyfiles/hs2/00106_3.gif
+###
+You take the RAZOR and use it to perform surgery on the CAKE.
+
+You take the TOWEL and clean off the extracted goods.
+###
+002007
+X

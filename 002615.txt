@@ -1,0 +1,17 @@
+WV: Type =&gt; SWITCH 2.
+###
+37ef9d79a2
+###
+1254264285
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00715_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/00715_2.gif
+###
+You activate SCREEN 2.
+
+The signal is garbled, and you have no idea what you're looking at. Some sort of filthy beggar pleading for help?
+
+No one is around, And nothing is happening. You seem to be locked out of any sort of interaction with whatever's happening on this monitor.
+###
+002616
+X

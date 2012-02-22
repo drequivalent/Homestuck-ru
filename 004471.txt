@@ -1,0 +1,19 @@
+======&gt;
+###
+b2932fe1db
+###
+1283384293
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02570.gif
+###
+|SPRITELOG|
+<span style="color: #008282">DRAGONSPRITE: sniff sniff</span>
+<span style="color: #008282">DRAGONSPRITE: hey terezi!</span>
+<span style="color: #008282">DRAGONSPRITE: heeeeeeeyyyyyyy!</span>
+<span style="color: #008282">DRAGONSPRITE: hiiiiii terezi!</span>
+<span style="color: #008282">DRAGONSPRITE: hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii!</span>
+<span style="color: #008282">DRAGONSPRITE: sniff sniff sniff</span>
+<span style="color: #008282">DRAGONSPRITE: heeheeheeheeheeheeheeheeheeheeheeheeheehee!</span>
+###
+004472
+X

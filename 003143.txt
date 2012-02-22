@@ -1,0 +1,16 @@
+[I] CD: Implement nefarious scheme.
+###
+f818527fa8
+###
+1264299195
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01243.gif
+###
+You follow Droog's simple instructions. So simple even a forgetful nincompoop like you can remember.
+
+There's a BLOOD TRAIL on the floor that goes in a different direction than <span style="color: #2ed73a">Trace</span> went. You decide to follow it, because that sounds like a really good idea to you.
+
+If there was something you were supposed to do after helping out Droog, you'll be damned if you remember what it was.
+###
+003144
+X

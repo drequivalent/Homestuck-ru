@@ -1,0 +1,15 @@
+[A6I1] ==&gt;
+###
+aeca51bcb3
+###
+1323593021
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04296.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: what...</span>
+<span style="color: #0715cd">JOHN: the fuck...</span>
+<span style="color: #0715cd">JOHN: is that?</span>
+###
+006200
+X

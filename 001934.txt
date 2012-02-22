@@ -1,0 +1,18 @@
+John: Set Pesterchum status to &quot;bully&quot;.
+###
+4ce242f1cc
+###
+1239918753
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00034.gif
+###
+You don't think the situation is quite dire enough to go all the way to &quot;RANCOROUS&quot;, but you still feel the PESTERCHUM client should reflect your mood change in some way.
+
+&quot;BULLY&quot; will have to do. You guess.
+
+This unsurprisingly does nothing whatsoever.
+
+Oh, right, you forgot your chum is still pestering you.
+###
+001935
+X

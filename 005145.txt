@@ -1,0 +1,53 @@
+==&gt;
+###
+f671b9cd4b
+###
+1294178020
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03242.gif
+###
+|SPRITELOG|
+<span style="color: #1f9400">JADESPRITE: no!!!</span>
+<span style="color: #1f9400">JADESPRITE: not for me there isnt</span>
+<span style="color: #1f9400">JADESPRITE: there is nothing but death and sadness and destruction here</span>
+<span style="color: #1f9400">JADESPRITE: theres no hope, and i dont see anything worth fighting for</span>
+<span style="color: #4ac925">JADE: that is a horrible thing to say!</span>
+<span style="color: #1f9400">JADESPRITE: i dont belong here anyway</span>
+<span style="color: #1f9400">JADESPRITE: really none of this is my business anymore and i want to go home</span>
+<span style="color: #4ac925">JADE: AUGH!</span>
+<span style="color: #4ac925">JADE: that is SO SELFISH!!!</span>
+<span style="color: #4ac925">JADE: i cant believe this</span>
+<span style="color: #4ac925">JADE: how can you say these things, dont you remember anything that the queen told us?</span>
+<span style="color: #4ac925">JADE: that we would eventually build a new world and make a future together with our friends?</span>
+<span style="color: #4ac925">JADE: dont you remember being excited about finding out what that meant?</span>
+<span style="color: #1f9400">JADESPRITE: yes</span>
+<span style="color: #1f9400">JADESPRITE: but it was just a story</span>
+<span style="color: #1f9400">JADESPRITE: it was never going to come true</span>
+<span style="color: #4ac925">JADE: yes it will!!!</span>
+<span style="color: #4ac925">JADE: some of us, the ones who still have hope, are fighting for that RIGHT NOW</span>
+<span style="color: #4ac925">JADE: how can you have such a negative outlook on absolutely everything?</span>
+<span style="color: #1f9400">JADESPRITE: boo hoo ho-</span>
+<span style="color: #4ac925">JADE: shut up!!!!!!</span>
+<span style="color: #4ac925">JADE: stop being such a damn crybaby!</span>
+<span style="color: #4ac925">JADE: really, we both had the EXACT SAME EXPERIENCES. and look, i am managing to keep my head up, see?</span>
+<span style="color: #4ac925">JADE: you dont even have the full picture either, because you checked out early!</span>
+<span style="color: #4ac925">JADE: you didnt have to stand by as bec gave jack his powers when you might have been able to stop that</span>
+<span style="color: #4ac925">JADE: and you didnt have to watch as jack became so strong he could appear anywhere and kill anyone you loved at any moment!</span>
+<span style="color: #4ac925">JADE: you didnt have to see a dave lying in his own blood :(</span>
+<span style="color: #1f9400">JADESPRITE: what...</span>
+<span style="color: #1f9400">JADESPRITE: dave?</span>
+<span style="color: #1f9400">JADESPRITE: he died too?</span>
+<span style="color: #4ac925">JADE: no, see...</span>
+<span style="color: #1f9400">JADESPRITE: ohhhh boo-</span>
+<span style="color: #4ac925">JADE: HEY! no. youre not allowed to cry about that because you DIDNT SEE IT</span>
+<span style="color: #4ac925">JADE: thats the whole point!!!</span>
+<span style="color: #4ac925">JADE: you are just looking for any excuse you can to be sad and useless and its starting to piss me off!</span>
+<span style="color: #1f9400">JADESPRITE: *sniffle*</span>
+<span style="color: #4ac925">JADE: no</span>
+<span style="color: #1f9400">JADESPRITE: *whimper*</span>
+<span style="color: #4ac925">JADE: NO. BAD.</span>
+<span style="color: #1f9400">JADESPRITE: aaaaaaaBOOOOOOOOOOOOOOOOOOOOOOOOOOOOO HOO HOO HOO HOO HOO HOO HOO HOO HOO</span>
+<span style="color: #4ac925">JADE: NO, FOR GODS SAKE WILL YOU SHUT UP AND PULL YOURSELF TOGETHER, YOU ARE DRIVING ME CRAZY</span>
+###
+005146
+X

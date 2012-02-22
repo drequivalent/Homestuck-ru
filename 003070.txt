@@ -1,0 +1,20 @@
+[I] SS: Examine vendetta itinerary.
+###
+4783f1aae2
+###
+1263773005
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01170.gif
+###
+These are the mugshots of everyone you are going to kill.
+
+You got a head start. You already offed <span style="color: #2ed73a">CROWBAR </span>(<span style="color: #950015">7</span>), <span style="color: #2ed73a">MATCHSTICKS </span>(<span style="color: #df0000">11</span>), and <span style="color: #2ed73a">QUARTERS</span> (<span style="color: #008140">14</span>), depleting them of some of their muscle. You've still got to watch out for the others, and stay wary of their despicable time shenanigans. 
+
+<span style="color: #2ed73a">ITCHY </span>(<span style="color: #ffea00">1</span>) has given you the slip repeatedly. <span style="color: #2ed73a">DOZE </span>(<span style="color: #4040fd">2</span>) you've captured and interrogated just as repeatedly, to no avail. <span style="color: #2ed73a">TRACE </span>(<span style="color: #df0000">3</span>) has broken into your secret hideout more times than you can count, while <span style="color: #2ed73a">FIN </span> (<span style="color: #ff6000">5</span>) always seems to be a step ahead of you and scoops your heists. <span style="color: #2ed73a">CLOVER </span>(<span style="color: #a357ff">4</span>) has all the intel and is highly cooperative. You might need him to crack the vault. He'll be guarded. Best to avoid <span style="color: #2ed73a">DIE </span>(<span style="color: #008140">6</span>) in any direct confrontations unless you want a temporal mess on your hands. But if you need any repairs, you could always get to <span style="color: #2ed73a">STITCH </span>(<span style="color: #ffea00">9</span>) and &quot;persuade&quot; him. And you might need to if you can't kill <span style="color: #2ed73a">SAWBUCK </span>(<span style="color: #4040fd">10</span>) with a clean shot. <span style="color: #2ed73a">EGGS </span>(<span style="color: #a357ff">12</span>) and <span style="color: #2ed73a">BISCUITS </span>(<span style="color: #ff6000">13</span>) are morons. But they are dangerous morons. <span style="color: #2ed73a">CANS </span>(<span style="color: #950015">15</span>) is a tank and your crew'll probably need more ammunition than you packed to take him down.
+
+No one knows what <span style="color: #2ed73a">LORD ENGLISH</span> looks like. But that'll be corrected tonight. 
+
+You've got dibs on English. He's all yours.
+###
+003071
+X

@@ -1,0 +1,21 @@
+[A6I1] ==&gt;
+###
+962c89b1bb
+###
+1324112914
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04336.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: hey, can i at least send a message through?</span>
+<span style="color: #0715cd">JOHN: like a note or something?</span>
+<span style="color: #4ac925">JADE: sure!</span>
+<span style="color: #4ac925">JADE: better hurry up and write it though</span>
+<span style="color: #0715cd">JOHN: oh snap! ok, gotta think, quick...</span>
+<span style="color: #0715cd">JOHN: what do i write on?</span>
+<span style="color: #0715cd">JOHN: maybe the back of a movie poster or something?</span>
+<span style="color: #0715cd">JOHN: i don't think i have one captchalogued though...</span>
+<span style="color: #0715cd">JOHN: and now that i think about it, most of them were ruined by imps. :(</span>
+###
+006240
+X

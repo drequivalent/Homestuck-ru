@@ -1,0 +1,84 @@
+[A6I1] ==&gt;
+###
+63064582a2
+###
+1324097299
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04335.gif
+###
+|DIALOGLOG|
+<span style="color: #4ac925">JADE: i have the population of five planets to keep me company!</span>
+<span style="color: #0715cd">JOHN: :O</span>
+<span style="color: #0715cd">JOHN: that's right.</span>
+<span style="color: #0715cd">JOHN: that makes it seem not so boring i guess.</span>
+<span style="color: #0715cd">JOHN: but still...</span>
+<span style="color: #0715cd">JOHN: i would feel really bad leaving you here, even if you do have a million salamanders and chess guys to keep you company.</span>
+<span style="color: #0715cd">JOHN: you are my friend and also my sorta-sister, and we just met for the first time ever a few minutes ago...</span>
+<span style="color: #0715cd">JOHN: i'm not going to be like, welp! see ya in three years jade!</span>
+<span style="color: #4ac925">JADE: awww :D</span>
+<span style="color: #4ac925">JADE: ok then</span>
+<span style="color: #4ac925">JADE: personally, i think this trip could be a lot of fun!</span>
+<span style="color: #4ac925">JADE: theres no pressure to do anything important or run around like lunatics anymore</span>
+<span style="color: #4ac925">JADE: we can just relax</span>
+<span style="color: #0715cd">JOHN: yeah.</span>
+<span style="color: #0715cd">JOHN: now that you mention it, i'm pretty beat.</span>
+<span style="color: #0715cd">JOHN: also... starving!!!</span>
+<span style="color: #4ac925">JADE: woof!</span>
+<span style="color: #4ac925">JADE: whoops</span>
+<span style="color: #0715cd">JOHN: heheh.</span>
+<span style="color: #0715cd">JOHN: i sure hope there are things to eat on those planets.</span>
+<span style="color: #0715cd">JOHN: there were a lot of weird glowing mushrooms on lowas. i dunno about those.</span>
+<span style="color: #0715cd">JOHN: i seem to remember a bunch of farms on the battlefield...</span>
+<span style="color: #4ac925">JADE: there should be lots of good stuff on the planets</span>
+<span style="color: #4ac925">JADE: also i would bet this ship is stocked with plenty of military rations</span>
+<span style="color: #0715cd">JOHN: yeah, probably.</span>
+<span style="color: #0715cd">JOHN: pff, hell, we could just raid all of our fridges and alchemize some tasty grub!</span>
+<span style="color: #4ac925">JADE: oh yeah!!!</span>
+<span style="color: #4ac925">JADE: durrr, problem solved</span>
+<span style="color: #0715cd">JOHN: ok, cool.</span>
+<span style="color: #0715cd">JOHN: but it would still be nice to say hi to everybody before they leave.</span>
+<span style="color: #0715cd">JOHN: just to let them know how we're doing.</span>
+<span style="color: #4ac925">JADE: yes</span>
+<span style="color: #0715cd">JOHN: like, one of the last things rose saw before she died was me dying...</span>
+<span style="color: #0715cd">JOHN: i wonder if she knows i'm ok?</span>
+<span style="color: #4ac925">JADE: im pretty sure she knows a ton of things now</span>
+<span style="color: #4ac925">JADE: considering she is a fully realized seer of light</span>
+<span style="color: #0715cd">JOHN: yeah, probably.</span>
+<span style="color: #0715cd">JOHN: then maybe i'll just hop over real fast, and give karkat a fist bump, and give dave a hard time about his hella tight little hood, and then hop back?</span>
+<span style="color: #4ac925">JADE: im sure that would be hilarious</span>
+<span style="color: #4ac925">JADE: but</span>
+<span style="color: #4ac925">JADE: if you go i dont think i can bring you back</span>
+<span style="color: #4ac925">JADE: i cant bring anyone or anything to here from there!</span>
+<span style="color: #0715cd">JOHN: aw man, really??</span>
+<span style="color: #4ac925">JADE: as far as i know...</span>
+<span style="color: #4ac925">JADE: if theres a way i havent figured it out yet</span>
+<span style="color: #4ac925">JADE: i am still kind of new to this omnipotence thing after all :\</span>
+<span style="color: #0715cd">JOHN: that's stupid.</span>
+<span style="color: #0715cd">JOHN: what is with all these rules!</span>
+<span style="color: #4ac925">JADE: i dont know!</span>
+<span style="color: #4ac925">JADE: im sure the rules exist for a good reason though</span>
+<span style="color: #4ac925">JADE: maybe to somewhat limit the power and reach of omnipotent beings?</span>
+<span style="color: #4ac925">JADE: if there are no limits at all, it could be especially dangerous in the wrong hands</span>
+<span style="color: #4ac925">JADE: like what happened with jack!</span>
+<span style="color: #0715cd">JOHN: isn't that a contradiction though?</span>
+<span style="color: #0715cd">JOHN: if there are limits to your powers, you can't exactly be OMNIpotent, can you?</span>
+<span style="color: #0715cd">JOHN: more like...</span>
+<span style="color: #0715cd">JOHN: semipotent.</span>
+<span style="color: #4ac925">JADE: then i guess thats what we are!</span>
+<span style="color: #4ac925">JADE: semipotent demigods</span>
+<span style="color: #0715cd">JOHN: demidogs.</span>
+<span style="color: #4ac925">JADE: woof woof woof!</span>
+<span style="color: #4ac925">JADE: dammit!!!!!!</span>
+<span style="color: #0715cd">JOHN: heh...</span>
+<span style="color: #0715cd">JOHN: can you not control the woofs?</span>
+<span style="color: #4ac925">JADE: i havent gotten the hang of the woofs yet :(</span>
+<span style="color: #0715cd">JOHN: so, the dog ears...</span>
+<span style="color: #0715cd">JOHN: is that a permanent thing now, or what?</span>
+<span style="color: #4ac925">JADE: i think so</span>
+<span style="color: #0715cd">JOHN: i like them.</span>
+<span style="color: #4ac925">JADE: i do too!</span>
+<span style="color: #0715cd">JOHN: you are like a furry now, but not really the weird kind that people on the internet like to have sex with in their imagination.</span>
+<span style="color: #4ac925">JADE: D:</span>
+###
+006239
+X

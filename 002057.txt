@@ -1,0 +1,23 @@
+TT: Deploy Alchemiter.
+###
+361ea6fbe2
+###
+1242365831
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00157.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">EB: why is the floor shaking?</span>
+<span style="color: #0715cd">EB: are you dropping more stuff in my house?</span>
+<span style="color: #b536da">TT: Yes. Two more large gizmos.</span>
+<span style="color: #0715cd">EB: sweet!</span>
+<span style="color: #0715cd">EB: what is with all these big contraptions?</span>
+<span style="color: #b536da">TT: If I had to guess, they appear to facilitate a sort of system involving punch card-based alchemy.</span>
+<span style="color: #0715cd">EB: huh.</span>
+<span style="color: #0715cd">EB: to what end?</span>
+<span style="color: #0715cd">EB: i mean what are we supposed to be doing in this game?</span>
+<span style="color: #b536da">TT: That remains to be seen.</span>
+<span style="color: #b536da">TT: Maybe you should go investigate?</span>
+###
+002058
+X

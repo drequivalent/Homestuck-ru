@@ -1,0 +1,25 @@
+Jade: Pester Tavros.
+###
+bfdbdd02d5
+###
+1293780971
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03203.gif
+###
+|PESTERLOG|
+-- gardenGnostic <span style="color: #4ac925">[GG]</span> began pestering adiosToreador <span style="color: #a15000">[AT]</span> --
+
+<span style="color: #4ac925">GG: hey tavros!</span>
+<span style="color: #4ac925">GG: i was thinking about your plan</span>
+<span style="color: #4ac925">GG: about uh...</span>
+<span style="color: #4ac925">GG: &quot;communing&quot; with my lusus :)</span>
+<span style="color: #4ac925">GG: maybe its not a bad idea!</span>
+<span style="color: #4ac925">GG: are you there?</span>
+<span style="color: #4ac925">GG: hmm, i guess you are off doing something else</span>
+<span style="color: #4ac925">GG: oh well, hope youre doing ok....</span>
+<span style="color: #4ac925">GG: talk to you later!</span>
+
+-- gardenGnostic <span style="color: #4ac925">[GG]</span> ceased pestering adiosToreador <span style="color: #a15000">[AT]</span> --
+###
+005107
+X

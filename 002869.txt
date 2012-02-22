@@ -1,0 +1,12 @@
+==&gt;
+###
+05dfa7a1cc
+###
+1259982574
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00969.gif
+###
+Your sylladex now behaves like both a STACK and a QUEUE. Items can be removed from either the top card or the bottom card.
+###
+002870
+X

@@ -1,0 +1,37 @@
+[o] BREAK.
+###
+bf0a25ca1f
+###
+1308395054
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03861_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/03861_2.gif
+###
+|PESTERLOG|
+<span style="color: #b536da">TT: vriska, wait!</span>
+<span style="color: #b536da">TT: oops, hold on.</span>
+tentacleTherapist <span style="color: #b536da">[TT]</span> ceased pestering arachnidsGrip <span style="color: #005682">[AG]</span>
+ectoBiologist <span style="color: #0715cd">[EB]</span> began pestering arachnidsGrip <span style="color: #005682">[AG]</span>
+<span style="color: #0715cd">EB: hey, are you there?</span>
+<span style="color: #0715cd">EB: i did what you said...</span>
+<span style="color: #0715cd">EB: but i can't tell if it worked.</span>
+<span style="color: #0715cd">EB: hello?</span>
+<span style="color: #0715cd">EB: you didn't fly off to fight jack yet, did you?</span>
+<span style="color: #0715cd">EB: i hope not.</span>
+<span style="color: #0715cd">EB: anyway, all that stuff you said sounds fun to me, i have hells of the cage flicks in my library.</span>
+<span style="color: #0715cd">EB: i do not even care that you're an alien! you see, cage is the universal constant which unites us all.</span>
+<span style="color: #0715cd">EB: well...</span>
+<span style="color: #0715cd">EB: if you haven't flown away...</span>
+<span style="color: #0715cd">EB: i will look forward to your message in the future.</span>
+<span style="color: #0715cd">EB: it would be nice to talk, about...</span>
+<span style="color: #0715cd">EB: all this stuff that happened.</span>
+<span style="color: #0715cd">EB: anyway, bye.</span>
+<span style="color: #005682">AG: OH GOD.</span>
+<span style="color: #0715cd">EB: hey!</span>
+<span style="color: #005682">AG: OH MY FUCKING HELL, THIS IS SO INSANELY AWKWARD AND SAD.</span>
+<span style="color: #0715cd">EB: what is???</span>
+<span style="color: #005682">AG: HANG ON</span>
+arachnidsGrip <span style="color: #005682">[AG]</span> ceased trolling ectoBiologist <span style="color: #0715cd">[EB]</span>
+###
+005765
+X

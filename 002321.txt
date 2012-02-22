@@ -1,0 +1,27 @@
+==&gt;
+###
+315073c701
+###
+1249015531
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00421_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/00421_2.gif
+###
+|SPRITELOG|
+<span style="color: #00d5f2">NANNASPRITE: Your father was kidnapped!</span>
+<span style="color: #0715cd">JOHN: oh no!</span>
+<span style="color: #00d5f2">NANNASPRITE: When you crossed over to <span style="text-decoration: underline">The Medium</span>, he was apprehended by the very forces of darkness which your presence here has awakened.</span>
+<span style="color: #0715cd">JOHN: what? ok, so what is the medium you are talking about?</span>
+<span style="color: #00d5f2">NANNASPRITE: It is where we are now! A realm that is a ring of pure void, dividing light and darkness. It turns in the thick of <span style="text-decoration: underline">The Incipisphere</span>, a place untouched by the flow of time in your universe.</span>
+<span style="color: #0715cd">JOHN: you mean because we are inside a computer, or in the game software or something?</span>
+<span style="color: #00d5f2">NANNASPRITE: A computer? Why, what is that, dear? Some new fangled contraption, like the horseless auto-boxcar?</span>
+<span style="color: #0715cd">JOHN: well, uh, it's like this machine that, uh...</span>
+<span style="color: #00d5f2">NANNASPRITE: Hoo hoo hoo! Of course I know what a computer is, John! I was just pulling your leg! Hoo hoo hoo!</span>
+<span style="color: #0715cd">JOHN: oh, ok.</span>
+<span style="color: #00d5f2">NANNASPRITE: No, John. You are not inside a computer or software or anything like that! Try not to be so linear, dear. The software that brought you here was merely a mechanism that served as a gateway! Its routines in a way served to invoke this realm's instance, yet it stands independently of any physical machine, and somewhat paradoxically, always has!</span>
+<span style="color: #0715cd">JOHN: i'm not sure i get it, but alright.</span>
+<span style="color: #0715cd">JOHN: so what do i actually need to be doing here?</span>
+<span style="color: #00d5f2">NANNASPRITE: I think it would be best if we started with the big picture!</span>
+###
+002322
+X

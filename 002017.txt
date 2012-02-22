@@ -1,0 +1,14 @@
+John: Get free Fetch Modus.
+###
+5d42f52d6a
+###
+1241497862
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00117.gif
+###
+You turn to the back inside cover, where a free FETCH MODUS is included in a plastic sleeve.
+
+This one is dictated by the logic of a QUEUE DATA STRUCTURE, operating on a &quot;First In, First Out&quot; method, rather than a &quot;First In, Last Out&quot; method of a STACK.
+###
+002018
+X

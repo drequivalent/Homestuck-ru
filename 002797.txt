@@ -1,0 +1,14 @@
+PM: Examine keyboard and screen.
+###
+1a2bdcee90
+###
+1258945667
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00897.gif
+###
+It's the terminal you used to activate the station's homing mechanism. It looks like it has now returned control to you.
+
+The default viewport displays commands previously entered, including your last and only command &quot;=&gt; HOME&quot;.
+###
+002798
+X

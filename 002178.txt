@@ -1,0 +1,16 @@
+Rose: Prototype sprite with Sassacre text.
+###
+b6a4639775
+###
+1245479511
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00278.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">EB: OH YES, SWEET!!</span>
+<span style="color: #0715cd">EB: now we're talking!</span>
+<span style="color: #b536da">TT: See if you can distract it.</span>
+<span style="color: #b536da">TT: I'll try to sneak up on it.</span>
+###
+002179
+X

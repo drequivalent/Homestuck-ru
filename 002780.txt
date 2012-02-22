@@ -1,0 +1,32 @@
+John: High-five Nannaquin.
+###
+9bcfd77420
+###
+1258845916
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00880_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/00880_2.gif
+###
+|PESTERLOG|
+<span style="color: #b536da">TT: Good work, John!</span>
+<span style="color: #0715cd">EB: oh, hey!</span>
+<span style="color: #0715cd">EB: you're back.</span>
+<span style="color: #b536da">TT: For now. I'll have to leave again shortly.</span>
+<span style="color: #b536da">TT: It looks like there's another large meteor headed for...</span>
+<span style="color: #b536da">TT: My present location.</span>
+<span style="color: #0715cd">EB: oh, so you mean dave connected with you?</span>
+<span style="color: #b536da">TT: Not yet.</span>
+<span style="color: #b536da">TT: I'll explain later.</span>
+<span style="color: #b536da">TT: But I think I've determined that activating the timer in the game is not directly responsible for summoning a meteor to your location.</span>
+<span style="color: #b536da">TT: The countdown seems merely to exist as a kind of warning to the player.</span>
+<span style="color: #b536da">TT: As well as a strange coincidence.</span>
+<span style="color: #0715cd">EB: um, ok.</span>
+<span style="color: #0715cd">EB: i don't really think i get it.</span>
+<span style="color: #0715cd">EB: is this relevant?</span>
+<span style="color: #b536da">TT: Probably not at the moment. And certainly not to you.</span>
+<span style="color: #b536da">TT: I have to go.</span>
+<span style="color: #0715cd">EB: ok, later!</span>
+<span style="color: #b536da">TT: P.S. Try not to waste too much of that grist while I'm gone.</span>
+###
+002781
+X

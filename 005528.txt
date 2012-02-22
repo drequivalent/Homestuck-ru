@@ -1,0 +1,78 @@
+==&gt;
+###
+dafbef626b
+###
+1299648292
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03625.gif
+###
+|PESTERLOG|
+<span style="color: #ffffff">You are situated near the game construct supplied by your session for causing the Scratch, yes?</span>
+<span style="color: #b536da">TT: Are you actually asking?</span>
+<span style="color: #ffffff">No.</span>
+<span style="color: #ffffff">That was a fact, and then a question mark.</span>
+<span style="color: #b536da">TT: Ah.</span>
+<span style="color: #b536da">TT: Well, yes, I am.</span>
+<span style="color: #b536da">TT: It's a large plateau shaped like a record. It's called the Beat Mesa.</span>
+<span style="color: #ffffff">I know.</span>
+<span style="color: #b536da">TT: Is the game construct different in other sessions?</span>
+<span style="color: #ffffff">Yes.</span>
+<span style="color: #ffffff">It will always be an edifice of similarly cryptic design, located on the planet that is home to the Hero of Time.</span>
+<span style="color: #ffffff">Its environment dictates the nature of its construction. Its power is dangerous, and is meant to be utilized only in emergencies such as yours.</span>
+<span style="color: #b536da">TT: You mean, in sessions where victory is no longer possible?</span>
+<span style="color: #ffffff">Yes.</span>
+<span style="color: #b536da">TT: Due to creating an unstoppable adversary? Who triggers the reckoning prematurely?</span>
+<span style="color: #b536da">TT: Is that sort of emergency common?</span>
+<span style="color: #ffffff">No.</span>
+<span style="color: #ffffff">Failure is common. But the composition of yours is quite atypical.</span>
+<span style="color: #b536da">TT: Ok.</span>
+<span style="color: #b536da">TT: Then, it's like a panic button for the players to push once they realize the cause is lost.</span>
+<span style="color: #ffffff">Yes, but causing the Scratch is not an easy task either.</span>
+<span style="color: #ffffff">The construct must be destroyed in a very specific way to release its energy.</span>
+<span style="color: #ffffff">The keeper of my ectobiological father began the process.</span>
+<span style="color: #ffffff">It must be finished.</span>
+<span style="color: #b536da">TT: Who?</span>
+<span style="color: #ffffff">The guardian of the Knight of Time.</span>
+<span style="color: #b536da">TT: Dave's bro?</span>
+<span style="color: #ffffff">Yes.</span>
+<span style="color: #b536da">TT: How do I finish it?</span>
+<span style="color: #ffffff">You don't.</span>
+<span style="color: #ffffff">Not you personally. Another will. You have something more important to attend to, remember?</span>
+<span style="color: #b536da">TT: Oh, right.</span>
+<span style="color: #b536da">TT: The Green...</span>
+<span style="color: #b536da">TT: Wait.</span>
+<span style="color: #b536da">TT: The <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/greensun.gif" border="0" />.</span>
+<span style="color: #ffffff">Yes.</span>
+<span style="color: #b536da">TT: I'd planned to take care of that later, once John had retrieved the Tumor.</span>
+<span style="color: #000000">Tumor.</span>
+<span style="color: #b536da">TT: Whatever.</span>
+<span style="color: #ffffff">Your plan will have to change.</span>
+<span style="color: #ffffff">You aren't ready to cause the Scratch yet.</span>
+<span style="color: #ffffff">Like I said, it's difficult.</span>
+<span style="color: #b536da">TT: What will the one who does it have to do? I should let them know.</span>
+<span style="color: #ffffff">He will have to scratch the surface of the plateau across its full diameter.</span>
+<span style="color: #b536da">TT: I see.</span>
+<span style="color: #b536da">TT: This terminology can be very literal sometimes.</span>
+<span style="color: #ffffff">You will require a certain needle to create a breach in the surface that will be adequate.</span>
+<span style="color: #b536da">TT: I have needles.</span>
+<span style="color: #ffffff">Your needles won't suffice.</span>
+<span style="color: #b536da">TT: Then where do I get ones that will?</span>
+<span style="color: #ffffff">Again, you won't. This task is out of your hands.</span>
+<span style="color: #ffffff">The needles must be acquired from the denizen of the Witch of Space.</span>
+<span style="color: #ffffff">Her quills are very large and potent. They will be able to cause the Scratch.</span>
+<span style="color: #b536da">TT: This really seems more elaborate than you lead me to believe.</span>
+<span style="color: #ffffff">I didn't lead you to believe anything.</span>
+<span style="color: #ffffff">I told you to find the construct and await advisement on the Scratch. The plans you were making were based on assumptions and fabrications of your imagination. You were writing more stories, much like those about your false magical men.</span>
+<span style="color: #b536da">TT: I wish what I'd written in my private journals could be confined to your dark spots.</span>
+<span style="color: #ffffff">I don't. I find your stories entertaining.</span>
+<span style="color: #b536da">TT: You're being creepy again.</span>
+<span style="color: #ffffff">No I'm not.</span>
+<span style="color: #ffffff">Besides, the White King agrees with me.</span>
+<span style="color: #b536da">TT: What?</span>
+<span style="color: #ffffff">For a Seer, your vision of events surrounding you is rather limited. It's charming.</span>
+<span style="color: #b536da">TT: Just,</span>
+<span style="color: #b536da">TT: Please stop complimenting me.</span>
+<span style="color: #ffffff">No.</span>
+###
+005529
+X

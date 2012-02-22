@@ -1,0 +1,14 @@
+PM?: Follow the agent.
+###
+e64f1d1220
+###
+1267660005
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01531.gif
+###
+You have followed the AUTHORITY REGULATOR into enemy territory. It is a risky move and this dark palace makes you very uncomfortable. But it is imperative you press on and recover that parcel.
+
+You have brought along a PARKING CITATION. If confronted, you will say you are only here to deliver payment and leave.
+###
+003432
+X

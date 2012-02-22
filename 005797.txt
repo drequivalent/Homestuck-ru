@@ -1,0 +1,38 @@
+[o] ==&gt;
+###
+22b78fcc32
+###
+1310165376
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03894.gif
+###
+|PESTERLOG|
+<span style="color: #e00707">TG: oh yeah</span>
+<span style="color: #e00707">TG: i remember that now</span>
+<span style="color: #e00707">TG: then i guess thats what happened</span>
+<span style="color: #e00707">TG: i delivered the bomb and now i must be dead</span>
+<span style="color: #b536da">TT: Are you sure?</span>
+<span style="color: #e00707">TG: is that wrong</span>
+<span style="color: #b536da">TT: Maybe you should try to answer the question. Why did you want to go?</span>
+<span style="color: #e00707">TG: because i made the map so i know how to get there better</span>
+<span style="color: #b536da">TT: But it seems simple enough. A set of bearings to follow.</span>
+<span style="color: #b536da">TT: See? The application pilots the moon. Change course when necessary. Anyone can do it, really.</span>
+<span style="color: #b536da">TT: We talked about this. Debated, if you recall.</span>
+<span style="color: #e00707">TG: ok if you remember it all so clearly why are you grilling me on this shit</span>
+<span style="color: #e00707">TG: will you just tell me whats going on</span>
+<span style="color: #b536da">TT: I'm just seeing if you can remember. And if you're sticking to your story, about why you should be the one to go.</span>
+<span style="color: #e00707">TG: well i am</span>
+<span style="color: #e00707">TG: because i should</span>
+<span style="color: #e00707">TG: or should have</span>
+<span style="color: #e00707">TG: man what the fuck is going on</span>
+<span style="color: #e00707">TG: am i dead or are you dead or what</span>
+<span style="color: #b536da">TT: You're almost there, really. Just try to remember a little more.</span>
+<span style="color: #b536da">TT: What happened after we decided you'd go?</span>
+<span style="color: #e00707">TG: uh</span>
+<span style="color: #e00707">TG: oh yeah</span>
+<span style="color: #e00707">TG: we were trying to figure out a way to detach the moon</span>
+<span style="color: #e00707">TG: so i could pilot it out there</span>
+<span style="color: #e00707">TG: fly it into the sun</span>
+###
+005798
+X

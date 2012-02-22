@@ -1,0 +1,14 @@
+AR: Quickly retrieve side arms.
+###
+5362b5a176
+###
+1262481024
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01104.gif
+###
+You retrieve a pair of deadly SIDE ARMS.
+
+But you will need a longer-ranged weapon if you are to continue your enforcement.
+###
+003005
+X

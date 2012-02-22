@@ -1,0 +1,17 @@
+WV: Turn on the other 3 screens.
+###
+a8f101a1b3
+###
+1254098188
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00706_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/00706_2.gif
+###
+You have no idea how to turn these on!
+
+There is no mouse for this weird quadra-monitored computer. It can only be operated through text commands from its keyboard.
+
+Perhaps there is a special key or command which will allow you to switch to another monitor?
+###
+002607
+X

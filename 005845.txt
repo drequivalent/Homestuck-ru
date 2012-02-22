@@ -1,0 +1,49 @@
+[o] ==&gt;
+###
+4a89e605f5
+###
+1310676887
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03942.gif
+###
+|SPRITELOG|
+<span style="color: #f2a400">DAVESPRITE: it was different</span>
+<span style="color: #f2a400">DAVESPRITE: i think it must be always different</span>
+<span style="color: #f2a400">DAVESPRITE: depending on the circumstances</span>
+<span style="color: #f2a400">DAVESPRITE: i dont know what the choice is when you face him the way youre supposed to</span>
+<span style="color: #f2a400">DAVESPRITE: but im showing up as this bleeding bird sprite holding his broken sword</span>
+<span style="color: #f2a400">DAVESPRITE: so thats pretty odd situation</span>
+<span style="color: #1f9400">JADESPRITE: then what did he make you decide?</span>
+<span style="color: #f2a400">DAVESPRITE: he sees i got his sword and its busted and you can tell hes pissed</span>
+<span style="color: #f2a400">DAVESPRITE: but like before its like restrained anger</span>
+<span style="color: #f2a400">DAVESPRITE: like hes always about to just fucking flip but still keeps it together</span>
+<span style="color: #f2a400">DAVESPRITE: so he can tell me</span>
+<span style="color: #f2a400">DAVESPRITE: he can repair it</span>
+<span style="color: #f2a400">DAVESPRITE: and make the deringer with the forge lit</span>
+<span style="color: #f2a400">DAVESPRITE: he says he can repair anything</span>
+<span style="color: #f2a400">DAVESPRITE: but only one thing</span>
+<span style="color: #f2a400">DAVESPRITE: and i had to choose</span>
+<span style="color: #f2a400">DAVESPRITE: so i said ok fix the sword</span>
+<span style="color: #1f9400">JADESPRITE: as opposed to what?</span>
+<span style="color: #f2a400">DAVESPRITE: meh</span>
+<span style="color: #f2a400">DAVESPRITE: doesnt matter really</span>
+<span style="color: #f2a400">DAVESPRITE: i just thought making the sword felt like the right thing</span>
+<span style="color: #1f9400">JADESPRITE: oh...</span>
+<span style="color: #f2a400">DAVESPRITE: so i gave him the sword</span>
+<span style="color: #f2a400">DAVESPRITE: but it still wasnt all that simple</span>
+<span style="color: #f2a400">DAVESPRITE: he needed lava from the forge to make it</span>
+<span style="color: #f2a400">DAVESPRITE: which means echidna had to be awake</span>
+<span style="color: #f2a400">DAVESPRITE: our denizens had to have some kind of truce to make it happen</span>
+<span style="color: #f2a400">DAVESPRITE: see what i mean about it being complicated</span>
+<span style="color: #1f9400">JADESPRITE: yeah ._.</span>
+<span style="color: #f2a400">DAVESPRITE: so jade must have done something right</span>
+<span style="color: #f2a400">DAVESPRITE: to wake her up and get the forge going</span>
+<span style="color: #f2a400">DAVESPRITE: dont know what she did though</span>
+<span style="color: #1f9400">JADESPRITE: probably something amazing</span>
+<span style="color: #1f9400">JADESPRITE: she is still working so hard to help everyone</span>
+<span style="color: #1f9400">JADESPRITE: i guess i used to be that way...</span>
+<span style="color: #1f9400">JADESPRITE: but ive completely forgotten how</span>
+<span style="color: #f2a400">DAVESPRITE: are you sure</span>
+###
+005846
+X

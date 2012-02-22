@@ -1,0 +1,16 @@
+Dave: Combine camera and captchalogue card.
+###
+f4d981e096
+###
+1273812736
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01841_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/01841_2.gif
+http://www.mspaintadventures.com/storyfiles/hs2/01841_3.gif
+###
+You make the CAPTCHAROID CAMERA.
+
+You can use it to snap a ghost image of any object without captchaloguing it. Spits it out on a brand new captchalogue card every time. Could be a useful way to take a large inventory of anything you encounter without cluttering up your sylladex. Also for grabbing codes for stuff you can't ordinarily pick up.
+###
+003742
+X

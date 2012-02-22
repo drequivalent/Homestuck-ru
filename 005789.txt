@@ -1,0 +1,13 @@
+[o] ==&gt;
+###
+dbee6974b4
+###
+1309646857
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03886.gif
+###
+|SPRITELOG|
+<span style="color: #f2a400">DAVESPRITE: hey</span>
+###
+005774
+X

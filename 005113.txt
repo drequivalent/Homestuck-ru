@@ -1,0 +1,19 @@
+Jade: Say hello.
+###
+8a084698cf
+###
+1293830268
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03210.gif
+###
+|SPRITELOG|
+<span style="color: #4ac925">JADE: hello!</span>
+<span style="color: #4ac925">JADE: ummmmmm</span>
+<span style="color: #4ac925">JADE: jade?</span>
+<span style="color: #4ac925">JADE: can you talk?</span>
+<span style="color: #1f9400">JADESPRITE: i...</span>
+<span style="color: #4ac925">JADE: oh good!</span>
+<span style="color: #4ac925">JADE: hehehe, i was starting to get worried there</span>
+###
+005114
+X

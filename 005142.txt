@@ -1,0 +1,55 @@
+==&gt;
+###
+585d341012
+###
+1294102155
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03239.gif
+###
+|SPRITELOG|
+<span style="color: #4ac925">JADE: well...</span>
+<span style="color: #4ac925">JADE: now i dont know what to do</span>
+<span style="color: #4ac925">JADE: i really messed up, i feel so bad</span>
+<span style="color: #1f9400">JADESPRITE: i dont know what to do with myself either</span>
+<span style="color: #1f9400">JADESPRITE: i think i will just go somewhere else</span>
+<span style="color: #1f9400">JADESPRITE: i want to be alone</span>
+<span style="color: #4ac925">JADE: where would you go?</span>
+<span style="color: #1f9400">JADESPRITE: i dont know</span>
+<span style="color: #1f9400">JADESPRITE: i think i can travel anywhere now</span>
+<span style="color: #1f9400">JADESPRITE: but all id like to do is go back</span>
+<span style="color: #1f9400">JADESPRITE: and i dont know if thats possible</span>
+<span style="color: #1f9400">JADESPRITE: i wonder if theres a way...</span>
+<span style="color: #4ac925">JADE: but you cant!</span>
+<span style="color: #4ac925">JADE: i mean, not just yet, please?</span>
+<span style="color: #1f9400">JADESPRITE: why</span>
+<span style="color: #4ac925">JADE: i know you are upset jade</span>
+<span style="color: #4ac925">JADE: but i did sort of bring you back for a reason</span>
+<span style="color: #1f9400">JADESPRITE: why, why would you do this?</span>
+<span style="color: #4ac925">JADE: we need your help!</span>
+<span style="color: #1f9400">JADESPRITE: who?</span>
+<span style="color: #4ac925">JADE: well, all of us here</span>
+<span style="color: #4ac925">JADE: me and dave and rose and john</span>
+<span style="color: #1f9400">JADESPRITE: john!!!!!!!!!!!</span>
+<span style="color: #1f9400">JADESPRITE: oh noooooo, john...</span>
+<span style="color: #1f9400">JADESPRITE: BOO HOO HOO HOO HOO HOO HOO</span>
+<span style="color: #4ac925">JADE: D:</span>
+<span style="color: #4ac925">JADE: what is it now!</span>
+<span style="color: #1f9400">JADESPRITE: john, poor john...</span>
+<span style="color: #1f9400">JADESPRITE: id forgotten about him</span>
+<span style="color: #4ac925">JADE: what do you mean, how could you forget about john???</span>
+<span style="color: #1f9400">JADESPRITE: it was so long ago! i put that sad memory behind me</span>
+<span style="color: #1f9400">JADESPRITE: after we died i looked all over for him but couldnt find him</span>
+<span style="color: #1f9400">JADESPRITE: and i was so lonely, but i finally got over it when i met my friends.....</span>
+<span style="color: #1f9400">JADESPRITE: and now theyre gone toooo aaahhhh boooooooo hoo hoo hoo hoo</span>
+<span style="color: #4ac925">JADE: but john didnt die!</span>
+<span style="color: #4ac925">JADE: i saved him</span>
+<span style="color: #4ac925">JADE: YOU saved him, dont you remember?</span>
+<span style="color: #4ac925">JADE: you pushed him out of the way of prospits moon at the last minute, and hes ok now!!!</span>
+<span style="color: #1f9400">JADESPRITE: oh my god prospit.....</span>
+<span style="color: #1f9400">JADESPRITE: ...........</span>
+<span style="color: #4ac925">JADE: oh nooo jade please dont</span>
+<span style="color: #1f9400">JADESPRITE: BOOOOOOOOOOO HOO HOO HOO HOO HOO</span>
+<span style="color: #4ac925">JADE: :C</span>
+###
+005143
+X

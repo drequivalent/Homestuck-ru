@@ -1,0 +1,67 @@
+John: Answer Rose.
+###
+46562a4124
+###
+1290386346
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02920.gif
+###
+|PESTERLOG|
+-- tentacleTherapist <span style="color: #b536da">[TT]</span> began pestering ectoBiologist <span style="color: #0715cd">[EB]</span> --
+
+<span style="color: #b536da">TT: John.</span>
+<span style="color: #0715cd">EB: blaaauuuuuuuuugh, what happened!!!!!</span>
+<span style="color: #b536da">TT: You were sleeping.</span>
+<span style="color: #0715cd">EB: yes, i know!</span>
+<span style="color: #0715cd">EB: on the corner of my ghost bed!</span>
+<span style="color: #0715cd">EB: in the middle of an oil ocean!</span>
+<span style="color: #0715cd">EB: for some reason!!!</span>
+<span style="color: #b536da">TT: Why were you sleeping?</span>
+<span style="color: #b536da">TT: Everywhere I look, I see boys taking naps.</span>
+<span style="color: #0715cd">EB: um...</span>
+<span style="color: #0715cd">EB: i have no idea.</span>
+<span style="color: #0715cd">EB: i don't remember what happened, i was in the middle of helping jade...</span>
+<span style="color: #0715cd">EB: and then...</span>
+<span style="color: #0715cd">EB: i guess my bed crashed?</span>
+<span style="color: #0715cd">EB: and i got knocked out i guess.</span>
+<span style="color: #0715cd">EB: i was dreaming.</span>
+<span style="color: #0715cd">EB: i couldn't have been out for that long, because my dream was really short.</span>
+<span style="color: #b536da">TT: You weren't.</span>
+<span style="color: #b536da">TT: Ten minutes, I'd say.</span>
+<span style="color: #b536da">TT: What were you dreaming about?</span>
+<span style="color: #0715cd">EB: i was on the battlefield again.</span>
+<span style="color: #0715cd">EB: but i did not have time to seek the treasure!</span>
+<span style="color: #b536da">TT: I wouldn't imagine so.</span>
+<span style="color: #0715cd">EB: but...</span>
+<span style="color: #0715cd">EB: i did see a black guy wrapped up in my ghosty bed sheets.</span>
+<span style="color: #0715cd">EB: he was acting very suspicious.</span>
+<span style="color: #b536da">TT: A black guy?</span>
+<span style="color: #0715cd">EB: oh...</span>
+<span style="color: #0715cd">EB: i do not mean like, an african american or anything.</span>
+<span style="color: #0715cd">EB: like bill cosby.</span>
+<span style="color: #b536da">TT: Thanks for clearing that up.</span>
+<span style="color: #0715cd">EB: r.i.p. bill. :(</span>
+<span style="color: #0715cd">EB: this fellow had a hard black shell, like all the dead guys do.</span>
+<span style="color: #0715cd">EB: i followed him for a bit...</span>
+<span style="color: #0715cd">EB: and then some sorta ruckus transpired, and i woke up.</span>
+<span style="color: #0715cd">EB: and now jade won't answer!</span>
+<span style="color: #0715cd">EB: do you know if she's ok?</span>
+<span style="color: #b536da">TT: She's fine.</span>
+<span style="color: #b536da">TT: But you're not.</span>
+<span style="color: #0715cd">EB: i'm not?</span>
+<span style="color: #b536da">TT: Remember how I said your planet was on fire?</span>
+<span style="color: #0715cd">EB: oh yeah...</span>
+<span style="color: #0715cd">EB: that didn't by any chance stop being a thing that was true, did it?</span>
+<span style="color: #b536da">TT: It did not.</span>
+<span style="color: #b536da">TT: Do you see that pinkish hue behind you, bleeding over the horizon?</span>
+<span style="color: #0715cd">EB: fuck!!!</span>
+<span style="color: #0715cd">EB: rose, this is all oil! it'll all just explode any second, won't it???</span>
+<span style="color: #b536da">TT: I don't think the fire's rate of propagation is quite as fast as you're imagining.</span>
+<span style="color: #b536da">TT: But the danger is still significant.</span>
+<span style="color: #b536da">TT: Especially considering that your bed is sinking.</span>
+<span style="color: #0715cd">EB: fuuuuuuuuuuuck!!!!!!!</span>
+<span style="color: #b536da">TT: Relax.</span>
+<span style="color: #b536da">TT: Look to your right.</span>
+###
+004822
+X

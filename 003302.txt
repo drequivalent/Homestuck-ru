@@ -1,0 +1,33 @@
+Jade: Deploy the cruxtruder in its place.
+###
+60c537a5f9
+###
+1266298726
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01402.gif
+###
+|PESTERLOG|
+<span style="color: #e00707">TG: so seriously what were you doing just now</span>
+<span style="color: #b536da">TT: I was talking to someone.</span>
+<span style="color: #e00707">TG: who</span>
+<span style="color: #b536da">TT: You remember the trolls?</span>
+<span style="color: #e00707">TG: yeah</span>
+<span style="color: #b536da">TT: One of them messaged me, so I indulged him/her/it for a moment.</span>
+<span style="color: #e00707">TG: oh i see you opted to chat up one of those dbags instead of talk to the guy who saved you from a swirling shitstorm of angry flaming wizards</span>
+<span style="color: #e00707">TG: i was worried your priorities might have been out of whack but no i was dead wrong</span>
+<span style="color: #b536da">TT: I also took a moment to check on John.</span>
+<span style="color: #e00707">TG: how is he</span>
+<span style="color: #b536da">TT: I can't see him anymore. Just his empty house.</span>
+<span style="color: #b536da">TT: But I did talk to him briefly.</span>
+<span style="color: #e00707">TG: i should probably text him soon</span>
+<span style="color: #e00707">TG: see whats up</span>
+<span style="color: #e00707">TG: because</span>
+<span style="color: #e00707">TG: i love him</span>
+<span style="color: #b536da">TT: I know.</span>
+<span style="color: #e00707">TG: so this place youre at now</span>
+<span style="color: #e00707">TG: its the same place hes at right</span>
+<span style="color: #b536da">TT: It's hard to say for certain.</span>
+<span style="color: #b536da">TT: But I think I like it here.</span>
+###
+003303
+X

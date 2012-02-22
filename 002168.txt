@@ -1,0 +1,24 @@
+THESE BORING MEN ARE UNINTERESTING.
+###
+b2b4423c44
+###
+1245205163
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00268_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/00268_2.gif
+###
+|PESTERLOG|
+<span style="color: #b536da">TT: John, are you ok?</span>
+<span style="color: #b536da">TT: You seem a bit tentative.</span>
+<span style="color: #0715cd">EB: i'm fine i guess.</span>
+<span style="color: #0715cd">EB: since i got here i feel compelled to do these weird things i don't really want to do.</span>
+<span style="color: #0715cd">EB: by some kind of voice that i can't really even hear. i don't know, it is hard to explain.</span>
+<span style="color: #b536da">TT: Perhaps the early symptoms of an anxiety disorder, like post-traumatic stress?</span>
+<span style="color: #0715cd">EB: yeah, maybe. who knows!</span>
+<span style="color: #b536da">TT: Well, if you can pull yourself together, there are a few more things we should try.</span>
+<span style="color: #b536da">TT: Like prototyping the Kernelsprite again, if possible.</span>
+<span style="color: #b536da">TT: We should hurry. My laptop battery won't last forever.</span>
+<span style="color: #0715cd">EB: Ok. I will go back inside.</span>
+###
+002169
+X

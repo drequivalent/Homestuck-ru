@@ -1,0 +1,18 @@
+==&gt;
+###
+1b295819fd
+###
+1258601689
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00875.gif
+###
+You use the panel to center on your present location and zoom in. Surrounding the lab are of course the hundreds of smaller meteors that have been raining down steadily throughout the evening. Most of these meteor(ite)s have either landed already, or will shortly. 
+
+Centered over the lab is a significantly larger imminent collision. You can't say precisely how imminent, but you could certainly take an educated stab at it.
+
+Just southwest of the lab, centered suspiciously near the location of your house, is an even larger looming collision. Though this one appears slightly less imminent.
+
+The terminal looks like it can monitor any meteor or session around the world. Search filters can be applied as well, restricting results based on size, time of impact, location, and so on.
+###
+002776
+X

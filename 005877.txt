@@ -1,0 +1,34 @@
+[o] ==&gt;
+###
+4f76d36cce
+###
+1311390806
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03974.gif
+###
+|PESTERLOG|
+<span style="color: #008141">FGA: I Recommended She Return To Her Denizen For Advice</span>
+<span style="color: #626262">PCG: ABOUT WHAT</span>
+<span style="color: #008141">FGA: The Location Of The Final Frog Required To Complete The Gene Sequence</span>
+<span style="color: #008141">FGA: One Whose Song Should Remove The Last Traces Of Dissonance From The Waveform</span>
+<span style="color: #008141">FGA: The Creature Is Quite Elusive Remember</span>
+<span style="color: #626262">PCG: OH YEAH</span>
+<span style="color: #626262">PCG: YOU WERE SEARCHING FOR WEEKS</span>
+<span style="color: #008141">FGA: Yes</span>
+<span style="color: #626262">PCG: AND YOU NEVER FOUND IT</span>
+<span style="color: #008141">FGA: I Had A Good Lead</span>
+<span style="color: #008141">FGA: But You Decided There Was Not Enough Time Left To Bother With It</span>
+<span style="color: #626262">PCG: THE RECKONING HAD STARTED.</span>
+<span style="color: #626262">PCG: WE HAD TO KILL THE KING.</span>
+<span style="color: #008141">FGA: Understood But This Was A Matter That Really Did Require Your Attention</span>
+<span style="color: #626262">PCG: YEAH I KNOW, BUT MAYBE I WAS SICK TO FUCKING DEATH OF MUDDLING AROUND WITH FROGS AND THEIR CACOPHONOUS GODDAMN RIBBITS AND MIXING THEIR SLIME AND SHIT.</span>
+<span style="color: #626262">PCG: I'M NOT AN ECTO SCIENTIST NO MATTER HOW MANY GRUBS WHO TURNED OUT TO BE US THE GAME MADE ME ACCIDENTALLY MAKE.</span>
+<span style="color: #4ac925">?GG: but you are a programmer arent you? that is at least kind of like being a scientist, having some technical savvy...</span>
+<span style="color: #626262">PCG: I WAS A SHITTY PROGRAMMER. AND ANYWAY I ONLY PROGRAMMED VIRUSES.</span>
+<span style="color: #626262">PCG: SHITTY VIRUSES.</span>
+<span style="color: #626262">PCG: I SHOULDN'T HAVE TO BE A SLIME TECHNICIAN OR A FROG FARMER OR A MYSTICAL FUCKING CROAK DECODER. I'M A WARRIOR AND A LEADER AND A COLD BLOODED KILLER.</span>
+<span style="color: #4ac925">?GG: we know! you are clearly very good at being all of those things</span>
+<span style="color: #4ac925">?GG: but now we need your help with frog science. can you help us?</span>
+###
+005878
+X

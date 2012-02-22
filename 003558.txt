@@ -1,0 +1,55 @@
+Davesprite: Chill with Dave.
+###
+7eb6500baf
+###
+1270401551
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01658.gif
+###
+|SPRITELOG|
+<span style="color: #e00707">DAVE: who were you talking to</span>
+<span style="color: #f2a400">DAVESPRITE: just telling a troll to step off</span>
+<span style="color: #e00707">DAVE: ok cool</span>
+<span style="color: #e00707">DAVE: so now that youre a sprite</span>
+<span style="color: #e00707">DAVE: do you know everything about the game</span>
+<span style="color: #f2a400">DAVESPRITE: well i knew a lot anyway</span>
+<span style="color: #f2a400">DAVESPRITE: cause im from the future</span>
+<span style="color: #f2a400">DAVESPRITE: but yeah i know more stuff now</span>
+<span style="color: #f2a400">DAVESPRITE: like things meant specifically for sprites to clue players in on</span>
+<span style="color: #f2a400">DAVESPRITE: but packaged in these like</span>
+<span style="color: #f2a400">DAVESPRITE: i guess riddles</span>
+<span style="color: #f2a400">DAVESPRITE: im supposed to be cagey about it</span>
+<span style="color: #f2a400">DAVESPRITE: but i dont really feel like it</span>
+<span style="color: #f2a400">DAVESPRITE: ask me anything go ahead ill give you a straight answer</span>
+<span style="color: #e00707">DAVE: alright</span>
+<span style="color: #e00707">DAVE: here goes</span>
+<span style="color: #e00707">DAVE: why are we so fucking awesome</span>
+<span style="color: #f2a400">DAVESPRITE: thats the best fucking question anybody ever asked</span>
+<span style="color: #e00707">DAVE: yeah</span>
+<span style="color: #e00707">DAVE: so is everything cool with this john business</span>
+<span style="color: #e00707">DAVE: is he gonna be ok</span>
+<span style="color: #f2a400">DAVESPRITE: thats up to him</span>
+<span style="color: #f2a400">DAVESPRITE: if he decides to wise up and listen to us</span>
+<span style="color: #f2a400">DAVESPRITE: if not then we just bail everyone out yet again</span>
+<span style="color: #e00707">DAVE: ok</span>
+<span style="color: #f2a400">DAVESPRITE: all that gear you picked up should let you breeze through the first couple gates</span>
+<span style="color: #f2a400">DAVESPRITE: even at a low level</span>
+<span style="color: #f2a400">DAVESPRITE: later youll unlock the ability to bring your sprite down with you</span>
+<span style="color: #f2a400">DAVESPRITE: and well take care of shit together</span>
+<span style="color: #f2a400">DAVESPRITE: til then i guess just mess around and let jade build up or whatever</span>
+<span style="color: #f2a400">DAVESPRITE: ill go kill some time</span>
+<span style="color: #f2a400">DAVESPRITE: maybe draw some comics</span>
+<span style="color: #e00707">DAVE: like what</span>
+<span style="color: #f2a400">DAVESPRITE: i dont know</span>
+<span style="color: #f2a400">DAVESPRITE: whats the last one you did</span>
+<span style="color: #e00707">DAVE: i was in the middle of the nancho party arc</span>
+<span style="color: #f2a400">DAVESPRITE: oh yeah</span>
+<span style="color: #f2a400">DAVESPRITE: i gave up on that half way through</span>
+<span style="color: #e00707">DAVE: yeah that was sorta the plan</span>
+<span style="color: #e00707">DAVE: making a ten part story about nachos was always a bullshit idea</span>
+<span style="color: #f2a400">DAVESPRITE: lets do some brainstorming later</span>
+<span style="color: #f2a400">DAVESPRITE: blow everyones minds</span>
+<span style="color: #e00707">DAVE: yeah sure</span>
+###
+003559
+X

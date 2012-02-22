@@ -1,0 +1,38 @@
+==&gt;
+###
+8415226ed9
+###
+1294178389
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03244.gif
+###
+|SPRITELOG|
+<span style="color: #1f9400">JADESPRITE: BOO HOO HOO HOO HOO HOO</span>
+<span style="color: #4ac925">JADE: SHUT UP</span>
+<span style="color: #1f9400">JADESPRITE: BOO HOO HOO HOO HOO HOO</span>
+<span style="color: #1f9400">JADESPRITE: BOO HOO HOO HOO HOO HOO</span>
+<span style="color: #4ac925">JADE: NO</span>
+<span style="color: #4ac925">JADE: JUST</span>
+<span style="color: #4ac925">JADE: GOD DAMN IT</span>
+<span style="color: #1f9400">JADESPRITE: BOO HOO HOO HOO HOO HOO</span>
+<span style="color: #1f9400">JADESPRITE: BOO HOO HOO HOO HOO HOO</span>
+<span style="color: #4ac925">JADE: PLEASE</span>
+<span style="color: #4ac925">JADE: JUST ONCE</span>
+<span style="color: #4ac925">JADE: SHUT THE HELL UP</span>
+<span style="color: #1f9400">JADESPRITE: BOO HOO HOO HOO HOO HOO</span>
+<span style="color: #1f9400">JADESPRITE: BOO HOO HOO HOO HOO HOO</span>
+<span style="color: #1f9400">JADESPRITE: BOO HOO HOO HOO HOO HOO</span>
+<span style="color: #4ac925">JADE: SHUT UP</span>
+<span style="color: #1f9400">JADESPRITE: BOO HOO HOO HOO HOO HOO</span>
+<span style="color: #1f9400">JADESPRITE: BOO HOO HOO HOO HOO HOO</span>
+<span style="color: #4ac925">JADE: SHUT</span>
+<span style="color: #1f9400">JADESPRITE: BOO HOO HOO HOO HOO HOO</span>
+<span style="color: #4ac925">JADE: THE</span>
+<span style="color: #1f9400">JADESPRITE: BOO HOO HOO HOO HOO HOO</span>
+<span style="color: #4ac925">JADE: FUCK</span>
+<span style="color: #1f9400">JADESPRITE: BOO HOO HOO HOO HOO HOO</span>
+<span style="color: #4ac925">JADE: UP</span>
+<span style="color: #1f9400">JADESPRITE: </span><img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/jadespritehead.gif" border="0" />
+###
+005148
+X

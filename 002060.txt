@@ -1,0 +1,37 @@
+John: Go out to balcony.
+###
+1f7fc0d7b6
+###
+1242440115
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00160.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">EB: hey, i'm out on the balcony now.</span>
+<span style="color: #0715cd">EB: i am messaging from my dad's pda.</span>
+<span style="color: #b536da">TT: The one you threw into the yard?</span>
+<span style="color: #0715cd">EB: no, i am telling you.</span>
+<span style="color: #0715cd">EB: it jumped out of my sylladex like a frightened weasel.</span>
+<span style="color: #b536da">TT: What were you doing with it in the first place?</span>
+<span style="color: #b536da">TT: I am not sensing a lot of regard for the personal property of others.</span>
+<span style="color: #b536da">TT: Is this how your pent-up frustration with your father manifests itself?</span>
+<span style="color: #0715cd">EB: what? no.</span>
+<span style="color: #0715cd">EB: those were all accidents.</span>
+<span style="color: #0715cd">EB: please take your psycho-babblery elsewhere, miss!</span>
+<span style="color: #b536da">TT: Your bathroom is a mess.</span>
+<span style="color: #b536da">TT: Did you do that too?</span>
+<span style="color: #0715cd">EB: oh man, see this isn't cool.</span>
+<span style="color: #0715cd">EB: all this snooping nonsense!</span>
+<span style="color: #b536da">TT: There's a cake in the toilet.</span>
+<span style="color: #0715cd">EB: yes. there is.</span>
+<span style="color: #b536da">TT: I'm tempted to clean it up for you.</span>
+<span style="color: #0715cd">EB: ok, if that will satisfy your weird ocd complex then go ahead.</span>
+<span style="color: #b536da">TT: My Obsessive-Compulsive Disorder complex?</span>
+<span style="color: #b536da">TT: Can a disorder also be a complex?</span>
+<span style="color: #0715cd">EB: in your case, probably!</span>
+<span style="color: #b536da">TT: Sounds complicated.</span>
+<span style="color: #0715cd">EB: anyway...</span>
+<span style="color: #0715cd">EB: i am going to have a look at this enormous platformy thing you put on the balcony.</span>
+###
+002061
+X

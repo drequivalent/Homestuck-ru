@@ -1,0 +1,14 @@
+John: Use pre-punched card with the alchemiter.
+###
+ba5eda1741
+###
+1242878556
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00188.gif
+###
+There is no slot for a card anywhere to be found on the ALCHEMITER!
+
+The KERNELSPRITE followed you upstairs.
+###
+002089
+X

@@ -1,0 +1,64 @@
+[A6I1] ==&gt;
+###
+e1ca6efce3
+###
+1324009421
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04333.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: oh man, rose and dave have sweet god tier pajamas like us! that's so awesome.</span>
+<span style="color: #0715cd">JOHN: haha, dave looks like kind of a doofus with that snug little hood.</span>
+<span style="color: #4ac925">JADE: i think he looks cool!!!!!</span>
+<span style="color: #4ac925">JADE: the cape is great, hes like a super hero now</span>
+<span style="color: #0715cd">JOHN: that's true.</span>
+<span style="color: #0715cd">JOHN: i still think i prefer my outfit though.</span>
+<span style="color: #0715cd">JOHN: look at all those trolls...</span>
+<span style="color: #0715cd">JOHN: there are so many trolls. the idea of meeting them all is kind of overwhelming.</span>
+<span style="color: #0715cd">JOHN: i wonder which one is which?</span>
+<span style="color: #0715cd">JOHN: i think that must have been karkat there. and that was probably his clown asshole friend he mentioned, too.</span>
+<span style="color: #4ac925">JADE: yup</span>
+<span style="color: #0715cd">JOHN: and that was definitely terezi, with the fancy glasses.</span>
+<span style="color: #0715cd">JOHN: not sure about the others... i wonder if vriska was there?</span>
+<span style="color: #4ac925">JADE: ...</span>
+<span style="color: #0715cd">JOHN: it's nice to see rose looks better.</span>
+<span style="color: #0715cd">JOHN: last time i saw her, she looked really grim.</span>
+<span style="color: #0715cd">JOHN: and also, dark.</span>
+<span style="color: #0715cd">JOHN: i was trying to talk to her, but she sounded like a babbling monster, so i couldn't understand her.</span>
+<span style="color: #0715cd">JOHN: it was really frustrating, and all of my nervous rambling probably made me sound like an idiot.</span>
+<span style="color: #0715cd">JOHN: and then when i woke up later, she was dead.</span>
+<span style="color: #4ac925">JADE: :(</span>
+<span style="color: #0715cd">JOHN: did you know...</span>
+<span style="color: #0715cd">JOHN: that i had to kiss her to make her come back to life?</span>
+<span style="color: #4ac925">JADE: !!!</span>
+<span style="color: #0715cd">JOHN: yes, it's true.</span>
+<span style="color: #0715cd">JOHN: it's kind of weird kissing a dead body, but i didn't mind.</span>
+<span style="color: #0715cd">JOHN: how did you feel about it when you kissed dave when he died?</span>
+<span style="color: #4ac925">JADE: ...........</span>
+<span style="color: #4ac925">JADE: how did you know about that!</span>
+<span style="color: #0715cd">JOHN: karkat told me.</span>
+<span style="color: #4ac925">JADE: oh</span>
+<span style="color: #4ac925">JADE: that figures</span>
+<span style="color: #0715cd">JOHN: do you think that all of our unbridled corpse smooching means karkat's silly shipping prophecy will come true?</span>
+<span style="color: #4ac925">JADE: umm</span>
+<span style="color: #0715cd">JOHN: i mean, the guy is really angry, and says fuck like in practically every sentence.</span>
+<span style="color: #0715cd">JOHN: but he does weirdly seem to know what he's talking about when it comes to romance.</span>
+<span style="color: #4ac925">JADE: yeah</span>
+<span style="color: #4ac925">JADE: i dunno</span>
+<span style="color: #4ac925">JADE: do you want it to come true?</span>
+<span style="color: #0715cd">JOHN: man.</span>
+<span style="color: #0715cd">JOHN: i don't know.</span>
+<span style="color: #0715cd">JOHN: do you?</span>
+<span style="color: #4ac925">JADE: hmmmmmm.....</span>
+<span style="color: #0715cd">JOHN: hmm, indeed.</span>
+<span style="color: #4ac925">JADE: i think i miss them already</span>
+<span style="color: #4ac925">JADE: and weve only been here for a few minutes :(</span>
+<span style="color: #0715cd">JOHN: yeah.</span>
+<span style="color: #0715cd">JOHN: there's a lot i want to tell them about.</span>
+<span style="color: #0715cd">JOHN: and a lot i want to ask them.</span>
+<span style="color: #4ac925">JADE: well</span>
+<span style="color: #4ac925">JADE: you could ask them now if you want</span>
+<span style="color: #0715cd">JOHN: really?</span>
+###
+006237
+X

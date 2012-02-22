@@ -1,0 +1,16 @@
+WV: Build a fort.
+###
+d551776927
+###
+1294381260
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03255.gif
+###
+In your attempt to find an exit, you have pried some paneling off the walls. But you are no closer to discovering a means of escape.
+
+So you have resolved to build a fort instead.
+
+You feel safe and sound in the cozy confines of your wobbly station panel walls. It should allow you to relax and pass the time, while you wait for the only source of energy you are aware of to present itself.
+###
+005159
+X

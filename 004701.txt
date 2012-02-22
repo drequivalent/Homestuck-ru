@@ -1,0 +1,22 @@
+==&gt;
+###
+13a9b6408e
+###
+1288151530
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02800.gif
+###
+|SPRITELOG|
+<span style="color: #00d5f2">NANNASPRITE: That is completely unacceptable.</span>
+<span style="color: #00d5f2">NANNASPRITE: I will prepare you a healthy home cooked meal while you relax in your ghost bed and rescue your paradox sister.</span>
+<span style="color: #0715cd">JOHN: oh boy!</span>
+<span style="color: #00d5f2">NANNASPRITE: What would you like? Name what your heart desires. I will use my spooky ghost powers to make it.</span>
+<span style="color: #0715cd">JOHN: wow, hmm...</span>
+<span style="color: #00d5f2">NANNASPRITE: Why, John! Do you hear that sound?</span>
+<span style="color: #0715cd">JOHN: uh... no?</span>
+<span style="color: #00d5f2">NANNASPRITE: It sounds as if your meal is nearly finished!</span>
+<span style="color: #0715cd">JOHN: really? already?</span>
+<span style="color: #00d5f2">NANNASPRITE: BZZZZZ!</span>
+###
+004702
+X

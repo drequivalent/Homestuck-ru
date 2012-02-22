@@ -1,0 +1,14 @@
+Examine your pet's tomb.
+###
+20839da9e3
+###
+1267149564
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01495.gif
+###
+The mausoleum was destroyed by the explosion. The secret passage remains. 
+
+You have no idea where it leads, but it sure isn't the lab anymore.
+###
+003396
+X

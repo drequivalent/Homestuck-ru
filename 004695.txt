@@ -1,0 +1,13 @@
+==&gt;
+###
+73c890794e
+###
+1288019472
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02794.gif
+###
+|SPRITELOG|
+<span style="color: #00d5f2">NANNASPRITE: HOO HOO HOO HOO HOO!</span>
+###
+004696
+X

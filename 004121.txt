@@ -1,0 +1,166 @@
+Equius: Talk to friend/enemy.
+###
+d1f6a388e6
+###
+1278998420
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02221.gif
+###
+|PESTERLOG|
+<span style="color: #000056">centaursTesticle [CT]</span> began trolling <span style="color: #2b0057">terminallyCapricious [TC]</span>
+
+<span style="color: #000056">CT: D --&gt; Have I ever told you what a reprehensible disgrace you are</span>
+<span style="color: #2b0057">TC: hAhA, fUcK yEaH, oNlY eVeRy MoThErFuCkIn DaY bRo!</span>
+<span style="color: #000056">CT: D --&gt; I'm not in a very good mood</span>
+<span style="color: #000056">CT: D --&gt; There are a few things I'd like to get off my chest</span>
+<span style="color: #2b0057">TC: MoThErFuCkIn SpIlL iT, dOn'T bE aLl KeEpIn ThAt ShIt BoTtLeD uP</span>
+<span style="color: #2b0057">TC: lIkE a FuCkIn AlL sHaKeD uP bOtTlE oF fAyGo.</span>
+<span style="color: #2b0057">TC: FuCk DoGg I'm ThIrStY.</span>
+<span style="color: #2b0057">TC: i'M dOwN tO mY lAsT bOtTlE aNd I dOn'T fUcKiN kNoW iF i CaN gEt AnYmOrE iN tHiS mOtHeRfUcKiN mAgIc LaNd So I dOn'T kNoW.</span>
+<span style="color: #000056">CT: D --&gt; What you do appear to know is e%actly how to ma%imize my livid contempt for you</span>
+<span style="color: #000056">CT: D --&gt; With your revolting language and your sense of decorum</span>
+<span style="color: #000056">CT: D --&gt; At such breathtaking odds with the richness and perfe%ion of your b100d</span>
+<span style="color: #000056">CT: D --&gt; I just hate you so much</span>
+<span style="color: #2b0057">TC: ThAt'S cOoL, i CaN't AlL bE mAkInG nOt EvErYbOdY hApPy AlL tHe TiMe.</span>
+<span style="color: #2b0057">TC: iF wE eVeR mEt I cOuLd BaKe YoU a FuCkIn PiE aNd We CoUlD cHiLl AnD mAyBe We'D bE bEtTeR bRoS tHaT wAy.</span>
+<span style="color: #000056">CT: D --&gt; And the degrees to which you pollute your precious b100d</span>
+<span style="color: #000056">CT: D --&gt; With your bottled fizzy sugar and soporific to%ins</span>
+<span style="color: #000056">CT: D --&gt; Maddening</span>
+<span style="color: #000056">CT: D --&gt; You will stop</span>
+<span style="color: #2b0057">TC: WhOaAaA, i WiLl?</span>
+<span style="color: #2b0057">TC: hOw Do YoU kNoW tHaT?</span>
+<span style="color: #000056">CT: D --&gt; No, you don't understand</span>
+<span style="color: #000056">CT: D --&gt; It's not a predi%ion, it's an order</span>
+<span style="color: #000056">CT: D --&gt; I command you to stop</span>
+<span style="color: #2b0057">TC: Oh, AlRiGhT bRoThEr.</span>
+<span style="color: #2b0057">TC: yOu MoThErFuCkIn GoT iT.</span>
+<span style="color: #000056">CT: D --&gt; What</span>
+<span style="color: #000056">CT: D --&gt; Are you serious</span>
+<span style="color: #2b0057">TC: yEaH.</span>
+<span style="color: #2b0057">TC: I mEaN, yOu GoT tO sHoW sOmE fAiTh In YoUr FrIeNdS, cAuSe ThEy'Re AlL tHe OnEs WhO'rE bEiNg To LoOk OuT fOr YoU.</span>
+<span style="color: #2b0057">TC: sO fUcK iF yOu SaY i'M nOt DoInG tHe ShIt RiGhT, tHeN wHaT tHe MoThErFuCk Do I kNoW!</span>
+<span style="color: #000056">CT: D --&gt; No</span>
+<span style="color: #000056">CT: D --&gt; This is una%eptable</span>
+<span style="color: #000056">CT: D --&gt; Ok, let's start over</span>
+<span style="color: #000056">CT: D --&gt; I apologize</span>
+<span style="color: #000056">CT: D --&gt; I was completely out of of line, and I'm sorry</span>
+<span style="color: #000056">CT: D --&gt; I have no right to talk to you like that, or tell you what you can't do</span>
+<span style="color: #2b0057">TC: aWw, No WoRrIeS!</span>
+<span style="color: #000056">CT: D --&gt; It's not my place</span>
+<span style="color: #000056">CT: D --&gt; Your habits notwithstanding, I am lesser than you</span>
+<span style="color: #000056">CT: D --&gt; An inferior</span>
+<span style="color: #2b0057">TC: hAhAhA. oK.</span>
+<span style="color: #000056">CT: D --&gt; Don't you understand that you're better than me</span>
+<span style="color: #000056">CT: D --&gt; Can you please act like it</span>
+<span style="color: #000056">CT: D --&gt; That's not a command, it's just a polite request I guess</span>
+<span style="color: #2b0057">TC: oK, i CaN tRy, BuT mAn I dOn'T kNoW iF i KnOw HoW tO bE lIkE a BeTtEr MoThErFuCkEr ThAn AnY oThEr MoThErFuCkEr.</span>
+<span style="color: #000056">CT: D --&gt; 100k, it isn't that difficult</span>
+<span style="color: #000056">CT: D --&gt; Try to be cognizant of your desires and needs</span>
+<span style="color: #000056">CT: D --&gt; And attempt to regard those around you as simple vehicles meant to bring about your gratification</span>
+<span style="color: #2b0057">TC: WoW, wHaT?</span>
+<span style="color: #000056">CT: D --&gt; What are you doing</span>
+<span style="color: #2b0057">TC: uHhHhHh.</span>
+<span style="color: #000056">CT: D --&gt; Right now</span>
+<span style="color: #000056">CT: D --&gt; It sounds as if you have begun playing with the red team</span>
+<span style="color: #000056">CT: D --&gt; Is this true</span>
+<span style="color: #2b0057">TC: yEaH!</span>
+<span style="color: #2b0057">TC: fUcK yEaH. i'M aLl Up In ThE fUcKiN sHiT oF tHiS wIcKeD mYsTiCaL mOtHeRfUcKeR.</span>
+<span style="color: #2b0057">TC: i BoNkEd An ImP oN tHe HeAd WiTh A cLuB.</span>
+<span style="color: #2b0057">TC: AnD tHeN a LiTtLe LaTeR i ScArEd OnE wItH a HoRn.</span>
+<span style="color: #2b0057">TC: :o)</span>
+<span style="color: #000056">CT: D --&gt; Good</span>
+<span style="color: #000056">CT: D --&gt; This is very good</span>
+<span style="color: #000056">CT: D --&gt; It really pleases me to hear tales of physical subjugation</span>
+<span style="color: #000056">CT: D --&gt; I presume these were lesser beings, toiling in the lower ranks of some hierarchy</span>
+<span style="color: #2b0057">TC: wElL yEaH, tHeY'rE uNdErLiNgS.</span>
+<span style="color: #2b0057">TC: AnD tHeRe'S SoMe SuBjUgGlAtIoN iNvOlVeD fOr FuCkIn SuRe!</span>
+<span style="color: #2b0057">TC: bUt NoW wE kInD oF sEtTlEd DoWn AnD mE aNd ThE iMpS aRe ShArInG sOmE pIe</span>
+<span style="color: #2b0057">TC: tHeSe MoThErFuCkErS aRe PrEtTy DoPe AcTuAlLy, I lIkE tHeM.</span>
+<span style="color: #000056">CT: D --&gt; Ok</span>
+<span style="color: #000056">CT: D --&gt; It pleases me considerably less to hear things like that</span>
+<span style="color: #000056">CT: D --&gt; But I've already stated I have no right to be disappointed by your conduct, so I will try to control myself</span>
+<span style="color: #2b0057">TC: aW sHiT bRo, I dOn'T wAnT tO bE aLl LiKe To DiSaPpOiNt YoU!</span>
+<span style="color: #2b0057">TC: WhAt CaN i Do To MaKe A bRoThEr FuCkIn ShApE hIs ShIt Up?</span>
+<span style="color: #2b0057">TC: iF i CoUlD mAkE yOu SmIlE iT'd Be ThE bEsT fUcKiN mIrAcLe I eVeR dId PaRt Of.</span>
+<span style="color: #2b0057">TC: hOnK hOnK hOnK! :o)</span>
+<span style="color: #000056">CT: D --&gt; Hmm</span>
+<span style="color: #000056">CT: D --&gt; Would it be too much to ask</span>
+<span style="color: #000056">CT: D --&gt; For you to maybe</span>
+<span style="color: #000056">CT: D --&gt; Boss me around a little</span>
+<span style="color: #2b0057">TC: UuUhHhHhH.</span>
+<span style="color: #2b0057">TC: yOu MeAn LiKe RoLe PlAyInG?</span>
+<span style="color: #000056">CT: D --&gt; If it would help to couch it in those terms</span>
+<span style="color: #000056">CT: D --&gt; Then yeah, I guess so</span>
+<span style="color: #000056">CT: D --&gt; But not the especially juvenile kind</span>
+<span style="color: #000056">CT: D --&gt; Let's keep it serious and professional</span>
+<span style="color: #2b0057">TC: i'Ll TrY, bUt I'm NoT mUcH fUcKiN aNy GoOd At It I tHiNk.</span>
+<span style="color: #000056">CT: D --&gt; Just</span>
+<span style="color: #000056">CT: D --&gt; Say anything</span>
+<span style="color: #000056">CT: D --&gt; As long as it's authoritative</span>
+<span style="color: #2b0057">TC: oK.</span>
+<span style="color: #2b0057">TC: uH, hEy YoU, dOn'T gO nEaR tHe MoThErFuCkIn OcEaN, cAuSe I aLl ToLd YoU nOt To A bUnCh Of TiMeS!</span>
+<span style="color: #2b0057">TC: ShIt Is StRaIgHt Up DaNgErOuS, aNd I'm GeTtInG mY hArSh On AbOuT iT.</span>
+<span style="color: #000056">CT: D --&gt; Hmm</span>
+<span style="color: #000056">CT: D --&gt; Decent</span>
+<span style="color: #000056">CT: D --&gt; I don't live near the ocean though, so it's hard to immerse myself in the scenario</span>
+<span style="color: #2b0057">TC: aLrIgHt, WeLl, WhAt ArEn'T yOu AlL nOt SuPpOsEd To Do?</span>
+<span style="color: #2b0057">TC: WhAt KiNd Of MiScHiEf Do YoU gEt YoUr BaD fUcKiN sElF uP tO?</span>
+<span style="color: #000056">CT: D --&gt; I do so many bad things</span>
+<span style="color: #000056">CT: D --&gt; Just awful things</span>
+<span style="color: #000056">CT: D --&gt; I'm incredibly impudent and a superior needs to put me in my place</span>
+<span style="color: #2b0057">TC: uMmMm, Ok WeLl.</span>
+<span style="color: #2b0057">TC: DoN't Be DoIn AlL tHoSe BaD fUcKiN tHiNgS bRo!</span>
+<span style="color: #000056">CT: D --&gt; Yes</span>
+<span style="color: #000056">CT: D --&gt; Yes, that's good</span>
+<span style="color: #000056">CT: D --&gt; Like that</span>
+<span style="color: #2b0057">TC: cUt ThAt ShIt OuT, i'M sO aLl MeAnInG tHiS! hAhAhA.</span>
+<span style="color: #000056">CT: D --&gt; E%cellent</span>
+<span style="color: #000056">CT: D --&gt; Now tell me this, highb100d</span>
+<span style="color: #000056">CT: D --&gt; I've been roughhousing a little too hard lately</span>
+<span style="color: #000056">CT: D --&gt; I've made a bit of a mess and anyone in a position of authority would surely be % about it</span>
+<span style="color: #2b0057">TC: Uh.</span>
+<span style="color: #2b0057">TC: %?</span>
+<span style="color: #000056">CT: D --&gt; Cross</span>
+<span style="color: #2b0057">TC: oHhH.</span>
+<span style="color: #000056">CT: D --&gt; What do you make of it</span>
+<span style="color: #000056">CT: D --&gt; This wretched misbehavior</span>
+<span style="color: #2b0057">TC: fUcK mAn, I aM sO mOtHeRfUcKiN sAlTy AbOuT aLl ThAt BuSiNeSs YoU sAiD!</span>
+<span style="color: #2b0057">TC: FuUuUuCk, Im LiKe AlL mOvInG mY mOuTh AnD tHe WiCkEd NoIsE iS cOmInG oUt In ThE fRoNtIeSt WaY pOsSiBlE.</span>
+<span style="color: #2b0057">TC: aNd It'S gOiNg At YoUr DiReCtIoN, cAuSe ThAt'S tHe DiReCtIoN tO fUcKiN bE aNgRy At!</span>
+<span style="color: #000056">CT: D --&gt; Yes</span>
+<span style="color: #000056">CT: D --&gt; So good</span>
+<span style="color: #000056">CT: D --&gt; I am presently whipped into a state of contrition</span>
+<span style="color: #000056">CT: D --&gt; One befitting of our class disparity</span>
+<span style="color: #000056">CT: D --&gt; But I'm starting to perspire again so it's best that we stop</span>
+<span style="color: #000056">CT: D --&gt; Thank you for indulging me</span>
+<span style="color: #2b0057">TC: hAhA, nO pRoBlEm BrO.</span>
+<span style="color: #2b0057">TC: It'S cOoL wE cOuLd AlL uP aNd MoThErFuCkIn OpEn Up A lItTlE bIt WiTh EaCh OtHeR.</span>
+<span style="color: #2b0057">TC: lIkE bRoS.</span>
+<span style="color: #2b0057">TC: If ThErE's StUfF yOu WaNt To GeT oFf YoUr ChEsT dUdE, lIkE i SaId I'm FuCkIn HeRe FoR a MoThErFuCkEr.</span>
+<span style="color: #2b0057">TC: kInD oF lIkE a MiRaClE, hOw It'S aLwAyS tHeRe. </span>
+<span style="color: #2b0057">TC: It NeVeR gOeS aWaY, yOu KnOw?</span>
+<span style="color: #000056">CT: D --&gt; No</span>
+<span style="color: #000056">CT: D --&gt; But I comprehend the sentiment</span>
+<span style="color: #000056">CT: D --&gt; I have lots of thoughts, but they're difficult to communicate</span>
+<span style="color: #000056">CT: D --&gt; If you'll listen</span>
+<span style="color: #2b0057">TC: sUrE! :oD</span>
+<span style="color: #000056">CT: D --&gt; Honestly I'm confused by the social order</span>
+<span style="color: #2b0057">TC: mAn, Me ToO. i DoN't KnOw WhAt Of FuCkIn WhAt CoLoR iS wHaT, sO i DoN't BoThEr WiTh ThInKiN oN tHaT mOtHeRfUcKeR.</span>
+<span style="color: #000056">CT: D --&gt; See, that's what I mean</span>
+<span style="color: #000056">CT: D --&gt; How is it possible for one of your distin%ion to be so ignorant</span>
+<span style="color: #000056">CT: D --&gt; And loathesome</span>
+<span style="color: #000056">CT: D --&gt; Whereas</span>
+<span style="color: #000056">CT: D --&gt; A member of the most abject, verminous b100dline of all</span>
+<span style="color: #000056">CT: D --&gt; Can conduct herself with such grace and possess nothing but admirable mannerisms</span>
+<span style="color: #000056">CT: D --&gt; I find these striking ju%tapositions perple%ing, and I confess strangely into%icating</span>
+<span style="color: #000056">CT: D --&gt; I wonder if I have gone mad</span>
+<span style="color: #000056">CT: D --&gt; To form such a pact with her</span>
+<span style="color: #2b0057">TC: WoW, i GoT nO fUcKiN cLuE wHaT yOu'Re TaLkInG aBoUt</span>
+<span style="color: #2b0057">TC: wHo Is ShE?</span>
+<span style="color: #000056">CT: D --&gt; I shouldn't be talking about this</span>
+<span style="color: #000056">CT: D --&gt; You're the enemy</span>
+
+<span style="color: #000056">centaursTesticle [CT]</span> ceased trolling <span style="color: #2b0057">terminallyCapricious [TC]</span>
+###
+004122
+X

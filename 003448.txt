@@ -1,0 +1,14 @@
+PM?: Locate the Archagent.
+###
+90920210dc
+###
+1267825404
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01548.gif
+###
+You find the agent's office. But he is nowhere to be found.
+
+You eye something on the desk there.
+###
+003449
+X

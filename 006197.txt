@@ -1,0 +1,62 @@
+[A6I1] ==&gt;
+###
+dd8af62b48
+###
+1323592553
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04294.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: i'm still kinda confused though.</span>
+<span style="color: #4ac925">JADE: about what?</span>
+<span style="color: #0715cd">JOHN: i mean, we crashed through that giant window you magically made with witch powers to escape the scratch, so we can keep existing, right?</span>
+<span style="color: #4ac925">JADE: yes</span>
+<span style="color: #4ac925">JADE: i didnt make it with witch powers though, i captchalogued it hours ago because karkat told me to...</span>
+<span style="color: #4ac925">JADE: then at the last minute i took it out and made it huge so we could escape through it</span>
+<span style="color: #0715cd">JOHN: i see.</span>
+<span style="color: #0715cd">JOHN: did you at least make it huge with witch powers?</span>
+<span style="color: #4ac925">JADE: i did make it huge with witch powers!</span>
+<span style="color: #0715cd">JOHN: so i guess that's what witch powers do, is make things huge?</span>
+<span style="color: #4ac925">JADE: they also make things small</span>
+<span style="color: #0715cd">JOHN: right, like you did with all those planets.</span>
+<span style="color: #4ac925">JADE: yup</span>
+<span style="color: #4ac925">JADE: also</span>
+<span style="color: #4ac925">JADE: witch powers can teleport things, and fling things around through space at very high velocities</span>
+<span style="color: #4ac925">JADE: all sorts of stuff!</span>
+<span style="color: #4ac925">JADE: but to be honest, im not sure how much of that is attributable to inheriting becs abilities...</span>
+<span style="color: #0715cd">JOHN: man, spacey witch powers sound a lot more versatile than my powers, frankly.</span>
+<span style="color: #0715cd">JOHN: not that i'm complaining, because wind powers are still awesome.</span>
+<span style="color: #0715cd">JOHN: but anyway, that is neither here nor there!</span>
+<span style="color: #0715cd">JOHN: what i'm wondering is, once we crashed through that window, weren't we supposed to like...</span>
+<span style="color: #0715cd">JOHN: enter a new game session? the reset one?</span>
+<span style="color: #0715cd">JOHN: and meet up with karkat, and vriska, and all the trolls, and i guess maybe also a bunch of dead trolls too??? like troll ghosts or such.</span>
+<span style="color: #4ac925">JADE: yes that was the basic idea</span>
+<span style="color: #0715cd">JOHN: and what about your grandson? wasn't he going to be there, from the future or something? and then he would send liv tyler to me, or actually to you i guess, into the past somehow?</span>
+<span style="color: #4ac925">JADE: that would be jake</span>
+<span style="color: #4ac925">JADE: and yeah, i do believe we will meet him in this session</span>
+<span style="color: #4ac925">JADE: he said he had a bunch of friends who helped him make the bunny! im pretty excited to meet them all</span>
+<span style="color: #0715cd">JOHN: wow...</span>
+<span style="color: #0715cd">JOHN: hey, i wonder what the fuck ever happened to liv anyway?</span>
+<span style="color: #0715cd">JOHN: last i saw her, i sent her off to give the tumor to rose and dave...</span>
+<span style="color: #0715cd">JOHN: oh god, rose and dave!!! where are they now? did one of them do the suicide mission thing? and what about the other? did they get scratch'd???</span>
+<span style="color: #4ac925">JADE: actually, they both went, and in a manner of speaking, their mission was a success</span>
+<span style="color: #0715cd">JOHN: :(</span>
+<span style="color: #0715cd">JOHN: so, they blew up the sun, and now they're dead?</span>
+<span style="color: #4ac925">JADE: nope!</span>
+<span style="color: #4ac925">JADE: they did not actually destroy the sun. trust me, i would know if it was gone. now that i know what i know, it was kind of silly of us to think it would ever be destroyed...</span>
+<span style="color: #4ac925">JADE: and as it happens, rose and dave are not dead either! i have received very reliable reports that they survived</span>
+<span style="color: #0715cd">JOHN: oh man, that's great!</span>
+<span style="color: #0715cd">JOHN: i mean, i'm not sure how not blowing up the sun qualifies as a successful mission, since that was kind of the whole idea, but at this point i don't really care. i'm just happy to hear they're ok.</span>
+<span style="color: #4ac925">JADE: it will all be more clear soon</span>
+<span style="color: #0715cd">JOHN: how do you know they're ok? or any of this stuff, really?</span>
+<span style="color: #4ac925">JADE: ive learned a lot in my dreams lately</span>
+<span style="color: #4ac925">JADE: heh, probably more than i ever learned looking at the clouds on prospit!</span>
+<span style="color: #4ac925">JADE: when i was dead there for a few minutes, i had one last very informative nap</span>
+<span style="color: #4ac925">JADE: the bottom line is, rose and dave will rendezvous with the trolls near the green sun, and then they will all meet us in the new session</span>
+<span style="color: #0715cd">JOHN: ok, that sounds awesome.</span>
+<span style="color: #0715cd">JOHN: and that was part of the plan i guess i understood, but...</span>
+<span style="color: #0715cd">JOHN: where is this new session?</span>
+<span style="color: #0715cd">JOHN: all i see here is a bunch of giant windows, and a lot of warp speed whooshy nonsense.</span>
+###
+006198
+X

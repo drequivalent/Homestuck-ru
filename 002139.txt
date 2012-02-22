@@ -1,0 +1,16 @@
+Rose: Access laboratory wifi network.
+###
+c5a9c39328
+###
+1244096508
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00239.gif
+###
+There are several signals being broadcasted from the LABORATORY, each of relatively decent strength.
+
+One of them is mysteriously and quite conveniently UNSECURED, requiring no password.
+
+You select the signal, and reconnect to the game with John.
+###
+002140
+X

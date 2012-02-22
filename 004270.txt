@@ -1,0 +1,59 @@
+Tavros: Look at map.
+###
+0f9e55f25d
+###
+1281209336
+###
+http://www.mspaintadventures.com/storyfiles/hs2/02370.gif
+###
+|PESTERLOG|
+<span style="color: #a15000">AT: wHERE DOES IT GO,</span>
+<span style="color: #005682">AG: I have determined from your consorts that there is a terri8le monster deep underground.</span>
+<span style="color: #005682">AG: It guards a hoard of treasure 8igger than either of us can imagine!</span>
+<span style="color: #005682">AG: It is called a denizen, and it is the 8oss of your whole planet.</span>
+<span style="color: #005682">AG: Tavros, you will go and face your denizen.</span>
+<span style="color: #a15000">AT: wON'T THAT BE,</span>
+<span style="color: #a15000">AT: tOO DIFFICULT,</span>
+<span style="color: #005682">AG: It will 8e the most powerful adversary you have ever met.</span>
+<span style="color: #005682">AG: 8ut you can handle it. I 8elieve in you!</span>
+<span style="color: #a15000">AT: uM, tHANKS,</span>
+<span style="color: #a15000">AT: i MEAN, i RESPECT THAT YOU HAVE LOTS OF,</span>
+<span style="color: #a15000">AT: pIRATEY BRAVADO ABOUT STUFF, aND YOU TYPE FAST ABOUT IT,</span>
+<span style="color: #a15000">AT: bUT i THINK THIS IS FOOLISH AND NOT SENSIBLE,</span>
+<span style="color: #a15000">AT: i WILL PROBABLY JUST GET KILLED, rEALISTICALLY,</span>
+<span style="color: #005682">AG: May8e! That is the risk you take 8y 8eing a 8rave adventurer.</span>
+<span style="color: #005682">AG: 8ut it is a good opportunity to apply your cunning.</span>
+<span style="color: #005682">AG: May8e you can rally a huge army to 8end to your will and overwhelm the monster???????? Who knows! It is up to you.</span>
+<span style="color: #005682">AG: This is it, Tavros. It is time to sink or swim.</span>
+<span style="color: #a15000">AT: i SHOULD GET kANAYA'S ADVICE,</span>
+<span style="color: #a15000">AT: oR MAYBE kARKAT SINCE HE IS THE LEADER,</span>
+<span style="color: #005682">AG: No!!!!!!!!</span>
+<span style="color: #005682">AG: Oh god, every time. Always going and getting to others to 8ail you out.</span>
+<span style="color: #005682">AG: Anyway, Kanaya is missing in action, and Karkat has his head up his nook with his new sta88y h8friend.</span>
+<span style="color: #005682">AG: Neither can help you.</span>
+<span style="color: #a15000">AT: iT'S JUST HARD TO FIGURE OUT,</span>
+<span style="color: #a15000">AT: iF YOU REALLY THINK THIS IS A GOOD IDEA STRATEGICALLY,</span>
+<span style="color: #a15000">AT: oR IF IT'S JUST MORE OF THE THING, wHERE YOU HARASS ME BUT SOUND EXCITED ABOUT IT,</span>
+<span style="color: #005682">AG: Tavros, I know no8ody 8elieves me a8out this, pro8a8ly not even a gulli8le dope like you.</span>
+<span style="color: #005682">AG: 8ut I actually care a8out your advancement as a player.</span>
+<span style="color: #005682">AG: Everything I have done has 8een to make you stronger!</span>
+<span style="color: #a15000">AT: oKAY,</span>
+<span style="color: #a15000">AT: i STILL DON'T KNOW WHAT TO BELIEVE, aBOUT THAT,</span>
+<span style="color: #005682">AG: Ugh, you are useless!</span>
+<span style="color: #005682">AG: I'm done talking a8out this. Now shut up and point that cherry vehicle of yours toward the X on that map.</span>
+<span style="color: #005682">AG: Next stop, g8 seven. Let's go.</span>
+<span style="color: #a15000">AT: uHHHHHH,</span>
+<span style="color: #005682">AG: This isn't optional. You know very well that I can make you go to that g8 whether you want to or not!</span>
+<span style="color: #005682">AG: 8ut I would rather it not have to come to that.</span>
+<span style="color: #005682">AG: What will it 8e?</span>
+<span style="color: #005682">AG: Advance or advance?</span>
+<span style="color: #a15000">AT: oKAY,</span>
+<span style="color: #a15000">AT: i WILL GO,</span>
+<span style="color: #005682">AG: Oh one last thing.</span>
+<span style="color: #005682">AG: Equip your 8oy-Skylark outfit.</span>
+<span style="color: #005682">AG: This will 8e Pupa's last stand!</span>
+<span style="color: #005682">AG: I mean sit.</span>
+<span style="color: #005682">AG: Hahahahahahahaha.</span>
+###
+004271
+X

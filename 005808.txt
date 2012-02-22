@@ -1,0 +1,22 @@
+[o] ==&gt;
+###
+3cb96677fb
+###
+1310166282
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03905.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">GT: these are my neighbors, who live in a lot of same looking houses as mine.</span>
+<span style="color: #0715cd">GT: i never see them. i think they're all really busy people with a lot of serious business to attend to.</span>
+<span style="color: #0715cd">GT: hey, look.</span>
+<span style="color: #0715cd">GT: the snow is melted over here.</span>
+<span style="color: #0715cd">GT: it's really warm suddenly. weird.</span>
+<span style="color: #005682">AG: Does your planet usually have these kind of temper8ture swings?</span>
+<span style="color: #0715cd">GT: no, this is pretty unusual december weather.</span>
+<span style="color: #0715cd">GT: guess i'll take my coat off.</span>
+<span style="color: #0715cd">GT: i can take yours back, if you want.</span>
+<span style="color: #005682">AG: No thanks. I think I'll keep it on.</span>
+###
+005809
+X

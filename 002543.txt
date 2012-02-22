@@ -1,0 +1,39 @@
+Rose: Pester John.
+###
+85599ecb52
+###
+1252984281
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00643.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">EB: hey, that was a pretty, uh...</span>
+<span style="color: #0715cd">EB: nice...</span>
+<span style="color: #0715cd">EB: uh...</span>
+<span style="color: #b536da">TT: Sweet catch?</span>
+<span style="color: #0715cd">EB: ... save.</span>
+<span style="color: #0715cd">EB: oh, yeah.</span>
+<span style="color: #0715cd">EB: that.</span>
+<span style="color: #0715cd">EB: this is pretty comfy.</span>
+<span style="color: #0715cd">EB: why don't you just like,</span>
+<span style="color: #0715cd">EB: carry the bed around with me on it?</span>
+<span style="color: #0715cd">EB: up to the gate up there!</span>
+<span style="color: #b536da">TT: I can't interact with you directly, or anything that you are touching, if it will result in moving you.</span>
+<span style="color: #b536da">TT: See?</span>
+<span style="color: #0715cd">EB: oh.</span>
+<span style="color: #0715cd">EB: lame!</span>
+<span style="color: #b536da">TT: The game probably regards that as a kind of cheating.</span>
+<span style="color: #b536da">TT: In a way, thieving you of your free will as an adventurer, and the need to advance by your own skill and ingenuity.</span>
+<span style="color: #b536da">TT: The server player is just a facilitator.</span>
+<span style="color: #0715cd">EB: well, ok.</span>
+<span style="color: #0715cd">EB: all that scurrying around kind of wore me out, i think i'm going to rest here for a bit.</span>
+<span style="color: #0715cd">EB: rose, can you keep the imps at bay? like, drop some stuff on them if they sneak too close.</span>
+<span style="color: #b536da">TT: No, you should pick up your hammer and defend yourself.</span>
+<span style="color: #0715cd">EB: what, come on!</span>
+<span style="color: #b536da">TT: I have no idea what the hell Dave is up to, or if he's any closer to recovering the game.</span>
+<span style="color: #b536da">TT: There's some stuff I'd like to try, in case he doesn't come through.</span>
+<span style="color: #0715cd">EB: oh alright.</span>
+<span style="color: #0715cd">EB: i'm just gonna rest my eyes here a second though.</span>
+###
+002544
+X

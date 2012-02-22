@@ -1,0 +1,23 @@
+==&gt;
+###
+6df2e6d07d
+###
+1242708089
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00178.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">EB: what is this thing?</span>
+<span style="color: #0715cd">EB: and what is that clock counting down to?</span>
+<span style="color: #b536da">TT: I've been looking at the GameFAQ walkthroughs to figure some of this stuff out.</span>
+<span style="color: #b536da">TT: Hold while I read further.</span>
+<span style="color: #0715cd">EB: ok.</span>
+<span style="color: #b536da">TT: All of these walkthroughs are extremely short.</span>
+<span style="color: #b536da">TT: None progress much further than this point.</span>
+<span style="color: #0715cd">EB: weird.</span>
+<span style="color: #0715cd">EB: well, i mean it is a new game.</span>
+<span style="color: #b536da">TT: True.</span>
+<span style="color: #b536da">TT: Now that the lid is off, you will need to extrude some &quot;Cruxite&quot;.</span>
+###
+002079
+X

@@ -1,0 +1,16 @@
+Dave: Upgrade alchemiter with holopad.
+###
+4c84ca8c75
+###
+1267998728
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01567.gif
+###
+The totem pedestal is converted into a holographic projector. It projects an image of the item the punch code represents.
+
+This seems useful for previewing an item a code will produce, without spending the grist on it. You test it out with the blender card.
+
+But it still renders the alchemiter unusable. At least without further upgrades.
+###
+003468
+X

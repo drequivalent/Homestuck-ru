@@ -1,0 +1,12 @@
+WV: Select the triangley fractal.
+###
+8e58ae762e
+###
+1254620184
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00730.gif
+###
+The triangley fractal room does not appear to be locked.
+###
+002631
+X

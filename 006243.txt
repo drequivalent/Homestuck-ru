@@ -1,0 +1,18 @@
+[A6I1] ==&gt;
+###
+ba3a7b86ea
+###
+1324113238
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04340.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: oh fuck, it's dave sprite!!!</span>
+<span style="color: #0715cd">JOHN: i forgot about him.</span>
+<span style="color: #f2a400">DAVESPRITE: yeah no shit</span>
+<span style="color: #0715cd">JOHN: how've you been, buddy?</span>
+<span style="color: #4ac925">JADE: shooooooooosh!!!!!</span>
+<span style="color: #4ac925">JADE: write now, catch up later!</span>
+###
+006244
+X

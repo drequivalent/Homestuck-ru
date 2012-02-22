@@ -1,0 +1,43 @@
+[A6I1] ==&gt;
+###
+b799774410
+###
+1324765134
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04382.gif
+###
+|DIALOGLOG|
+<span style="color: #626262">KARKAT: SOUNDS LIKE IT'S TIME TO HIT THE FUCKING ROAD THEN</span>
+<span style="color: #626262">KARKAT: HOW DO WE MAKE THIS THING GO ANYWAY. DOES IT HAVE ROCKETS OR SOMETHING I DON'T KNOW ABOUT??</span>
+<span style="color: #b536da">ROSE: Maybe it does. I'm not sure.</span>
+<span style="color: #b536da">ROSE: But one good push in the right direction should be all we need.</span>
+<span style="color: #a10000">ARADIA: i can help with that!</span>
+<span style="color: #a10000">ARADIA: sollux do you think you can lend me a hand?</span>
+<span style="color: #a1a100">SOLLUX: huh?</span>
+<span style="color: #a10000">ARADIA: theyll need the biggest push we can give them</span>
+<span style="color: #a1a100">SOLLUX: 0h.</span>
+<span style="color: #a1a100">SOLLUX: yeah sure.</span>
+<span style="color: #626262">KARKAT: WHAT, SO JUST ONE &quot;PUSH&quot; IS GOING TO LAST THREE YEARS?</span>
+<span style="color: #626262">KARKAT: LET ALONE OUTRUN JACK?? BULLSHIT.</span>
+<span style="color: #a1a100">SOLLUX: calm down kk, it sh0uld be fine.</span>
+<span style="color: #a1a100">SOLLUX: y0u won't sl0w down.</span>
+<span style="color: #626262">KARKAT: HOW THE FUCK DO YOU KNOW THAT?</span>
+<span style="color: #b536da">ROSE: Troll Isaac Newton told him.</span>
+<span style="color: #626262">KARKAT: OK, WHATEVER, LET'S JUST GET ON WITH IT.</span>
+<span style="color: #626262">KARKAT: IN THE MEANTIME WE SHOULD SET UP SOME SORT OF CHECKPOINT PERIMETER AROUND THE DEAD MAYOR GUY.</span>
+<span style="color: #626262">KARKAT: JUST SO GAMZEE DOESN'T TRY TO HOARD HIS BODY OR CHOP OFF HIS HEAD.</span>
+<span style="color: #e00707">DAVE: what is he the mayor of anyway</span>
+<span style="color: #e00707">DAVE: it kinda looks like he just made that sash himself</span>
+<span style="color: #626262">KARKAT: HE'S THE DULY ELECTED MAYOR OF THE FRUITY RUMPUS ASSHOLE FACTORY, AND HE JUST CUT THE RIBBON TO A BRAND NEW MUSEUM FULL OF PRICELESS SHUT THE FUCK UP.</span>
+<span style="color: #a10000">ARADIA: ok you guys can keep arguing if you like but im going to send you on your way now</span>
+<span style="color: #a10000">ARADIA: then after you leave i should be able to buy you a little more time</span>
+<span style="color: #626262">KARKAT: HOW'S THAT?</span>
+<span style="color: #a10000">ARADIA: when jack comes ill slow him down for a while</span>
+<span style="color: #a10000">ARADIA: it wont be for very long but its the best i can do!</span>
+<span style="color: #b536da">ROSE: That should help us greatly.</span>
+<span style="color: #b536da">ROSE: Thank you, Aradia.</span>
+<span style="color: #a10000">ARADIA: youre welcome!</span>
+<span style="color: #a10000">ARADIA: are you ready sollux?</span>
+###
+006286
+X

@@ -1,0 +1,15 @@
+John: Activate lathe.
+###
+ec5d4e7ba2
+###
+1243298292
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00210_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/00210_2.gif
+###
+The lathe carves ONE (1) TOTEM. 
+
+You take the TOTEM.
+###
+002111
+X

@@ -1,0 +1,37 @@
+[o] ==&gt;
+###
+21a25e8107
+###
+1310752071
+###
+http://www.mspaintadventures.com/storyfiles/hs2/03950.gif
+###
+|PESTERLOG|
+<span style="color: #005682">AG: This denizen does not look asleep to me.</span>
+<span style="color: #0715cd">EB: nooope.</span>
+<span style="color: #0715cd">EB: he was wide awake when i found him. i practically crapped my pants!</span>
+<span style="color: #005682">AG: Well, that explains your quick death. If your denizen was anything like mine, it wouldn't have wasted much time 8efore unleashing a huge shitstorm of devast8ing monster magic.</span>
+<span style="color: #0715cd">EB: what was your denizen like?</span>
+<span style="color: #005682">AG: Her name was Cetus.</span>
+<span style="color: #005682">AG: She was this awful sea monster. Her lair was deep underground amidst a 8unch of shipwrecks. She was quite vicious and territorial. I knew I had to kill her quickly to release the hoard, 8efore she had the chance to do anything tricky.</span>
+<span style="color: #0715cd">EB: what do you mean, tricky?</span>
+<span style="color: #0715cd">EB: did she talk to you?</span>
+<span style="color: #005682">AG: Oh, of course. She was 8a88ling in riddles through most of the fight. I wasn't paying much attention though. I mean, what creature DOESN'T speak in 8oring riddles in this game?</span>
+<span style="color: #0715cd">EB: so, is that what you all did?</span>
+<span style="color: #0715cd">EB: kill your denizens as fast as possible, without listening to them?</span>
+<span style="color: #005682">AG: Yeah, pretty much. We were all pretty good players, remem8er?</span>
+<span style="color: #0715cd">EB: yes, so i've heard.</span>
+<span style="color: #005682">AG: Well........</span>
+<span style="color: #005682">AG: Ok, I can't exactly speak for everyone. There was a lot going on, and I don't know how some people went a8out 8eating their denizens.</span>
+<span style="color: #005682">AG: For instance, I'm not sure how our hero of 8reath did it. May8e the monster just released the hoard for him out of pity????????</span>
+<span style="color: #0715cd">EB: maybe he just talked to his denizen?</span>
+<span style="color: #005682">AG: If there was a way to avoid a tough 8attle, I'm sure he found it.</span>
+<span style="color: #005682">AG: It sounds like a good way to cheat yourself out of a lot of sweet xp and loot though.</span>
+<span style="color: #0715cd">EB: i dunno. you might be surprised!</span>
+<span style="color: #005682">AG: John, are you saying you had a nice friendly chat with this hideous, 8loodthirsty creature 8efore he killed you?</span>
+<span style="color: #0715cd">EB: yes!</span>
+<span style="color: #0715cd">EB: typheus may not be pretty to look at...</span>
+<span style="color: #0715cd">EB: but he is not a bad guy at all!</span>
+###
+005836
+X

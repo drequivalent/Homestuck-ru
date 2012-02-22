@@ -1,0 +1,85 @@
+[A6I1] ==&gt;
+###
+b2c038da7d
+###
+1324420677
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04352.gif
+###
+|DIALOGLOG|
+<span style="color: #b536da">ROSE: Nothing yet.</span>
+<span style="color: #b536da">ROSE: But reasonably soon, within a certain window, it will be time to leave.</span>
+<span style="color: #b536da">ROSE: We will then pilot this meteor as fast as we can make it go in that exact direction.</span>
+<span style="color: #a1a100">SOLLUX: what's that way?</span>
+<span style="color: #b536da">ROSE: Nothing whatsoever.</span>
+<span style="color: #b536da">ROSE: As of now, that way lies darkness and uncertainty beyond description.</span>
+<span style="color: #008141">KANAYA: I See</span>
+<span style="color: #008141">KANAYA: Then Perhaps We Should Reserve The Infinite Darkness Plan For The Maybe Column For Now</span>
+<span style="color: #008141">KANAYA: I Think Im Even Willing To Let Dave Take A Crack At The Logistics Before We Commit To That Particular Maneuver Daring Though It Sounds</span>
+<span style="color: #e00707">DAVE: aw yeah</span>
+<span style="color: #e00707">DAVE: i got sicknasty logistics up my sleeve</span>
+<span style="color: #e00707">DAVE: i just call them stics fyi which is how you know im way savvy about them</span>
+<span style="color: #e00707">DAVE: most of the stics im fine tuning atm involve rap though i should warn you</span>
+<span style="color: #e00707">DAVE: but dave what if that dope as hell plan falls through i can hear you ask</span>
+<span style="color: #e00707">DAVE: plan b</span>
+<span style="color: #e00707">DAVE: involves drawing some shitty cartoons</span>
+<span style="color: #e00707">DAVE: and not giving a fuck about stuff</span>
+<span style="color: #008282">TEREZI: &gt;8D</span>
+<span style="color: #008282">TEREZI: 1 H3R3BY S3COND TH1S COOL DUD3S R4D1C4L MOT1ON ON GROUNDS OF R1D1CULOUSLY D3C4D3NT 4TT1R3</span>
+<span style="color: #008141">KANAYA: Yes Im Willing To Humor Elaboration On This Rap Centric Plan And Its Apathy Based Contingencies</span>
+<span style="color: #008141">KANAYA: Even If Its Excessively Stupid</span>
+<span style="color: #b536da">ROSE: Trust me, it is.</span>
+<span style="color: #b536da">ROSE: Just as you should trust me that by the time we leave, if we leave exactly within the designated window and are able to travel at nearly the speed of light, the meteor will trace a route through the Furthest Ring which will topologically resolve as a straight line.</span>
+<span style="color: #b536da">ROSE: It will lead us directly to the new session.</span>
+<span style="color: #b536da">ROSE: For a brief moment, the sun will be visible from that session.</span>
+<span style="color: #b536da">ROSE: And we will be riding the chartreuse coattails of its photons.</span>
+<span style="color: #a10000">ARADIA: this is why you all needed an advanced seer!</span>
+<span style="color: #a10000">ARADIA: i have become familiar with the ways of the fabric out here but even i couldnt chart a journey that long or complex</span>
+<span style="color: #b536da">ROSE: That's because it's almost impossible to do so voluntarily.</span>
+<span style="color: #b536da">ROSE: If we were to head right now in the session's true physical direction, it wouldn't be long before we found ourselves traveling in just the opposite direction.</span>
+<span style="color: #b536da">ROSE: This is not even to speak of the chronological peculiarities. After traveling some distance, we could discover we were suddenly tailgating our own meteor from several days ago.</span>
+<span style="color: #b536da">ROSE: If we are particularly unfortunate, we might even collide in an intersection of spacetime with a meteor piloted by our future selves.</span>
+<span style="color: #b536da">ROSE: And if we looked closely at that meteor before impact, we might notice a very large dent in it, which it originally suffered during the very collision we were about to experience.</span>
+<span style="color: #b536da">ROSE: It takes precision and timing to reach your destination out here, and most importantly, the grace of the gods themselves.</span>
+<span style="color: #626262">KARKAT: PPPFFUUUUUUUHHHHHHH......... <span style="font-style: italic">WHEEEEEEEEEEEEEEEEEEEZE...</span></span>
+<span style="color: #b536da">ROSE: Hm?</span>
+<span style="color: #a1a100">SOLLUX: kk, what the fuck?</span>
+<span style="color: #a1a100">SOLLUX: were you h0lding your breath that wh0le time?</span>
+<span style="color: #626262">KARKAT: YEAH</span>
+<span style="color: #626262">KARKAT: SO?</span>
+<span style="color: #008282">TEREZI: OH GOD, YOU DUMMY</span>
+<span style="color: #008282">TEREZI: YOU DONT 4CTU4LLY H4V3 TO HOLD YOUR BR34TH WH3N YOUR3 B31NG QU13T!</span>
+<span style="color: #626262">KARKAT: OK YEAH</span>
+<span style="color: #626262">KARKAT: I MEAN, OF COURSE IT SOUNDS OBVIOUS WHEN YOU PUT IT LIKE THAT</span>
+<span style="color: #e00707">DAVE: hahahahahahahahahahahahahahahaha</span>
+<span style="color: #e00707">DAVE: rose i told you this dude is fucking incredible</span>
+<span style="color: #626262">KARKAT: STFU.</span>
+<span style="color: #626262">KARKAT: LOOK I'M JUST A LITTLE OUT OF PRACTICE AT STAYING QUIET FOR EXTENDED PERIODS OF TIME, OK?</span>
+<span style="color: #008282">TEREZI: H3 R34LLY 1S &gt;:|</span>
+<span style="color: #626262">KARKAT: ANYWAY, WHATEVER, SO WHAT YOU'RE SAYING LALONDE IS</span>
+<span style="color: #626262">KARKAT: WE'RE GOING TO BE ON THIS HORRIBLE ROCK A GOOD WHILE LONGER TO GET TO THIS PARADISE SESSION OR WHATEVER IT IS?</span>
+<span style="color: #b536da">ROSE: Yes.</span>
+<span style="color: #626262">KARKAT: AND SINCE WE PROBABLY AREN'T GOING TO FORCE SOLLUX'S BULLSHIT &quot;HALF GHOST&quot; OR WHATEVER TO POP HIMSELF AGAIN LIKE A PACKET OF NASTY FETID MUSTARD SO HE CAN SHOOT THIS THING INTO HYPERSPACE...</span>
+<span style="color: #a1a100">SOLLUX: hey man, come 0n. not c0ol.</span>
+<span style="color: #626262">KARKAT: I'M GUESSING THAT MEANS IT'LL TAKE CONSIDERABLY LONGER TO GET THERE THAN IT DID TO GET HERE?</span>
+<span style="color: #b536da">ROSE: Yes.</span>
+<span style="color: #626262">KARKAT: I JUST KNEW IT</span>
+<span style="color: #626262">KARKAT: THIS IS MY WORST NIGHTMARE REALIZED</span>
+<span style="color: #626262">KARKAT: WHEN WE FIRST FLED TO THIS METEOR I HAD THIS WEIRD FEELING WE'D WIND UP SPENDING FOREVER AT THIS MISERABLE PLACE, ASSUMING WE ACTUALLY SURVIVED.</span>
+<span style="color: #626262">KARKAT: I'M ALMOST AFRAID TO ASK, HOW LONG IS THIS TRIP GOING TO TAKE?</span>
+<span style="color: #626262">KARKAT: PROBABLY SOME ABSOLUTELY PREPOSTEROUS AMOUNT OF TIME, LIKE THREE LONG MADDENING SWEEPS, RIGHT???</span>
+<span style="color: #626262">KARKAT: WOULDN'T THAT JUST BE SO COSMICALLY CONVENIENT AND PERFECT FOR EVERYBODY! ESPECIALLY FOR THE MOST IMPORTANT PURPOSE OF ALL, MY UNINTERRUPTED CONTINUUM OF PERSONAL AGONY!!!</span>
+<span style="color: #626262">KARKAT: THANK YOU, DARK GODS! THANK YOU SO FUCKING MUCH!!! YOU WIN THIS ROUND! YOU WIN ALL THE ROUNDS APPARENTLY!!!!! THERE ARE NO ROUNDS EVEN. THERE'S JUST YOUR SLIMY TENDRILS, OUR NAKED BODIES, AND EPOCHS OF MOLESTATION.</span>
+<span style="color: #b536da">ROSE: Don't be ridiculous. It won't take nearly that long.</span>
+<span style="color: #626262">KARKAT: OH</span>
+<span style="color: #b536da">ROSE: It'll only take about three years.</span>
+<span style="color: #626262">KARKAT: OK</span>
+<span style="color: #626262">KARKAT: THAT'S NOT SO BAD I GUESS.</span>
+<span style="color: #626262">KARKAT: WAIT, HOW LONG ARE YEARS SUPPOSED TO BE AGAIN?</span>
+<span style="color: #626262">KARKAT: WAS IT LIKE TWO WEEKS OR SOMETHING?</span>
+<span style="color: #b536da">ROSE: Yes, two.</span>
+<span style="color: #b536da">ROSE: And then fifty more.</span>
+<span style="color: #626262">KARKAT: FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCK.</span>
+###
+006256
+X

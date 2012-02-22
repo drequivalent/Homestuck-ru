@@ -1,0 +1,16 @@
+==&gt;
+###
+169d5bf3da
+###
+1254620426
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00733.gif
+###
+Against the opposite wall is some sort of CONTROL PANEL which catches your eye.
+
+It has two large screens, but only one appears to be active. There are fields for numbers which appear to be modifiable with the dials to the right. Some numbers are already supplied by default, perhaps entered by the previous user. There are a few buttons below, the largest one bearing the symbol marking this room.
+
+Also it looks like there is a METER STICK propped up there for some reason.
+###
+002634
+X

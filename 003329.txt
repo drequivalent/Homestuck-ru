@@ -1,0 +1,24 @@
+A good place to keep lookout?
+###
+febafda537
+###
+1266539653
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01429_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/01429_2.gif
+###
+|SPRITELOG|
+<span style="color: #0715cd">JOHN: nanna, are you there?</span>
+<span style="color: #00d5f2">NANNASPRITE: Yes!</span>
+<span style="color: #0715cd">JOHN: i just saw my house from below. what gives? why did the gate take me down here?</span>
+<span style="color: #00d5f2">NANNASPRITE: All the gates do, John. To ascend, each time you must first descend!</span>
+<span style="color: #0715cd">JOHN: huh. alright. so i guess i scramble around down here until... uh, until what?</span>
+<span style="color: #00d5f2">NANNASPRITE: Until you find the next gate. It is hidden somewhere in the <span style="text-decoration: underline">Land</span>.</span>
+<span style="color: #0715cd">JOHN: ok, so i get to that gate and go in. then what? where does it take me? uh... further up maybe? but i haven't even built that high yet.</span>
+<span style="color: #00d5f2">NANNASPRITE: So you see why you had to build in the first place, John? You must have a little faith in your dear old nanna!</span>
+<span style="color: #0715cd">JOHN: yeah, well, i do nanna but i'm still not really getting it. does the next gate down here take me back up to the house or something?</span>
+<span style="color: #0715cd">JOHN: (please don't say hoo hoo hoo)</span>
+<span style="color: #00d5f2">NANNASPRITE: HOO. HOO HOO.</span>
+###
+003330
+X

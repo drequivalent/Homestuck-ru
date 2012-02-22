@@ -1,0 +1,22 @@
+==&gt;
+###
+c6d7476ac1
+###
+1242785195
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00184.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">EB: this thing keeps following me around.</span>
+<span style="color: #0715cd">EB: i think it's trying to talk to me or something.</span>
+<span style="color: #b536da">TT: That is probably the &quot;Kernelsprite&quot;.</span>
+<span style="color: #b536da">TT: It apparently needs to be &quot;prototyped&quot;.</span>
+<span style="color: #b536da">TT: Twice, actually.</span>
+<span style="color: #b536da">TT: Whatever the hell that means.</span>
+<span style="color: #b536da">TT: These walkthroughs are horrendously written.</span>
+<span style="color: #0715cd">EB: hmm, ok.</span>
+<span style="color: #0715cd">EB: well, you are the one with the cursor so just do whatever you think is the right thing to do!</span>
+<span style="color: #0715cd">EB: also, fix my bathroom.</span>
+###
+002085
+X

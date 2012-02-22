@@ -1,0 +1,36 @@
+==&gt;
+###
+a16db312cd
+###
+1251257944
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00539_1.gif
+http://www.mspaintadventures.com/storyfiles/hs2/00539_2.gif
+###
+|PESTERLOG|
+<span style="color: #0715cd">EB: so why didn't you just build a way up through that hole into my dad's room?</span>
+<span style="color: #b536da">TT: Have you ever been in there?</span>
+<span style="color: #0715cd">EB: no.</span>
+<span style="color: #b536da">TT: Exactly.</span>
+<span style="color: #0715cd">EB: huh?</span>
+<span style="color: #b536da">TT: I'd rather not get sidetracked.</span>
+<span style="color: #b536da">TT: I'm more interested in further exploring the mechanics of the game than watching you discover what sort outlandish harlequin decor your father keeps in his room.</span>
+<span style="color: #0715cd">EB: oh come on. what's the big deal, i'll just climb up and go right through!</span>
+<span style="color: #b536da">TT: Will you?</span>
+<span style="color: #0715cd">EB: yeah, why not?</span>
+<span style="color: #b536da">TT: Are you saying you've never wondered what's in there? Or why it's been kept a secret from you?</span>
+<span style="color: #0715cd">EB: well, i mean yeah...</span>
+<span style="color: #b536da">TT: Then trust me. You won't be going &quot;right on through.&quot;</span>
+<span style="color: #0715cd">EB: wait, are you saying there's something, like...</span>
+<span style="color: #0715cd">EB: troubling in there?</span>
+<span style="color: #b536da">TT: I don't know.</span>
+<span style="color: #0715cd">EB: what do you mean? what do you see in there?</span>
+<span style="color: #b536da">TT: I can't see in there.</span>
+<span style="color: #0715cd">EB: oh.</span>
+<span style="color: #b536da">TT: But I don't have a very good feeling about it.</span>
+<span style="color: #0715cd">EB: pfff...</span>
+<span style="color: #0715cd">EB: whatever!</span>
+<span style="color: #0715cd">EB: i think i can handle a few more stupid clown paintings.</span>
+###
+002440
+X

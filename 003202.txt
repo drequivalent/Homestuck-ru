@@ -1,0 +1,14 @@
+[I] SS: Arm yourself, in case Cans shows up.
+###
+ef14ed6e1f
+###
+1265238656
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01302.gif
+###
+If <span style="color: #2ed73a">Cans</span> shows up, none of these weapons you've got are going to do any good.
+
+You admire the LANCE for a moment. It's a pretty sweet weapon with outstanding craftsmanship. At least you got something out of the eye-gouging. She'll have to pry this thing from your rigid severed arm if she wants it back.
+###
+003203
+X

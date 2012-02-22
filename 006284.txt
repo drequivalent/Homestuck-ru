@@ -1,0 +1,20 @@
+[A6I1] ==&gt;
+###
+3f90bcb718
+###
+1324711968
+###
+http://www.mspaintadventures.com/storyfiles/hs2/04381.gif
+###
+|DIALOGLOG|
+<span style="color: #e00707">DAVE: is he dead</span>
+<span style="color: #b536da">ROSE: We should be able to get him some help along the way.</span>
+<span style="color: #b536da">ROSE: But only if we leave immediately.</span>
+<span style="color: #b536da">ROSE: Luckily for him, we have no alternative. Jack will arrive soon.</span>
+<span style="color: #008282">TEREZI: WH4T!</span>
+<span style="color: #b536da">ROSE: When I said the race would be afoot, I was being literal.</span>
+<span style="color: #b536da">ROSE: He will follow our trail, and match our speed.</span>
+<span style="color: #b536da">ROSE: And since this is not the ideal scenario for a final showdown, the best we can hope to do is outrun him.</span>
+###
+006285
+X

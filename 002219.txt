@@ -1,0 +1,20 @@
+Dave: Take box.
+###
+2462566933
+###
+1246401247
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00319.gif
+###
+You captchalogue the BOX through your HASH MAP FETCH MODUS.
+
+Your modus's current HASH FUNCTION resolves the index by valuing each consonant at 2, and each vowel at 1. The total is divided by your number of cards, and the remainder is the index.
+
+BOX = 2 + 1 + 2 = 5
+
+5 % 10 = 5
+
+The BOX is captchalogued in card 5.
+###
+002220
+X

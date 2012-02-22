@@ -1,0 +1,78 @@
+[S] John: Check Pesterchum.
+###
+2372ba6c0b
+###
+1241338740
+###
+F|http://www.mspaintadventures.com/storyfiles/hs2/00110
+###
+|PESTERLOG|
+-- gardenGnostic <span style="color: #4ac925">[GG]</span> began pestering ectoBiologist <span style="color: #0715cd">[EB]</span> at 16:34 --
+
+<span style="color: #4ac925">GG: hi happy birthday john!!!!! &lt;3</span>
+<span style="color: #4ac925">GG: helloooooo??</span>
+<span style="color: #4ac925">GG: ok i will talk to you later!!! :D</span>
+
+-- gardenGnostic <span style="color: #4ac925">[GG]</span> ceased pestering ectoBiologist <span style="color: #0715cd">[EB]</span> at 16:56 --
+
+
+-- turntechGodhead <span style="color: #e00707">[TG]</span> began pestering ectoBiologist <span style="color: #0715cd">[EB]</span> at 16:40 --
+
+<span style="color: #e00707">TG: hey GG is looking for you why are you even so popular all of a sudden</span>
+<span style="color: #e00707">TG: is today some sort of special occasion or something</span>
+<span style="color: #e00707">TG: did you do something to curry favor with ladies</span>
+<span style="color: #e00707">TG: did you break your leg on a puppy or some shit</span>
+<span style="color: #e00707">TG: dude what are you doing</span>
+-- turntechGodhead <span style="color: #e00707">[TG]</span> is now an idle chum! --
+<span style="color: #0715cd">EB: i discovered a comet that is going to destroy the earth, and it was named after me. </span>
+<span style="color: #0715cd">EB: now i am famous, and everyone wants to talk to me a lot.</span>
+<span style="color: #e00707">TG: no stop</span>
+<span style="color: #e00707">TG: just no</span>
+<span style="color: #e00707">TG: dont talk about your awful stupid movies or make references to them</span>
+<span style="color: #e00707">TG: your gross man-bro crush on matt macconahay is an unsavory thing to behold </span>
+<span style="color: #0715cd">EB: mcconaughey.</span>
+<span style="color: #e00707">TG: sounds like a noise a horse would make </span>
+<span style="color: #e00707">TG: ie dumb</span>
+<span style="color: #e00707">TG: equally dumb are all those pictures of that clown youve got hanging up</span>
+<span style="color: #0715cd">EB: those are my dad's.</span>
+<span style="color: #e00707">TG: i was talking about nick cage</span>
+<span style="color: #0715cd">EB: oh, what?! no man, cage is sweet. so sweet.</span>
+<span style="color: #e00707">TG: ha ha so lame</span>
+<span style="color: #e00707">TG: you dont even like him ironically or anything this is like for real isnt it</span>
+<span style="color: #e00707">TG: hahaha</span>
+<span style="color: #0715cd">EB: i do things ironically sometimes.</span>
+<span style="color: #0715cd">EB: what about what i sent you for your birthday?</span>
+<span style="color: #e00707">TG: no those are awesome</span>
+<span style="color: #0715cd">EB: what? no, they're stupid, which was the joke. the IRONIC joke. get it?</span>
+<span style="color: #0715cd">EB: wait...</span>
+<span style="color: #0715cd">EB: you're actually wearing them, aren't you?</span>
+<span style="color: #e00707">TG: im wearing them ironically</span>
+<span style="color: #e00707">TG: because theyre awesome</span>
+<span style="color: #e00707">TG: the fact that theyre ironic makes them awesome</span>
+<span style="color: #e00707">TG: and vice versa</span>
+<span style="color: #e00707">TG: are you taking notes on how to be cool?? jesus get a fucking pen</span>
+<span style="color: #0715cd">EB: you do realize they touched stiller's weird, sort of gaunt face at some point.</span>
+<span style="color: #e00707">TG: ew yeah</span>
+<span style="color: #e00707">TG: oh well</span>
+<span style="color: #e00707">TG: anyway speaking of which</span>
+<span style="color: #e00707">TG: did you get the mail</span>
+<span style="color: #0715cd">EB: yeah.</span>
+<span style="color: #e00707">TG: did there happen to be a package there</span>
+<span style="color: #0715cd">EB: yeah, there's a big red one.</span>
+<span style="color: #e00707">TG: you should probably open it</span>
+<span style="color: #0715cd">EB: i would, but it's trapped under the sburb beta, so i will probably open it after i install the beta.</span>
+<span style="color: #e00707">TG: oh man the beta came</span>
+<span style="color: #0715cd">EB: yeah! wanna play it?</span>
+<span style="color: #e00707">TG: haha no way</span>
+<span style="color: #0715cd">EB: why not!</span>
+<span style="color: #e00707">TG: it sounds so HELLS of boring just get TT to play it she is all about that</span>
+<span style="color: #0715cd">EB: where'd she go.</span>
+<span style="color: #e00707">TG: her internet is blinking in and out i guess</span>
+<span style="color: #e00707">TG: probably be back online soon</span>
+<span style="color: #e00707">TG: oh and christ in a sidecar are you still using the stack modus???</span>
+<span style="color: #e00707">TG: seriously dude</span>
+<span style="color: #e00707">TG: you need to BONE UP on your data structures that shit is just ridiculous</span>
+<span style="color: #0715cd">EB: ok, i will.</span>
+###
+002011
+X

@@ -1,0 +1,29 @@
+John: Pester Davesprite.
+###
+a133965b5b
+###
+1272046452
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01740.gif
+###
+|PESTERLOG|
+-- ectoBiologist <span style="color: #0715cd">[EB]</span> began pestering turntechGodhead <span style="color: #f2a400">[TG]</span> --
+
+<span style="color: #0715cd">EB: so what is this?</span>
+<span style="color: #0715cd">EB: the thing the code made...</span>
+<span style="color: #f2a400">TG: really powerful hammer</span>
+<span style="color: #0715cd">EB: how do you know?</span>
+<span style="color: #0715cd">EB: i thought you couldn't use hammers.</span>
+<span style="color: #f2a400">TG: i cant</span>
+<span style="color: #f2a400">TG: better be though</span>
+<span style="color: #f2a400">TG: got it from hephaestus</span>
+<span style="color: #0715cd">EB: who's that?</span>
+<span style="color: #f2a400">TG: really tough to kill dude</span>
+<span style="color: #0715cd">EB: you killed him for it?</span>
+<span style="color: #f2a400">TG: nope</span>
+<span style="color: #0715cd">EB: how'd you get it then?</span>
+<span style="color: #f2a400">TG: shenanigans</span>
+<span style="color: #0715cd">EB: ok.</span>
+###
+003641
+X

@@ -1,0 +1,18 @@
+Rose: Get laptop.
+###
+6417ad7a78
+###
+1243728091
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00226.gif
+###
+You take your LAPTOP and prepare to make the journey through the house.
+
+L &lt; V. L &gt; K.
+
+This causes the tree to be unbalanced, so your SYLLADEX auto-balances itself. Now the LAPTOP occupies the ROOT CARD, while the other two items comprise the LEAVES.
+
+K &lt; L. V &gt; L.
+###
+002127
+X

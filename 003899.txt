@@ -1,0 +1,16 @@
+Karkat: Captchalogue sickle.
+###
+d936c78fc8
+###
+1276408896
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01999.gif
+###
+You grab your trusty SICKLE with your ENCRYPTION MODUS. To retrieve it, you'll need to hack the code to open the CARD VAULT left behind.
+
+This will obviously prove to be a completely ridiculous and untenable way of managing an inventory, and lead to a great many follies. Later on, you would swap your modus with your hacker friend, a guy who unlike you happens to be competent with programming. It would only make sense.
+
+But for the time being it makes your life kind of a nightmare. There are so many stupid things that happen because of this modus. So many, you just have no idea.
+###
+003900
+X

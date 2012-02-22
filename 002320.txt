@@ -1,0 +1,21 @@
+INTERROGATE THIS MADWOMAN.
+###
+25de4ed788
+###
+1249015307
+###
+http://www.mspaintadventures.com/storyfiles/hs2/00420.gif
+###
+|SPRITELOG|
+<span style="color: #0715cd">JOHN: um... nanna?</span>
+<span style="color: #00d5f2">NANNASPRITE: Yes, dear!</span>
+<span style="color: #0715cd">JOHN: wow, you scared the living daylights out of me!</span>
+<span style="color: #00d5f2">NANNASPRITE: Hoo hoo hoo!</span>
+<span style="color: #0715cd">JOHN: well, i guess it was a really great prank. good one nanna.</span>
+<span style="color: #0715cd">JOHN: anyway, are you REALLY my dead nanna?</span>
+<span style="color: #00d5f2">NANNASPRITE: Of course, John! I have come back to help you on your journey through <span style="text-decoration: underline">The Medium</span> and beyond! I am delighted to see what a fine young man you have turned out to be. Just like your father!</span>
+<span style="color: #0715cd">JOHN: ok, i guess i will take your word for it. i don't remember you at all! my dad said i was really young when you died.</span>
+<span style="color: #0715cd">JOHN: hey speaking of which, do you know where he is??? i looked everywhere for him!</span>
+###
+002321
+X

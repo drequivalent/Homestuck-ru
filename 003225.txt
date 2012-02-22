@@ -1,0 +1,12 @@
+[I] DD: Ask Clover for the ultimate riddle.
+###
+3b1f6c73e1
+###
+1265508201
+###
+http://www.mspaintadventures.com/storyfiles/hs2/01325.gif
+###
+You ask <span style="color: #2ed73a">Clover</span> to open the safe.
+###
+003226
+X
