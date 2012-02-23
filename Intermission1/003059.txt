@@ -1,4 +1,4 @@
-[I] SS: Check for traps under the billiards rug.
+[I] СС: Проверить бильярдный ковер на предмет ловушек.
 ###
 74569281e4
 ###
@@ -7,9 +7,9 @@
 http://www.mspaintadventures.com/storyfiles/hs2/01159_1.gif
 http://www.mspaintadventures.com/storyfiles/hs2/01159_2.gif
 ###
-What is under the rug is much worse than any trap you can imagine.
+То, что находится под ковриком, намного хуже чем любая ловушка, которую Вы можете вообразить.
 
-It is a member of a species that you do not recognize, with a ghastly furred upper lip.
+Это особь незнакомого Вам вида с ужасно заросшей шерстью верхней губой.
 ###
 003060
 X
