@@ -1,4 +1,4 @@
-[I] CD: Play some solitaire.
+[I] КД: Разложить пасьянс.
 ###
 6160c9ae9f
 ###
@@ -6,9 +6,9 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01183.gif
 ###
-Don't be stupid. To play solitaire you'd need a DECK OF CARDS. 
+Не глупите. Для пасьянса необходима КОЛОДА КАРТ. 
 
-I don't see a DECK OF CARDS, do you? All I see is your BATTLEDROBE.
+Я КОЛОДЫ КАРТ не вижу, а Вы? Зато я вижу БОЙДЕРОБ.
 ###
 003084
 X
