@@ -1,4 +1,4 @@
-[I] SS: Enter the hallway near the main entrance.
+[I] СС: Войти в зал у парадного входа.
 ###
 447edfc12e
 ###
@@ -6,11 +6,11 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01175.gif
 ###
-Funny, you didn't hear any commotion or gunplay. But it looks like there's already been some action in here. Or there will be. You can never take tense for granted with these goons.
+Интересно, Вы не слышали никакого шума или стрельбы. Но, похоже, здесь уже было веселье. Или будет. С этими жлобами нельзя принимать время как данность.
 
-13/1000 CLOCKS DESTROYED. Apparently.
+13/1000 ЧАСОВ УНИЧТОЖЕНО. Очевидно.
 
-Looks like Clubs Deuce is getting back to you.
+Похоже, Клабс Дьюс отвечает Вам.
 ###
 003076
 X
