@@ -1,4 +1,4 @@
-[I] DD: Follow trail of blood up the stairs.
+[I] ДД: Проследовать по кровавому следу вверх.
 ###
 282ecaae22
 ###
@@ -6,9 +6,9 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01206.gif
 ###
-Can't overthink this time stuff.
+Эти штуки современем нельзя недооценивать.
 
-You go with your gut and head upstairs.
+Вы решаете положиться на интуицию, и идете вверх.
 ###
 003107
 X
