@@ -1,4 +1,4 @@
-[I] CD: Just lock Doze in the battledrobe.
+[I] КД: Закрыть Доуза в Бойдеробе.
 ###
 e09f9e9ff2
 ###
@@ -6,9 +6,9 @@ e09f9e9ff2
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01208.gif
 ###
-Time to hit the road. You beat your hostage into the back of your BATTLEDROBE with the BULL PENIS CANE.
+Пора двигаться. Вы забиваете вашего пленника в Ваш БОЙДЕРОБ при помощи ТРОСТИ ИЗ БЫЧЬЕГО ПЕНИСА.
 
-Wait this is a BULL PENIS CANE?
+Секундочку, это что, ТРОСТЬ ИЗ БЫЧЬЕГО ЧЛЕНА?
 ###
 003109
 X
