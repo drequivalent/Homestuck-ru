@@ -1,4 +1,4 @@
-[I] HB: Retrieve two of hearts from backup hat.
+[I] ХБ: Достать двойку червей из запасной шляпы.
 ###
 944c0cc682
 ###
@@ -6,9 +6,9 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01220.gif
 ###
-You retrieve your pair of WAX LIPS.
+Вы достаете пару ВОСКОВЫХ ГУБОК.
 
-If anyone tried to steal your WAX LIPS, you would eat their eyeballs and deliver an angry lecture into their empty sockets.
+Если кто-то попытается украсть Ваши ВОСКОВЫЕ ГУБКИ, Вы съедите его глаза, и отчитаете его прямо в пустые глазницы.
 ###
 003121
 X
