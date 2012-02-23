@@ -1,4 +1,4 @@
-[I] SS: Open war chest.
+[I] СС: Открыть сундук войны.
 ###
 16ddbfedf1
 ###
