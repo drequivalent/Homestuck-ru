@@ -1,4 +1,4 @@
-[I] SS: Make friends with Die.
+[I] СС: Подружиться со Жмуриком.
 ###
 5518fcc6a4
 ###
@@ -6,7 +6,7 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01213.gif
 ###
-You introduce your CAST IRON HORSE HITCHER to your new friend.
+Вы знакомите Вашего нового друга с ЧУГУННЫМ НАБАЛДАШНИКОМ ЛОШАДИНОЙ ТРОСТИ.
 ###
 003114
 X
