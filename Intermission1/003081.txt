@@ -1,4 +1,4 @@
-[I] CD: Swap hats with Doze.
+[I] КД: Поменяться с Доузом шляпами.
 ###
 c382c01001
 ###
@@ -6,11 +6,11 @@ c382c01001
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01181.gif
 ###
-You begin a feeble campaign of psychological warfare. Perhaps compromising his fashion motif is the way to get to him.
+Вы начинаете бесполезную психологическую борьбу. Возможно, покушения на его гардероб выбьют его из колеи.
 
-Nope. Looks like he's still in his weird state of stasis and doesn't care.
+Нет. Похоже, он все еще находится в своем страннов стазисе, и ему все равно.
 
-Either that or it's driving him nuts. Just very slowly.
+Ну, или это действительно сводит его с ума, только очень медленно.
 ###
 003082
 X
