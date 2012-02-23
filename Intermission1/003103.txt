@@ -6,9 +6,9 @@ b2d5c2c447
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01203.gif
 ###
-<span style="color: #2ed73a">Trace</span> always knows where you've been. 
+<span style="color: #2ed73a">Трейс</span> всегда знает, где Вы были. 
 
-The spineless rat likes to follow your PAST TRAIL around and mess with you.
+Бесхребетная крыса любит вынюхивать ваш СЛЕД ИЗ ПРОШЛОГО, и издеваться над Вами.
 ###
 003104
 X
