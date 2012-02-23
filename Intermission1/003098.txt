@@ -1,4 +1,4 @@
-[I] CD: Forget you are CD. Believe you are Hearts Boxcars.
+[I] КД: Забыть о том, что Вы - КД. Поверить в то, что вы - Хартс Бокскарс.
 ###
 5cb78e09fb
 ###
@@ -6,9 +6,9 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01198.gif
 ###
-You suddenly remember you are Diamonds Droog.
+Вы внезапно вспомимнаете, что Вы - Даймондс Друг.
 
-Whoever took your hat is about to discover he's the unluckiest man on earth. He better hope you find him dead. What you're gonna do to him will be much less painful that way.
+Кто бы ни украл Вашу шляпу, он скоро узнает, что он - самый несчастный на планете, и ему бы лучше надеяться, что Вы найдете его мертвым. Таким образом то, что Вы с ним сделаете будет гораздо менее больно.
 ###
 003099
 X
