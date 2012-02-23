@@ -1,4 +1,4 @@
-[I] DD: Retrieve hat from brawlsoleum.
+[I] ДД: Взять шляпу из дракзолея.
 ###
 c01e62c64d
 ###
