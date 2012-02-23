@@ -1,4 +1,4 @@
-[I] SS: Wear backup hat.
+[I] СС: Надеть запасную шляпу.
 ###
 f8829a7a62
 ###
@@ -7,11 +7,11 @@ f8829a7a62
 http://www.mspaintadventures.com/storyfiles/hs2/01190_1.gif
 http://www.mspaintadventures.com/storyfiles/hs2/01190_2.gif
 ###
-You deploy your chest and swap this dinky little hat for one more suited to your tastes.
+Вы открываете свой сундук, и меняете эту забавную шляпку на более подходящую Вашим вкусам.
 
-Wait a minute...
+Минуточку...
 
-Thank god. Your precious SCOTTY DOGS are still here. You don't know what you'd do without them. You don't want to even think about it.
+Слава богу. Ваши драгоценные ШОТЛАНДСКИЕ ТЕРЬЕРЫ все еще здесь. Вы не знаете, что бы Вы без них делали. Вам об этом и думать не хочется.
 ###
 003091
 X
