@@ -1,4 +1,4 @@
-[I] SS: Captchalogue carriage clock.
+[I] СС: Каптчалогировать каретные часы.
 ###
 2066277bfa
 ###
@@ -6,9 +6,9 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01157.gif
 ###
-You obviously have no idea what that means.
+Вы, очевидно, понятия не имеете, что это значит.
 
-If it's some smartass way of saying to pick it up, forget it. You are already carrying an item. It is your trusty DECK OF CARDS.
+Если это какой-то хитроумный способ сказать "подними это", забудьте. У вас уже есть предмет. Это ваша верная КОЛОДА КАРТ.
 ###
 003058
 X
