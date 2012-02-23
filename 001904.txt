@@ -1,4 +1,4 @@
-Examine room.
+Изучить комнату.
 ###
 1bec570eb7
 ###
@@ -6,9 +6,9 @@ Examine room.
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00004.gif
 ###
-Your name is JOHN. As was previously mentioned it is your BIRTHDAY. A number of CAKES are scattered about your room. You have a variety of INTERESTS. You have a passion for REALLY TERRIBLE MOVIES. You like to program computers but you are NOT VERY GOOD AT IT. You have a fondness for PARANORMAL LORE, and are an aspiring AMATEUR MAGICIAN. You also like to play GAMES sometimes.
+Ваше имя Джон. Как уже говорилось, сегодня твой ДЕНЬ РОЖДЕНИЯ. По вашей комнате беспорядочно расставлены несколько тортов. У вас есть разнообразные ИНТЕРЕСЫ. У вас слабость к РЕАЛЬНО ЖУТКИМ ФИЛЬМАМ. Вам нравится программирование, но вы ЛАМЕР. Вам нравятся ПАРАНОРМАЛЬНЫЕ ЯВЛЕНИЯ, Из-за которых Вы стали ФОКУСНИКОМ-ЛЮБИТЕЛЕМ. Так же, вы не против иногда поиграть в ИГРЫ.
 
-What will you do?
+Что собираетесь делать?
 ###
 001905
 X
