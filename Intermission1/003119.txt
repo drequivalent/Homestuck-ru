@@ -1,4 +1,4 @@
-[I] HB: Deploy PUNCHBOX.
+[I] ХБ: Достать КОРОБКУ ДЛЯ БИТЬЯ.
 ###
 0adbf68a1b
 ###
@@ -6,7 +6,7 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01219.gif
 ###
-You deploy the WRATHTUB.
+Вы достаете свою ВОЕВАННУ.
 ###
 003120
 X
