@@ -1,4 +1,4 @@
-[I] SS: Scavenge war chest for fancy headwear.
+[I] СС: Выбросить роскошные головные уборы из сундука.
 ###
 441715683f
 ###
@@ -7,11 +7,11 @@
 http://www.mspaintadventures.com/storyfiles/hs2/01164_1.gif
 http://www.mspaintadventures.com/storyfiles/hs2/01164_2.gif
 ###
-If there are any elaborate headdresses in here, you'll eat your haberdasher.
+Если Вам попадутся какие либо хитроумные шляпы, Вы сожрете своего галантерейщика.
 
-But of course there is only a plain and serviceable BACKUP HAT, which naturally conceals two LICORICE SCOTTY DOGS. 
+Но конечно в наличии есть только простая ЗАПАСНАЯ ШЛЯПА, которая обычно скрывает в себе двоих ЛАКРИЧНЫХ ШОТЛАНДСКИХ ТЕРЬЕРОВ. 
 
-Which makes you think that maybe you are wearing your BACKUP HAT, and this is your usual one? Hell if you know. They are the same damn hat.
+Это заставляет Вас задуматься о том, что может быть вы носите ЗАПАСНУЮ ШЛЯПУ сейчас, а это - ваша первичная? Черт, если бы вы знали. Они абсолютно одинаковые.
 ###
 003065
 X
