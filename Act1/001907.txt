@@ -1,4 +1,4 @@
-John: Quickly retrieve arms from MAGIC CHEST.
+Джон: Срочно извлечь руки из ВОЛШЕБНОГО СУНДУКА.
 ###
 589195ba7f
 ###
@@ -7,11 +7,11 @@ John: Quickly retrieve arms from MAGIC CHEST.
 http://www.mspaintadventures.com/storyfiles/hs2/00007_1.gif
 http://www.mspaintadventures.com/storyfiles/hs2/00007_2.gif
 ###
-You retrieve your FAKE ARMS from the chest. You use these for HILARIOUS ANTICS. 
+Ты достаёшь ФАЛЬШИВЫЕ РУКИ из сундука. Ты используешь их в своих СМЕШНЫХ ВЫХОДКАХ.
 
-You CAPTCHALOGUE them in your SYLLADEX. You have no idea what that actually means though.
+Ты КАПЧАЛОГИРУЕШЬ их в СИЛЛАДЕКС. Что бы это ни значило.
 
-There are other items in the chest.
+В сундуке есть другие вещи.
 ###
 001908
 X
