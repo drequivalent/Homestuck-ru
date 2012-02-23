@@ -1,4 +1,4 @@
-[I] DD: Withdraw licorice fish from backup hat.
+[I] ДД: Удалить лакричные рыбки из запасной шляпы.
 ###
 72108114a6
 ###
@@ -6,9 +6,9 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01201.gif
 ###
-Whew. Your SWEDISH FISH are there. 
+Фух. Ваши ШВЕДСКИЕ РЫБКИ здесь. 
 
-This is why it's a good idea to always store your candy in your BACKUP HAT rather than your usual one. Other members of your gang have learned this the hard way and they're finally starting to catch on.
+Вот поэтому хранить конфеты в ЗАПАСНОЙ ШЛЯПЕ вместо первичной - хорошая идея. Другие члены банды убедились в этом на собственном опыте, и начали следовать Вашему примеру.
 ###
 003102
 X
