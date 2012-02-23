@@ -1,4 +1,4 @@
-[I] DD: Wear backup hat.
+[I] ДД: Надеть запасную шляпу.
 ###
 f2263351c8
 ###
@@ -6,9 +6,9 @@ f2263351c8
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01199.gif
 ###
-You don't have a BACKUP HAT all you got is this DECK OF CARDS oh wait yes you do.
+У вас нет ЗАПАСНОЙ ШЛЯПЫ, все, что у Вас есть - это КОЛОДА КАРТ... А, секундочку, она у Вас есть.
 
-It's stashed away in your BRAWLSOLEUM.
+Она спрятана в Вашем ДРАКЗОЛЕЕ.
 ###
 003100
 X
