@@ -1,4 +1,4 @@
-[I] SS: Be Hearts Boxcars.
+[I] СС: Стать Хартсом Бокскарсом.
 ###
 a4365b976b
 ###
@@ -6,7 +6,7 @@ a4365b976b
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01177.gif
 ###
-You are now Clubs Deuce.
+Вы теперь - Клабс Дьюс.
 ###
 003078
 X
