@@ -1,4 +1,4 @@
-[I] CD: Pick up card depicting stately blonde-haired fellows
+[I] КД: Поднять карту, изображающую статных белокурых парней.
 ###
 89466b78c4
 ###
@@ -6,11 +6,11 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01197.gif
 ###
-You aren't going to stand around jack king off all day long, so you grab the JACK OF DIAMONDS.
+Вы не собираетесь стоять здесь и маяться дурью весь день, так что Вы подбираете БУБНОВОГО ВАЛЬТА.
 
-Oh.
+О1.
 
-Here's your BACKUP HAT. Problem solved, you guess.
+А вот и Ваша ЗАПАСНАЯ ШЛЯПА. Похоже, проблема решена.
 ###
 003098
 X
