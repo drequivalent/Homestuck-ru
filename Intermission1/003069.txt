@@ -1,4 +1,4 @@
-[I] SS: Take the spade key.
+[I] СС: Взять пиковый ключ.
 ###
 7433a3bd48
 ###
@@ -7,9 +7,9 @@
 http://www.mspaintadventures.com/storyfiles/hs2/01169_1.gif
 http://www.mspaintadventures.com/storyfiles/hs2/01169_2.gif
 ###
-You take the RULES CARD FOR BLACKJACK. 
+Вы взяли КАРТУ С ПРАВИЛАМИ БЛЭКДЖЕКА. 
 
-You have possessed this item for as long as you can remember. You do not yet know its significance. Though you can hustle up a mean game of blackjack when you need to.
+Вы владели ей сколько себя помните. Вы до сих пор не понимаете степень ее важности. Зато Вы можете превосходно сыграть в Блэкджек, когда требуется.
 ###
 003070
 X
