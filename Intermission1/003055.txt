@@ -6,7 +6,7 @@ fc6d2ac647
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01155.gif
 ###
-Your name is SPADES SLICK. You are the leader of a notoriously vicious gang of mobsters called the MIDNIGHT CREW. A rival gang known as <span style="color: #2ed73a">THE FELT</span> recently knocked over one of your favorite casinos. Your long quest of revenge has finally taken you through the front door of the mansion belonging to their loathsome boss, <span style="color: #2ed73a">LORD ENGLISH</span>.
+Ваше имя - Спейдс Слик. Вы - лидер of a notoriously vicious gang of mobsters called the MIDNIGHT CREW. A rival gang known as <span style="color: #2ed73a">THE FELT</span> recently knocked over one of your favorite casinos. Your long quest of revenge has finally taken you through the front door of the mansion belonging to their loathsome boss, <span style="color: #2ed73a">LORD ENGLISH</span>.
 
 Your subordinates, CLUBS DEUCE, DIAMONDS DROOG, and HEARTS BOXCARS have been dispatched to various locations throughout the mansion to begin carrying out your mission. Your objective is to locate and crack English's SECRET VAULT, and plunder its mysteries.
 
