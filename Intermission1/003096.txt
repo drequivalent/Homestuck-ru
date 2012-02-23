@@ -1,4 +1,4 @@
-[I] CD: Pick a card, any card.
+[I] КД: Взять карту, любую карту.
 ###
 ed6a6d1f06
 ###
@@ -7,9 +7,9 @@ ed6a6d1f06
 http://www.mspaintadventures.com/storyfiles/hs2/01196_1.gif
 http://www.mspaintadventures.com/storyfiles/hs2/01196_2.gif
 ###
-You're a busy guy so you just pick up any old thing and put it on your head. Since you are in a big hurry you will assume that it is your BACKUP HAT.
+Вы - человек занятой, так что Вы просто берете любой предмет и кладете его себе на голову. Так как Вы спешите, Вы предполагаете, что это - Ваша ЗАПАСНАЯ ШЛЯПА.
 
-You stand nearby the two remaining cards on the floor. An OFF-SUITED KING AND JACK.
+Вы стоите около двух оставшихся карт - Короля и Вальта.
 ###
 003097
 X
