@@ -1,4 +1,4 @@
-[I] SS: Stop being Hearts Boxcars.
+[I] СС: Перестать быть Хартсом Бокскарсом.
 ###
 8f0b7a7be9
 ###
@@ -7,13 +7,13 @@
 http://www.mspaintadventures.com/storyfiles/hs2/01186_1.gif
 http://www.mspaintadventures.com/storyfiles/hs2/01186_2.gif
 ###
-Alright, you're the boss. Hearts Boxcars you ain't.
+Ладно, дело Ваше. Вы - не Хартс Бокскарс.
 
-Someone has replaced your plain and serviceable HAT with a silly and undersized one. An outrage beyond compare.
+Кто-то заменил Вашу простую и надёжную ШЛЯПУ смешной и маленькой. Произвол вне всякого сравнения.
 
-You're sure you know who the culprit was. You can still smell his overly caffeinated blood...
+Вы уверены, что знаете, кто совершил это преступление. Вы чувствуете запах его крови, полной кофеина...
 
-986/1000 CLOCKS SHOWN MERCY
+986/1000 ЧАСОВ ПОЩАЖЕНЫ
 ###
 003087
 X
