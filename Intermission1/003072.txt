@@ -1,4 +1,4 @@
-[I] SS: Examine heist map.
+[I] СС: Осмотреть карту грабежа.
 ###
 38e2f86ac5
 ###
@@ -6,9 +6,9 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01172.gif
 ###
-On review, your schemes seem a bit convoluted. But you wouldn't have it any other way.
+Ваш план выглядит слишком запутанным, если подумать. Но по-другому у Вас не получится.
 
-Deuce and Droog split up to neutralize as many Felt as they can find. Your heavy muscle and expert safecracker, Boxcars, is headed straight down to the vault.
+Дьюс и Друг разделились, чтобы нейтрализовать столько Суконников, сколько смогут найти. Громила и опытный медвежатник Бокскарс, отправлен прямо к хранилищу.
 ###
 003073
 X
