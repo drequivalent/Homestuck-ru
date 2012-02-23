@@ -6,11 +6,11 @@ fc6d2ac647
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01155.gif
 ###
-Ваше имя - Спейдс Слик. Вы - лидер of a notoriously vicious gang of mobsters called the MIDNIGHT CREW. A rival gang known as <span style="color: #2ed73a">THE FELT</span> recently knocked over one of your favorite casinos. Your long quest of revenge has finally taken you through the front door of the mansion belonging to their loathsome boss, <span style="color: #2ed73a">LORD ENGLISH</span>.
+Ваше имя - Спейдс Слик. Вы - лидер знаменитой шайки гингстеров под названием ПОЛУНОЧНАЯ БАНДА. Конкурирующая банда, известная как <span style="color: #2ed73a">THE FELT</span> недавно разгромила одно из ваших любимых казино. Ваш долгий путь мести наконец привел Вас к парадной двери особняка, принадлежащего их ненавистному боссу, <span style="color: #2ed73a">ЛОРДУ ИНГЛИШУ</span>.
 
-Your subordinates, CLUBS DEUCE, DIAMONDS DROOG, and HEARTS BOXCARS have been dispatched to various locations throughout the mansion to begin carrying out your mission. Your objective is to locate and crack English's SECRET VAULT, and plunder its mysteries.
+Ваши подчиненные, КЛАБС ДЮС , ДАЙМОНДС ДРОГ и ХАРТС БОКСКАРС распределились по всему особняку чтобы начать выполнение Вашей миссии. Ваша цель - найти и взломать ТАЙНОЕ ХРАНИЛИЩЕ Инглиша, и разведать его секреты.
 
-That's the business end of it. The pleasure will be painting this ugly house red with the blood of those miserable green motherfuckers.
+Но это только деловая сторона вопроса. Самым приятным будет красить этот отвратительный дом красным кровью этих жалких зеленых ублюдков.
 ###
 003056
 X
