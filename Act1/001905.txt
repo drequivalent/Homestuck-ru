@@ -1,4 +1,4 @@
-John: Quickly retrieve arms from drawer.
+Джон: Срочно извлечь руки из комода.
 ###
 310b173f2c
 ###
@@ -6,7 +6,7 @@ John: Quickly retrieve arms from drawer.
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00005.gif
 ###
-Your ARMS are in your MAGIC CHEST, pooplord!
+Твои РУКИ в ВОЛШЕБНОМ СУНДУКЕ, дерьмолорд!
 ###
 001906
 X
