@@ -6,11 +6,11 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01185.gif
 ###
-<span style="color: #2ed73a">Doze</span> proceeds to make a fleetfooted getaway.
+<span style="color: #2ed73a">Доуз</span> обратился в бегство.
 
-THE CHASE
+ПОГОНЯ
 
-IS ON
+НАЧАЛАСЬ
 ###
 003086
 X
