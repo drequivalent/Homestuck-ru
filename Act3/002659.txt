@@ -16,7 +16,7 @@ http://www.mspaintadventures.com/storyfiles/hs2/00759_3.gif
 
 John, if only you knew how important you were! I regret my passing came so early in your life. And yet I feel in my heart we have already met. But what I know for sure is that we will meet again! 
 
-Until then, John, I do hope your <span style="text-decoration: underline">Father</span> keeps you well fed!
+А до тех пор, Джон, я надеюсь твой<span style="text-decoration: underline">Отец</span> будет хорошо тебя кормить!
 
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/00759_4under.gif" border="0" />
 ###
