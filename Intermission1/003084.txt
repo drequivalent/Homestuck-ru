@@ -1,4 +1,4 @@
-[I] CD: Throw the hat down and stomp it mercilessly.
+[I] КД: Бросить шляпу на пол и безжалостно ее растоптать.
 ###
 313bf9b221
 ###
@@ -6,9 +6,9 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01184.gif
 ###
-Oh no. It's <span style="color: #2ed73a">Itchy</span>, and it looks like he's all wound up.
+О, нет. Это <span style="color: #2ed73a">Иччи</span>, и, похоже, он весь на взводе.
 
-He unties <span style="color: #2ed73a">Doze</span> and quickly swaps everyone's HATS around.
+Он развязывает <span style="color: #2ed73a">Доуза</span>, и быстро меняет у всех шляпы местами.
 ###
 003085
 X
