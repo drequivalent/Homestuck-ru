@@ -1,4 +1,4 @@
-[I] CD: Dump the contents of your war chest over him.
+[I] КД: Вывалить на него все содержимое своего сундука войны.
 ###
 cb67fc0b2c
 ###
@@ -6,7 +6,7 @@ cb67fc0b2c
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01182.gif
 ###
-War chest? What are you talking about. All you've got is this simple, unassuming DECK OF CARDS.
+Сундук войны? О чем это вы? Все, чем Вы располагаете - это простая и скромная КОЛОДА КАРТ.
 ###
 003083
 X
