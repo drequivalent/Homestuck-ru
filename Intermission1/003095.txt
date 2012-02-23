@@ -1,4 +1,4 @@
-[I] CD: Pick up all of the cards and throw them at Doze.
+[I] КД: Взять все карты и бросить их в Доуза.
 ###
 b6f53dcb35
 ###
@@ -7,9 +7,9 @@ b6f53dcb35
 http://www.mspaintadventures.com/storyfiles/hs2/01195_1.gif
 http://www.mspaintadventures.com/storyfiles/hs2/01195_2.gif
 ###
-You pick up a bunch of cards and fling them <span style="color: #2ed73a">Doze</span>-ward.
+Вы берете немного карт и кидаете их в направлении <span style="color: #2ed73a">Доуза</span>.
 
-Didn't accomplish a whole lot, other than put some of your private reading material on embarrassing public display.
+Вы не очень-то много этим добились, кроме того, что выложили ваше чтиво приватного характера на всеобщее обозрение.
 ###
 003096
 X
