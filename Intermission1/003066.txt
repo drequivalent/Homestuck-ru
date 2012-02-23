@@ -1,4 +1,4 @@
-[I] SS: Start up the Crosbytop.
+[I] CC: Запустить Кросбитоп.
 ###
 24835379bc
 ###
@@ -6,9 +6,9 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01166.gif
 ###
-Is that what this thing is? You've had it for some time, and don't quite remember how you got it. You never knew the identity of this pipe-smoking creature.
+Так вот как называется эта штука? Он у Вас уже давно валяется, и Вы уже не совсем помните, откуда вы его взяли. Личность этого существа с трубкой вам неизвестна.
 
-Perhaps it could be the same species as the character you just saw under the rug. But you know that is impossible, because this one does not feature the same bizarre furred lip. They are probably differing species within the same genus.
+Возможно, он того же вида, что и тот тип из-под коврика. Но Вы знаете, что это невозможно, потому что у него нет такой же странной волосатой губы. Возможно, это разные виды одного и того же рода.
 ###
 003067
 X
