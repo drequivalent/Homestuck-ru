@@ -1,4 +1,4 @@
-[I] CD: Grab the deuce of clubs.
+[I] КД: Взять двойку треф.
 ###
 4bb05a702a
 ###
@@ -6,9 +6,9 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01194.gif
 ###
-You pick up two LICORICE GUMMY BEARS.
+Вы взяли двоих ЛАКРИЧНЫХ МИШЕК.
 
-These need to be stored for safe-keeping as soon as possible. Finding your BACKUP HAT has never been more urgent.
+Их необходимо как можно скорее положить в безопасное место. ЗАПАСНАЯ ШЛЯПА еще никогда не была так нужна.
 ###
 003095
 X
