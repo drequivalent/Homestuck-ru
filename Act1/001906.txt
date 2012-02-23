@@ -1,4 +1,4 @@
-Remove CAKE from MAGIC CHEST.
+Убрать ТОРТ с ВОЛШЕБНОГО СУНДУКА.
 ###
 a98706c44b
 ###
@@ -6,7 +6,7 @@ a98706c44b
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00006.gif
 ###
-Out of sympathy for John's perceived lack of arms, you pick up the CAKE for him and put it on his BED.
+У Джона очевидный недостаток рук, поэтому из сочувствия к нему ты поднимаешь ТОРТ и ставишь его на КРОВАТЬ.
 ###
 001907
 X
