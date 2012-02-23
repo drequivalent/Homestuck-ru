@@ -1,4 +1,4 @@
-[I] SS: Play 52 pickup.
+[I] CC: Разложить Косынку.
 ###
 7fd7bf089c
 ###
@@ -6,9 +6,9 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01161.gif
 ###
-You would need a DECK OF CARDS to play that infernal game. 
+Для этой инфернальной игры понадобится КОЛОДА КАРТ. 
 
-Fortunately all you have is your WAR CHEST, which you deploy on the floor.
+К счастью, все, что у Вас есть это СУНДУК ВОЙНЫ, который Вы и ставите на пол.
 ###
 003062
 X
