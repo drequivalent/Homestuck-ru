@@ -7,9 +7,9 @@
 http://www.mspaintadventures.com/storyfiles/hs2/01193_1.gif
 http://www.mspaintadventures.com/storyfiles/hs2/01193_2.gif
 ###
-You're not sure what's what. You can never remember which card to pick up. 
+Вы не помните, что есть что. Вы не уверены в том, какую карту Вам стоит взять. 
 
-You can't believe how shitty your memory is.
+Вы поверить не можете, как дерьмова Ваша память.
 ###
 003094
 X
