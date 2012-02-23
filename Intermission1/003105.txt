@@ -1,4 +1,4 @@
-[I] DD: Resume pursuit of wounded felt member.
+[I] ДД: Продолжить преследование раненого суконщика.
 ###
 cd68e4b4f0
 ###
@@ -6,7 +6,7 @@ cd68e4b4f0
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01205.gif
 ###
-You don't know if the wounded guy went up the stairs, or came down. Or who wounded him, and when. Might have even been you, for all you know.
+Вы не знаете, поднимался или спускался ли раненый парень по лестнице. Или кто его ранил, и когда. Может быть, это даже были и Вы, в конце концов.
 ###
 003106
 X
