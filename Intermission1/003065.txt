@@ -1,4 +1,4 @@
-[I] SS: Hide inside your war chest.
+[I] СС: Спрятаться в своем сундуке войны.
 ###
 b48929953a
 ###
@@ -6,13 +6,13 @@ b48929953a
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01165.gif
 ###
-You cannot hide properly inside the chest because you cannot close it while you are inside.
+Вы не можете полностью спрятаться в сундуке, потому что не можете закрыть его, пока находитесь в нем.
 
-Instead you momentarily pretend it is a really cool automobile that commands the fear and respect of larcenous adversaries everywhere. 
+Вместо этого Вы на мгновение притворяетесь, что это - действительно классный автомобиль, который вызывает уважение и наводит страх на ваших соперников. 
 
-BEEP BEEP BEEP
+БИ-БИ-БИП!
 
-All aboard the idiot wagon!
+Все в машину слабоумия!
 ###
 003066
 X
