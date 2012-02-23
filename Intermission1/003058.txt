@@ -1,4 +1,4 @@
-[I] SS: Build fort with clocks.
+[I] СС: Построить форт из часов.
 ###
 6601822573
 ###
@@ -6,9 +6,9 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01158.gif
 ###
-You have an idea that is so much better.
+У Вас есть идея намного лучше.
 
-CLOCKS DESTROYED: 4/1000
+ЧАСОВ УНИЧТОЖЕНО: 4/1000
 ###
 003059
 X
