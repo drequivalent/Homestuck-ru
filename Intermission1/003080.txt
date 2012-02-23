@@ -1,4 +1,4 @@
-[I] CD: Punch clocks in faces to establish chronology.
+[I] КД: Разбить циферблаты часов, чтобы восстановить хронологию.
 ###
 308aa8ea01
 ###
@@ -6,9 +6,9 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01180.gif
 ###
-Why would you do that? All of these clocks are lovely. You see no reason to harm them.
+Зачем? Все эти часы довольно симпатичные. Вы не видите причин портить их.
 
-987/1000 CLOCKS UNHARMED
+987/1000 ЧАСОВ ЦЕЛЫ
 ###
 003081
 X
