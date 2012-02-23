@@ -6,9 +6,9 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01204.gif
 ###
-Trouble is, whenever he does, he lets you know exactly where he's going to be in the future. This time you'll be ready for him.
+Его проблема в том, что каждый раз, когда он так делает, Вы знаете, где он будет находиться в будущем. В этот раз вы будете начеку.
 
-You radio Deuce for backup. Give him a time and place, and exactly what path through the mansion to take.
+Вы зовете Дьюса на помощь. Даете ему время, место, и точный путь через особняк.
 ###
 003105
 X
