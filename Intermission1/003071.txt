@@ -1,4 +1,4 @@
-[I] SS: Wonder where the number 8 mugshot went.
+[I] СС: Удивиться, куда делась фотография с номером 8.
 ###
 7090fcdecf
 ###
@@ -6,11 +6,11 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01171.gif
 ###
-It's right here.
+Вот она.
 
-But you aren't gonna kill <span style="color: #2ed73a">SN</span>O<span style="color: #2ed73a">WMAN</span> (8). 
+Но Вы не собираетесь убивать <span style="color: #2ed73a">СНЕГ</span>O<span style="color: #2ed73a">ВИКА</span> (8). 
 
-It's out of the question.
+Это исключено.
 ###
 003072
 X
