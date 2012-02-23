@@ -1,4 +1,4 @@
-[I] CD: Rough him up.
+[I] КД: Избить его.
 ###
 bef6f65ef5
 ###
@@ -6,9 +6,9 @@ bef6f65ef5
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01178.gif
 ###
-He remains tight-lipped, so you deal him a senseless shin-drubbing with your CROOK OF FELONY. 
+Он играет в молчанку, поэтому Вы долбите его по голени вашим УГОЛОВНЫМ КРЮКОМ. 
 
-Oh the humanity. You can barely watch.
+О, какая жестокость. Вам больно на это смотреть.
 ###
 003079
 X
