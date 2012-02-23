@@ -1,4 +1,4 @@
-[I] SS: Lift left leg and hold it a little ways in the air.
+[I] СС: Поднять левую ногу и подержать ее в воздухе.
 ###
 478a31d048
 ###
@@ -7,7 +7,7 @@
 http://www.mspaintadventures.com/storyfiles/hs2/01187_1.gif
 http://www.mspaintadventures.com/storyfiles/hs2/01187_2.gif
 ###
-Oops.
+Упс.
 ###
 003088
 X
