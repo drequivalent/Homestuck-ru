@@ -1,4 +1,4 @@
-[I] SS: Wear CD's hat on top of your current one.
+[I] СС: Надеть шляпу КД поверх Вашей текущей.
 ###
 3d36baaa62
 ###
@@ -6,9 +6,9 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01189.gif
 ###
-You are already wearing Deuce's hat you fool. The one on the floor is Droog's hat. This is exactly why you always keep a BACKUP HAT on hand.
+Вы уже носите шлапу Дьюса, глупец. Та, что на полу - принадлежит Другу. Именно поэтому Вы держите ЗАПАСНУЮ ШЛЯПУ при себе.
 
-This son of a bitch on the floor here has played his last game of musical hats. Soon these lugs will learn to show you some respect. You made this town what it is after all. Wasn't nothin' but a bunch of dust and rocks before you got here.
+Этот сукин сын на полу последний раз поигрался со шляпами. Скоро эти ублюдки научатся проявлять к Вам уважение. В конце концов, именно Вы построили этот город. До Вас здесь неыло ничего кроме камня и песка.
 ###
 003090
 X
