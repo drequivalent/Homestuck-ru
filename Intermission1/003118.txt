@@ -1,4 +1,4 @@
-[I] HB: Pry the wall from the safe.
+[I] ХБ: Вырвать стену из сейфа.
 ###
 397932fcb9
 ###
@@ -6,11 +6,11 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01218.gif
 ###
-That notion is even more ridiculous than the last one. Wait who are you kidding no it isn't.
+Это предложение даже более смехотворно, чем предыдущее. Нет, секундочку, не такое оно и глупое.
 
-Looks like the combination to the safe is entered via the hands of the clock. And you somehow doubt spinning the hands around manually is going to cut it. Knowing these guys, you've got to alter the flow of time itself to make it work.
+Похоже, комбинация к сейфу вводится при помощи стрелок этих часов. И Вы как-то сомневаетесь, что ручное вращение стрелок в данном случае подойдет. Зная этих ребят, скорее всего нужно изменить само течение времени, чтобы замок открылся.
 
-Which of course is bullshit. You think you'll just blow it up instead. Time to get Deuce on the radio.
+Это, все, безусловно, чушь. Вы решаете, что просто взорвете его. Надо бы достучаться до Дьюса по радио.
 ###
 003119
 X
