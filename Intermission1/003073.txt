@@ -1,4 +1,4 @@
-[I] SS: Use radio device to check on unscrupulous cohorts.
+[I] СС: Использовать радиоустройство, чтобы узнать, как дела у Вашего недобросовестного контингента.
 ###
 c6a7469cd6
 ###
@@ -6,9 +6,9 @@ c6a7469cd6
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01173.gif
 ###
-You put the word out to your cronies for a status report. No response yet.
+Вы запрашиваете рапорт у своих дружков. Ответа не еще последовало.
 
-You clean up all your junk and prepare to get this show on the road.
+Вы убираете свое барахло, и готовитесь к началу шоу.
 ###
 003074
 X
