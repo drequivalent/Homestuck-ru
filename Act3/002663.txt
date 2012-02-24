@@ -1,4 +1,4 @@
-Retrieve arms from...
+Извлечь руки из...
 ###
 dcb127d448
 ###
@@ -6,11 +6,11 @@ dcb127d448
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00763.gif
 ###
-THEY'RE RIGHT THERE.
+ОНИ ПРЯМО ЗДЕСЬ.
 
-IN PLAIN SIGHT.
+У ВСЕХ НА ВИДУ.
 
-LOOK, THEY ARE FLASHING RED.
+СМОТРИ, ОНИ МИГАЮТ КРАСНЫМ.
 ###
 002664
 X
