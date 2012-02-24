@@ -1,4 +1,4 @@
-Examine room.
+Осмотреть комнату.
 ###
 fb492f3225
 ###
@@ -7,9 +7,9 @@ fb492f3225
 http://www.mspaintadventures.com/storyfiles/hs2/00768_1.gif
 http://www.mspaintadventures.com/storyfiles/hs2/00768_2.gif
 ###
-Your name is JADE. You have just woken from a restful nap, and as usual, you have no recollection of having fallen asleep. You have quite a number of INTERESTS. So many in fact, you have trouble keeping track of them all, even with an assortment of COLORFUL REMINDERS on your fingers to help you sort out everything on your mind. Nevertheless, when you spend time in your GARDEN ATRIUM, the only thing on your mind is your deep passion for HORTICULTURE.
+Тебя зовут ДЖЕЙД. Только что тебя вырвали из успокоительного сна, и ты, как обычно, не помнишь, как засыпала. У тебя множество разнообразных ИНТЕРЕСОВ. Настолько много, что тебе сложно за ними следить, даже притом что на пальцах у тебя ассортимент РАЗНОЦВЕТНЫХ НАПОМИНАЛОК, помогающих упорядочить мысли в голове. Тем не менее, когда ты проводишь время в своем САДУ В АТРИУМЕ, на уме у тебя только одно – обожаемое САДОВОДСТВО.
 
-What will you do?
+Что собираешься делать?
 ###
 002669
 X
