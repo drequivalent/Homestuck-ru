@@ -1,4 +1,4 @@
-Enter name.
+Введите имя.
 ###
 025bc78ae3
 ###
@@ -6,9 +6,9 @@ Enter name.
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01990.gif
 ###
-Oh, ha ha! Nice one, smartypants. Really hilarious.
+О, ха-ха! Отличная попытка, остряк. Правда весело.
 
-But let's get real here. No more clowning around.
+Но давай-ка серьезно. Больше никаких шуток.
 ###
 003891
 X
