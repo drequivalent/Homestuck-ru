@@ -1,4 +1,4 @@
-John: Examine contents of chest.
+Джон: Исследовать содержимое сундука.
 ###
 1f08be6e40
 ###
@@ -6,13 +6,13 @@ John: Examine contents of chest.
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00008.gif
 ###
-In here you keep an array of humorous and mystical ARTIFACTS, each one a devastating weapon in the hands of a SKILLED MAGICIAN or a CUNNING PRANKSTER.
+Здесь вы храните множество юмористических и мистических АРТЕФАКТОВ. Каждый из них явряется разрушительным оружием в руках ИСКУСНОГО МАГА или ХИТРОГО ШУТНИКА.
 
-You are neither of these things.
+Ты не являешься ни тем, ни другим.
 
-Among the ARTIFACTS are: TWO (2) FAKE ARMS [CURRENTLY CAPTCHALOGUED IN YOUR SYLLADEX], ONE (1) PAIR OF TRICK HANDCUFFS, ONE (1) STUNT SWORD, ONE (1) MAGICIAN'S HAT, ONE (1) PAIR OF BEAGLE PUSS GLASSES, SEVERAL (~) SMOKE PELLETS, SEVERAL (~) BLOOD CAPSULES, and ONE (1) COPY OF COLONEL SASSACRE'S DAUNTING TEXT OF MAGICAL FRIVOLITY AND PRACTICAL JAPERY, and ONE (1) COPY OF HARRY ANDERSON'S &quot;WISE GUY&quot;, BY MIKE CAVENEY.
+Среди АРТЕФАКТОВ: ДВЕ (2) ФАЛЬШИВЫЕ РУКИ [НА ДАННЫЙ МОМЕНТ КАПТЧАЛОГИРОВАНЫ В ВАШЕМ СИЛЛАДЕКСЕ], ОДНА (1) ПАРА НАРУЧНИКОВ, ОДИН (1) БУТАФОРСКИЙ МЕЧ, ОДНА (1) ШЛЯПА ВОЛШЕБНИКА, ОДНА (1) ПАРА УСАТЫХ ОЧКОВ, НЕСКОЛЬКО (~) ДЫМОВЫХ ПИЛЮЛЬ, НЕСКОЛЬКО (~) КРОВЯНЫХ КАПСУЛ, и ОДНА (1) КОПИЯ УСТРАШАЮЩЕГО ПОСОБИЯ ПОЛКОВНИКА САССАКРАСА ПО МАГИЧЕСКОМУ ЛЕГКОМЫСЛИЮ И ШУТОВСКОЙ ПРАКТИКЕ, и ОДНА (1) КОПИЯ &quot;МУДРОГО ЧУВАКА&quot; ГАРРИ АНДЕРСЕНА, ОТ МАЙКА КАВЕНИ BY MIKE CAVENEY.
 
-Some of this stuff may come in handy at some point. For now, you decide to just take the SMOKE PELLETS.
+Какие-нибудь из этих вещей могут пригодиться в будущем. Сейчас ты решаешь взять только ДЫМОВЫЕ ПИЛЮЛИ.
 ###
 001909
 X
