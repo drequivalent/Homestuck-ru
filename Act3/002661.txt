@@ -1,4 +1,4 @@
-Enter name.
+Введите имя.
 ###
 e959cb867b
 ###
@@ -6,11 +6,11 @@ e959cb867b
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00761.gif
 ###
-Uh...
+Э-э...
 
-I guess...
+Думаю...
 
-I guess her name is Farmstink.
+Думаю, её зовут Farmstink.
 ###
 002662
 X
