@@ -1,4 +1,4 @@
-Wake up!
+Проснись!
 ###
 36b7bac2bf
 ###
@@ -6,9 +6,9 @@ Wake up!
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00762.gif
 ###
-You try to roust Farmstink from her slumber, but she is really down for the count!
+Ты пытаешься растолкать Farmstink, но она как в нокауте.
 
-It looks like she is holding some sort of NOTE.
+Похоже, у неё в руках что-то вроде ЗАПИСКИ.
 ###
 002663
 X
