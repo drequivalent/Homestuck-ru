@@ -1,4 +1,4 @@
-Jade: Captchalogue flute.
+Джейд: каптчалогировать флейту.
 ###
 c72b7e6560
 ###
@@ -6,9 +6,9 @@ c72b7e6560
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00771.gif
 ###
-On second thought, it was a perfectly nice flute and there is no reason to take your frustration out on it. You just need some practice.
+Впрочем, это была вполне хорошая флейта и нет никакого смысла срываться на нее. Тебе просто нужно немного практики.
 
-But before you captchalogue the FLUTE you will need to set your FETCH MODUS first! 
+Но, перед тем как ты каптчалогируешь ФЛЕЙТУ, тебе нужно сначала установить свой ИНВЕНТАРНЫЙ МЕТОД!
 ###
 002672
 X
