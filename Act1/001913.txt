@@ -1,4 +1,4 @@
-John: Take poster.
+Джон: Взять постер.
 ###
 d43c111c62
 ###
@@ -6,9 +6,9 @@ d43c111c62
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00013.gif
 ###
-Another BIRTHDAY ARTIFACT. You wonder what is printed on the poster.
+Ещё один ПРАЗДНИЧНЫЙ АРТЕФАКТ. Ты задаёшься вопросом о том, что может быть напечатано на постере.
 
-You'll need some way to hang it on your wall.
+Наверно нужно повесить его на стену.
 ###
 001914
 X
