@@ -1,4 +1,4 @@
-John: Examine Problem Sleuth Poster.
+Джон: Исследовать постер с Проблемным Сыщиком.
 ###
 7aa4165e4d
 ###
@@ -6,9 +6,9 @@ John: Examine Problem Sleuth Poster.
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00011.gif
 ###
-Is it even possible to get any more hard boiled than that? You really doubt it. <a href="http://www.topatoco.com/merchant.mvc?Screen=CTGY&amp;Store_Code=TO&amp;Category_Code=MSPA-ART" target="_blank" class="postlink">This poster was one of your wisest purchases.</a>
+Возможно ли достать что-то более крутое, чем это? Ты сильно в этом сомневаешься. <a href="http://www.topatoco.com/merchant.mvc?Screen=CTGY&amp;Store_Code=TO&amp;Category_Code=MSPA-ART" target="_blank" class="postlink">Этот постер - одна из твоих самых лучших покупок.</a>
 
-There is a nice spot on the wall next to it. You've been meaning to hang another poster there soon.
+На стене рядом с ним - пустое пространство. Вскоре ты собираешься повесить туда ещё один постер.
 ###
 001912
 X
