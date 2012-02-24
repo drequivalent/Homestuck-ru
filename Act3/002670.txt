@@ -6,11 +6,11 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00770.gif
 ###
-Wow, you really suck at this thing! 
+Вау, ты действительно отстойно играешь!
 
-Maybe you should try playing an instrument you actually know how to play instead, like the one in your bedroom. Honestly you have no idea where this flute even came from. Things seem to appear and disappear around here all the time. Especially, to your unending chagrin, any sort of large orange gourd that might be lying around.
+Может, вместо этого, тебе стоит попробовать играть на инструменте, на котором ты знаешь как играть, например на том что стоит у тебя в спальне. Честно говоря, ты даже понятия не имеешь откуда эта флейта взялась. Вещи, кажется, появляются и исчезают здесь все время. Особенно часто исчезают, к твоему бесконечному огорчению, любые большие оранжевые тыквы, которые лежат здесь повсюду.
 
-You consider throwing the flute down in disgust.
+Ты намереваешься с отвращением бросить флейту.
 ###
 002671
 X
