@@ -1,4 +1,4 @@
-John: Read note on drawer.
+Джон: Прочитать записку на тумбочке.
 ###
 b3b6c99e44
 ###
@@ -6,9 +6,9 @@ b3b6c99e44
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00012.gif
 ###
-This note is rich with the aromas of FATHERLY AFTERSHAVES AND COLOGNES.
+От записки разит ОТЦОВСКИМ ГЕЛЕМ ПОСЛЕ БРИТЬЯ И ОДЕКОЛОНОМ.
 
-Beside the note is a ROLLED UP POSTER. 
+За запиской лежит СВЁРНУТЫЙ ПОСТЕР. 
 ###
 001913
 X
