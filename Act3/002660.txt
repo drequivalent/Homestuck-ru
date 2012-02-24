@@ -1,4 +1,4 @@
-ACT 3 ==&gt;
+АКТ 3 ==&gt;
 ###
 01f580ac5b
 ###
@@ -6,9 +6,9 @@ ACT 3 ==&gt;
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00760.gif
 ###
-A silly girl naps by her flowers. It is quite likely that she tired herself out with a variety of silly antics, as silly girls are often known to do. She may have a silly name too. Or maybe not. It is hard to say for sure without asking her.
+Глупая девушка дремлет среди цветов. Вполне вероятно, она сама устала от своих глупых выходок, которые, как известно, совершают глупые девушки. Должно быть, у неё ещё и глупое имя. А может, нет. Трудно сказать наверняка, не спросив её.
 
-But since she's slumbering peacefully, it would be a shame to wake her up. You might as well just give her a name right now.
+Но сейчас она мирно спит, и было бы кощунством попытаться её разбудить. Пожалуй, можно дать ей имя и так.
 ###
 002661
 X
