@@ -1,4 +1,4 @@
-Jade: Set modus.
+Джейд: установить метод.
 ###
 e80fbbe368
 ###
@@ -8,9 +8,10 @@ F|http://www.mspaintadventures.com/storyfiles/hs2/00772
 ###
 [rollover above with mouse]
 
-You have a wide variety of FETCH MODI to choose from. You were really excited when your GRANDPA bought you this MODUS SET for Christmas. He is a total badass, even if a little strict.
+У тебя есть большое разнообразие ИНВЕНТАРНЫХ МЕТОДОВ из которых можно выбрать. Ты была в настоящем восторге когда твой ДЕДУЛЯ купил тебе этот НАБОР МЕТОДОВ на Рождество. Он total badass (настоящий задира\абсолютный засранец???) , даже если немного строгий.
 
-You typically opt for the MEMORY MODUS when it comes to matters of day-to-day practicality.
+
+Ты обычно выбираешь МЕТОД ПАМЯТИ когда дело доходит до вопросов ежедневной практичности.
 ###
 002673
 X
