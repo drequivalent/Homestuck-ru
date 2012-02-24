@@ -1,4 +1,4 @@
-Jade: Select Memory.
+Джейд: Выбрать Метод Памяти/Памятный.
 ###
 62556ee324
 ###
@@ -6,11 +6,11 @@ Jade: Select Memory.
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00773.gif
 ###
-You set your modus to MEMORY, and captchalogue the FLUTE. You allot 9 cards to the modus from your deck, since that will be more than enough for your needs at the moment. The modus grabs 9 more cards for matching purposes.
+Ты устанавливаешь свой инвентарный метод на ПАМЯТЬ/ПАМЯТНЫЙ и каптчалогируешь ФЛЕЙТУ. Ты отводишь 9 карт из колоды под инвентарь (инвентарный метод), пока что этого будет более чем достаточно для твоих потребностей. Метод захватывает еще 9 карт для соответствия назначению/целям.
 
-The FLUTE is split up on two blank cards, and mixed randomly into the grid. To retrieve the item you must first pick one card, and then pick its matching card. 
+ФЛЕЙТА разделена на две карты, которые теперь беспорядочно перемешаны с остальными в таблице. Для того чтобы достать предмет, тебе сначала нужно выбрать одну карточку, а затем выбрать совпадающую (такую же) карточку.
 
-For the typical sylladexer this modus presents a frustrating guessing game and a lot of wasted time on mismatching. But you like it because you seem to have a knack for always guessing right on the first try!
+Для типичного силладексера (?) такой метод представляет собой унылую (разочаровывающую) игру-угадайку и много времени потраченного на промахи с совпадением карточек (на несовпадения). Но тебе этот метод нравится, потому что ты всегда ловко угадываешь (правильно - ТАВтология }XD) с первой попытки!
 ###
 002674
 X
