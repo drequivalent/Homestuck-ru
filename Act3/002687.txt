@@ -6,7 +6,7 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00787.gif
 ###
-You TRANSPORTALIZE upstairs. Just above is your room.
+Тебя ТРАНСПОРТАЛИЗИРУЕТ наверх. Чуточку выше находится твоя комната.
 ###
 002688
 X
