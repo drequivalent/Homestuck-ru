@@ -6,18 +6,18 @@
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/04293.gif
 ###
-|DIALOGLOG|
-<span style="color: #4ac925">JADE: im not sure!</span>
-<span style="color: #4ac925">JADE: some sort of limbo dimension between the two walls i guess</span>
-<span style="color: #4ac925">JADE: like a realm with unusual spatial properties we have to cross through</span>
-<span style="color: #0715cd">JOHN: oh, ok.</span>
-<span style="color: #0715cd">JOHN: then...</span>
-<span style="color: #0715cd">JOHN: we escaped the scratch?</span>
-<span style="color: #0715cd">JOHN: like, we still exist and everything?</span>
-<span style="color: #4ac925">JADE: yes!</span>
-<span style="color: #4ac925">JADE: we still totally exist john</span>
-<span style="color: #0715cd">JOHN: ok, just making sure.</span>
-<span style="color: #0715cd">JOHN: i still felt pretty existy, but you never know.</span>
+|ДИАЛОГЛОГ|
+<span style="color: #4ac925">ДЖЕЙД: я не уверена!</span>
+<span style="color: #4ac925">ДЖЕЙД: что-то вроде архивного измерения, я полагаю</span>
+<span style="color: #4ac925">ДЖЕЙД: как область с необычными пространственными свойствами, которую мы должны пересечь</span>
+<span style="color: #0715cd">ДЖОН: о, ладно.</span>
+<span style="color: #0715cd">ДЖОН: тогда...</span>
+<span style="color: #0715cd">ДЖОН: мы избежали разломаwe escaped the scratch?</span>
+<span style="color: #0715cd">ДЖОН: мы всё ещё существуем и всё такое?</span>
+<span style="color: #4ac925">ДЖЕЙД: да!</span>
+<span style="color: #4ac925">ДЖЕЙД: мы действительно всё ещё существуем, Джон</span>
+<span style="color: #0715cd">ДЖОН: ладно, убеждён.</span>
+<span style="color: #0715cd">ДЖОН: я до сих пор чувствую себя довольно существенным.</span>
 ###
 006197
 X
