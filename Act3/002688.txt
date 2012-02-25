@@ -1,4 +1,4 @@
-Jade: Ascend.
+Джейд: Подняться.
 ###
 2d2f6bdb94
 ###
@@ -6,7 +6,7 @@ Jade: Ascend.
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00788.gif
 ###
-You enter your bedroom. On this side of the room you are immediately confronted with numerous artifacts highlighting your various INTERESTS.
+Ты входишь в спальню. В этой части комнаты ты сразу же сталкиваешься с многочисленными артефактами, указывающими на твои разнообразные ИНТЕРЕСЫ.
 ###
 002689
 X
