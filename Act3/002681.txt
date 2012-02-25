@@ -1,4 +1,4 @@
-Jade: Captchalogue something.
+Джейд: Каптчалогировать что-нибудь.
 ###
 45c55f50fc
 ###
@@ -6,9 +6,9 @@ Jade: Captchalogue something.
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00781.gif
 ###
-Your MEMORY modus is hardly any fun without much stuff in it, so you decide to stock up on fresh produce to fill some more cards.
+Твой метод ЗАПОМИНАНИЯ не очень-то веселый, если в нем мало вещей, так что ты решаешь запастить свежими продуктами, чтобы заполнить несколько карточек.
 
-You pick a juicy red CRAB APPLE.
+Ты выбираешь сочное красное ДИКОЕ ЯБЛОКО.
 ###
 002682
 X
