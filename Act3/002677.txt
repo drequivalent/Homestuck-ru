@@ -1,4 +1,4 @@
-Jade: Consult colourful reminders.
+Джейд: Посоветоваться с разноцветными напоминалками.
 ###
 f5982ceef4
 ###
@@ -6,11 +6,11 @@ f5982ceef4
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00777.gif
 ###
-You tend to have a lot of things on your mind at once, and you can be a little forgetful. So you keep a variety of COLORED STRINGS on your fingers as reminders. Each one means there is something different to remember at a certain time.
+Как правило, на уме у тебя столько всего сразу, что иногда ты можешь быть немного забывчива. Поэтому на пальцах ты держишь кучу РАЗНОЦВЕТНЫХ РЕЗИНОК в качестве напоминания. Каждая из них означает, что тебе необходимо о чем-то вспомнить в определенное время.
 
-In fact, looking at your index finger reminds you that there is something important to remember now! It is your friend John's birthday. The green string reminds you that John's birthday package will arrive today. The blue string ALSO reminds you that John's birthday package will arrive today, though in a way that means something slightly different.
+Кстати, взгляд на указательный палец как раз говорит тебе о том, что надо бы вспомнить кое-что важное прямо сейчас! День Рождения твоего друга Джона. Зелёная резинка означает, что сегодня к нему приедет его подарок. Голубая ТОЖЕ напоминает, что подарок придет к Джону сегодня, но означает нечто другое.
 
-You are further reminded that you have some things to do outside your house soon. But you should stop by your room first for some supplies, and most importantly, to see if John is online and wish him a happy birthday!
+Кроме того они напомнили, что скоро тебе нужно будет кое-что сделать на улице. Но сначала необходимо зайти в свою комнату за кое-какими запасами, а главное, проверить, нет ли Джона в сети, и пожелать ему счастливого Дня Рождения!
 ###
 002678
 X
