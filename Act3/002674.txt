@@ -1,4 +1,4 @@
-Jade: Squeal like a piglet and fertilize some plants.
+Джейд: Завизжать как поросенок и отсыпать удобрений растениям.
 ###
 a17e019f5f
 ###
@@ -6,7 +6,7 @@ a17e019f5f
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00774.gif
 ###
-It is an awfully silly idea and is basically a waste of everyone's time. You will predictably disregard this thought and focus on more sensible objectives at once.
+Это до ужаса глупая идея и вообще пустая трата времени. Как и ожидалось, ты игнорируешь эту мысль и немедленно сосредотачиваешься на более разумных целях.
 ###
 002675
 X
