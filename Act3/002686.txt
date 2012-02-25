@@ -1,4 +1,4 @@
-Jade: Go upstairs to bedroom.
+Джейд: Подняться наверх по лестнице в спальню.
 ###
 7047f2abce
 ###
@@ -6,7 +6,7 @@ Jade: Go upstairs to bedroom.
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/00786.gif
 ###
-You almost never use the stairs.
+Ты почти никогда не используешь лестницы.
 ###
 002687
 X
