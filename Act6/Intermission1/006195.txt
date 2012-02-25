@@ -1,4 +1,4 @@
-ACT 6 INTERMISSION 1
+АКТ 6 ИНТЕРМИССИЯ 1
 ###
 d49cab4d85
 ###
@@ -6,8 +6,8 @@ d49cab4d85
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/04292.gif
 ###
-|DIALOGLOG|
-<span style="color: #0715cd">JOHN: where are we?</span>
+|ДИАЛОГЛОГ|
+<span style="color: #0715cd">ДЖОН: где мы?</span>
 ###
 006196
 X
