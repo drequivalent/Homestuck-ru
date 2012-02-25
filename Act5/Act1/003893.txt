@@ -1,4 +1,4 @@
-Enter name.
+Ввести имя.
 ###
 7915977adb
 ###
@@ -6,9 +6,9 @@ Enter name.
 ###
 http://www.mspaintadventures.com/storyfiles/hs2/01993.gif
 ###
-You enter something predictably derogatory and this guy gets fed up by your shenanigans in record time.
+Вы вводите что-то предсказуемо унизительное и этот парень выходит из себя от ваших проделок в рекордные сроки.
 
-This guy has a lot of troll pals and their adventures are going to be quite extensive and convoluted, to an even greater degree than one perhaps may be accustomed. He thinks that if you think that we have time to drag out every little gag and expected pattern along the way, you've got another thing coming. He thinks you should cram that sobering understanding in your chitinous windhole, and tamp it down hard with your ugly stupid looking cartilage nub.
+У этого парня куча троллей-приятелей и их приключения обещают быть весьма обширными и запутанными, намного эпичней чем те, которые уже привычны. Он думает, что, если вы думаете, что у нас есть время вытягивать каждую маленькую шутку и предполагаемые шаблоны по пути, вы сильно ошибаетесь. Он думает, вам следует впихнуть это отревзляющее понимание в ваш хитиновый жвальник, и утрамбовать это вплотную своим уродливым глупо выглядящим хрящевым выступом.
 ###
 003894
 X
