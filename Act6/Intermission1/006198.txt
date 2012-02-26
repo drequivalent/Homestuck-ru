@@ -7,12 +7,11 @@
 http://www.mspaintadventures.com/storyfiles/hs2/04295.gif
 ###
 |ДИАЛОГЛОГ|
-<span style="color: #4ac925">ДЖЕЙД: она по другую сторону стены!</span>
-<span style="color: #0715cd">ДЖОН: you mean that one way over there?</span>
+<span style="color: #4ac925">ДЖЕЙД: она по ту сторону стены!</span>
+<span style="color: #0715cd">ДЖОН: ты имеешь ввиду что туда только один путть?</span>
 <span style="color: #4ac925">ДЖЕЙД: да</span>
 <span style="color: #0715cd">ДЖОН: ладно...</span>
 <span style="color: #0715cd">ДЖОН: так это место является чем-то подобным тому жёлтому лужаечному кругу о котором говорил 
-
 каркат?</span>
 <span style="color: #4ac925">ДЖЕЙД: нет, не лужаечный круг!</span>
 <span style="color: #4ac925">ДЖЕЙД: это глупое тролльское выражение</span>
