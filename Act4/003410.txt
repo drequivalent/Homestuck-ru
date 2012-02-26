@@ -4,7 +4,7 @@ cf12163e40
 ###
 1267342126
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01510.gif
+http://ru-homestuck.org/storyfiles/hs2/01510.gif
 ###
 |PESTERLOG|
 <span style="color: #4ac925">GG: ok some of these things we can deploy but some things we dont have nearly enough grist for!</span>

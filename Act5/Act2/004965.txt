@@ -4,7 +4,7 @@ Page: Retrieve arms.
 ###
 1292218464
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/03063.gif
+http://ru-homestuck.org/storyfiles/hs2/03063.gif
 ###
 |PESTERLOG|
 <span style="color: #a15000">AT: oKAY, tHEN,</span>

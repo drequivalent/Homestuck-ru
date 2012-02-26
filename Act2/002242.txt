@@ -4,7 +4,7 @@ e0c594a5ad
 ###
 1246842660
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/00342.gif
+http://ru-homestuck.org/storyfiles/hs2/00342.gif
 ###
 Your STRIFE SPECIBUS is already allocated with the BLADEKIND ABSTRATUS! There is no need to allocate it. 
 

@@ -4,7 +4,7 @@ c688bf6ac5
 ###
 1249103433
 ###
-F|http://www.mspaintadventures.com/storyfiles/hs2/00423
+F|http://ru-homestuck.org/storyfiles/hs2/00423
 ###
 |SPRITELOG|
 <span style="color: #00d5f2">NANNASPRITE: And as it so happens, at the center of this realm whose fate is in question, these very forces duel on a stage, stuck in eternal stalemate.</span>

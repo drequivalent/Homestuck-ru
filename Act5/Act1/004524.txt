@@ -4,7 +4,7 @@
 ###
 1284829348
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/02623.gif
+http://ru-homestuck.org/storyfiles/hs2/02623.gif
 ###
 |PESTERLOG|
 <span style="color: #a10000">CAA: int0 the <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/universered.gif" border="0" /> we created</span>

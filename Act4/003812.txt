@@ -4,8 +4,8 @@ AR?: Go down.
 ###
 1274648722
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01912_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/01912_2.gif
+http://ru-homestuck.org/storyfiles/hs2/01912_1.gif
+http://ru-homestuck.org/storyfiles/hs2/01912_2.gif
 ###
 Below there is a dark cavernous room. 
 

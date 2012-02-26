@@ -4,7 +4,7 @@ John: Go out to balcony.
 ###
 1242440115
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/00160.gif
+http://ru-homestuck.org/storyfiles/hs2/00160.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">EB: hey, i'm out on the balcony now.</span>

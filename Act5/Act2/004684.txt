@@ -4,7 +4,7 @@ John: Pester Vriska.
 ###
 1287456802
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/02783.gif
+http://ru-homestuck.org/storyfiles/hs2/02783.gif
 ###
 |PESTERLOG|
 -- ectoBiologist <span style="color: #0715cd">[EB]</span> began pestering arachnidsGrip <span style="color: #005682">[AG]</span> --

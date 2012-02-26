@@ -4,7 +4,7 @@ Dave: Summon Davesprite.
 ###
 1288897738
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/02834.gif
+http://ru-homestuck.org/storyfiles/hs2/02834.gif
 ###
 |SPRITELOG|
 <span style="color: #e00707">DAVE: sup</span>

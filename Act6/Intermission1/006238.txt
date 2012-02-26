@@ -4,7 +4,7 @@
 ###
 1324097299
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/04335.gif
+http://ru-homestuck.org/storyfiles/hs2/04335.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE: i have the population of five planets to keep me company!</span>

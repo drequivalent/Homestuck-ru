@@ -4,7 +4,7 @@
 ###
 1324711968
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/04381.gif
+http://ru-homestuck.org/storyfiles/hs2/04381.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: is he dead</span>

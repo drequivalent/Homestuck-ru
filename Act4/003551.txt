@@ -4,7 +4,7 @@
 ###
 1270274440
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01651.gif
+http://ru-homestuck.org/storyfiles/hs2/01651.gif
 ###
 |SPRITELOG|
 <span style="color: #e00707">DAVE: hey</span>

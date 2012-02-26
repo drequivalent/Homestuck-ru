@@ -4,7 +4,7 @@ John: Open browser and go to mspaintadventures.com
 ###
 1241418584
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/00111.gif
+http://ru-homestuck.org/storyfiles/hs2/00111.gif
 ###
 You decide to space out on the computer for a while before doing anything important.
 

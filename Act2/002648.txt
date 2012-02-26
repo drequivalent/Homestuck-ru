@@ -4,7 +4,7 @@ WV: Move spirograph switch.
 ###
 1254764511
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/00748.gif
+http://ru-homestuck.org/storyfiles/hs2/00748.gif
 ###
 You cannot move it! It has a spirograph-shaped indentation, and possibly will require a special kind of key to turn it.
 ###

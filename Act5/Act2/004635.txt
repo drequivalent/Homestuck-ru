@@ -4,8 +4,8 @@ aab2d37d88
 ###
 1286238392
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/02734_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/02734_2.gif
+http://ru-homestuck.org/storyfiles/hs2/02734_1.gif
+http://ru-homestuck.org/storyfiles/hs2/02734_2.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">EB: pchoo.</span>

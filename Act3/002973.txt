@@ -4,7 +4,7 @@ cc035c65eb
 ###
 1262045581
 ###
-F|http://www.mspaintadventures.com/storyfiles/hs2/01073
+F|http://ru-homestuck.org/storyfiles/hs2/01073
 ###
 |PESTERLOG|
 <a href="http://www.mspaintadventures.com/?s=6&amp;p=002069" target="_blank" class="postlink">-- gardenGnostic <span style="color: #4ac925">[GG]</span> began pestering ectoBiologist <span style="color: #0715cd">[EB]</span> at 13:25 --</a>

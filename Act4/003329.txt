@@ -4,8 +4,8 @@ febafda537
 ###
 1266539653
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01429_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/01429_2.gif
+http://ru-homestuck.org/storyfiles/hs2/01429_1.gif
+http://ru-homestuck.org/storyfiles/hs2/01429_2.gif
 ###
 |SPRITELOG|
 <span style="color: #0715cd">JOHN: nanna, are you there?</span>

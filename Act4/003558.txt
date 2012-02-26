@@ -4,7 +4,7 @@ Davesprite: Chill with Dave.
 ###
 1270401551
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01658.gif
+http://ru-homestuck.org/storyfiles/hs2/01658.gif
 ###
 |SPRITELOG|
 <span style="color: #e00707">DAVE: who were you talking to</span>

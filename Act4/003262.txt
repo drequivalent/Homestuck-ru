@@ -4,10 +4,10 @@ f687b5a68f
 ###
 1265865590
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01362_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/01362_2.gif
-http://www.mspaintadventures.com/storyfiles/hs2/01362_3.gif
-http://www.mspaintadventures.com/storyfiles/hs2/01362_4.gif
+http://ru-homestuck.org/storyfiles/hs2/01362_1.gif
+http://ru-homestuck.org/storyfiles/hs2/01362_2.gif
+http://ru-homestuck.org/storyfiles/hs2/01362_3.gif
+http://ru-homestuck.org/storyfiles/hs2/01362_4.gif
 ###
 
 ###

@@ -4,7 +4,7 @@ a2d94af12b
 ###
 1324518072
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/04362.gif
+http://ru-homestuck.org/storyfiles/hs2/04362.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">KARKAT: <span style="font-style: italic">IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIITTTTTTTTTTTTTTT.</span></span>

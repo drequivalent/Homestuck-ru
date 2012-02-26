@@ -4,7 +4,7 @@
 ###
 1312309646
 ###
-F|http://www.mspaintadventures.com/storyfiles/hs2/04015
+F|http://ru-homestuck.org/storyfiles/hs2/04015
 ###
 |PESTERLOG|
 <span style="color: #626262">PCG: SORRY.</span>

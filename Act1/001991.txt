@@ -4,7 +4,7 @@ John: Retrieve the package and flee to your room!
 ###
 1240978551
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/00091.gif
+http://ru-homestuck.org/storyfiles/hs2/00091.gif
 ###
 You cannot ABSCOND! This pesky GUARDIAN is blocking your path! You will need to engineer some sort of distraction.
 

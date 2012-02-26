@@ -4,8 +4,8 @@ e4a66b5997
 ###
 1252615528
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/00621_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/00621_2.gif
+http://ru-homestuck.org/storyfiles/hs2/00621_1.gif
+http://ru-homestuck.org/storyfiles/hs2/00621_2.gif
 ###
 The ALCHEMITER requires one unit of any type of grist to produce one card.
 

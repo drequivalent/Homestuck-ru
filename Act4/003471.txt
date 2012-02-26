@@ -4,8 +4,8 @@ Jade: Draw the intellibeam laserstation.
 ###
 1268003151
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01571_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/01571_2.gif
+http://ru-homestuck.org/storyfiles/hs2/01571_1.gif
+http://ru-homestuck.org/storyfiles/hs2/01571_2.gif
 ###
 This thing looks kind of complicated.
 ###

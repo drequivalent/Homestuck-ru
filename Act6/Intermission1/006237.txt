@@ -4,7 +4,7 @@
 ###
 1324097002
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/04334.gif
+http://ru-homestuck.org/storyfiles/hs2/04334.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE: yes</span>

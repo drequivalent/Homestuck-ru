@@ -4,7 +4,7 @@ Jade: Deploy green and white compact disc.
 ###
 1267342175
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01511.gif
+http://ru-homestuck.org/storyfiles/hs2/01511.gif
 ###
 |PESTERLOG|
 <span style="color: #e00707">TG: what should i do with these beta copies</span>

@@ -4,7 +4,7 @@ John: Check message.
 ###
 1240192555
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/00063.gif
+http://ru-homestuck.org/storyfiles/hs2/00063.gif
 ###
 |PESTERLOG|
 <span style="color: #b536da">TT: I understand you have recently come into possession of the beta release of &quot;The Game of the Year&quot;, as featured in respectable periodicals such as GameBro Magazine.</span>

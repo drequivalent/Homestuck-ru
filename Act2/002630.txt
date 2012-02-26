@@ -4,7 +4,7 @@ WV: Select the triangley fractal.
 ###
 1254620184
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/00730.gif
+http://ru-homestuck.org/storyfiles/hs2/00730.gif
 ###
 The triangley fractal room does not appear to be locked.
 ###

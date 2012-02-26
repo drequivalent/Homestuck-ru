@@ -4,7 +4,7 @@
 ###
 1312308448
 ###
-F|http://www.mspaintadventures.com/storyfiles/hs2/03999
+F|http://ru-homestuck.org/storyfiles/hs2/03999
 ###
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/nextbowl3.gif" border="0" />
 ###

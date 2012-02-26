@@ -4,7 +4,7 @@ Jade: Deploy laserstation.
 ###
 1291831006
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/03025.gif
+http://ru-homestuck.org/storyfiles/hs2/03025.gif
 ###
 |PESTERLOG|
 <span style="color: #4ac925">GG: what does this thing do?</span>

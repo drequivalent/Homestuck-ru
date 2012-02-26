@@ -4,7 +4,7 @@ Tavros: Point cherry vehicle toward X on map.
 ###
 1281224059
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/02371.gif
+http://ru-homestuck.org/storyfiles/hs2/02371.gif
 ###
 
 ###

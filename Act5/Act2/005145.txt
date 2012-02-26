@@ -4,7 +4,7 @@ f671b9cd4b
 ###
 1294178020
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/03242.gif
+http://ru-homestuck.org/storyfiles/hs2/03242.gif
 ###
 |SPRITELOG|
 <span style="color: #1f9400">JADESPRITE: no!!!</span>

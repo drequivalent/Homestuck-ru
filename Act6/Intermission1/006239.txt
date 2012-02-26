@@ -4,7 +4,7 @@
 ###
 1324112914
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/04336.gif
+http://ru-homestuck.org/storyfiles/hs2/04336.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: hey, can i at least send a message through?</span>

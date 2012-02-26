@@ -4,7 +4,7 @@ ecefadadf7
 ###
 1294177869
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/03241.gif
+http://ru-homestuck.org/storyfiles/hs2/03241.gif
 ###
 |SPRITELOG|
 <span style="color: #1f9400">JADESPRITE: i dont want to be here, i have to go back</span>

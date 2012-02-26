@@ -4,7 +4,7 @@
 ###
 1323667234
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/04300.gif
+http://ru-homestuck.org/storyfiles/hs2/04300.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE: im just trying to estimate our arrival time</span>

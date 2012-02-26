@@ -4,9 +4,9 @@ e618e86224
 ###
 1298979246
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/03599_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/03599_2.gif
-http://www.mspaintadventures.com/storyfiles/hs2/03599_3.gif
+http://ru-homestuck.org/storyfiles/hs2/03599_1.gif
+http://ru-homestuck.org/storyfiles/hs2/03599_2.gif
+http://ru-homestuck.org/storyfiles/hs2/03599_3.gif
 ###
 |PESTERLOG|
 <span style="color: #a10000">AA: in the soot of my ruined hive i scrawled my part of the code</span>

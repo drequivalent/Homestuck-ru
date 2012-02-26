@@ -4,8 +4,8 @@ a16db312cd
 ###
 1251257944
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/00539_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/00539_2.gif
+http://ru-homestuck.org/storyfiles/hs2/00539_1.gif
+http://ru-homestuck.org/storyfiles/hs2/00539_2.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">EB: so why didn't you just build a way up through that hole into my dad's room?</span>

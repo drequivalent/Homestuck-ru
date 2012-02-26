@@ -4,8 +4,8 @@ John: Deploy alchemiter.
 ###
 1289697102
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/02866_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/02866_2.gif
+http://ru-homestuck.org/storyfiles/hs2/02866_1.gif
+http://ru-homestuck.org/storyfiles/hs2/02866_2.gif
 ###
 You suppose you could upgrade this thing right away, if Jade can spare some time to cooperate. You've got plenty of grist to spare.
 

@@ -4,7 +4,7 @@
 ###
 1240356767
 ###
-F|http://www.mspaintadventures.com/storyfiles/hs2/00077
+F|http://ru-homestuck.org/storyfiles/hs2/00077
 ###
 (Pages including sound will be preceded by [S] in the command.)
 ###

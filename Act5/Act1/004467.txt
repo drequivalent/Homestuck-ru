@@ -4,8 +4,8 @@ d5c855e5b6
 ###
 1283298578
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/02566_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/02566_2.gif
+http://ru-homestuck.org/storyfiles/hs2/02566_1.gif
+http://ru-homestuck.org/storyfiles/hs2/02566_2.gif
 ###
 |PESTERLOG|
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

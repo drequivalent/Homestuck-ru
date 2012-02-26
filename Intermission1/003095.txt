@@ -4,8 +4,8 @@ b6f53dcb35
 ###
 1263960690
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01195_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/01195_2.gif
+http://ru-homestuck.org/storyfiles/hs2/01195_1.gif
+http://ru-homestuck.org/storyfiles/hs2/01195_2.gif
 ###
 Вы берете немного карт и кидаете их в направлении <span style="color: #2ed73a">Доуза</span>.
 

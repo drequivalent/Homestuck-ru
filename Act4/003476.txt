@@ -4,7 +4,7 @@ ca5745eb7c
 ###
 1268194948
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01576.gif
+http://ru-homestuck.org/storyfiles/hs2/01576.gif
 ###
 Size of the object you make is now variable. The bigger, the more expensive, as one would expect.
 ###

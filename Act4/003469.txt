@@ -4,7 +4,7 @@ Jade: Draw the jumper block.
 ###
 1268003027
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01569.gif
+http://ru-homestuck.org/storyfiles/hs2/01569.gif
 ###
 You get the code for the jumper block extension to upgrade the alchemiter with... uh... the jumper block extension?
 

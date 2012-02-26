@@ -4,7 +4,7 @@ fd72f71865
 ###
 1249191584
 ###
-F|http://www.mspaintadventures.com/storyfiles/hs2/00424
+F|http://ru-homestuck.org/storyfiles/hs2/00424
 ###
 |SPRITELOG|
 <span style="color: #0715cd">JOHN: ME??</span>

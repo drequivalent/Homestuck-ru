@@ -4,7 +4,7 @@ Karkat: Check out one of his files.
 ###
 1276707082
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/02026.gif
+http://ru-homestuck.org/storyfiles/hs2/02026.gif
 ###
 This code, when executed, immediately causes the user's computer to explode, and places a curse on the user forever, along with everyone he knows, and everyone he'll ever meet. 
 

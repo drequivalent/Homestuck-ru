@@ -4,7 +4,7 @@ John: Examine gate.
 ###
 1269305420
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01606.gif
+http://ru-homestuck.org/storyfiles/hs2/01606.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">EB: so this is the seventh gate?</span>

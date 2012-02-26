@@ -4,7 +4,7 @@
 ###
 1323592961
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/04295.gif
+http://ru-homestuck.org/storyfiles/hs2/04295.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE: its through the other wall!</span>

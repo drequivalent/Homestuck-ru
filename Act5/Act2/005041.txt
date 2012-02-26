@@ -4,9 +4,9 @@ caf3b1d725
 ###
 1293234034
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/03138_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/03138_2.gif
-http://www.mspaintadventures.com/storyfiles/hs2/03138_3.gif
+http://ru-homestuck.org/storyfiles/hs2/03138_1.gif
+http://ru-homestuck.org/storyfiles/hs2/03138_2.gif
+http://ru-homestuck.org/storyfiles/hs2/03138_3.gif
 ###
 |PESTERLOG|
 <span style="color: #e00707">TG: yes perfect</span>

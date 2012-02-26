@@ -4,8 +4,8 @@ John: Get the card.
 ###
 1242180948
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/00142_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/00142_2.gif
+http://ru-homestuck.org/storyfiles/hs2/00142_1.gif
+http://ru-homestuck.org/storyfiles/hs2/00142_2.gif
 ###
 You find your missing STACK FETCH MODUS, and quickly reapply it to your SYLLADEX. You can now opt for either the STACK or QUEUE modus any time.
 

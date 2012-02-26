@@ -4,7 +4,7 @@ a795e68b24
 ###
 1265773275
 ###
-F|http://www.mspaintadventures.com/storyfiles/hs2/01358
+F|http://ru-homestuck.org/storyfiles/hs2/01358
 ###
 <a href="http://www.mspaintadventures.com/storyfiles/hs2/scraps/gate1map.jpg" target="_blank" class="postlink">MAP</a>
 ###

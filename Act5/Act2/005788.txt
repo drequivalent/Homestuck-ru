@@ -4,7 +4,7 @@
 ###
 1309646814
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/03885.gif
+http://ru-homestuck.org/storyfiles/hs2/03885.gif
 ###
 |SPRITELOG|
 <span style="color: #1f9400">JADESPRITE: dave?</span>

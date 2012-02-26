@@ -4,7 +4,7 @@ Equius: Equiup a bow.
 ###
 1278982877
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/02218.gif
+http://ru-homestuck.org/storyfiles/hs2/02218.gif
 ###
 You mean equip.
 

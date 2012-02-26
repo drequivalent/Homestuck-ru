@@ -4,7 +4,7 @@ Jade: Deploy circuit board looking thingy.
 ###
 1267399987
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01513.gif
+http://ru-homestuck.org/storyfiles/hs2/01513.gif
 ###
 It was obviously labeled as the JUMPER BLOCK EXTENSION. 
 

@@ -4,8 +4,8 @@
 ###
 1312428315
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/04022_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/04022_2.gif
+http://ru-homestuck.org/storyfiles/hs2/04022_1.gif
+http://ru-homestuck.org/storyfiles/hs2/04022_2.gif
 ###
 |PESTERLOG|
 <span style="color: #626262">PCG: IT'S HIM.</span>

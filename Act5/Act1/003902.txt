@@ -4,8 +4,8 @@ ac1e8e338d
 ###
 1276476940
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/02002_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/02002_2.gif
+http://ru-homestuck.org/storyfiles/hs2/02002_1.gif
+http://ru-homestuck.org/storyfiles/hs2/02002_2.gif
 ###
 It is a thick programming manual called &quot;~ATH - A HANDBOOK FOR THE IMMINENTLY DECEASED.&quot;
 

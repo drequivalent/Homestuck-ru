@@ -4,7 +4,7 @@ Jade: Go inside.
 ###
 1289767372
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/02867.gif
+http://ru-homestuck.org/storyfiles/hs2/02867.gif
 ###
 |PESTERLOG|
 -- gardenGnostic <span style="color: #4ac925">[GG]</span> began pestering ectoBiologist <span style="color: #0715cd">[EB]</span> --

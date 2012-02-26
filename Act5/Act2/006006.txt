@@ -4,10 +4,10 @@ f0aef2ab3e
 ###
 1319518313
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/04103_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/04103_2.gif
-http://www.mspaintadventures.com/storyfiles/hs2/04103_3.gif
-http://www.mspaintadventures.com/storyfiles/hs2/04103_4.gif
+http://ru-homestuck.org/storyfiles/hs2/04103_1.gif
+http://ru-homestuck.org/storyfiles/hs2/04103_2.gif
+http://ru-homestuck.org/storyfiles/hs2/04103_3.gif
+http://ru-homestuck.org/storyfiles/hs2/04103_4.gif
 ###
 
 ###

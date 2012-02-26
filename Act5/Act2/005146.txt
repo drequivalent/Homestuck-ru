@@ -4,7 +4,7 @@ f5bb905559
 ###
 1294178064
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/03243.gif
+http://ru-homestuck.org/storyfiles/hs2/03243.gif
 ###
 |SPRITELOG|
 <span style="color: #1f9400">JADESPRITE: WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH</span>

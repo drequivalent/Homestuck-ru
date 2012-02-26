@@ -4,7 +4,7 @@ Rose: Insert coin.
 ###
 1259528926
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/00927.gif
+http://ru-homestuck.org/storyfiles/hs2/00927.gif
 ###
 This weird arcade gizmo adapted to this setup obviously doesn't take coins anymore, assuming it ever did.
 

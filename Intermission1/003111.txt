@@ -4,9 +4,9 @@
 ###
 1264056233
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01211_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/01211_2.gif
-http://www.mspaintadventures.com/storyfiles/hs2/01211_3.gif
+http://ru-homestuck.org/storyfiles/hs2/01211_1.gif
+http://ru-homestuck.org/storyfiles/hs2/01211_2.gif
+http://ru-homestuck.org/storyfiles/hs2/01211_3.gif
 ###
 <span style="color: #2ed73a">Иччи</span> вечно жульничает. Но сегодня он сделал это в последний раз.
 

@@ -4,7 +4,7 @@ ee37784e27
 ###
 1271468914
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01684.gif
+http://ru-homestuck.org/storyfiles/hs2/01684.gif
 ###
 |PESTERLOG|
 -- gallowsCalibrator <span style="color: #008282">[GC]</span> sent ectoBiologist <span style="color: #0715cd">[EB]</span> the file &quot;LOW4SM4P.FL4&quot; --

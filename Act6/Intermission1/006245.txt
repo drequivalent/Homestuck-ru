@@ -4,7 +4,7 @@ be3cb551c2
 ###
 1324113414
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/04342.gif
+http://ru-homestuck.org/storyfiles/hs2/04342.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: wait a minute!</span>

@@ -4,8 +4,8 @@ John: Get PDA.
 ###
 1242433315
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/00158_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/00158_2.gif
+http://ru-homestuck.org/storyfiles/hs2/00158_1.gif
+http://ru-homestuck.org/storyfiles/hs2/00158_2.gif
 ###
 You grab the PDA, switching back to STACK MODUS so it is readily accessible.
 

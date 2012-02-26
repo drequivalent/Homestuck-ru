@@ -4,7 +4,7 @@ Rose: Pester Jade.
 ###
 1269746726
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01627.gif
+http://ru-homestuck.org/storyfiles/hs2/01627.gif
 ###
 |PESTERLOG|
 <span style="color: #b536da">TT: I spoke with Jaspers.</span>

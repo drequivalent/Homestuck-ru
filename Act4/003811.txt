@@ -4,8 +4,8 @@ AR?: Go in.
 ###
 1274648617
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01911_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/01911_2.gif
+http://ru-homestuck.org/storyfiles/hs2/01911_1.gif
+http://ru-homestuck.org/storyfiles/hs2/01911_2.gif
 ###
 There is a large elevator platform ahead.
 ###

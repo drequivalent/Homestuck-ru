@@ -4,7 +4,7 @@ Jade: Say hello.
 ###
 1293830268
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/03210.gif
+http://ru-homestuck.org/storyfiles/hs2/03210.gif
 ###
 |SPRITELOG|
 <span style="color: #4ac925">JADE: hello!</span>

@@ -4,7 +4,7 @@ Jade: Pester Karkat.
 ###
 1289532068
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/02850.gif
+http://ru-homestuck.org/storyfiles/hs2/02850.gif
 ###
 |PESTERLOG|
 -- gardenGnostic <span style="color: #4ac925">[GG]</span> began pestering carcinoGeneticist <span style="color: #626262">[CG]</span> --

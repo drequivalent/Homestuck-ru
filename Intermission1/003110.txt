@@ -4,10 +4,10 @@
 ###
 1264056124
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01210_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/01210_2.gif
-http://www.mspaintadventures.com/storyfiles/hs2/01210_3.gif
-http://www.mspaintadventures.com/storyfiles/hs2/01210_4.gif
+http://ru-homestuck.org/storyfiles/hs2/01210_1.gif
+http://ru-homestuck.org/storyfiles/hs2/01210_2.gif
+http://ru-homestuck.org/storyfiles/hs2/01210_3.gif
+http://ru-homestuck.org/storyfiles/hs2/01210_4.gif
 ###
 
 ###

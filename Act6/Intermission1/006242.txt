@@ -4,7 +4,7 @@ e42f6a4396
 ###
 1324113165
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/04339.gif
+http://ru-homestuck.org/storyfiles/hs2/04339.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE: here, will this work?</span>

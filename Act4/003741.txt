@@ -4,9 +4,9 @@ f4d981e096
 ###
 1273812736
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01841_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/01841_2.gif
-http://www.mspaintadventures.com/storyfiles/hs2/01841_3.gif
+http://ru-homestuck.org/storyfiles/hs2/01841_1.gif
+http://ru-homestuck.org/storyfiles/hs2/01841_2.gif
+http://ru-homestuck.org/storyfiles/hs2/01841_3.gif
 ###
 You make the CAPTCHAROID CAMERA.
 

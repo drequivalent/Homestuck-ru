@@ -4,7 +4,7 @@ PM: Type =&gt; VIEW
 ###
 1258945765
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/00898_1.gif
+http://ru-homestuck.org/storyfiles/hs2/00898_1.gif
 ###
 You type another one of the previously entered commands. It switches to the view of a young girl standing alone somewhere. There is a heavy amount of video interference of some sort.
 

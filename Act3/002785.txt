@@ -4,7 +4,7 @@ da01053282
 ###
 1258846401
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/00885.gif
+http://ru-homestuck.org/storyfiles/hs2/00885.gif
 ###
 |SPRITELOG|
 <span style="color: #00d5f2">NANNASPRITE: John, don't forget your book!</span>

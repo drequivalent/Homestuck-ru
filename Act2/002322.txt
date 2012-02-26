@@ -4,7 +4,7 @@ e1b9260c03
 ###
 1249103381
 ###
-F|http://www.mspaintadventures.com/storyfiles/hs2/00422
+F|http://ru-homestuck.org/storyfiles/hs2/00422
 ###
 |SPRITELOG|
 <span style="color: #00d5f2">NANNASPRITE: Above <span style="text-decoration: underline">The Medium</span>, beyond <span style="text-decoration: underline">The Seven Gates</span>, residing at the core of <span style="text-decoration: underline">The Incipisphere</span> is a place known as <span style="text-decoration: underline">Skaia</span>.</span>

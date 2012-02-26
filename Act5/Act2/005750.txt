@@ -4,8 +4,8 @@ ca6e1aa2a8
 ###
 1307923639
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/03847_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/03847_2.gif
+http://ru-homestuck.org/storyfiles/hs2/03847_1.gif
+http://ru-homestuck.org/storyfiles/hs2/03847_2.gif
 ###
 |PESTERLOG|
 <span style="color: #005682">AG: ........</span>

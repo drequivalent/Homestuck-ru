@@ -4,8 +4,8 @@ Jade: Draw the holopad.
 ###
 1267998551
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/01565_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/01565_2.gif
+http://ru-homestuck.org/storyfiles/hs2/01565_1.gif
+http://ru-homestuck.org/storyfiles/hs2/01565_2.gif
 ###
 You don't have nearly enough grist to deploy the HOLOPAD, whatever it does. But maybe you can get it as a freebie upgrade to the alchemiter.
 ###

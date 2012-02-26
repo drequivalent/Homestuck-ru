@@ -4,7 +4,7 @@
 ###
 1288904757
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/02835.gif
+http://ru-homestuck.org/storyfiles/hs2/02835.gif
 ###
 |SPRITELOG|
 <span style="color: #f2a400">DAVESPRITE: oh looks like you got caledfwlch</span>

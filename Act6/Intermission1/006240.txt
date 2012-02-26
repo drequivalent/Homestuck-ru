@@ -4,7 +4,7 @@ d11bdacd95
 ###
 1324113031
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/04337.gif
+http://ru-homestuck.org/storyfiles/hs2/04337.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE: how about this one?</span>

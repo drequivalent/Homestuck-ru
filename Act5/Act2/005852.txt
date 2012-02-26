@@ -4,7 +4,7 @@
 ###
 1310751870
 ###
-F|http://www.mspaintadventures.com/storyfiles/hs2/03949
+F|http://ru-homestuck.org/storyfiles/hs2/03949
 ###
 |PESTERLOG|
 <span style="color: #005682">AG: What's this?</span>

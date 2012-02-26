@@ -4,7 +4,7 @@
 ###
 1323667845
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/04301.gif
+http://ru-homestuck.org/storyfiles/hs2/04301.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: what!!!</span>

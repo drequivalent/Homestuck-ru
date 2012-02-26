@@ -4,10 +4,10 @@
 ###
 1308540320
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/03865_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/03865_2.gif
-http://www.mspaintadventures.com/storyfiles/hs2/03865_3.gif
-http://www.mspaintadventures.com/storyfiles/hs2/03865_4.gif
+http://ru-homestuck.org/storyfiles/hs2/03865_1.gif
+http://ru-homestuck.org/storyfiles/hs2/03865_2.gif
+http://ru-homestuck.org/storyfiles/hs2/03865_3.gif
+http://ru-homestuck.org/storyfiles/hs2/03865_4.gif
 ###
 |PESTERLOG|
 <span style="color: #626262">CG: SHE'S FINE.</span>

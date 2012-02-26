@@ -4,7 +4,7 @@ ded80e5228
 ###
 1296685646
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/03419.gif
+http://ru-homestuck.org/storyfiles/hs2/03419.gif
 ###
 |PESTERLOG|
 -- ectoBiologist <span style="color: #0715cd">[EB]</span> began pestering carcinoGeneticist <span style="color: #626262">[CG]</span> --

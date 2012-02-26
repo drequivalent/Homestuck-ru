@@ -4,8 +4,8 @@ John: Punch card.
 ###
 1251409990
 ###
-http://www.mspaintadventures.com/storyfiles/hs2/00551_1.gif
-http://www.mspaintadventures.com/storyfiles/hs2/00551_2.gif
+http://ru-homestuck.org/storyfiles/hs2/00551_1.gif
+http://ru-homestuck.org/storyfiles/hs2/00551_2.gif
 ###
 |PESTERLOG|
 <span style="color: #b536da">TT: Wait, John, before you punch that.</span>
