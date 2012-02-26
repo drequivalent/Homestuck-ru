@@ -6,10 +6,10 @@ aeca51bcb3
 ###
 http://ru-homestuck.org/storyfiles/hs2/04296.gif
 ###
-|DIALOGLOG|
-<span style="color: #0715cd">JOHN: what...</span>
-<span style="color: #0715cd">JOHN: the fuck...</span>
-<span style="color: #0715cd">JOHN: is that?</span>
+|ДИАЛОГЛОГ|
+<span style="color: #0715cd">JOHN: что...</span>
+<span style="color: #0715cd">JOHN: это...</span>
+<span style="color: #0715cd">JOHN: за хуйня?</span>
 ###
 006200
 X
