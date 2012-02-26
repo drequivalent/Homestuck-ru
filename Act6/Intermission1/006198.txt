@@ -4,34 +4,35 @@
 ###
 1323592961
 ###
-http://ru-homestuck.org/storyfiles/hs2/04295.gif
+http://www.mspaintadventures.com/storyfiles/hs2/04295.gif
 ###
-|DIALOGLOG|
-<span style="color: #4ac925">JADE: its through the other wall!</span>
-<span style="color: #0715cd">JOHN: you mean that one way over there?</span>
-<span style="color: #4ac925">JADE: yes</span>
-<span style="color: #0715cd">JOHN: ok...</span>
-<span style="color: #0715cd">JOHN: so is this place like that yellow lawn ring thing karkat was talking about?</span>
-<span style="color: #4ac925">JADE: no, not lawn ring!</span>
-<span style="color: #4ac925">JADE: thats a silly troll word</span>
-<span style="color: #4ac925">JADE: its the yellow yard</span>
-<span style="color: #4ac925">JADE: we have to cross it to break through the next wall</span>
-<span style="color: #0715cd">JOHN: how is this a yellow yard?</span>
-<span style="color: #0715cd">JOHN: that's a stupid name for this place!</span>
-<span style="color: #4ac925">JADE: see that long yellow band down there, stretching between the two walls?</span>
-<span style="color: #4ac925">JADE: i think thats supposed to be the yard</span>
-<span style="color: #0715cd">JOHN: thats not a yard.</span>
-<span style="color: #0715cd">JOHN: yards are like these flat wide patches of grass, surrounded by fences and stuff.</span>
-<span style="color: #0715cd">JOHN: if anything, it's more like a road.</span>
-<span style="color: #4ac925">JADE: hmmm</span>
-<span style="color: #4ac925">JADE: yeah i think youre right</span>
-<span style="color: #4ac925">JADE: kinda like the yellow brick road?</span>
-<span style="color: #0715cd">JOHN: sure, why not!</span>
-<span style="color: #0715cd">JOHN: let's all go see a big pompous wizard to solve all of our problems.</span>
-<span style="color: #0715cd">JOHN: i bet rose would get a kick out of that.</span>
-<span style="color: #4ac925">JADE: hehe</span>
-<span style="color: #0715cd">JOHN: oh yeah.</span>
-<span style="color: #0715cd">JOHN: and another thing...</span>
+|ДИАЛОГЛОГ|
+<span style="color: #4ac925">ДЖЕЙД: она по другую сторону стены!</span>
+<span style="color: #0715cd">ДЖОН: you mean that one way over there?</span>
+<span style="color: #4ac925">ДЖЕЙД: да</span>
+<span style="color: #0715cd">ДЖОН: ладно...</span>
+<span style="color: #0715cd">ДЖОН: так это место является чем-то подобным тому жёлтому лужаечному кругу о котором говорил 
+
+каркат?</span>
+<span style="color: #4ac925">ДЖЕЙД: нет, не лужаечный круг!</span>
+<span style="color: #4ac925">ДЖЕЙД: это глупое тролльское выражение</span>
+<span style="color: #4ac925">ДЖЕЙД: скорей жёлтая площадка</span>
+<span style="color: #4ac925">ДЖЕЙД: мы должны пересечь её, чтобы вломиться в следующую стену</span>
+<span style="color: #0715cd">ДЖОН: как это жёлтая площадка?</span>
+<span style="color: #0715cd">ДЖОН: какое тупое название для этого места!</span>
+<span style="color: #4ac925">ДЖЕЙД: видишь ту жёлтую длинную фиговину, проглядывающую между двумя стенами?</span>
+<span style="color: #4ac925">ДЖЕЙД: я думаю что это должна быть площадка</span>
+<span style="color: #0715cd">ДЖОН: это не площадка.</span>
+<span style="color: #0715cd">ДЖОН: прощадки это что-то наподобие этих плоских обширных кусков травы, окружённыхurrounded by заборами и прочим.</span>
+<span style="color: #0715cd">ДЖОН: или хотя бы что-то больше похожее на дорогу.</span>
+<span style="color: #4ac925">ДЖЕЙД: хммм</span>
+<span style="color: #4ac925">ДЖЕЙД: да, я думаю ты прав</span>
+<span style="color: #4ac925">ДЖЕЙД: что-то типо дорожки из жёлтых кирпичей?</span>
+<span style="color: #0715cd">ДЖОН: точно, почему бы и нет!</span>
+<span style="color: #0715cd">ДЖОН: давайте искать большого пухлого волшебника, который решит все наши проблемы.</span>
+<span style="color: #0715cd">ДЖОН: думаю роуз взбесится.</span>
+<span style="color: #4ac925">ДЖЕЙД: хехе</span>
+<span style="color: #0715cd">ДЖОН: о да.</span>
+<span style="color: #0715cd">ДЖОН: а ещё...</span>
 ###
 006199
-X
