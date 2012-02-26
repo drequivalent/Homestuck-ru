@@ -6,20 +6,20 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/04300.gif
 ###
-|DIALOGLOG|
-<span style="color: #4ac925">JADE: im just trying to estimate our arrival time</span>
-<span style="color: #4ac925">JADE: based on our current velocity, which is about as close to light speed as i can make it go</span>
-<span style="color: #0715cd">JOHN: i see.</span>
-<span style="color: #0715cd">JOHN: since we are going so fast, it should be pretty soon, right?</span>
-<span style="color: #0715cd">JOHN: like a few more minutes?</span>
-<span style="color: #4ac925">JADE: hmmmmmmmmmmm...</span>
-<span style="color: #4ac925">JADE: no</span>
-<span style="color: #4ac925">JADE: itll take quite a bit longer than that</span>
-<span style="color: #0715cd">JOHN: ugh.</span>
-<span style="color: #0715cd">JOHN: how long?</span>
-<span style="color: #4ac925">JADE: i would say</span>
-<span style="color: #4ac925">JADE: if i keep our speed constant...</span>
-<span style="color: #4ac925">JADE: we should arrive in about three years</span>
+|ДИАЛОГЛОГ|
+<span style="color: #4ac925">ДЖЕЙД: я простопытаюсь подсчитать наше время прибытия</span>
+<span style="color: #4ac925">ДЖЕЙД: я могу сделать это основываясь на нашей настоящей скорости, которая приблизительно равна скорости света</span>
+<span style="color: #0715cd">ДЖОН: вижу.</span>
+<span style="color: #0715cd">ДЖОН: если мы движемся так быстро, то это должно произойти довольно скоро, верно?</span>
+<span style="color: #0715cd">ДЖОН: примерно несколько минут?</span>
+<span style="color: #4ac925">ДЖЕЙД: эмммммммммммммм...</span>
+<span style="color: #4ac925">ДЖЕЙД: нет</span>
+<span style="color: #4ac925">ДЖЕЙД: это займёт немного больше времени</span>
+<span style="color: #0715cd">ДЖОН: амм.</span>
+<span style="color: #0715cd">ДЖОН: насколько?</span>
+<span style="color: #4ac925">ДЖЕЙД: сейчас скажу</span>
+<span style="color: #4ac925">ДЖЕЙД: если я буду поддерживать постоянную скорость...</span>
+<span style="color: #4ac925">ДЖЕЙД: мы прибудем через 3 года</span>
 ###
 006204
 X
