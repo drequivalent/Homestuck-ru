@@ -6,16 +6,16 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/04299.gif
 ###
-|DIALOGLOG|
-<span style="color: #0715cd">JOHN: wait, what just happened?</span>
-<span style="color: #4ac925">JADE: i dont know!</span>
-<span style="color: #0715cd">JOHN: it got darker, and greener...</span>
-<span style="color: #4ac925">JADE: :?</span>
-<span style="color: #0715cd">JOHN: this place is weird. when are we gonna bust through the other window, anyway?</span>
-<span style="color: #0715cd">JOHN: i'm kind of antsy to get on with our adventure and meet up with everybody!</span>
-<span style="color: #4ac925">JADE: yes me too</span>
-<span style="color: #4ac925">JADE: hmmmmmm</span>
-<span style="color: #0715cd">JOHN: what is it?</span>
+|ДИАЛОГЛОГ|
+<span style="color: #0715cd">ДЖОН: погоди, что только что произошло?</span>
+<span style="color: #4ac925">ДЖЕЙД: я не знаю!</span>
+<span style="color: #0715cd">ДЖОН: стало темней и зеленей...</span>
+<span style="color: #4ac925">ДЖЕЙД: :?</span>
+<span style="color: #0715cd">ДЖОН: это место странное. а когда мы проломимся через другое окно?</span>
+<span style="color: #0715cd">ДЖОН: я немногонервничаю перед нашим приключением и встречей со всеми!</span>
+<span style="color: #4ac925">ДЖЕЙД: да, я тоже</span>
+<span style="color: #4ac925">ДЖЕЙД: хмммм</span>
+<span style="color: #0715cd">ДЖОН: что это?</span>
 ###
 006203
 X
