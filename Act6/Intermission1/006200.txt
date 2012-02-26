@@ -6,10 +6,10 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/04297.gif
 ###
-|DIALOGLOG|
+|ДИАЛОГЛОГ|
 <span style="color: #4ac925">JADE: :|</span>
-<span style="color: #4ac925">JADE: i have no idea</span>
-<span style="color: #4ac925">JADE: extra dimensional shenanigan based phenomena perhaps?????</span>
+<span style="color: #4ac925">JADE: понятия не имею</span>
+<span style="color: #4ac925">JADE: возможно внепространственные проделки, основанные на ялениях?????</span>
 ###
 006201
 X
