@@ -1,4 +1,4 @@
-Jade: Explore the other half of your room!
+Джейд: Исследовать другую половину комнаты!
 ###
 22298bde18
 ###
@@ -6,15 +6,16 @@ Jade: Explore the other half of your room!
 ###
 http://ru-homestuck.org/storyfiles/hs2/00790.gif
 ###
-Over here there are yet more articles of your aforementioned INTERESTS, and then some.
+Здесь находится еще больше вещей из твоих вышеупомянутых ИНТЕРЕСОВ, и еще много чего.
 
-Additional telltale signs of your enthusiasm for NOSTALGIC TELEVISION mingle with your assortment of GAME HUNTING FIREARMS. You are a SKILLED MARKSWOMAN, though your cross-hairs would never settle on an innocent creature, ANTHROPOMORPHICALLY PERSUADED OR OTHERWISE.
+Вдобавок явные признаки твоего увлечения НОСТАЛЬГИЧЕСКИМ ТЕЛЕВИДЕНИЕМ смешиваются с разнообразными (ассортимент???) ИГРАМИ С ОХОТНИЧЬИМ ОГНЕСТРЕЛЬНЫМ ОРУЖИЕМ. Ты - ИСКУСНЫЙ СТРЕЛОК (ОПЫТНЫЙ СТРЕЛОК), хотя ты никогда не остановишь прицел (перекрестье) на невинном создании, АНТРОПОМОРФНО УБЕЖДЕННОМ ИЛИ ЛЮБОМ ДРУГОМ.
 
-Your worktable is littered with equipment to facilitate your tinkering. For you, experimentation is not a particularly exact science, and you lean heavily on SHARP INTUITION for consistently and eerily optimal results. Nevertheless, you have still not been able to get that broad, flat gizmo there to work, which is a design you have borrowed from one of your GRANDPA'S more mysterious inventions.
+Твой рабочий стол завален оборудованием помогающим тебе мастерить.<==(not sure 'bout this) Для тебя экспериментирование - не особенно точная наука, и ты в большей степени полагаешься на ОСТРУЮ ИНТУИЦИЮ для стабильных и устращающе оптимальных результатов. 
+Тем не менее, ты до сих пор не можешь заставить работать ту широкую, плоскую штуковину, дизайн которой ты позаимствовала от одного из таинственных изобретений твоего ДЕДУЛИ.
 
-You are a great admirer of his, and you are not alone. Your grandfather is a WORLD RENOWNED EXPLORER-NATURALIST-TREASURE HUNTER-ARCHEOLOGIST-SCIENTIST-ADVENTURER-BIG GAME HUNTER-BILLIONAIRE EXTRAORDINAIRE. He has taught you everything you know.
+Ты его огромный поклонник, и ты не одинока. Твой дедушка - ВСЕМИРНО ИЗВЕСТНЫЙ ИССЛЕДОВАТЕЛЬ-НАТУРАЛИСТ-КЛАДОИСКАТЕЛЬ-АРХЕОЛОГ-УЧЕНЫЙ-ПРИКЛЮЧЕНЕЦ-АВАНТЮРИСТ-ЭКСТРАОРДИНАРНЫЙ МИЛЛИАРДЕР. Он научил тебя всему, что ты знаешь.
 
-But in spite of all his lessons, it is still difficult to escape his stern lectures when you are on the way out of the house to run your errands. He spends most of his time in the GRAND FOYER, stewing in his own intensity and charisma.  
+Но несмотря на все его уроки, очень трудно избежать его строгих лекций, когда ты пытаешься выбраться из дома по своим делам. Он проводит большую часть времени в БОЛЬШОМ ФОЙЕ варясь в собственной интенсивности(?) и харизме.
 ###
 002691
 X
