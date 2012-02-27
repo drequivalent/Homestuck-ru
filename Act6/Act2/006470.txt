@@ -1,0 +1,23 @@
+Jane: Pester shades.
+###
+9f2ad63067
+###
+1329211377
+###
+http://ru-homestuck.org/storyfiles/hs2/04567.gif
+###
+|PESTERLOG|
+<span style="color: #e00707">TT: Are you ready to do this thing?</span>
+<span style="color: #00d5f2">GG: Yes!</span>
+<span style="color: #e00707">TT: Ok. Looks like all that's left to do is deploy this pre-punched card, then I guess it's all up to you.</span>
+<span style="color: #00d5f2">GG: Oh, wait.</span>
+<span style="color: #00d5f2">GG: It's Roxy again.</span>
+<span style="color: #e00707">TT: Is it?</span>
+<span style="color: #e00707">TT: How totally unanticipated by anybody.</span>
+<span style="color: #00d5f2">GG: Can you hold on? I'll try to make it quick.</span>
+<span style="color: #e00707">TT: Go.</span>
+<span style="color: #e00707">TT: I will be here.</span>
+<span style="color: #e00707">TT: Quietly calculating.</span>
+###
+006471
+X
