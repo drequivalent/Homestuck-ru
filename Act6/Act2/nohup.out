@@ -1,0 +1,50 @@
+Exception in thread command148:
+Traceback (most recent call last):
+  File "/proc/self/exe/threading.py", line 530, in __bootstrap_inner
+    self.run()
+  File "/proc/self/exe/threading.py", line 483, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "plugins/help_plugin.py", line 31, in handler_help_help
+    if parameters.strip() in COMMOFF[source[1]]:
+KeyError: u'equivalent@bagrincev.ru'
+
+Exception in thread command179:
+Traceback (most recent call last):
+  File "/proc/self/exe/threading.py", line 530, in __bootstrap_inner
+    self.run()
+  File "/proc/self/exe/threading.py", line 483, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "plugins/help_plugin.py", line 31, in handler_help_help
+    if parameters.strip() in COMMOFF[source[1]]:
+KeyError: u'equivalent@bagrincev.ru'
+
+Exception in thread command209:
+Traceback (most recent call last):
+  File "/proc/self/exe/threading.py", line 530, in __bootstrap_inner
+    self.run()
+  File "/proc/self/exe/threading.py", line 483, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "plugins/order_plugin.py", line 311, in handler_order_filt
+    if GCHCFGS[source[1]].has_key('filt'):
+KeyError: u'equivalent@bagrincev.ru'
+
+Exception in thread command324:
+Traceback (most recent call last):
+  File "/proc/self/exe/threading.py", line 530, in __bootstrap_inner
+    self.run()
+  File "/proc/self/exe/threading.py", line 483, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "plugins/order_plugin.py", line 311, in handler_order_filt
+    if GCHCFGS[source[1]].has_key('filt'):
+KeyError: u'equivalent@bagrincev.ru'
+
+Exception in thread command408:
+Traceback (most recent call last):
+  File "/proc/self/exe/threading.py", line 530, in __bootstrap_inner
+    self.run()
+  File "/proc/self/exe/threading.py", line 483, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "plugins/order_plugin.py", line 311, in handler_order_filt
+    if GCHCFGS[source[1]].has_key('filt'):
+KeyError: u'equivalent@bagrincev.ru'
+
