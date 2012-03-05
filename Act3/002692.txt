@@ -1,4 +1,4 @@
-Jade: Quickly retrieve firearms from wall.
+Джейд: Быстро взять оружие со стены.
 ###
 ce232c971c
 ###
@@ -7,7 +7,7 @@ ce232c971c
 http://ru-homestuck.org/storyfiles/hs2/00792_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00792_2.gif
 ###
-You equip your trusty HUNTING RIFLE. There would be hell to pay if grandad caught you leaving the house without it.
+Ты вооружаешься своим верным ОХОТНИЧЬИМ РУЖЬЕМ. Как пить дать будет наказание, если дедушка поймает тебя выходящей из дома без ружья.
 ###
 002693
 X
