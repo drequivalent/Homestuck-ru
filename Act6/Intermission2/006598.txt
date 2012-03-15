@@ -1,0 +1,66 @@
+[A6I2] ==&gt;
+###
+ef97510e79
+###
+1331782381
+###
+http://ru-homestuck.org/storyfiles/hs2/04695.gif
+###
+|DIALOGLOG|
+<span style="color: #e00707">DAVE: got it</span>
+<span style="color: #e00707">DAVE: so what are you up to in here</span>
+<span style="color: #e00707">DAVE: whats with all these books</span>
+<span style="color: #b536da">ROSE: Research.</span>
+<span style="color: #b536da">ROSE: We're trying to put all the pieces of the puzzle together.</span>
+<span style="color: #b536da">ROSE: You are aware this meteor has many secret rooms scattered throughout, including libraries, right?</span>
+<span style="color: #e00707">DAVE: hell yeah</span>
+<span style="color: #e00707">DAVE: we looted one of them for the can town project</span>
+<span style="color: #b536da">ROSE: Can Town?</span>
+<span style="color: #e00707">DAVE: i told you about can town didnt i</span>
+<span style="color: #b536da">ROSE: No??</span>
+<span style="color: #e00707">DAVE: well</span>
+<span style="color: #e00707">DAVE: the thing about can town</span>
+<span style="color: #e00707">DAVE: and all there really is to say about can town is</span>
+<span style="color: #e00707">DAVE: its awesome</span>
+<span style="color: #e00707">DAVE: the end???</span>
+<span style="color: #b536da">ROSE: Wow.</span>
+<span style="color: #b536da">ROSE: What a story.</span>
+<span style="color: #e00707">DAVE: fu</span>
+<span style="color: #e00707">DAVE: so</span>
+<span style="color: #e00707">DAVE: what is the point of this research</span>
+<span style="color: #b536da">ROSE: Primarily to gain a more thorough understanding of the situation we'll be entering when we arrive.</span>
+<span style="color: #e00707">DAVE: i thought you pretty much already knew the situation</span>
+<span style="color: #e00707">DAVE: since you can see the future</span>
+<span style="color: #b536da">ROSE: Oh my God.</span>
+<span style="color: #b536da">ROSE: I've told you. I can't see the future!</span>
+<span style="color: #e00707">DAVE: yes you can</span>
+<span style="color: #e00707">DAVE: you totally can</span>
+<span style="color: #b536da">ROSE: Ok. But not all of it. Only certain relevant pieces.</span>
+<span style="color: #b536da">ROSE: It's a bit frustrating when people make that presumption about you.</span>
+<span style="color: #b536da">ROSE: For instance, you are a Knight of Time. Since you have such mastery over time, doesn't that mean you should know everything about the future too?</span>
+<span style="color: #e00707">DAVE: no thats totally dumb</span>
+<span style="color: #e00707">DAVE: i could know things about the future if i time traveled and found out first hand</span>
+<span style="color: #e00707">DAVE: nobodys mistaking that about me im a time traveler not a fuckin fortune teller its simple as shit</span>
+<span style="color: #b536da">ROSE: Right. So there are significant limitations on what you can know, governed by certain rules.</span>
+<span style="color: #b536da">ROSE: That's how it is for a Seer too.</span>
+<span style="color: #e00707">DAVE: ok whatever</span>
+<span style="color: #b536da">ROSE: But I will say that I have been able to use these abilities to assist with research.</span>
+<span style="color: #b536da">ROSE: I can treat my finite glimpses as an additional source of information.</span>
+<span style="color: #b536da">ROSE: If you combine that with the knowledge we've gathered from these texts, and things we've learned from our various encounters with the deceased, with a bit of inference and deduction, a more detailed picture is coming into focus.</span>
+<span style="color: #e00707">DAVE: nice</span>
+<span style="color: #b536da">ROSE: Do you want to hear about it?</span>
+<span style="color: #e00707">DAVE: uh</span>
+<span style="color: #e00707">DAVE: now?</span>
+<span style="color: #b536da">ROSE: Yes.</span>
+<span style="color: #b536da">ROSE: Why not? It's been a year.</span>
+<span style="color: #b536da">ROSE: It seems like all we've done on this trip so far is indulge in lavish interior decoration projects and screw around with mysterious &quot;Can Town&quot; initiatives, which may or may not be consuming valuable library resources as building materials.</span>
+<span style="color: #b536da">ROSE: We could make at least some effort to squeeze in annual briefings on our objective.</span>
+<span style="color: #e00707">DAVE: yeah that would be pretty legit of us</span>
+<span style="color: #b536da">ROSE: I think you'll find that when it comes to striving for a reasonable approximation of legitimacy, we are simply the most barely adequate there is.</span>
+<span style="color: #e00707">DAVE: ok i didnt really catch any of that bullshit cause i wasnt listening</span>
+<span style="color: #e00707">DAVE: im gonna make myself a cup of coffee and get primed to listen to you saying a lot of stuff like that</span>
+<span style="color: #e00707">DAVE: do you want some</span>
+<span style="color: #b536da">ROSE: Um. Sure.</span>
+###
+006599
+X
