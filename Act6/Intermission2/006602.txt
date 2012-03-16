@@ -1,0 +1,26 @@
+[A6I2] ==&gt;
+###
+6e041e7cb1
+###
+1331858639
+###
+http://ru-homestuck.org/storyfiles/hs2/04699.gif
+###
+|DIALOGLOG|
+<span style="color: #e00707">DAVE: ok</span>
+<span style="color: #e00707">DAVE: which is what</span>
+<span style="color: #b536da">ROSE: It's very simply a session in which nothing is prototyped before entry, at all.</span>
+<span style="color: #b536da">ROSE: Hence, by Skaia's preemptive all-knowing and its influence on the rest of the incipisphere, there are not even any towers on Prospit or Derse built to receive the split kernels.</span>
+<span style="color: #b536da">ROSE: See?</span>
+<span style="color: #e00707">DAVE: weird</span>
+<span style="color: #e00707">DAVE: why would these alt universe players fuck up in such an obvious and stupid way</span>
+<span style="color: #b536da">ROSE: I don't know what specifically led to the failure to prototype anything.</span>
+<span style="color: #b536da">ROSE: But it doesn't really matter. As I said, the session was designed this way before they began playing. Any efforts to prototype may have been in vain regardless. Possibly subject to sabotage.</span>
+<span style="color: #e00707">DAVE: didnt you say at some point that not prototyping anything would be really bad</span>
+<span style="color: #b536da">ROSE: Yes.</span>
+<span style="color: #b536da">ROSE: It's just another way to create an infertile session. Though by a less catastrophic and bloody route we took to achieve the same result.</span>
+<span style="color: #b536da">ROSE: By contrast, it leads to a rather harmless, uneventful session. Underlings remain unaugmented, and so does the royalty.</span>
+<span style="color: #b536da">ROSE: And while this may sound advantageous to the players, it's a curse in disguise. The lack of prototypings which keeps adversaries unevolved has the same influence on the battlefield.</span>
+<span style="color: #b536da">ROSE: Without successive prototypings, the battlefield will never reach its final form, which must be fertilized to grow a new universe.</span>
+###
+X

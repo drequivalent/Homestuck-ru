@@ -1,0 +1,54 @@
+[A6I2] ==&gt;
+###
+87a4d39210
+###
+1331858346
+###
+http://ru-homestuck.org/storyfiles/hs2/04698.gif
+###
+|DIALOGLOG|
+<span style="color: #e00707">DAVE: so whats with the big book youre writing in</span>
+<span style="color: #e00707">DAVE: is that more wizard fan fiction</span>
+<span style="color: #b536da">ROSE: No, it's something like an extensive journal.</span>
+<span style="color: #b536da">ROSE: I'm recording everything we've been through so far, and detailed notes on everything we know about the game.</span>
+<span style="color: #b536da">ROSE: I'm also using it to document our research, and extrapolate on the new session and players.</span>
+<span style="color: #e00707">DAVE: so its like</span>
+<span style="color: #e00707">DAVE: your nigh unreadable gamefaq</span>
+<span style="color: #e00707">DAVE: in tome form</span>
+<span style="color: #b536da">ROSE: Somewhat.</span>
+<span style="color: #e00707">DAVE: you sure like to write big game guides</span>
+<span style="color: #b536da">ROSE: I don't look at it that way.</span>
+<span style="color: #b536da">ROSE: I'm approaching it from a standpoint of responsible historical documentation.</span>
+<span style="color: #b536da">ROSE: Don't you think people in the future will want to know about our story?</span>
+<span style="color: #e00707">DAVE: i guess</span>
+<span style="color: #b536da">ROSE: I think it could be a very useful resource some day.</span>
+<span style="color: #b536da">ROSE: It could be helpful to others beginning their own quests.</span>
+<span style="color: #e00707">DAVE: ehh</span>
+<span style="color: #e00707">DAVE: chances of that seem pretty remote</span>
+<span style="color: #008141">KANAYA: I Really Wouldnt Rule It Out</span>
+<span style="color: #e00707">DAVE: ok totally sold on that suddenly</span>
+<span style="color: #e00707">DAVE: on account of not caring</span>
+<span style="color: #e00707">DAVE: so tell me about the new session</span>
+<span style="color: #e00707">DAVE: what is there to know</span>
+<span style="color: #e00707">DAVE: and most importantly</span>
+<span style="color: #e00707">DAVE: how is everything going to go wrong this time</span>
+<span style="color: #b536da">ROSE: From what I understand, everything already has gone wrong before the game even started, in many different ways than ours did.</span>
+<span style="color: #b536da">ROSE: There are indications of thicker political intrigue. Assassination attempts. And a usurpation of the throne more insidious than what we dealt with.</span>
+<span style="color: #b536da">ROSE: But those examples still don't illustrate the fundamental fault with their session.</span>
+<span style="color: #b536da">ROSE: Ours had a similar fault. It was a null session.</span>
+<span style="color: #b536da">ROSE: Literature on the subject says null sessions are actually very common.</span>
+<span style="color: #b536da">ROSE: It is any session resulting in failure, and as such, designed to result in failure from the start, due to Skaia's comprehensive &quot;knowledge&quot; of its own fate, and that of all it illumines.</span>
+<span style="color: #b536da">ROSE: Biologically speaking, it's to be expected that null sessions far outnumber the successful ones. When it comes to reproductive systems, overwhelming redundancy is commonplace.</span>
+<span style="color: #b536da">ROSE: A universe has a reproductive system that spreads many seeds, as it were, most of which never come to fruition. So we shouldn't feel too bad about our results, really. It was quite par for the course.</span>
+<span style="color: #b536da">ROSE: But then, it would also seem that exceedingly few null sessions result in the birth of a massive green star fueled by two dead universes. For what it's worth.</span>
+<span style="color: #e00707">DAVE: ok but i thought the whole point of this</span>
+<span style="color: #e00707">DAVE: the scratch thing</span>
+<span style="color: #e00707">DAVE: is it gave us a chance to still win</span>
+<span style="color: #e00707">DAVE: but youre saying the new session has a fault too?</span>
+<span style="color: #b536da">ROSE: Well, yes. There's more to it though.</span>
+<span style="color: #b536da">ROSE: The new session is essentially our session, rebooted with different parameters which also affected the original conditions of our universe.</span>
+<span style="color: #b536da">ROSE: And strangely, it seems the new one is a null session as well, but within a much less common subset of all null sessions.</span>
+<span style="color: #b536da">ROSE: This one is referred to as a void session.</span>
+###
+006602
+X
