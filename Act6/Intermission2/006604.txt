@@ -1,0 +1,26 @@
+[A6I2] ==&gt;
+###
+246b459eb8
+###
+1331885839
+###
+http://ru-homestuck.org/storyfiles/hs2/04701.gif
+###
+|DIALOGLOG|
+<span style="color: #e00707">DAVE: is that going to be a problem</span>
+<span style="color: #b536da">ROSE: I don't think so.</span>
+<span style="color: #b536da">ROSE: Even if it were, it would be a trivial obstacle.</span>
+<span style="color: #b536da">ROSE: But as it is, I think the forces opposing these players are clandestinely working toward the same goal as we are.</span>
+<span style="color: #b536da">ROSE: From what I can tell, gestures of antagonism, while certainly posing legitimate danger, have been factored in as critical stepping stones to one destination shared by all parties.</span>
+<span style="color: #b536da">ROSE: I don't know why this is, or what the motives are yet.</span>
+<span style="color: #b536da">ROSE: The appearance is one of clear sailing ahead, but traces of conspiracy are everywhere.</span>
+<span style="color: #e00707">DAVE: ok but</span>
+<span style="color: #e00707">DAVE: conspiracies aside</span>
+<span style="color: #e00707">DAVE: did it ever really look like clear sailing to you</span>
+<span style="color: #e00707">DAVE: thats not what i was seeing</span>
+<span style="color: #e00707">DAVE: we are going to arrive and then soon after jack is going to show up</span>
+<span style="color: #e00707">DAVE: and then we have to beat him right</span>
+<span style="color: #e00707">DAVE: so there kind of is a time limit</span>
+###
+006605
+X

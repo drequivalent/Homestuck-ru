@@ -1,0 +1,35 @@
+[A6I2] ==&gt;
+###
+a44bb6812d
+###
+1331886226
+###
+http://ru-homestuck.org/storyfiles/hs2/04703_1.gif
+http://ru-homestuck.org/storyfiles/hs2/04703_2.gif
+###
+|DIALOGLOG|
+<span style="color: #e00707">DAVE: ................</span>
+<span style="color: #b536da">ROSE: To understand what happened, it really helps to understand exactly what a scratch is.</span>
+<span style="color: #b536da">ROSE: When John severely damaged the Beat Mesa on your planet, and sent it off to Skaia to release its temporal energy there, you could view it as a kind of &quot;request.&quot;</span>
+<span style="color: #b536da">ROSE: We were asking Skaia to change everything at a fundamental level, and we gave it the energy to do so.</span>
+<span style="color: #b536da">ROSE: But Skaia is a very passive entity. It only &quot;knows&quot; and &quot;sees,&quot; but it never quite &quot;acts.&quot;</span>
+<span style="color: #b536da">ROSE: When it is asked to change everything, there is only so much it has control over.</span>
+<span style="color: #b536da">ROSE: In fact, it has control over exactly one thing. The defense portals.</span>
+<span style="color: #b536da">ROSE: It can decide to send important meteors to different points in time than originally planned, thus creating alternate realities.</span>
+<span style="color: #b536da">ROSE: Offshoots of promise, rather than futility.</span>
+<span style="color: #b536da">ROSE: And it turns out the most important meteors of all tend to be the ones delivering the young players to their planet.</span>
+<span style="color: #b536da">ROSE: So all it has to do to change everything is tweak their destination times a bit.</span>
+<span style="color: #b536da">ROSE: All internally-prompted changes in the post-scratch universe are decided entirely by this modest adjustment to the parameters.</span>
+<span style="color: #b536da">ROSE: It's a very simple concept, actually.</span>
+<span style="color: #b536da">ROSE: Yet the consequences are dramatic. It results in not only a hard reset for the session, but a partial reset for the universe too, due to the many causal entanglements between a session and its originating universe.</span>
+<span style="color: #e00707">DAVE: what do you mean tweak the destination times</span>
+<span style="color: #e00707">DAVE: where did they get sent to</span>
+<span style="color: #b536da">ROSE: A variety of different time periods.</span>
+<span style="color: #b536da">ROSE: The simplest way to way to look at it is to picture the original destinations of our two groups of four ecto-babies...</span>
+<span style="color: #b536da">ROSE: And switch them.</span>
+<span style="color: #e00707">DAVE: what</span>
+<span style="color: #b536da">ROSE: Though this is just a slight oversimplification.</span>
+<span style="color: #b536da">ROSE: While it's roughly true, Skaia had some peculiar whims this time.</span>
+###
+006607
+X

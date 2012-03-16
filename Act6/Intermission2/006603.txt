@@ -1,0 +1,31 @@
+[A6I2] ==&gt;
+###
+bab6e1c93e
+###
+1331885736
+###
+http://ru-homestuck.org/storyfiles/hs2/04700_1.gif
+http://ru-homestuck.org/storyfiles/hs2/04700_2.gif
+###
+|DIALOGLOG|
+<span style="color: #b536da">ROSE: Instead, it remains in its most basic form, stuck in eternal stalemate.</span>
+<span style="color: #b536da">ROSE: There is nothing players in a void session can do to change this. They are resigned to live out the rest of their days in a dead end session.</span>
+<span style="color: #e00707">DAVE: still waiting to hear how this is in any way an improvement on all the shit we just escaped from</span>
+<span style="color: #b536da">ROSE: It's a vast improvement.</span>
+<span style="color: #b536da">ROSE: The new session is a blank slate, without a ridiculously short time limit for victory like ours had.</span>
+<span style="color: #b536da">ROSE: There will be no time limit at all, in fact.</span>
+<span style="color: #b536da">ROSE: Once we arrive, ostensibly that is when the nature of the session will change.</span>
+<span style="color: #b536da">ROSE: It won't be classifiable as either a null or void session anymore. It will be something which, as far as I can tell, is unique.</span>
+<span style="color: #b536da">ROSE: The fully matured battlefield from our session can be used to make the new one viable. The path to success will be made possible by a combination of efforts and assets from both iterations.</span>
+<span style="color: #b536da">ROSE: Usually scratched sessions are absolute resets, and involve no direct influence from the first attempt at all. I can't find any precedent for our situation.</span>
+<span style="color: #e00707">DAVE: jade has our battlefield right</span>
+<span style="color: #b536da">ROSE: Yes.</span>
+<span style="color: #e00707">DAVE: so she shows up and drops it in skaia</span>
+<span style="color: #e00707">DAVE: and then we take the result of all that damn frog breeding we did and stick the thing in there somehow</span>
+<span style="color: #e00707">DAVE: and we sit back and wait for it to do its huge ribbit or whatever</span>
+<span style="color: #e00707">DAVE: and were golden</span>
+<span style="color: #b536da">ROSE: Pretty much.</span>
+<span style="color: #b536da">ROSE: As long as there is an actual vacancy in the center of Skaia when we get there.</span>
+###
+006604
+X
