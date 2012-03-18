@@ -1,0 +1,24 @@
+[A6I2] ==&gt;
+###
+791f89efcd
+###
+1332105846
+###
+http://ru-homestuck.org/storyfiles/hs2/04711.gif
+###
+|DIALOGLOG|
+<span style="color: #626262">KARKAT: LOOK, IT'S PERFECTLY SIMPLE.</span>
+<span style="color: #626262">KARKAT: HANG ON WHILE I DRAW THE GUIDELINES.</span>
+<span style="color: #e00707">DAVE: oh no</span>
+<span style="color: #e00707">DAVE: no you are NOT making another shipping grid dude</span>
+<span style="color: #626262">KARKAT: IT'S NOT A SHIPPING GRID.</span>
+<span style="color: #626262">KARKAT: JUST SOME ROWS AND COLUMNS FOR A SCHEDULE.</span>
+<span style="color: #e00707">DAVE: its a grid youre drawing a goddamn grid</span>
+<span style="color: #e00707">DAVE: im not letting you draw a grid for this stupid shit</span>
+<span style="color: #626262">KARKAT: COME ON, LOOK HERE. THESE ARE THE DAYS OF THE WEEK.</span>
+<span style="color: #626262">KARKAT: THEN WE EACH HAVE ROWS FOR THOSE DAYS AND WE CAN DRAW A HEART OR A SPADE FOR ANY GIVEN DAY.</span>
+<span style="color: #626262">KARKAT: THAT WAY WE KNOW WHAT'S UP IN ADVANCE, AND AVOID UNPLEASANT CONFLICTS.</span>
+<span style="color: #e00707">DAVE: put the fucking pen down</span>
+###
+006615
+X
