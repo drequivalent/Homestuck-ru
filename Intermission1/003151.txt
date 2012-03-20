@@ -1,4 +1,4 @@
-[I] HB: Waste exactly four hours on this tomfoolery.
+[I] ХБ: Потратить ровно четыре часа на это баловство.
 ###
 2d28fe2a50
 ###
@@ -6,7 +6,7 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01251.gif
 ###
-YOU HATE TIME TRAVEL YOU HATE TIME TRAVEL YOU HATE TIME TRAVEL YOU HATE TIME TRAVEL YOU HATE TIME TRAVEL YOU HATE TIME TRAVEL YOU HATE TIME TRAVEL YOU HATE TIME TRAVEL YOU HATE TIME TRAVEL YOU HATE TIME TRAVEL YOU HATE TIME TRAVEL 
+ТЫ НЕНАВИДИШЬ ПУТЕШЕСТВИЯ ВО ВРЕМЕНИ ТЫ НЕНАВИДИШЬ ПУТЕШЕСТВИЯ ВО ВРЕМЕНИ ТЫ НЕНАВИДИШЬ ПУТЕШЕСТВИЯ ВО ВРЕМЕНИ ТЫ НЕНАВИДИШЬ ПУТЕШЕСТВИЯ ВО ВРЕМЕНИ ТЫ НЕНАВИДИШЬ ПУТЕШЕСТВИЯ ВО ВРЕМЕНИ ТЫ НЕНАВИДИШЬ ПУТЕШЕСТВИЯ ВО ВРЕМЕНИ ТЫ НЕНАВИДИШЬ ПУТЕШЕСТВИЯ ВО ВРЕМЕНИ ТЫ НЕНАВИДИШЬ ПУТЕШЕСТВИЯ ВО ВРЕМЕНИ ТЫ НЕНАВИДИШЬ ПУТЕШЕСТВИЯ ВО ВРЕМЕНИ ТЫ НЕНАВИДИШЬ ПУТЕШЕСТВИЯ ВО ВРЕМЕНИ ТЫ НЕНАВИДИШЬ ПУТЕШЕСТВИЯ ВО ВРЕМЕНИ
 ###
 003152
 X
