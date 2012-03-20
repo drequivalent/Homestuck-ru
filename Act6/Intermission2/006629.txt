@@ -1,0 +1,21 @@
+[A6I2] ==&gt;
+###
+0fe86560be
+###
+1332211241
+###
+http://ru-homestuck.org/storyfiles/hs2/04726.gif
+###
+|DIALOGLOG|
+<span style="color: #4ac925">JADE: john i really think we are scraping the bottom of the barrel here</span>
+<span style="color: #0715cd">JOHN: no way! this game rules.</span>
+<span style="color: #0715cd">JOHN: i just never gave it much playing time before because...</span>
+<span style="color: #0715cd">JOHN: well, i guess i always had better things to do.</span>
+<span style="color: #4ac925">JADE: thats sort of my point!</span>
+<span style="color: #4ac925">JADE: where did you even get this?</span>
+<span style="color: #0715cd">JOHN: years ago i found it in a store on the bargain rack.</span>
+<span style="color: #0715cd">JOHN: it was only a dollar! isn't that awesome?</span>
+<span style="color: #4ac925">JADE: :|</span>
+###
+006630
+X
