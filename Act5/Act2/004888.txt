@@ -6,11 +6,15 @@
 ###
 F|http://ru-homestuck.org/storyfiles/hs2/02987
 ###
-&quot;I slept and saw God's forge in frost. Its hearth was quelled, and as it cooled so swooned the verdancy it kept above. In slumber it grew a thick winter skin, white as bedsheets. In their folds the waker dreamt, her breath as steam, her touch as hot as iron, forgotten in the fire.
 
-Oh, that this too too solid flesh would melt, thaw and resolve itself into a dew!&quot;
 
--Acclaimed actor and sleeping prophet, Charles Dutton
+&quot;Я спал и видел кузницу Господню в стужу. Очаг ее, укрытый лесом дремлющим, погашен,
+А на вершине плотнел покров зимы, белее простыни на той постели, в чьих объятиях мечтала
+Она, дыханье чье как пар, касанье обжигающе как сталь, забытая в печи.
+
+Ах, но вскоре суждено растаять вековому снегу, всего себя росе отдав!&quot;
+
+-Признанный актер и спящий пророк, Чарльз Даттон
 ###
 004889
 X
