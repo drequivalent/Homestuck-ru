@@ -1,0 +1,54 @@
+[A6I2] ==&gt;
+###
+68bcf816a7
+###
+1332377604
+###
+http://ru-homestuck.org/storyfiles/hs2/04732.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: what do you think they will be like by then?</span>
+<span style="color: #0715cd">JOHN: do you think karkat will have driven them all insane?</span>
+<span style="color: #4ac925">JADE: heheh, probably!</span>
+<span style="color: #0715cd">JOHN: or maybe they will all be better friends with each other than they are with us.</span>
+<span style="color: #4ac925">JADE: hmmm</span>
+<span style="color: #4ac925">JADE: well look at it this way</span>
+<span style="color: #4ac925">JADE: by the end of our trip, will YOU be better friends with a bunch of salamanders than you are with rose and dave?</span>
+<span style="color: #0715cd">JOHN: i don't know. there ARE some pretty charming salamanders on this ship.</span>
+<span style="color: #4ac925">JADE: that is true</span>
+<span style="color: #0715cd">JOHN: but you know what i mean. things have a way of changing.</span>
+<span style="color: #0715cd">JOHN: like, have you thought at all about what it's going to be like when you see dave again?</span>
+<span style="color: #0715cd">JOHN: i mean, after the way things are going with you and dave sprite?</span>
+<span style="color: #4ac925">JADE: umm</span>
+<span style="color: #4ac925">JADE: what do you mean the way things are going?</span>
+<span style="color: #0715cd">JOHN: jade, please.</span>
+<span style="color: #4ac925">JADE: what!</span>
+<span style="color: #0715cd">JOHN: *sigh*</span>
+<span style="color: #0715cd">JOHN: you are not fooling anyone with your coy shenanigans.</span>
+<span style="color: #4ac925">JADE: what has he been telling you??</span>
+<span style="color: #0715cd">JOHN: nothing!! do you really think he would talk about any of that with me?</span>
+<span style="color: #0715cd">JOHN: there are just some obvious conclusions a guy is going to make about stuff.</span>
+<span style="color: #4ac925">JADE: well...</span>
+<span style="color: #4ac925">JADE: i guess i dont know whats going on with that</span>
+<span style="color: #0715cd">JOHN: hm.</span>
+<span style="color: #4ac925">JADE: i really dont!!!</span>
+<span style="color: #0715cd">JOHN: alright, fair enough.</span>
+<span style="color: #4ac925">JADE: um</span>
+<span style="color: #4ac925">JADE: what</span>
+<span style="color: #4ac925">JADE: do you think he would think about that?</span>
+<span style="color: #0715cd">JOHN: huh?</span>
+<span style="color: #4ac925">JADE: the other dave</span>
+<span style="color: #4ac925">JADE: i mean</span>
+<span style="color: #4ac925">JADE: hypothetically</span>
+<span style="color: #0715cd">JOHN: ah HA! so you HAVE thought about it!</span>
+<span style="color: #4ac925">JADE: im only wondering because you brought it up!!!!!!</span>
+<span style="color: #0715cd">JOHN: yes. yes i did.</span>
+<span style="color: #4ac925">JADE: then what do you think?</span>
+<span style="color: #0715cd">JOHN: i have no idea. we would probably never find out one way or the other, regardless.</span>
+<span style="color: #4ac925">JADE: maybe</span>
+<span style="color: #4ac925">JADE: well</span>
+<span style="color: #4ac925">JADE: what about you john?</span>
+<span style="color: #0715cd">JOHN: what about me even?</span>
+###
+006636
+X
