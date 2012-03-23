@@ -1,4 +1,4 @@
-[I] CD: Implement nefarious scheme.
+[I] КД: Осуществить ужасный замысел.
 ###
 f818527fa8
 ###
@@ -6,7 +6,7 @@ f818527fa8
 ###
 http://ru-homestuck.org/storyfiles/hs2/01243.gif
 ###
-You follow Droog's simple instructions. So simple even a forgetful nincompoop like you can remember.
+Вы следуете простым инструкциям Друга. Настолько простым, что даже забывчивый дурачок как Вы может помнить.
 
 There's a BLOOD TRAIL on the floor that goes in a different direction than <span style="color: #2ed73a">Trace</span> went. You decide to follow it, because that sounds like a really good idea to you.
 

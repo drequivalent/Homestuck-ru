@@ -1,4 +1,4 @@
-[I] DD: Follow blood trail downstairs and finish him off.
+[I] ДД: Пройти по кровавому следу вниз, и прикончить его.
 ###
 48779e8341
 ###
@@ -6,9 +6,9 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01241.gif
 ###
-Problem with that is, he'll just see your FUTURE TRAIL following him, and that'll be nothing but a loud invitation for him to mess with you some more.
+Проблема в том, что он увидит Ваш СЛЕД ИЗ БУДУЩЕГО, это привлечет его внимание, и он снова будет Вас доставать.
 
-Besides, better to leave him alive. You think you know where he'll lead you to. Just got to be a little more subtle about tracing his BLOOD TRAIL. Keep your FUTURE TRAIL out of his line of sight.
+К тому же, лучше пока что оставить его живым. Вы думаете, что догадываетесь, куда он Вас приведет. Нужно только быть очень осторожным, следуя по его КРОВАВОМУ СЛЕДУ. Держать Ваш СЛЕД ИЗ БУДУЩЕГО вне зоны его видимости.
 ###
 003142
 X

@@ -1,4 +1,4 @@
-[I] SS: Rematerialize.
+[I] СС: Перематериализоваться.
 ###
 b2310c0039
 ###
@@ -6,9 +6,9 @@ b2310c0039
 ###
 http://ru-homestuck.org/storyfiles/hs2/01235.gif
 ###
-That doesn't make any sense.
+Это не имеет никакого смысла.
 
-You never went anywhere.
+Вы никуда и не уходили.
 ###
 003136
 X

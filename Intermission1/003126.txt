@@ -1,4 +1,4 @@
-[I] CD: Follow path.
+[I] КД: Проследовать по маршруту.
 ###
 d6a97f7ffb
 ###
@@ -6,13 +6,13 @@ d6a97f7ffb
 ###
 http://ru-homestuck.org/storyfiles/hs2/01226.gif
 ###
-In the future, you've already followed the path through the mansion that Droog told you to.
+В будущем, Вы уже проследовали по маршруту через особняк, который указал вам Друг.
 
-<span style="color: #2ed73a">Trace </span>followed Droog's PAST TRAIL even further back, but found a much fresher trail crossing his path.
+<span style="color: #2ed73a">Трейс</span> пошел по СЛЕДУ ИЗ ПРОШЛОГО, который оставил Друг, но нашел гораздо более свежий след, пересекающий его путь.
 
-Looks like this little guy's talking on the radio. Says something about how he'll be right there once he gives Droog a hand.
+Похоже, паренек разговаривает по рации. Говорит что-то о том, как он прибудет после того, как поможет Другу.
 
-<span style="color: #2ed73a">Trace</span> decides he'll trace this guy for a while, see what he's up to. And then mess with him of course.
+<span style="color: #2ed73a">Трейс</span> решает, что он последит немного за этим парнем, чтобы посмотреть, что он задумал. Ну, и поиздеваться над ним, конечно.
 ###
 003127
 X

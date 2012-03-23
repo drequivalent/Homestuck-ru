@@ -6,13 +6,13 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01229.gif
 ###
-Hang on. There's a tooth on the floor. You know that tooth. You've felt its bite before.
+Секундочку. Здесь на полу чей-то зуб. Вы знаете, чей. Вы чувствовали его укус.
 
-<span style="color: #2ed73a">Fin</span> was here. 
+Здесь был <span style="color: #2ed73a">Фин</span>. 
 
-And judging by the forensics of the scene, the angle it hit the floor, the direction of the blood splatters and how dry the blood is, you think you know EXACTLY what he's about to pull.
+И, судя по обстановке, по углу, под которым зуб ударился об пол, направлению брызгов крови, и по степени ее засыхания, Вам кажется, вы ТОЧНО знаете, что он собирается прямо сейчас сделать.
 
-Or more specifically, what he's about to already have pulled.
+Или, точнее, что он собирается прямо сейчас уже сделать.
 ###
 003130
 X

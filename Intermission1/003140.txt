@@ -1,4 +1,4 @@
-[I] SS: Clocks. Destroy them.
+[I] СС: Часы. Уничтожить их.
 ###
 3ed409619e
 ###
@@ -6,9 +6,9 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01240.gif
 ###
-29/1000 CLOCKS DESTROYED
+29/1000 ЧАСОВ УНИЧТОЖЕНО
 
-5/15 GREEN TORSOS DEAD
+5/15 ЗЕЛЕНЫХ ТУШ УБИТО
 ###
 003141
 X

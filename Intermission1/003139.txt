@@ -1,4 +1,4 @@
-[I] SS: Take voodoo doll.
+[I] СС: Взять куклу вуду.
 ###
 006eef73cb
 ###
@@ -6,11 +6,11 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01239.gif
 ###
-You grab his VOODOO DOLL, and stick his pin in there for good measure. Might as well keep track of everyone you've offed this way too.
+Вы берете его КУКЛУ ВУДУ, и суете в нее его булавку, чтобы наверняка. Таким способом тоже можно следить за тем, кого Вы убрали.
 
-Not that you intend to abuse its power to settle your score. What's the point if you're not gonna get your hands dirty.
+Не то, чтобы Вы хотели злоупотреблять ее силой, чтобы сводить счеты. Какой смысл в этом вообще, если Вы не собираетесь немного попачкать свои руки.
 
-Still, it might come in handy down the road. <span style="color: #2ed73a">Lord English</span> is supposedly indestructible. He's rumored to be killable only through a number of glitches and exploits in spacetime. The doll may ultimately help you work the system if it comes to that.
+Но все равно, она может пригодиться. <span style="color: #2ed73a">Лорд Инглиш</span> предположительно неуязвим. Ходят слухи, что его можно убить только используя определенные глюки пространства-времени. Кукла может определенно помочь, если до этого дойдет.
 ###
 003140
 X

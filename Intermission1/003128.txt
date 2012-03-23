@@ -1,4 +1,4 @@
-[I] DD: Take a good look around the new room you're in.
+[I] ДД: Осмотреться в комнате, в которую Вы прибыли.
 ###
 d8db9d05f3
 ###
@@ -6,11 +6,11 @@ d8db9d05f3
 ###
 http://ru-homestuck.org/storyfiles/hs2/01228.gif
 ###
-Looks like the trail of blood ends here. Or originates. Whatever.
+Похоже кровавый след кончается здесь. Или начинается. Без разницы.
 
-Something went down here in the past. Or... is about to go down in the future? You know what, never mind.
+В прошлом здесь что-то произошло. Или... скоро преизойдет в будущем? Знаете что, не важно.
 
-21/1000 CLOCKS DESTROYED, APPARENTLY
+21/1000 ЧАСОВ УНИЧТОЖЕНО, ОЧЕВИДНО
 ###
 003129
 X
