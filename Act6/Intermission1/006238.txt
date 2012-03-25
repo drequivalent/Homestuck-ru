@@ -6,46 +6,6 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/04335.gif
 ###
-|DIALOGLOG|
-<span style="color: #4ac925">JADE: i have the population of five planets to keep me company!</span>
-<span style="color: #0715cd">JOHN: :O</span>
-<span style="color: #0715cd">JOHN: that's right.</span>
-<span style="color: #0715cd">JOHN: that makes it seem not so boring i guess.</span>
-<span style="color: #0715cd">JOHN: but still...</span>
-<span style="color: #0715cd">JOHN: i would feel really bad leaving you here, even if you do have a million salamanders and chess guys to keep you company.</span>
-<span style="color: #0715cd">JOHN: you are my friend and also my sorta-sister, and we just met for the first time ever a few minutes ago...</span>
-<span style="color: #0715cd">JOHN: i'm not going to be like, welp! see ya in three years jade!</span>
-<span style="color: #4ac925">JADE: awww :D</span>
-<span style="color: #4ac925">JADE: ok then</span>
-<span style="color: #4ac925">JADE: personally, i think this trip could be a lot of fun!</span>
-<span style="color: #4ac925">JADE: theres no pressure to do anything important or run around like lunatics anymore</span>
-<span style="color: #4ac925">JADE: we can just relax</span>
-<span style="color: #0715cd">JOHN: yeah.</span>
-<span style="color: #0715cd">JOHN: now that you mention it, i'm pretty beat.</span>
-<span style="color: #0715cd">JOHN: also... starving!!!</span>
-<span style="color: #4ac925">JADE: woof!</span>
-<span style="color: #4ac925">JADE: whoops</span>
-<span style="color: #0715cd">JOHN: heheh.</span>
-<span style="color: #0715cd">JOHN: i sure hope there are things to eat on those planets.</span>
-<span style="color: #0715cd">JOHN: there were a lot of weird glowing mushrooms on lowas. i dunno about those.</span>
-<span style="color: #0715cd">JOHN: i seem to remember a bunch of farms on the battlefield...</span>
-<span style="color: #4ac925">JADE: there should be lots of good stuff on the planets</span>
-<span style="color: #4ac925">JADE: also i would bet this ship is stocked with plenty of military rations</span>
-<span style="color: #0715cd">JOHN: yeah, probably.</span>
-<span style="color: #0715cd">JOHN: pff, hell, we could just raid all of our fridges and alchemize some tasty grub!</span>
-<span style="color: #4ac925">JADE: oh yeah!!!</span>
-<span style="color: #4ac925">JADE: durrr, problem solved</span>
-<span style="color: #0715cd">JOHN: ok, cool.</span>
-<span style="color: #0715cd">JOHN: but it would still be nice to say hi to everybody before they leave.</span>
-<span style="color: #0715cd">JOHN: just to let them know how we're doing.</span>
-<span [A6I1] ==&gt;
-###
-63064582a2
-###
-1324097299
-###
-http://ru-homestuck.org/storyfiles/hs2/04335.gif
-###
 |ДИАЛОГЛОГ|
 <span style="color: #4ac925">ДЖЕЙД: популяции пяти планет могут составить мне компанию!</span>
 <span style="color: #0715cd">JOHN: :O</span>
