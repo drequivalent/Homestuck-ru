@@ -6,16 +6,16 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/04336.gif
 ###
-|DIALOGLOG|
-<span style="color: #0715cd">JOHN: hey, can i at least send a message through?</span>
-<span style="color: #0715cd">JOHN: like a note or something?</span>
-<span style="color: #4ac925">JADE: sure!</span>
-<span style="color: #4ac925">JADE: better hurry up and write it though</span>
-<span style="color: #0715cd">JOHN: oh snap! ok, gotta think, quick...</span>
-<span style="color: #0715cd">JOHN: what do i write on?</span>
-<span style="color: #0715cd">JOHN: maybe the back of a movie poster or something?</span>
-<span style="color: #0715cd">JOHN: i don't think i have one captchalogued though...</span>
-<span style="color: #0715cd">JOHN: and now that i think about it, most of them were ruined by imps. :(</span>
+|ДИАЛОГЛОГ|
+<span style="color: #0715cd">ДЖОН: ей, а я могу отправить послание?</span>
+<span style="color: #0715cd">ДЖОН: ввиде записки или как-то так?</span>
+<span style="color: #4ac925">ДЖЕЙД: конечно!</span>
+<span style="color: #4ac925">ДЖЕЙД: однако лучше поспеши и сделай это</span>
+<span style="color: #0715cd">ДЖОН: о, внезапно! будем думать быстро...</span>
+<span style="color: #0715cd">ДЖОН: где мне написать?</span>
+<span style="color: #0715cd">ДЖОН: может на обороте постера или чего-то вроде этого?</span>
+<span style="color: #0715cd">ДЖОН: но я вроде не каптчалогировал их...</span>
+<span style="color: #0715cd">ДЖОН: а сейчас большинство из них уничтожено бесами. :(</span>
 ###
 006240
 X
