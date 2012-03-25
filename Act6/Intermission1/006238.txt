@@ -38,46 +38,86 @@ http://ru-homestuck.org/storyfiles/hs2/04335.gif
 <span style="color: #0715cd">JOHN: ok, cool.</span>
 <span style="color: #0715cd">JOHN: but it would still be nice to say hi to everybody before they leave.</span>
 <span style="color: #0715cd">JOHN: just to let them know how we're doing.</span>
-<span style="color: #4ac925">JADE: yes</span>
-<span style="color: #0715cd">JOHN: like, one of the last things rose saw before she died was me dying...</span>
-<span style="color: #0715cd">JOHN: i wonder if she knows i'm ok?</span>
-<span style="color: #4ac925">JADE: im pretty sure she knows a ton of things now</span>
-<span style="color: #4ac925">JADE: considering she is a fully realized seer of light</span>
-<span style="color: #0715cd">JOHN: yeah, probably.</span>
-<span style="color: #0715cd">JOHN: then maybe i'll just hop over real fast, and give karkat a fist bump, and give dave a hard time about his hella tight little hood, and then hop back?</span>
-<span style="color: #4ac925">JADE: im sure that would be hilarious</span>
-<span style="color: #4ac925">JADE: but</span>
-<span style="color: #4ac925">JADE: if you go i dont think i can bring you back</span>
-<span style="color: #4ac925">JADE: i cant bring anyone or anything to here from there!</span>
-<span style="color: #0715cd">JOHN: aw man, really??</span>
-<span style="color: #4ac925">JADE: as far as i know...</span>
-<span style="color: #4ac925">JADE: if theres a way i havent figured it out yet</span>
-<span style="color: #4ac925">JADE: i am still kind of new to this omnipotence thing after all :\</span>
-<span style="color: #0715cd">JOHN: that's stupid.</span>
-<span style="color: #0715cd">JOHN: what is with all these rules!</span>
-<span style="color: #4ac925">JADE: i dont know!</span>
-<span style="color: #4ac925">JADE: im sure the rules exist for a good reason though</span>
-<span style="color: #4ac925">JADE: maybe to somewhat limit the power and reach of omnipotent beings?</span>
-<span style="color: #4ac925">JADE: if there are no limits at all, it could be especially dangerous in the wrong hands</span>
-<span style="color: #4ac925">JADE: like what happened with jack!</span>
-<span style="color: #0715cd">JOHN: isn't that a contradiction though?</span>
-<span style="color: #0715cd">JOHN: if there are limits to your powers, you can't exactly be OMNIpotent, can you?</span>
-<span style="color: #0715cd">JOHN: more like...</span>
-<span style="color: #0715cd">JOHN: semipotent.</span>
-<span style="color: #4ac925">JADE: then i guess thats what we are!</span>
-<span style="color: #4ac925">JADE: semipotent demigods</span>
-<span style="color: #0715cd">JOHN: demidogs.</span>
-<span style="color: #4ac925">JADE: woof woof woof!</span>
-<span style="color: #4ac925">JADE: dammit!!!!!!</span>
-<span style="color: #0715cd">JOHN: heh...</span>
-<span style="color: #0715cd">JOHN: can you not control the woofs?</span>
+<span [A6I1] ==&gt;
+###
+63064582a2
+###
+1324097299
+###
+http://ru-homestuck.org/storyfiles/hs2/04335.gif
+###
+|ДИАЛОГЛОГ|
+<span style="color: #4ac925">ДЖЕЙД: популяции пяти планет могут составить мне компанию!</span>
+<span style="color: #0715cd">JOHN: :O</span>
+<span style="color: #0715cd">JOHN: точно.</span>
+<span style="color: #0715cd">JOHN: возможно тогда тебе будет не так скучно.</span>
+<span style="color: #0715cd">JOHN: но, всё таки...</span>
+<span style="color: #0715cd">JOHN: я буду чувствовать себя хреново, оставляя тебя здесь, даже если у тебя есть миллион саламандр и шахматных чуваков, чтобы составить тебе компанию.</span>
+<span style="color: #0715cd">JOHN: ты мой друг и в каком-то роде сестра. И мы только встретились впервые примерно несколько минут назад...</span>
+<span style="color: #0715cd">JOHN: я не собираюсь быть по типу "ой-вей! встретимся через три года, джейд!"</span>
+<span style="color: #4ac925">ДЖЕЙД: аввв :D</span>
+<span style="color: #4ac925">ДЖЕЙД: тогда ок</span>
+<span style="color: #4ac925">ДЖЕЙД: лично я думаю, что эта поездка будет полна веселья!</span>
+<span style="color: #4ac925">ДЖЕЙД: и нам больше не нужно делать что-то важное или носиться как лунатики</span>
+<span style="color: #4ac925">ДЖЕЙД: мы можем просто отдохнуть</span>
+<span style="color: #0715cd">ДЖОН: о-да.</span>
+<span style="color: #0715cd">ДЖОН: теперь, когда ты это упомянула, я довольно ошарашен.</span>
+<span style="color: #0715cd">ДЖОН: и... голоден!!!</span>
+<span style="color: #4ac925">ДЖЕЙД: гав!</span>
+<span style="color: #4ac925">ДЖЕЙД: уупс</span>
+<span style="color: #0715cd">ДЖОН: хехех.</span>
+<span style="color: #0715cd">ДЖОН: я точно надеюсь, то на тех планетах есть еда.</span>
+<span style="color: #0715cd">ДЖОН: на звит было много странных светящихся грибов.не зная на счёт них.</span>
+<span style="color: #0715cd">ДЖОН: ещё помню кучу ферм на поле боя...</span>
+<span style="color: #4ac925">ДЖЕЙД: на тех планетах может быть много хороших штук</span>
+<span style="color: #4ac925">ДЖЕЙД: могу предположить, что этот корабль заполнен сухпайками</span>
+<span style="color: #0715cd">ДЖОН: да, возможно.</span>
+<span style="color: #0715cd">ДЖОН: пфф, да чёрт возми, мы можем просто совершить набег на наши холодильнини и алхимизировать чего-нибудь вкусненького!</span>
+<span style="color: #4ac925">ДЖЕЙД: о-да!!!</span>
+<span style="color: #4ac925">ДЖЕЙД: уррр, проблема решена</span>
+<span style="color: #0715cd">ДЖОН: ок, круто.</span>
+<span style="color: #0715cd">ДЖОН: было бы хорошо сказать всем привет прежде чем мы их оставим.</span>
+<span style="color: #0715cd">ДЖОН: просто дать им знать как мы.</span>
+<span style="color: #4ac925">ДЖЕЙД: да</span>
+<span style="color: #0715cd">ДЖОН: ведь одним из последних что видела роуз перед смертью был умирающий я...</span>
+<span style="color: #0715cd">ДЖОН: интересно, знает ли она что я впорядке?</span>
+<span style="color: #4ac925">ДЖЕЙД: я уверена что она сейчас знает довольно много</span>
+<span style="color: #4ac925">ДЖЕЙД: учитывая, что она полностью состоявшийся сер света</span>
+<span style="color: #0715cd">ДЖОН: да, возможно.</span>
+<span style="color: #0715cd">ДЖОН: then maybe i'll just hop over real fast, and give karkat a fist bump, and give dave a hard time about his hella tight little hood, and then hop back?</span>
+<span style="color: #4ac925">ДЖЕЙД: уверена, это будет забавно</span>
+<span style="color: #4ac925">ДЖЕЙД: но</span>
+<span style="color: #4ac925">ДЖЕЙД: если ты уйдёшь, я не думаю что смогу вернуть тебя</span>
+<span style="color: #4ac925">ДЖЕЙД: я не могу перетащить кого-либо или что-либо оттуда сюда!</span>
+<span style="color: #0715cd">ДЖОН: оу, правда??</span>
+<span style="color: #4ac925">ДЖЕЙД: насколько мне известно...</span>
+<span style="color: #4ac925">ДЖЕЙД: если и есть способ, то я его ещё не обнаружила</span>
+<span style="color: #4ac925">ДЖЕЙД: после всего я всё ещё новичёк в в использовании этого всемогущества :\</span>
+<span style="color: #0715cd">ДЖОН: это глупо.</span>
+<span style="color: #0715cd">ДЖОН: что со всеми этими правилами!</span>
+<span style="color: #4ac925">ДЖЕЙД: не знаю!</span>
+<span style="color: #4ac925">ДЖЕЙД: уверена, правила существуют по уважительной причине</span>
+<span style="color: #4ac925">ДЖЕЙД: maybe to somewhat limit the power and reach of omnipotent beings?</span>
+<span style="color: #4ac925">ДЖЕЙД: если бы не было ограничений, было бы опасно, попади они не в те руки</span>
+<span style="color: #4ac925">ДЖЕЙД: наподобие того, что случилось с джеком!</span>
+<span style="color: #0715cd">ДЖОН: разве это не противоречие?</span>
+<span style="color: #0715cd">ДЖОН: если бы были ограничения твоим силам, ты точно не могла бы быть ВСЕмогущей, не так ли?</span>
+<span style="color: #0715cd">JOHN: скорее...</span>
+<span style="color: #0715cd">JOHN: полумощной.</span>
+<span style="color: #4ac925">JADE: потому, я пологаю это то, что мы есть!</span>
+<span style="color: #4ac925">JADE: полумощные полубоги</span>
+<span style="color: #0715cd">JOHN: полупсы.</span>
+<span style="color: #4ac925">JADE: гав гав гав!</span>
+<span style="color: #4ac925">JADE: чёрт!!!!!!</span>
+<span style="color: #0715cd">JOHN: хех...</span>
+<span style="color: #0715cd">JOHN: ты не контролируешь гавканья?</span>
 <span style="color: #4ac925">JADE: i havent gotten the hang of the woofs yet :(</span>
-<span style="color: #0715cd">JOHN: so, the dog ears...</span>
-<span style="color: #0715cd">JOHN: is that a permanent thing now, or what?</span>
-<span style="color: #4ac925">JADE: i think so</span>
-<span style="color: #0715cd">JOHN: i like them.</span>
-<span style="color: #4ac925">JADE: i do too!</span>
-<span style="color: #0715cd">JOHN: you are like a furry now, but not really the weird kind that people on the internet like to have sex with in their imagination.</span>
+<span style="color: #0715cd">JOHN: и собачьи уши...</span>
+<span style="color: #0715cd">JOHN: это временная херня или как?</span>
+<span style="color: #4ac925">JADE: думаю да</span>
+<span style="color: #0715cd">JOHN: мне они нравятся.</span>
+<span style="color: #4ac925">JADE: мне тоже!</span>
+<span style="color: #0715cd">JOHN: теперь ты как фурри, но не как те странные люди в интернее, любящие воображать половую связь с ними.</span>
 <span style="color: #4ac925">JADE: D:</span>
 ###
 006239
