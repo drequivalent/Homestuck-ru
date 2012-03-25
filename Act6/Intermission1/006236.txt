@@ -29,7 +29,7 @@ http://ru-homestuck.org/storyfiles/hs2/04333.gif
 <span style="color: #0715cd">ДЖОН: а позже, когда я проснулся, она была мертва.</span>
 <span style="color: #4ac925">ДЖЕЙД: :(</span>
 <span style="color: #0715cd">ДЖОН: ты знала...</span>
-<span style="color: #0715cd">ДЖОН: что я должен былпоцеловать её, чтобы вернуть к жизни?</span>
+<span style="color: #0715cd">ДЖОН: что я должен был поцеловать её, чтобы вернуть к жизни?</span>
 <span style="color: #4ac925">ДЖЕЙД: !!!</span>
 <span style="color: #0715cd">ДЖОН: да, это правда.</span>
 <span style="color: #0715cd">ДЖОН: это странно целовать мёртвое тело, но я не задумывался.</span>
@@ -38,7 +38,7 @@ http://ru-homestuck.org/storyfiles/hs2/04333.gif
 <span style="color: #4ac925">ДЖЕЙД: как ты узнал об этом!</span>
 <span style="color: #0715cd">ДЖОН: каркат сказал.</span>
 <span style="color: #4ac925">ДЖЕЙД: ох</span>
-<span style="color: #4ac925">ДЖЕЙД: that figures</span>
+<span style="color: #4ac925">ДЖЕЙД: те данные</span>
 <span style="color: #0715cd">ДЖОН: как думаешь, означают ли наши беспорядочные трупоцелования то, что глупое сводническое пророчество карката сбывается?</span>
 <span style="color: #4ac925">ДЖЕЙД: эмм</span>
 <span style="color: #0715cd">ДЖОН: этот хрен довольно злой, повторяет "ебать" почти в каждом предложении.</span>
@@ -51,8 +51,8 @@ http://ru-homestuck.org/storyfiles/hs2/04333.gif
 <span style="color: #0715cd">ДЖОН: а ты?</span>
 <span style="color: #4ac925">ДЖЕЙД: хмммммм.....</span>
 <span style="color: #0715cd">ДЖОН: хмм, действительно.</span>
-<span style="color: #4ac925">ДЖЕЙД: i think i miss them already</span>
-<span style="color: #4ac925">ДЖЕЙД: and weve only been here for a few minutes :(</span>
+<span style="color: #4ac925">ДЖЕЙД: я уже скучаю</span>
+<span style="color: #4ac925">ДЖЕЙД: а мы здесь всего несколько минут :(</span>
 <span style="color: #0715cd">ДЖОН: ага.</span>
 <span style="color: #0715cd">ДЖОН: я многое хочу им рассказать.</span>
 <span style="color: #0715cd">ДЖОН: и многое спросить.</span>
