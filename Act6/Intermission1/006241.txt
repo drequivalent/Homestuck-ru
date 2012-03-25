@@ -6,11 +6,11 @@ cfff7cafa7
 ###
 http://ru-homestuck.org/storyfiles/hs2/04338.gif
 ###
-|DIALOGLOG|
-<span style="color: #0715cd">JOHN: i could stick it in a book i guess.</span>
-<span style="color: #0715cd">JOHN: but i kind of don't want to part with any great reading material, especially since we're going on a long trip.</span>
-<span style="color: #4ac925">JADE: john you have to hurry!</span>
-<span style="color: #0715cd">JOHN: ok, ok, um...</span>
+|ДИАЛОГЛОГ|
+<span style="color: #0715cd">ДЖОН: думаю, можно вложить это в книгу.</span>
+<span style="color: #0715cd">ДЖОН: но я не хочу расставаться ни с каким материалом для чтения, особенно если мы собираемся в длительное путешествие.</span>
+<span style="color: #4ac925">ДЖЕЙД: джон, поспеши!</span>
+<span style="color: #0715cd">ДЖОН: да, да, эм...</span>
 ###
 006242
 X
