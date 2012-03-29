@@ -7,19 +7,19 @@
 http://ru-homestuck.org/storyfiles/hs2/04301.gif
 ###
 |DIALOGLOG|
-<span style="color: #0715cd">JOHN: what!!!</span>
-<span style="color: #0715cd">JOHN: that is an absolutely preposterous amount of time.</span>
-<span style="color: #4ac925">JADE: i know!</span>
-<span style="color: #0715cd">JOHN: are you sure you can't make it go any faster?</span>
-<span style="color: #0715cd">JOHN: i mean, not to sound too demanding, but...</span>
-<span style="color: #0715cd">JOHN: didn't you say you can teleport stuff?</span>
-<span style="color: #0715cd">JOHN: why not teleport us there?</span>
-<span style="color: #4ac925">JADE: i cant!</span>
-<span style="color: #4ac925">JADE: not here, at least</span>
-<span style="color: #0715cd">JOHN: oh. well that sucks.</span>
-<span style="color: #0715cd">JOHN: why not?</span>
-<span style="color: #4ac925">JADE: the way i understand it is...</span>
-<span style="color: #4ac925">JADE: becs powers draw from the green sun</span>
+<span style="color: #0715cd">JOHN: что!!!</span>
+<span style="color: #0715cd">JOHN: это же абсурдная куча времени.</span>
+<span style="color: #4ac925">JADE: знаю!</span>
+<span style="color: #0715cd">JOHN: ты уверена, что не можешь ускорить процесс?</span>
+<span style="color: #0715cd">JOHN: не хотел бы, чтобы это прозвучало так требовательно, но..</span>
+<span style="color: #0715cd">JOHN: не ты ли говорила, что можешь телепортировать?</span>
+<span style="color: #0715cd">JOHN: почему бы не телепортировать нас туда?</span>
+<span style="color: #4ac925">JADE: не могу!</span>
+<span style="color: #4ac925">JADE: по крайней мере не здесь</span>
+<span style="color: #0715cd">JOHN: ох. хорошо, это херово.</span>
+<span style="color: #0715cd">JOHN: почему нет?</span>
+<span style="color: #4ac925">JADE: насколько я понимаю...</span>
+<span style="color: #4ac925">JADE: силы бека черпаются от зелёного солнца</span>
 <span style="color: #4ac925">JADE: and the green sun presides over our universe</span>
 <span style="color: #4ac925">JADE: many universes actually! and the sessions that created them, as well as the sessions created within them</span>
 <span style="color: #4ac925">JADE: including the trolls universe and their session</span>
