@@ -39,7 +39,7 @@ http://ru-homestuck.org/storyfiles/hs2/04335.gif
 <span style="color: #0715cd">ДЖОН: было бы хорошо сказать всем привет прежде чем мы их оставим.</span>
 <span style="color: #0715cd">ДЖОН: просто дать им знать как мы.</span>
 <span style="color: #4ac925">ДЖЕЙД: да</span>
-<span style="color: #0715cd">ДЖОН: ведь одним из последних что видела роуз перед смертью был умирающий я...</span>
+<span style="color: #0715cd">ДЖОН: ведь последним, что видела роуз перед смертью был умирающий я...</span>
 <span style="color: #0715cd">ДЖОН: интересно, знает ли она что я впорядке?</span>
 <span style="color: #4ac925">ДЖЕЙД: я уверена что она сейчас знает довольно много</span>
 <span style="color: #4ac925">ДЖЕЙД: учитывая, что она полностью состоявшийся сер света</span>
@@ -64,7 +64,7 @@ http://ru-homestuck.org/storyfiles/hs2/04335.gif
 <span style="color: #0715cd">ДЖОН: если бы были ограничения твоим силам, ты точно не могла бы быть ВСЕмогущей, не так ли?</span>
 <span style="color: #0715cd">JOHN: скорее...</span>
 <span style="color: #0715cd">JOHN: полумощной.</span>
-<span style="color: #4ac925">JADE: потому, я пологаю это то, что мы есть!</span>
+<span style="color: #4ac925">JADE: потому, я полагаю это то, что мы есть!</span>
 <span style="color: #4ac925">JADE: полумощные полубоги</span>
 <span style="color: #0715cd">JOHN: полупсы.</span>
 <span style="color: #4ac925">JADE: гав гав гав!</span>
