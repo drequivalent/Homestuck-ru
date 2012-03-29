@@ -57,8 +57,8 @@ http://ru-homestuck.org/storyfiles/hs2/04335.gif
 <span style="color: #0715cd">ДЖОН: что со всеми этими правилами!</span>
 <span style="color: #4ac925">ДЖЕЙД: не знаю!</span>
 <span style="color: #4ac925">ДЖЕЙД: уверена, правила существуют по уважительной причине</span>
-<span style="color: #4ac925">ДЖЕЙД: maybe to somewhat limit the power and reach of omnipotent beings?</span>
-<span style="color: #4ac925">ДЖЕЙД: если бы не было ограничений, было бы опасно, попади они не в те руки</span>
+<span style="color: #4ac925">ДЖЕЙД: например, ограничить силу и возможность достигнуть всемогущества?</span>
+<span style="color: #4ac925">ДЖЕЙД: если бы не было ограничений, она стали бы опасными в чужих руках</span>
 <span style="color: #4ac925">ДЖЕЙД: наподобие того, что случилось с джеком!</span>
 <span style="color: #0715cd">ДЖОН: разве это не противоречие?</span>
 <span style="color: #0715cd">ДЖОН: если бы были ограничения твоим силам, ты точно не могла бы быть ВСЕмогущей, не так ли?</span>
