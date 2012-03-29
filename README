@@ -59,10 +59,8 @@ Sylladex - Cилладекс
 Captchalogue - Каптчалог
 to captchalogue - каптчалогировать
 Punch Designix - Кодоперфоратор
-Fetch modus - Метод доступа
-Memory modus - Метод запоминания
 Dialoglog - Диалоглог
-Wardrobifier - Вардробифаер(?)
+Wardrobifier - Автокостюмер
 ===============================================================
 Midnight Crew - Полуночная Банда
 Spades Slick - Спейдс Слик
@@ -88,4 +86,42 @@ The Felt - Суконщики
 13 - Бизкитс
 14 - Четвертак
 15 - Кэнс
+===============================================================
+Fetch modus - Метод доступа:
+
+Stack - Стек
+Queue - Очередь
+Array - Массив
+
+Tree - Дерево
+
+Hash Map - Хэш-таблица
+
+Memory - Память
+Jenga - Дженга
+Pictionary - Слова-картинки
+Boggle - Боггл
+Monopoly - Монополия
+Yahtzee - Ятзи
+Clue - Улика
+Connect Four - Четыре в ряд
+Battleship - Морской бой
+Ouija - Уиджа
+Guess Who - Угадайка
+Operation - Операция
+
+Wallet - Бумажник
+
+Encryption - Шифровка
+Ouija - Уиджа
+Miracle - Чудо
+Chastity - Целомудрие
+8-ball - Шар-восьмерка
+Scratch and Sniff - Потри и понюхай
+
+Recipe - Рецепт
+Fibonacci Heap - Фибоначчиева куча
+Puzzle - Паззл
+Message in a Bottle - Послание в бутылке
+Tech-Hop - Техно-хоп
 ===============================================================
