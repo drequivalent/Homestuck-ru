@@ -44,7 +44,7 @@ http://ru-homestuck.org/storyfiles/hs2/04335.gif
 <span style="color: #4ac925">ДЖЕЙД: я уверена что она сейчас знает довольно много</span>
 <span style="color: #4ac925">ДЖЕЙД: учитывая, что она полностью состоявшийся сер света</span>
 <span style="color: #0715cd">ДЖОН: да, возможно.</span>
-<span style="color: #0715cd">ДЖОН: then maybe i'll just hop over real fast, and give karkat a fist bump, and give dave a hard time about his hella tight little hood, and then hop back?</span>
+<span style="color: #0715cd">ДЖОН: тогда я быстренько метнусь туда и дам каркату брофист, а потом заставлю дейва понервничать насчет его реально обтягивающего маленького капюшона и прискачу обратно?</span>
 <span style="color: #4ac925">ДЖЕЙД: уверена, это будет забавно</span>
 <span style="color: #4ac925">ДЖЕЙД: но</span>
 <span style="color: #4ac925">ДЖЕЙД: если ты уйдёшь, я не думаю что смогу вернуть тебя</span>
@@ -71,7 +71,7 @@ http://ru-homestuck.org/storyfiles/hs2/04335.gif
 <span style="color: #4ac925">JADE: чёрт!!!!!!</span>
 <span style="color: #0715cd">JOHN: хех...</span>
 <span style="color: #0715cd">JOHN: ты не контролируешь гавканья?</span>
-<span style="color: #4ac925">JADE: i havent gotten the hang of the woofs yet :(</span>
+<span style="color: #4ac925">JADE: я пока не прокачала навык гавканья :(</span>
 <span style="color: #0715cd">JOHN: и собачьи уши...</span>
 <span style="color: #0715cd">JOHN: это временная херня или как?</span>
 <span style="color: #4ac925">JADE: думаю да</span>
