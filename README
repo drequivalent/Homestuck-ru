@@ -53,7 +53,6 @@ The Medium - Медиум
 The Incipisphere - Первосфера
 The Scratch - Разлом
 Lusus - Люсус
-LOWAS - ЗВИТ
 ===============================================================
 Sylladex - Cилладекс
 Captchalogue - Каптчалог
@@ -93,11 +92,8 @@ Fetch modus - Метод доступа:
 Stack - Стек
 Queue - Очередь
 Array - Массив
-
 Tree - Дерево
-
 Hash Map - Хэш-таблица
-
 Memory - Память
 Jenga - Дженга
 Pictionary - Слова-картинки
@@ -110,19 +106,88 @@ Battleship - Морской бой
 Ouija - Уиджа
 Guess Who - Угадайка
 Operation - Операция
-
 Wallet - Бумажник
-
 Encryption - Шифровка
 Ouija - Уиджа
 Miracle - Чудо
 Chastity - Целомудрие
 8-ball - Шар-восьмерка
 Scratch and Sniff - Потри и понюхай
-
 Recipe - Рецепт
 Fibonacci Heap - Фибоначчиева куча
 Puzzle - Паззл
 Message in a Bottle - Послание в бутылке
 Tech-Hop - Техно-хоп
 ===============================================================
+Миры:
+
+Land of Wind and Shade (LOWAS) - Мир ветра и тьмы (МВИТ)
+Land of Light and Rain (LOLAR) - Мир света и дождя (МСИД)
+Land of Heat and Clockwork (LOHAC) - Мир жары и часов (МЖИЧ)
+Land of Frost and Frogs (LOFAF) - Мир мороза и лягушек (ММИЛ)
+
+Land of Quartz and Melody (LOQAM) - Мир кварца и мелодий (МКИМ)
+Land of Sand and Zephyr (LOSAZ) - Мир песка и ветерка (МПИВ)
+Land of Brains and Fire (LOBAF) - Мир мозгов и огня (ММИО)
+Land of Pulse and Haze (LOPAH) - Мир пульсаций и мглы (МПИМ)
+
+Land of Little Cubes and Tea (LOLCAT) - Мир кубиков сахара и чая (МКСИЧ)
+Land of Rays and Frogs (LORAF) - Мир лучей и лягушек (МЛИЛ)
+Land of Thought and Flow (LOTAF) - Мир раздумий и потоков (МРИП)
+Land of Maps and Treasure (LOMAT) - Мир карт и сокровищ (МКИС)
+
+Land of Caves and Silence (LOCAS) - Мир пещер и безмолвия (МПИБ)
+Land of Tents and Mirth (LOTAM) - Мир шатров и веселья (МШИВ)
+Land of Wrath and Angels (LOWAA) - Мир гнева и ангелов (МГИА)
+Land of Dew and Glass (LODAG) - Мир росы и стекла (МРИС)
+
+===============================================================
+Титулы:
+
+Heir of Breath (Джон) - Наследник Дыхания
+Seer of Light (Роуз) - Провидец Света
+Knight of Time (Дейв) - Рыцарь Времени
+Witch of Space (Джейд) - Ведьма Пространства
+
+Maid of Life (Джейн) - Слуга Жизни
+Page of Hope (Джейк) - Паж Надежды
+Rogue of Void (Рокси) - Преступница Пустоты
+Prince of Heart (Дирк) - Принц Сердца
+
+Maid of Time (Арадия) - Слуга Времени
+Page of Breath (Таврос) - Паж Дыхания
+Mage of Doom (Соллукс) - Маг Судьбы
+Knight of Blood (Каркат) - Рыцарь Крови
+
+Rogue of Heart (Непета) - Преступница Сердца
+Sylph of Space (Канайя) - Сильф Пространства
+Seer of Mind (Терези) - Провидец Разума
+Thief of Light (Вриска) - Воровка Света
+
+Heir of Void (Эквиус) - Наследник Пустоты
+Bard of Rage (Гамзи) - Бард Ярости
+Prince of Hope (Эридан) - Принц Надежды
+Witch of Life (Фефери) - Ведьма Жизни
+
+Sylph of Light (Аранея) - Сильф Света
+Thief of Life (Мина) - Воровка Жизни
+
+===============================================================
+Denizens - Обитатели:
+
+Typheus - Тифон
+Cetus - Кето
+Hephaestus - Гефест
+Echidna - Ехидна
+Hemera - Гемера
+Nyx - Никс
+Yaldabaoth - Иалдабаоф
+
+===============================================================
+Стандартные фразы:
+
+Enter name. - Введите имя.
+Try again. - Попробовать еще раз.
+What will you do? - Что собираешься делать?
+Examine room. - Осмотреть комнату.
+Quickly retrieve arms from... - Срочно извлечь руки из...
