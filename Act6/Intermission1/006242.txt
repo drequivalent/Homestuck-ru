@@ -6,16 +6,16 @@ e42f6a4396
 ###
 http://ru-homestuck.org/storyfiles/hs2/04339.gif
 ###
-|DIALOGLOG|
-<span style="color: #4ac925">JADE: here, will this work?</span>
-<span style="color: #0715cd">JOHN: oh, yeah. i guess that'll be fine.</span>
-<span style="color: #0715cd">JOHN: now, uhhh, what to write...</span>
-<span style="color: #4ac925">JADE: whatever you write just make it quick!</span>
-<span style="color: #4ac925">JADE: and tell everyone i say hi!</span>
-<span style="color: #0715cd">JOHN: ok, will do.</span>
-<span style="color: #4ac925">JADE: ok, while you work on that, i think ill bring up some friends</span>
-<span style="color: #0715cd">JOHN: huh?</span>
-<span style="color: #4ac925">JADE: you know, let some of our travel companions get acquainted with the ship!</span>
+|ДИАЛОГЛОГ|
+<span style="color: #4ac925">ДЖЕЙД: сюда сработает?</span>
+<span style="color: #0715cd">ДЖОН: о-да, прекрасно.</span>
+<span style="color: #0715cd">ДЖОН: сейчас, уххх, что же написать...</span>
+<span style="color: #4ac925">ДЖЕЙД: без разницы, просто сделай это быстро!</span>
+<span style="color: #4ac925">ДЖЕЙД: и передай всем привет!</span>
+<span style="color: #0715cd">ДЖОН: ок, передам.</span>
+<span style="color: #4ac925">ДЖЕЙД: хорошо, пока ты занят я перетащу друзей</span>
+<span style="color: #0715cd">ДЖОН: а?</span>
+<span style="color: #4ac925">ДЖЕЙД: ну, позволить нашим попутчикам познакомиться с кораблём!</span>
 ###
 006243
 X
