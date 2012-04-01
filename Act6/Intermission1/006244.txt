@@ -6,15 +6,15 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/04341.gif
 ###
-|DIALOGLOG|
-<span style="color: #0715cd">JOHN: ok, i think this is a pretty good letter.</span>
-<span style="color: #f2a400">DAVESPRITE: let me check it out</span>
-<span style="color: #f2a400">DAVESPRITE: maybe ill humorously defile willis and afflecks dumb skyward yearning faces</span>
-<span style="color: #0715cd">JOHN: oh HELL no.</span>
-<span style="color: #f2a400">DAVESPRITE: come on dude hand it over</span>
-<span style="color: #4ac925">JADE: nooooo come on guys theyre about to go just stuff it in the bucket and throw it at me already!!!</span>
-<span style="color: #f2a400">DAVESPRITE: too late i already did it with sprite powers while he wasnt looking</span>
-<span style="color: #0715cd">JOHN: augh you bastard!</span>
+|ДИАЛОГЛОГ|
+<span style="color: #0715cd">ДЖОН: вот, думаю это хорошее письмо.</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: дай проверить</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: может я приколюсь и оскверню тупые возвышенные лица уиллиса и афлекса</span>
+<span style="color: #0715cd">ДЖОН: ох ЧЁРТ нет.</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: давай, чувак, передай его</span>
+<span style="color: #4ac925">ДЖЕЙД: нееееет, ребята, засуньте это в ведро и бросьте в меня наконец!!!</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: слишком поздно, я уже сделал это силами спрайта, пока он не смотрел</span>
+<span style="color: #0715cd">ДЖОН: аргх, ты идиот!</span>
 ###
 006245
 X
