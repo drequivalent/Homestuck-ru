@@ -6,11 +6,11 @@ be3cb551c2
 ###
 http://ru-homestuck.org/storyfiles/hs2/04342.gif
 ###
-|DIALOGLOG|
-<span style="color: #0715cd">JOHN: wait a minute!</span>
-<span style="color: #0715cd">JOHN: i forgot, trolls hate cleaning products for some alien reason! shit, that's going to make everyone so uncomfortable.</span>
-<span style="color: #0715cd">JOHN: oh well, there it goes. too late i guess.</span>
-<span style="color: #f2a400">DAVESPRITE: ahahahaha you fucked up</span>
+|ДИАЛОГЛОГ|
+<span style="color: #0715cd">ДЖОН: минуточку!</span>
+<span style="color: #0715cd">ДЖОН: я забыл, тролли ненавидят чистящие предметы по какой-то инопланетной причине! дерьмо, это так неудобно.</span>
+<span style="color: #0715cd">ДЖОН: оу, ладно, пусть так, но  уже поздно.</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: ахахахахаха ты всё испоганил</span>
 ###
 006246
 X
