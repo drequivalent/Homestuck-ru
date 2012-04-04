@@ -1,6 +1,6 @@
 [A6I2] ==&gt;
 ###
-0f0fe12ac6
+ecd45889fd
 ###
 1333087505
 ###
@@ -8,4 +8,5 @@ http://ru-homestuck.org/storyfiles/hs2/04782.gif
 ###
 
 ###
+006686
 X

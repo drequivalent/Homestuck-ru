@@ -1,6 +1,6 @@
 [A6I2] ==&gt;
 ###
-7fe07a22c8
+65d5f81781
 ###
 1331940458
 ###
@@ -76,4 +76,5 @@ http://ru-homestuck.org/storyfiles/hs2/04705.gif
 <span style="color: #e00707">DAVE: got some shit to attend to</span>
 <span style="color: #e00707">DAVE: after you</span>
 ###
+006609
 X

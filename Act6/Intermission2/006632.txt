@@ -1,6 +1,6 @@
 [A6I2] ==&gt;
 ###
-4f96b89d0b
+b4ec8d4300
 ###
 1332234109
 ###
@@ -67,4 +67,5 @@ http://ru-homestuck.org/storyfiles/hs2/04729.gif
 <span style="color: #4ac925">JADE: i know</span>
 <span style="color: #4ac925">JADE: but there are other differences...</span>
 ###
+006633
 X

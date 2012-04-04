@@ -1,6 +1,6 @@
 [A6I2] ==&gt;
 ###
-52494e1fe3
+5e71962875
 ###
 1332393808
 ###
@@ -32,4 +32,5 @@ http://ru-homestuck.org/storyfiles/hs2/04734.gif
 <span style="color: #4ac925">JADE: WOOF!!!</span>
 <span style="color: #0715cd">JOHN: oh my god.</span>
 ###
+006638
 X

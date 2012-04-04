@@ -1,6 +1,6 @@
 [A6I2] ==&gt;
 ###
-5abfa255b3
+3d516a95c8
 ###
 1332106310
 ###
@@ -44,4 +44,5 @@ http://ru-homestuck.org/storyfiles/hs2/04715.gif
 <span style="color: #e00707">DAVE: were running out of room rose can you turn the page for us</span>
 <span style="color: #626262">KARKAT: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!!!!!!!!!!</span>
 ###
+006619
 X

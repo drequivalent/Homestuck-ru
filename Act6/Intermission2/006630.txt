@@ -1,6 +1,6 @@
 [A6I2] ==&gt;
 ###
-901078c700
+44370a9331
 ###
 1332211353
 ###
@@ -21,4 +21,5 @@ http://ru-homestuck.org/storyfiles/hs2/04727.gif
 <span style="color: #0715cd">JOHN: it is just something you can't do when you're a ghost buster, because it spells big trouble. everyone knows that.</span>
 <span style="color: #4ac925">JADE: :p</span>
 ###
+006631
 X

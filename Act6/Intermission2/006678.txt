@@ -1,6 +1,6 @@
 [A6I2] ==&gt;
 ###
-24728493cb
+5b4fec8e78
 ###
 1333017851
 ###
@@ -42,4 +42,5 @@ http://ru-homestuck.org/storyfiles/hs2/04775.gif
 <span style="color: #005682">AG: Your friends should 8e joining us too, 8efore your meteor clears the 8u88le.</span>
 <span style="color: #005682">AG: May8e together we can 8ring the Thief of Life up to speed.</span>
 ###
+006679
 X

@@ -1,6 +1,6 @@
 [A6I2] ==&gt;
 ###
-5117688267
+5862d711d8
 ###
 1332722022
 ###
@@ -21,4 +21,5 @@ http://ru-homestuck.org/storyfiles/hs2/04766.gif
 <span style="color: #008282">GC: &gt;:o</span>
 <span style="color: #008282">GC: 1 DONT G3T 1T</span>
 ###
+006670
 X

@@ -1,6 +1,6 @@
 [A6I2] ==&gt;
 ###
-a26976f1d6
+6101612d93
 ###
 1332378711
 ###
@@ -59,4 +59,5 @@ http://ru-homestuck.org/storyfiles/hs2/04733.gif
 <span style="color: #0715cd">JOHN: follow me so we can seize the high ground against this hideous ocean dwelling marshmallow man, and steal all of his treasure.</span>
 <span style="color: #4ac925">JADE: after you!</span>
 ###
+006637
 X

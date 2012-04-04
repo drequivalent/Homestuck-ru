@@ -1,6 +1,6 @@
 [A6I2] ==&gt;
 ###
-e9e9ebc335
+81a248143c
 ###
 1331962005
 ###
@@ -51,4 +51,5 @@ http://ru-homestuck.org/storyfiles/hs2/04707.gif
 <span style="color: #626262">KARKAT: WHAT</span>
 <span style="color: #e00707">DAVE: i cant believe i seriously just said dude dont touch my cape to somebody and was serious about it</span>
 ###
+006611
 X

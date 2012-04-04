@@ -1,6 +1,6 @@
 [A6I2] ==&gt;
 ###
-0f1c518b11
+d96a7e7d81
 ###
 1332035947
 ###
@@ -35,7 +35,7 @@ http://ru-homestuck.org/storyfiles/hs2/04709.gif
 <span style="color: #626262">KARKAT: THE MALE HIGHBLOOD AND LOWBLOOD START TO HAVE FLUSHED FEELINGS FOR ONE ANOTHER, AND THIS RESULTS IN SOME RED INFIDELITY BETWEEN THE LOWBLOOD PAIR.</span>
 <span style="color: #626262">KARKAT: OBVIOUSLY THIS IS WHERE THE FIREWORKS START GOING OFF. THE RED FEELINGS BETWEEN THE LOWBLOODS TURN TO BLACK, AND THUS BEGINS WHAT IS REFERRED TO AS QUADRANT VACILLATION.</span>
 <span style="color: #626262">KARKAT: MEANWHILE THE TWO MALES ARE ALSO VACILLATING BETWEEN RED AND BLACK, BECAUSE YOU DON'T JUST LET GO OF A RIVALRY SO EASILY.</span>
-<span style="color: #e00707">DAVE: what is going on the with other chick</span>
+<span style="color: #e00707">DAVE: what is going on with the other chick</span>
 <span style="color: #e00707">DAVE: all grabbing at the other one down there in the corner</span>
 <span style="color: #626262">KARKAT: YEAH, WELL, IT GETS EVEN MORE COMPLICATED THAN THAT, PROBABLY MORE THAN NEEDED FOR THE SAKE OF MAKING THE POINT.</span>
 <span style="color: #626262">KARKAT: IN THE HEAT OF THEIR VACILLATION, DURING AN ESPECIALLY BLACK PHASE, THE LOWBLOOD FEMALE WAXES RED FOR A NOTORIOUS AND ESPECIALLY BRUTAL HIGHBLOOD FEMALE.</span>
@@ -45,7 +45,7 @@ http://ru-homestuck.org/storyfiles/hs2/04709.gif
 <span style="color: #e00707">DAVE: what the fuck are our purposes</span>
 <span style="color: #626262">KARKAT: THE THING IS, VACILLATION ALWAYS ADDS A LOT OF DRAMA TO EVERYTHING, BUT THAT DOESN'T MEAN IT CAN'T BE VIABLE.</span>
 <span style="color: #626262">KARKAT: IT CAN TOTALLY WORK, AND EVERYONE CAN BE REASONABLE ABOUT IT, IT REALLY JUST COMES DOWN TO A MATTER OF SENSIBLE SCHEDULING.</span>
-<span style="color: #e00707">DAVE: you must be out of youre fucking mind if you think i want to know where youre going with this</span>
+<span style="color: #e00707">DAVE: you must be out of your fucking mind if you think i want to know where youre going with this</span>
 <span style="color: #626262">KARKAT: DAVE, PLEASE.</span>
 <span style="color: #626262">KARKAT: JUST READ THE BOOK, OK? IT'S ALL IN THE BOOK.</span>
 ###

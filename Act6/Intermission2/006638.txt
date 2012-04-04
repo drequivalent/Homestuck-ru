@@ -1,6 +1,6 @@
 [A6I2] ==&gt;
 ###
-52608761c5
+b8782706b1
 ###
 1332458880
 ###
@@ -11,4 +11,5 @@ http://ru-homestuck.org/storyfiles/hs2/04735.gif
 <span style="color: #f141ef">JASPERSPRITE: Hisssssssssssssssssssssssssssss!</span>
 <span style="color: #0715cd">JOHN: aaaaaaaaaaaaaaaaaaaauuuuuuuuuuuuuuuuugh!</span>
 ###
+006639
 X

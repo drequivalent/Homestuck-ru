@@ -1,6 +1,6 @@
 [A6I2] ==&gt;
 ###
-5436592218
+ccbcbb64c5
 ###
 1332233866
 ###
@@ -25,7 +25,7 @@ http://ru-homestuck.org/storyfiles/hs2/04728.gif
 <span style="color: #4ac925">JADE: whatever you say</span>
 <span style="color: #0715cd">JOHN: ok, now i have to find us a mission.</span>
 <span style="color: #0715cd">JOHN: got to hire a sassy secretary...</span>
-<span style="color: #0715cd">JOHN: just have to peruse this extensive palette of sacarstic red headed ladies...</span>
+<span style="color: #0715cd">JOHN: just have to peruse this extensive palette of sarcastic red headed ladies...</span>
 <span style="color: #0715cd">JOHN: ok, here is a good one.</span>
 <span style="color: #0715cd">JOHN: then we wait for a phone call. this can take anywhere from ten seconds to several hours.</span>
 <span style="color: #4ac925">JADE: are you serious?</span>

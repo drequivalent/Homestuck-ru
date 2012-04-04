@@ -1,6 +1,6 @@
 [A6I2] ==&gt;
 ###
-cbc9878daa
+ca1e9579b0
 ###
 1332035595
 ###
@@ -39,7 +39,7 @@ http://ru-homestuck.org/storyfiles/hs2/04708.gif
 <span style="color: #626262">KARKAT: I AM NOT HERE TO DEBATE YOU ON THE FINER POINTS OF CINEMA, OR TO &quot;GET MY GIRL BACK.&quot;</span>
 <span style="color: #626262">KARKAT: HOW DESPERATE DO YOU THINK I AM?</span>
 <span style="color: #626262">KARKAT: I'M ACTUALLY HERE TO DO THE OPPOSITE.</span>
-<span style="color: #626262">KARKAT: I WANTED TO TELL YOU I'M TOTALLY OK WITH.</span>
+<span style="color: #626262">KARKAT: I WANTED TO TELL YOU I'M TOTALLY OK WITH IT.</span>
 <span style="color: #e00707">DAVE: oh</span>
 <span style="color: #e00707">DAVE: ok then</span>
 <span style="color: #626262">KARKAT: BUT JUST LISTEN, AND TRY TO KEEP AN OPEN MIND. I KNOW THAT'S HARD FOR YOU.</span>

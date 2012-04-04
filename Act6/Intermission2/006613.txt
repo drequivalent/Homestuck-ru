@@ -1,6 +1,6 @@
 [A6I2] ==&gt;
 ###
-d9a93ccec9
+3aba69f061
 ###
 1332036108
 ###
@@ -34,4 +34,5 @@ http://ru-homestuck.org/storyfiles/hs2/04710.gif
 <span style="color: #626262">KARKAT: I NEED SOME PAPER. WHERE'S SOME PAPER.</span>
 <span style="color: #e00707">DAVE: hnnrrghh</span>
 ###
+006614
 X

@@ -1,6 +1,6 @@
 [A6I2] ==&gt;
 ###
-1321211950
+7f3abb0387
 ###
 1332817396
 ###
@@ -41,4 +41,5 @@ http://ru-homestuck.org/storyfiles/hs2/04768.gif
 <span style="color: #005682">AG: Reality itself is using you and many others to propagate its own existence. Strictly speaking, there is only one path to its successful propagation. 8ut it still permits you to make choices. Not all that are conceiva8le, 8ut some nevertheless, as dictated 8y who you are and the challenges you face. And you are free to make key decisions however you like, as long as you understand that some of these paths unfairly or not will lead to o8livion. 8ecause those choices do not contri8ute constructively to the perpetuation of all existence, including your own.</span>
 <span style="color: #005682">AG: Such is the 8urden assumed 8y anyone who plays this game.</span>
 ###
+006672
 X
