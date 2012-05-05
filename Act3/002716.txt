@@ -1,4 +1,4 @@
-Jade: Press the steak button.
+Джейд: Нажать на кнопку стейка.
 ###
 64104e5daf
 ###
@@ -6,11 +6,11 @@ Jade: Press the steak button.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00816.gif
 ###
-Ok, well it's a rotary dial so there are no buttons to press, but whatever that doesn't really matter.
+Ну, да, здесь дисковый набор, так что никаких кнопок нажимать не нужно, но все равно это не имеет значения.
 
-You dial up a thick T-BONE STEAK, which you are sure Becquerel is in the mood for because he is in the mood for steak every day and is never in the mood for anything else.
+Ты выбираешь сочный СТЕЙК НА КОСТОЧКЕ, который точно будет по нраву Беккерелю, ведь он в настроении есть стейк каждый день в отличие от всего остального.
 
-But he does like his steak well cooked.
+Но он любит качественно приготовленный стейк.
 ###
 002717
 X

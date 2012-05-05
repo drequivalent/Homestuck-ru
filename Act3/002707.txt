@@ -1,4 +1,4 @@
-Jade: Feed your friend.
+Джейд: Покормить друга.
 ###
 eeda5c8618
 ###
@@ -6,9 +6,9 @@ eeda5c8618
 ###
 http://ru-homestuck.org/storyfiles/hs2/00807.gif
 ###
-Before you go out to feed BEC, you will need to prepare a meal for him.
+Прежде чем ты пойдешь кормить БЕКА, нужно приготовить ему еду.
 
-You clear some space on your work table so you can set up your REFRIGERATOR and COOKALIZER. 
+Ты освобождаешь немного пространства на рабочем столе и теперь можешь установить ХОЛОДИЛЬНИК и НАГРЕВАТЕЛЬ.
 ###
 002708
 X

@@ -1,4 +1,4 @@
-Jade: Captchalogue refrigerator.
+Джейд: Каптчалогировать холодильник.
 ###
 f83d5a755e
 ###
@@ -7,13 +7,13 @@ f83d5a755e
 http://ru-homestuck.org/storyfiles/hs2/00806_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00806_2.gif
 ###
-You take the REFRIGERATOR.
+Ты подбираешь ХОЛОДИЛЬНИК.
 
-You might as well grab the COOKALIZER too. No portable kitchen is complete without it.
+Также было бы здорово захватить НАГРЕВАТЕЛЬ. Ни одна портативная кухня не сможет без него обойтись.
 
-You take your LUNCHTOP too, because obviously you're going to be using that pretty soon.
+Еще ты берешь НОУТЕЙНЕР, ведь, очевидно, что собираешься использовать его довольно скоро.
 
-Whoops, there goes your FLUTE. But who cares.
+Упс, твоя ФЛЕЙТА улетела. Хотя, кого это волнует.
 ###
 002707
 X
