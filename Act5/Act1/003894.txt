@@ -1,4 +1,4 @@
-Try again.
+Попытаться снова.
 ###
 c366f99bf7
 ###
@@ -17,7 +17,7 @@ You like to chat with some of your other troll pals, most of which drive you BAT
 
 Но это случится скоро.
 
-Что ты будешь делать? 
+Что ты собираешься делать? 
 ###
 003895
 X
