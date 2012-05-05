@@ -1,4 +1,4 @@
-Jade: Organize all your dolls.
+Джейд: Сгруппировать всех кукол.
 ###
 aa816701db
 ###
@@ -6,7 +6,7 @@ aa816701db
 ###
 http://ru-homestuck.org/storyfiles/hs2/00799.gif
 ###
-You gather all your dolls into a rather cozy looking pile.
+Ты собираешь всех своих кукол в довольно уютно выглядящую кучу.
 ###
 002700
 X

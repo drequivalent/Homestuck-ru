@@ -1,4 +1,4 @@
-Jade: Change wardrobifier setting.
+Джейд: Изменить настройки автокостюмера.
 ###
 ea7b914a5d
 ###
@@ -7,9 +7,9 @@ ea7b914a5d
 http://ru-homestuck.org/storyfiles/hs2/00800_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00800_2.gif
 ###
-You deactivate the WARDROBIFIER'S randomization mode and set it to cycle through these three shirt designs.
+Ты отключаешь случайный порядок АВТОКОСТЮМЕРА и устанавливаешь для блузки цикл из трех рисунков.
 
-The decision was tough, but you think you came to the <a href="http://www.mspaintadventures.com/storyfiles/hs2/scraps/poll_jadeshirt.gif" target="_blank" class="postlink">best possible conclusion</a>.
+Решение было жестким, но ты считаешь, что пришла к <a href="http://www.mspaintadventures.com/storyfiles/hs2/scraps/poll_jadeshirt.gif" target="_blank" class="postlink">наилучшему заключению</a>.
 ###
 002701
 X

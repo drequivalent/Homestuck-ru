@@ -1,4 +1,4 @@
-Jade: Look out window.
+Джейд: Посмотреть из окна.
 ###
 73828c4e98
 ###
@@ -7,11 +7,11 @@ Jade: Look out window.
 http://ru-homestuck.org/storyfiles/hs2/00801_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00801_2.gif
 ###
-It is another beautiful day in your neighborhood. It is peaceful and quiet as usual. A rather imposing VOLCANO looms over your house, which has been inactive for centuries. 
+Окрестности озаряет очередной прекрасный день. Вокруг как обычно тихо и спокойно. Величественный ВУЛКАН возвышается над твоим домом, не проявляя активности в течение столетий.
 
-Though dormant on the surface, the volcanic activity deep underground provides your house with a source of GEOTHERMAL POWER. You are not sure why your grandfather decided to draw from this source of energy when he had the UNLIMITED POWER OF THE ATOM at his disposal. But it has been this way for as long as you can remember. 
+И хотя на поверхности он спит, вулканическая активность глубоко под землей обеспечивает твоему дому источник ГЕОТЕРМАЛЬНОЙ ЭНЕРГИИ. Ты не знаешь, почему дедушка решил сделать источник энергии из вулкана, ведь в его распоряжении имелась НЕОГРАНИЧЕННАЯ АТОМНАЯ СИЛА. Но, сколько ты себя помнишь, так было всегда.
 
-You have chalked it up to your family's longstanding propensity for eclectic fursuits wait you mean pursuits.
+Ты списываешь это на долголетнюю склонность семьи к эклектическим фурвлечениям ой ты имела в виду увлечениям.
 ###
 002702
 X

@@ -1,4 +1,4 @@
-Jade: Examine magic 8-ball and magic cue ball.
+Джейд: Исследовать магический шар-восьмерку и магический шар подсказок.
 ###
 10e9515188
 ###
@@ -6,11 +6,11 @@ Jade: Examine magic 8-ball and magic cue ball.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00804.gif
 ###
-These things are stupid and useless!
+Это глупые и бесполезные вещи!
 
-When the MAGIC 8 BALL isn't being frustratingly ambiguous, its forecast is always wrong! You have tested it numerous times with certain facts you know to be true. This is its reply when you ask if it is your friend John's birthday today. See? Stupid!
+Если МАГИЧЕСКИЙ ШАР-ВОСЬМЕРКА не удручающе противоречив, то его прогнозы вечно неправильны! Ты испытывала его бессчетное число раз на известных тебе правдивых фактах. Например, сейчас ты спросила его, сегодня ли день рождения твоего друга Джона. Видите? Тупица!
 
-You guess maybe it could be used as a reverse-prediction device, and always trust the opposite of what it says. But that seems dumb to you. And anyway, the thing gives you a bad vibe. You might consider smashing it, but you are a little superstitious about whatever ominous consequences that might have, even if the occult talisman in question is a cheap piece of garbage.
+Ты считаешь, что, вероятно, его можно использовать в качестве устройства обратного прогнозирования, и доверять противоположным предсказаниям. Но, на твой взгляд, это глупость. К тому же, у тебя плохое предчувствие насчет этой штуки. Ты могла бы разбить шар, но ты немного суеверна в отношении всего, что может иметь тяжелые последствия, даже если оккультный талисман, о котором идет речь, лишь дешевый кусок мусора.
 ###
 002705
 X

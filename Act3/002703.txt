@@ -1,4 +1,4 @@
-Jade: Open chest.
+Джейд: Открыть сундук.
 ###
 ad2a955414
 ###
@@ -7,9 +7,9 @@ ad2a955414
 http://ru-homestuck.org/storyfiles/hs2/00803_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00803_2.gif
 ###
-Among the FORTUNE TELLING KNICKKNACKS are these items: a CRYSTAL BALL plus compulsory VELVET PILLOW, a TAROT DECK, a MAGIC 8 BALL, a MAGIC CUE BALL, and one of your favorite books of all time, PROBLEM SOOTH.
+В число ПРЕДСКАЗЫВАЮЩИХ БУДУЩЕЕ БЕЗДЕЛУШЕК входят: ХРУСТАЛЬНЫЙ ШАР с необходимой БАРХАТНОЙ ПОДУШЕЧКОЙ, КОЛОДА ТАРО, МАГИЧЕСКИЙ ШАР-ВОСЬМЕРКА, МАГИЧЕСКИЙ ШАР ПОДСКАЗОК и одна из твоих любимейших книг всех времен и народов — ПРОБЛЕМНАЯ ИСТИНА.
 
-Among the USEFUL GIZMOS are of course your COMPUTER, which you keep inside a FUN LUNCHBOX for easy transport, and a couple of gizmos you keep handy so you don't always have to make the long trip to the kitchen. There is a COOKALIZER for preparing delicious meals, and a REFRIGERATOR, a name which clearly is a wacky variation on the much more common household item, the REFRIGIFYIFICATOR.
+Среди ПОЛЕЗНЫХ ВЕЩИЦ, конечно же, можно найти твой КОМПЬЮТЕР, который ты держишь внутри ВЕСЕЛОГО ПИЩЕВОГО КОНТЕЙНЕРА для удобства транспортировки, а также пару вещиц, что часто нужны под рукой, но за ними пришлось бы совершить долгую прогулку на кухню. А именно: ПИЩЕДЕЛ для приготовления вкусных блюд и ХОЛОДИЛЬНИК, чье название, безусловно, всего лишь дурацкий вариант намного более обобщенного предмета быта как ОХЛАДИТЕЛЬ.
 ###
 002704
 X
