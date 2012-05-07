@@ -1,4 +1,4 @@
-[A6I1] ==&gt;
+[А6И1] ==&gt;
 ###
 aeca51bcb3
 ###
@@ -7,9 +7,9 @@ aeca51bcb3
 http://ru-homestuck.org/storyfiles/hs2/04296.gif
 ###
 |ДИАЛОГЛОГ|
-<span style="color: #0715cd">JOHN: что...</span>
-<span style="color: #0715cd">JOHN: это...</span>
-<span style="color: #0715cd">JOHN: за хуйня?</span>
+<span style="color: #0715cd">ДЖОН: что...</span>
+<span style="color: #0715cd">ДЖОН: это...</span>
+<span style="color: #0715cd">ДЖОН: за хрень?</span>
 ###
 006200
 X

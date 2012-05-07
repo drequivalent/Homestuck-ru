@@ -1,4 +1,4 @@
-[A6I1] ==&gt;
+[А6И1] ==&gt;
 ###
 44a6aca864
 ###
@@ -7,15 +7,15 @@
 http://ru-homestuck.org/storyfiles/hs2/04299.gif
 ###
 |ДИАЛОГЛОГ|
-<span style="color: #0715cd">ДЖОН: погоди, что только что произошло?</span>
+<span style="color: #0715cd">ДЖОН: погодь, что только что произошло?</span>
 <span style="color: #4ac925">ДЖЕЙД: я не знаю!</span>
 <span style="color: #0715cd">ДЖОН: стало темней и зеленей...</span>
 <span style="color: #4ac925">ДЖЕЙД: :?</span>
-<span style="color: #0715cd">ДЖОН: это место странное. а когда мы проломимся через другое окно?</span>
-<span style="color: #0715cd">ДЖОН: я немногонервничаю перед нашим приключением и встречей со всеми!</span>
+<span style="color: #0715cd">ДЖОН: это место странное. когда мы уже проломимся через другое окно?</span>
+<span style="color: #0715cd">ДЖОН: я немного нервничаю перед нашим приключением и встречей со всеми!</span>
 <span style="color: #4ac925">ДЖЕЙД: да, я тоже</span>
 <span style="color: #4ac925">ДЖЕЙД: хмммм</span>
-<span style="color: #0715cd">ДЖОН: что это?</span>
+<span style="color: #0715cd">ДЖОН: в чем дело?</span>
 ###
 006203
 X

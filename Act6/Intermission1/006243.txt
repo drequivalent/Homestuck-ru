@@ -1,4 +1,4 @@
-[A6I1] ==&gt;
+[А6И1] ==&gt;
 ###
 ba3a7b86ea
 ###
@@ -7,10 +7,10 @@ ba3a7b86ea
 http://ru-homestuck.org/storyfiles/hs2/04340.gif
 ###
 |ДИАЛОГЛОГ|
-<span style="color: #0715cd">ДЖОН: ебать, это дейв спрайт!!!</span>
-<span style="color: #0715cd">ДЖОН: я забыл о нём.</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: охереть</span>
-<span style="color: #0715cd">ДЖОН: как ты, дружок?</span>
+<span style="color: #0715cd">ДЖОН: мать вашу, это дейвспрайт!!!</span>
+<span style="color: #0715cd">ДЖОН: я о нем забыл.</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: ага вот именно</span>
+<span style="color: #0715cd">ДЖОН: как ты, приятель?</span>
 <span style="color: #4ac925">ДЖЕЙД: тшшшшшшшшш!!!!!</span>
 <span style="color: #4ac925">ДЖЕЙД: пиши, поприветствуете друг друга позже!</span>
 ###

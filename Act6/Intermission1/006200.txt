@@ -1,4 +1,4 @@
-[A6I1] ==&gt;
+[А6И1] ==&gt;
 ###
 4888b398bb
 ###
@@ -7,9 +7,9 @@
 http://ru-homestuck.org/storyfiles/hs2/04297.gif
 ###
 |ДИАЛОГЛОГ|
-<span style="color: #4ac925">JADE: :|</span>
-<span style="color: #4ac925">JADE: понятия не имею</span>
-<span style="color: #4ac925">JADE: возможно внепространственные проделки, основанные на ялениях?????</span>
+<span style="color: #4ac925">ДЖЕЙД: :|</span>
+<span style="color: #4ac925">ДЖЕЙД: понятия не имею</span>
+<span style="color: #4ac925">ДЖЕЙД: возможно, сверхпространственные махинации создали это явление?????</span>
 ###
 006201
 X

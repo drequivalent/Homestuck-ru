@@ -1,4 +1,4 @@
-[A6I1] ==&gt;
+[А6И1] ==&gt;
 ###
 e42f6a4396
 ###
@@ -7,15 +7,15 @@ e42f6a4396
 http://ru-homestuck.org/storyfiles/hs2/04339.gif
 ###
 |ДИАЛОГЛОГ|
-<span style="color: #4ac925">ДЖЕЙД: сюда сработает?</span>
-<span style="color: #0715cd">ДЖОН: о-да, прекрасно.</span>
-<span style="color: #0715cd">ДЖОН: сейчас, уххх, что же написать...</span>
-<span style="color: #4ac925">ДЖЕЙД: без разницы, просто сделай это быстро!</span>
+<span style="color: #4ac925">ДЖЕЙД: вот, это сработает?</span>
+<span style="color: #0715cd">ДЖОН: о-да, просто прекрасно.</span>
+<span style="color: #0715cd">ДЖОН: теперь, уххх, что же написать...</span>
+<span style="color: #4ac925">ДЖЕЙД: без разницы, но делай это быстрее!</span>
 <span style="color: #4ac925">ДЖЕЙД: и передай всем привет!</span>
-<span style="color: #0715cd">ДЖОН: ок, передам.</span>
-<span style="color: #4ac925">ДЖЕЙД: хорошо, пока ты занят я перетащу друзей</span>
+<span style="color: #0715cd">ДЖОН: хорошо, передам.</span>
+<span style="color: #4ac925">ДЖЕЙД: так, пока ты занят, я перетащу пару друзей</span>
 <span style="color: #0715cd">ДЖОН: а?</span>
-<span style="color: #4ac925">ДЖЕЙД: ну, позволить нашим попутчикам познакомиться с кораблём!</span>
+<span style="color: #4ac925">ДЖЕЙД: ну, позволю нашим попутчикам познакомиться с кораблем!</span>
 ###
 006243
 X

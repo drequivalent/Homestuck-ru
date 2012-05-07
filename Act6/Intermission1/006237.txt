@@ -1,4 +1,4 @@
-[A6I1] ==&gt;
+[А6И1] ==&gt;
 ###
 9cfae2e9ce
 ###
@@ -7,23 +7,23 @@
 http://ru-homestuck.org/storyfiles/hs2/04334.gif
 ###
 |ДИАЛОГЛОГ|
-<span style="color: #4ac925">ДЖЕЙД: да</span>
-<span style="color: #4ac925">ДЖЕЙД: фактически</span>
-<span style="color: #4ac925">ДЖЕЙД: ты можешь прыгнуть через меня и присоединиться к ним</span>
-<span style="color: #4ac925">ДЖЕЙД: а потом, если захочешь, путешествовать с ними к новой сессии</span>
-<span style="color: #0715cd">ДЖОН: воа!</span>
-<span style="color: #0715cd">ДЖОН: хорошо, чёрт, почему бы нам так и не поступить?</span>
-<span style="color: #0715cd">ДЖОН: с ними будет веселей, чем одним на этом золотом военном корабле.</span>
+<span style="color: #4ac925">ДЖЕЙД: ага</span>
+<span style="color: #4ac925">ДЖЕЙД: серьезно</span>
+<span style="color: #4ac925">ДЖЕЙД: можешь прыгнуть через меня и присоединиться к ним</span>
+<span style="color: #4ac925">ДЖЕЙД: и если захочешь, путешествовать с ними к новой сессии</span>
+<span style="color: #0715cd">ДЖОН: ух ты!</span>
+<span style="color: #0715cd">ДЖОН: но, черт, почему бы нам так и не поступить?</span>
+<span style="color: #0715cd">ДЖОН: с ними будет веселей, чем одним на этом золотом линкоре.</span>
 <span style="color: #4ac925">ДЖЕЙД: так то оно так!</span>
-<span style="color: #4ac925">ДЖЕЙД: но я не могу пойти с тобой</span>
-<span style="color: #4ac925">ДЖЕЙД: я могу функционировать только как врата</span>
-<span style="color: #4ac925">ДЖЕЙД: но я могу путешествовать к солнцу самостоятельно, помнишь?</span>
+<span style="color: #4ac925">ДЖЕЙД: но я не могу с тобой пойти</span>
+<span style="color: #4ac925">ДЖЕЙД: я могу быть только вратами</span>
+<span style="color: #4ac925">ДЖЕЙД: но, я могу путешествовать к солнцу самостоятельно, помнишь?</span>
 <span style="color: #0715cd">ДЖОН: о-да.</span>
-<span style="color: #0715cd">ДЖОН: чёрт!</span>
-<span style="color: #4ac925">ДЖЕЙД: всё норм, правда!</span>
-<span style="color: #4ac925">ДЖЕЙД: я не буду возражать если ты действительно этого хочешь</span>
-<span style="color: #4ac925">ДЖЕЙД: что бы ты ни выбрал, ты должен решить быстро</span>
-<span style="color: #4ac925">ДЖЕЙД: они скоро депортируются от солнца</span>
+<span style="color: #0715cd">ДЖОН: черт возьми!</span>
+<span style="color: #4ac925">ДЖЕЙД: все норм, правда!</span>
+<span style="color: #4ac925">ДЖЕЙД: я не буду возражать, если ты этого хочешь</span>
+<span style="color: #4ac925">ДЖЕЙД: но что бы ты ни выбрал, ты должен решить быстро</span>
+<span style="color: #4ac925">ДЖЕЙД: они очень скоро отдалятся от солнца</span>
 <span style="color: #0715cd">ДЖОН: я не хочу оставлять тебя одну на 3 года.</span>
 <span style="color: #0715cd">ДЖОН: это хреново!</span>
 <span style="color: #4ac925">ДЖЕЙД: я буду не совсем одна</span>
