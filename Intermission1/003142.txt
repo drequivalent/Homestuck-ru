@@ -1,4 +1,4 @@
-[I] SS: Return to being Hearts Boxcars.
+[I] СС: Стать Хартсом Бокскарсом опять.
 ###
 d3d3bf9e0e
 ###
@@ -7,15 +7,15 @@ d3d3bf9e0e
 http://ru-homestuck.org/storyfiles/hs2/01242_1.gif
 http://ru-homestuck.org/storyfiles/hs2/01242_2.gif
 ###
-Spades Slick cannot return to being Hearts Boxcars because obviously Diamonds Droog is too busy being Clubs Deuce.
+Спейдс Слик не может снова стать Хартсом Бокскарсом, потому что Даймондс Друг, очевидно, слишком занят тем, что он - Клабс Дьюс.
 
-You just watched <span style="color: #2ed73a">Trace</span> throw a punch into thin air for some reason. That guy's awfully silly!
+Вы только что наблюдали, как <span style="color: #2ed73a">Трейс</span> по какой-то причине провел удар в воздухе. Этот парень просто смешон!
 
-He then skulks off somewhere. 
+Потом он куда-то смылся. 
 
-You don't realize he's following Droog's PAST TRAIL through the mansion until he gets to the point where it intersects with your trail, at which point he'll start following you.
+Вы не понимаете, что он идет по СЛЕДУ ИЗ ПРОШЛОГО, оставленному Даймондсом Другом через особняк, пока не натыкается на точку, в котором он пересекается с Вашим, после чего он начнет следовать за Вами.
 
-But we all realized it. Because it's obvious and couldn't possibly be more clear.
+Но мы все это понимаем. Потому что это очевидно, и яснее быть просто не может.
 ###
 003143
 X

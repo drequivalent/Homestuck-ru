@@ -8,9 +8,9 @@ http://ru-homestuck.org/storyfiles/hs2/01243.gif
 ###
 Вы следуете простым инструкциям Друга. Настолько простым, что даже забывчивый дурачок как Вы может помнить.
 
-There's a BLOOD TRAIL on the floor that goes in a different direction than <span style="color: #2ed73a">Trace</span> went. You decide to follow it, because that sounds like a really good idea to you.
+На полу есть КРОВАВЫЙ СЛЕД, который идет в ином направлении, чем <span style="color: #2ed73a">Трейс</span>. Вы решаете проследовать по нему, потому что Вам это кажется действительно хорошей идеей.
 
-If there was something you were supposed to do after helping out Droog, you'll be damned if you remember what it was.
+Если и было что-то с чем Вы должны были помочь Другу, Вы ни за что на свете не сможете это вспомнить.
 ###
 003144
 X
