@@ -1,4 +1,4 @@
-[I] SS: Scan the barcode.
+[И] SS: Scan the barcode.
 ###
 1d303084e7
 ###

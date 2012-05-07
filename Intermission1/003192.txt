@@ -1,4 +1,4 @@
-[I] SS: Knock Sawbuck unconscious.
+[И] SS: Knock Sawbuck unconscious.
 ###
 f01e454b8f
 ###

@@ -1,4 +1,4 @@
-[I] SS: Ignore him and just pry the safe open.
+[И] SS: Ignore him and just pry the safe open.
 ###
 7ce3dc0ee7
 ###

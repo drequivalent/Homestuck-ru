@@ -1,4 +1,4 @@
-[I] CD: Turn up heat on Biscuit's oven.
+[И] CD: Turn up heat on Biscuit's oven.
 ###
 5803be040a
 ###

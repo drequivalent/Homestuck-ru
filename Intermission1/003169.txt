@@ -1,4 +1,4 @@
-[I] SS: Remove knife from eye.
+[И] SS: Remove knife from eye.
 ###
 b947bed4aa
 ###

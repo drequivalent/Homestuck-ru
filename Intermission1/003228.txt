@@ -1,4 +1,4 @@
-[I] DD: Check personal ads of periodical.
+[И] DD: Check personal ads of periodical.
 ###
 ed8ed8ba72
 ###

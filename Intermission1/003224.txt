@@ -1,4 +1,4 @@
-[I] SS: Politely ask Clover to remain calm.
+[И] SS: Politely ask Clover to remain calm.
 ###
 60ebe4baff
 ###

@@ -1,4 +1,4 @@
-[I] SS: Insert and quickly remove Snowman's pin.
+[И] SS: Insert and quickly remove Snowman's pin.
 ###
 f3eae3a7d1
 ###

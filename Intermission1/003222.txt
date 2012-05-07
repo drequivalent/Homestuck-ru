@@ -1,4 +1,4 @@
-[I] SS: Use crowbar to pry the safe open.
+[И] SS: Use crowbar to pry the safe open.
 ###
 f0bebe996d
 ###

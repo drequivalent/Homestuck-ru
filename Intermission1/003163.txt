@@ -1,4 +1,4 @@
-[I] SS: Remove Crowbar's pin.
+[И] SS: Remove Crowbar's pin.
 ###
 acd8141494
 ###

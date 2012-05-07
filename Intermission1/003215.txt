@@ -1,4 +1,4 @@
-[I] HB: Attempt to eat Eggs.
+[И] HB: Attempt to eat Eggs.
 ###
 09e4d98cbe
 ###

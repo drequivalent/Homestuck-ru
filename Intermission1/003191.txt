@@ -1,4 +1,4 @@
-[I] SS: Quickly remove lance from Sawbuck.
+[И] SS: Quickly remove lance from Sawbuck.
 ###
 c061a0c457
 ###

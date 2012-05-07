@@ -1,4 +1,4 @@
-[I] DD: Call Spades.
+[И] DD: Call Spades.
 ###
 9f41b139e6
 ###

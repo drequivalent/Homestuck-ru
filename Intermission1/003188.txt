@@ -1,4 +1,4 @@
-[I] PSS: Remove Crowbar's pin.
+[И] PSS: Remove Crowbar's pin.
 ###
 e0e4628851
 ###

@@ -1,4 +1,4 @@
-[I] SS: Stick Crowbar's pin back in again.
+[И] SS: Stick Crowbar's pin back in again.
 ###
 286ce13a50
 ###

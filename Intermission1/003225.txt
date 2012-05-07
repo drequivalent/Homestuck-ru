@@ -1,4 +1,4 @@
-[I] DD: Ask Clover for the ultimate riddle.
+[И] DD: Ask Clover for the ultimate riddle.
 ###
 3b1f6c73e1
 ###

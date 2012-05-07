@@ -1,4 +1,4 @@
-[I] SS: Bring knives to the gunfight.
+[И] SS: Bring knives to the gunfight.
 ###
 b046f93924
 ###

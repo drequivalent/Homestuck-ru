@@ -1,4 +1,4 @@
-[I] SS: Hit Crowbar in the head.
+[И] SS: Hit Crowbar in the head.
 ###
 54a9e4b9e4
 ###

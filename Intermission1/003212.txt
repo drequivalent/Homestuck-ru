@@ -1,4 +1,4 @@
-[I] SS: Start whacking things with the crowbar.
+[И] SS: Start whacking things with the crowbar.
 ###
 d09b3c1ba1
 ###

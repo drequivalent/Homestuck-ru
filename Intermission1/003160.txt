@@ -1,4 +1,4 @@
-[I] DD: Sneak into Stitch's boutique.
+[И] DD: Sneak into Stitch's boutique.
 ###
 a65c2696aa
 ###

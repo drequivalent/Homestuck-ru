@@ -1,4 +1,4 @@
-[I] HB: Use Eggs' body as bait for Cans.
+[И] HB: Use Eggs' body as bait for Cans.
 ###
 0e43ab1512
 ###

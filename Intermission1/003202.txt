@@ -1,4 +1,4 @@
-[I] SS: Arm yourself, in case Cans shows up.
+[И] SS: Arm yourself, in case Cans shows up.
 ###
 ef14ed6e1f
 ###

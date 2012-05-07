@@ -1,4 +1,4 @@
-[I] DD: Have Stitch patch up SS's effigy.
+[И] DD: Have Stitch patch up SS's effigy.
 ###
 cc87a78dc2
 ###
