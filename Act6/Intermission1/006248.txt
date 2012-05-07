@@ -1,4 +1,4 @@
-[A6I1] Rose + Dave: Reap spoils.
+[A6I1] Роуз + Дейв: пожинать плоды.
 ###
 0e4511d714
 ###
@@ -6,7 +6,7 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/04345.gif
 ###
-You both also get one of these. Now you can start flapping your traps with wild abandon at anyone you please.
+Такой же прибор есть и у вас.  Со всеми трепаться можете начинать хоть сейчас.
 ###
 006249
 X
