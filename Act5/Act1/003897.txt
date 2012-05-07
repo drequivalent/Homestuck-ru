@@ -1,4 +1,4 @@
-Karkat: Examine movie posters.
+Каркат: Осмотреть постеры.
 ###
 274eec48ef
 ###
@@ -6,15 +6,15 @@ Karkat: Examine movie posters.
 ###
 http://ru-homestuck.org/storyfiles/hs2/01997.gif
 ###
-Ok, it's time to get serious here.  Sweet Troll Jegus. Let's get real and get down to some major business.
+Ладно, пора серьезно подойти к делу. Иегус всемогущий тролль! Спустись на землю и займись действительно важными вещами.
 
-You space out and get caught up reading the titles of the films for about five minutes. Wow these movies are great. You don't care what anyone says. Pure magic.
+Ты отключаешься и зависаешь над чтением названий фильмов на несколько минут. Класс, эти фильмы просто нечто. И тебя не волнует, что говорят другие. Чистая магия.
 
-Is that...
+Это...
 
-Is that John Cusack?
+Это что, Джон Кьюсак?
 
-The thing that most people don't realize is that John Cusack is a universal constant.
+Дело в том, что большинство людей не понимаю, что Джон Кьюсак является универсальной константой.
 ###
 003898
 X

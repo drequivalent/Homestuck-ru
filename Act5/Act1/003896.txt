@@ -1,4 +1,4 @@
-Karkat: Get in.
+Каркат: Забраться внутрь.
 ###
 41563b9a0e
 ###
@@ -6,11 +6,11 @@ Karkat: Get in.
 ###
 http://ru-homestuck.org/storyfiles/hs2/01996.gif
 ###
-Ok, this sure is cozy and all, but you can't be napping all day like a chump. Dammit, you're a busy guy. You are sort of a big deal.
+Нда, естественно, он уютный и все такое, но ты не можешь дремать целый день как какой-то болван. Ты, черт возьми, занятой парень. Ты вроде как важная личность.
 
-Goddamn slime. Now you have to change your clothes too. What were you thinking?
+Чертова слизь. Теперь тебе придется сменить одежду. И о чем ты только думал?
 
-Luckily all your clothes are the same. Trolls think fashion is stupid.
+К счастью, вся твоя одежда выглядит одинаково. Тролли считают моду глупостью.
 ###
 003897
 X

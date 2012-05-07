@@ -1,4 +1,4 @@
-Karkat: Examine slimy purple pod.
+Каркат: Осмотреть склизкий пурпурный кокон.
 ###
 0729dc8fbd
 ###
@@ -6,9 +6,9 @@ Karkat: Examine slimy purple pod.
 ###
 http://ru-homestuck.org/storyfiles/hs2/01995.gif
 ###
-It is your RECUPERACOON full of nourishing SOPOR SLIME. Every young troll enjoys the cozy embrace of such a vessel each night, and the relaxing ooze helps assuage the terrible visions of blood and carnage that plague the dark subconscious of your species.
+Это твой РЕГЕНЕКОКОН, заполненный питательной ЛЕТАРГИЧЕСКОЙ СЛИЗЬЮ. Каждый молодой тролль по ночам залезает в уютные объятия подобного сосуд, и расслабляющая влага помогает смягчить ужасные видения крови и резни, что беспокоят тьму подсознания твоего вида.
 
-It is so inviting... a few minutes couldn't hurt.
+Он столь заманчив... несколько минут не повредят.
 ###
 003896
 X
