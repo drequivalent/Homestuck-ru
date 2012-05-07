@@ -1,4 +1,4 @@
-[I] SS: Dramatically use the spade key.
+[I] СС: Драматично использовать ключ с пикой.
 ###
 1ad9904479
 ###
@@ -6,7 +6,7 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01339.gif
 ###
-You guess this is what the SPADE KEY was for all this time. You dramatically wield the SPADE KEY in a matter of fact manner.
+Вот, кажется, для чего ПИКОВЫЙ КЛЮЧ был нужен все это время. Вы по-настоящему драматично держите ПИКОВЫЙ КЛЮЧ.
 ###
 003240
 X

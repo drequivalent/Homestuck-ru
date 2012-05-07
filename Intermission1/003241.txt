@@ -1,4 +1,4 @@
-[I] SS: Use rules card for blackjack.
+[I] СС: Использовать карту с правилами Блэкджека.
 ###
 e539367f2b
 ###
@@ -6,9 +6,9 @@ e539367f2b
 ###
 http://ru-homestuck.org/storyfiles/hs2/01341.gif
 ###
-This was never a problem because there is clearly a barcode printed on your RULES CARD FOR BLACKJACK.
+Это никогда и не было проблемой, потому что на Вашей КАРТЕ С ПРАВИЛАМИ БЛЕКДЖЕКА очевидно напечатан штрих-код.
 
-As well as your arm. But there's nothing wrong with a little redundancy you guess.
+Так же как и на Вашей руке. Но в небольшом излишестве, как Вам кажется, нет ничего плохого.
 ###
 003242
 X

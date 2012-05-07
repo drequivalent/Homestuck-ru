@@ -1,4 +1,4 @@
-[I] SS: Get on with it.
+[I] СС: Приступить.
 ###
 fe9090a1b6
 ###
@@ -6,7 +6,7 @@ fe9090a1b6
 ###
 http://ru-homestuck.org/storyfiles/hs2/01342.gif
 ###
-Huh?
+А?
 ###
 003243
 X

@@ -1,4 +1,4 @@
-[I] SS: Enter the vault.
+[I] СС: Войти в хранилище.
 ###
 85ccab11a3
 ###
@@ -6,9 +6,9 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01338.gif
 ###
-There's nothing in here except an opening in the floor. There is a door with a keyhole, and you have a feeling you know how to open it.
+Здесь нет ничего, кроме отверстия в полу. В нем есть люк с замочной скважиной, и у Вас есть ощущение, будто Вы знаете, как его открыть.
 
-You only wonder why <span style="color: #2ed73a">English</span>'s treasure would be locked behind a door with a spade on it.
+Единственное, Вы удивляетесь, почему сокровище <span style="color: #2ed73a">Инглиша</span> скрывается за дверью, на которой нарисована пика.
 ###
 003239
 X

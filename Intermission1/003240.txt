@@ -1,4 +1,4 @@
-[I] SS: Peek inside keyhole.
+[I] СС: Посмотреть в скважину.
 ###
 2f1c63f2c0
 ###
@@ -6,9 +6,9 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01340.gif
 ###
-What KEYHOLE? It was clearly a BARCODE SCANNER all along. Like the kind they sweep groceries over at supermarkets. That reminds you, you should really do some shopping next week.
+Какую СКВАЖИНУ? Это все время был СКАНЕР ШТРИХ-КОДОВ. Наподобие тех, над которыми в супермаркетах проносят продукты. Это напоминает Вам о том, что на следующей неделе неплохо бы сходить в магазин.
 
-You're not going to peek inside because the lasers could blind you in one eye. OH WAIT
+Вы не собираетесь смотреть в него, потому что лазеры могут испортить Вам зрение. ОЙ, СЕКУНДУ
 ###
 003241
 X
