@@ -1,4 +1,4 @@
-[И] SS: Insert and quickly remove Snowman's pin.
+[И] СС: Воткнуть и быстро вытащить булавку Снеговика.
 ###
 f3eae3a7d1
 ###
@@ -6,9 +6,9 @@ f3eae3a7d1
 ###
 http://ru-homestuck.org/storyfiles/hs2/01266.gif
 ###
-You have no idea how much you'd like to. But even you're not that crazy.
+Вы и понятия не имеете, насколько сильно Вам хочется. Но даже Вы не настолько сумасшедший.
 
-Still, kinda tempting.
+Все равно соблазнительно.
 ###
 003167
 X

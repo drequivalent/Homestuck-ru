@@ -1,4 +1,4 @@
-[И] SS: Occam's Razor. Crowbar's head. Make it hapen.
+[И] СС: Бритва Оккама. Голова Фомки. Сделай это.
 ###
 876286a51d
 ###
@@ -6,7 +6,7 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01273.gif
 ###
-<span style="color: #2ed73a">Crowbar</span> deflects the KING OF SPADES into <span style="color: #2ed73a">Sawbuck</span>'s unmissable carriage. You jump far into the past.
+<span style="color: #2ed73a">Фомка</span> отражает ПИКОВОГО КОРОЛЯ в огромную тушу <span style="color: #2ed73a">Соубака</span>. Вы прыгаете далеко в прошлое.
 ###
 003174
 X

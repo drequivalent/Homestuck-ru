@@ -1,4 +1,4 @@
-[И] HB: Call Spades for backup.
+[И] ХБ: Позвать Спейдса на помощь.
 ###
 4bbc3c0e26
 ###
@@ -6,9 +6,9 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01254.gif
 ###
-You tell Slick to get his scrawny ass to the vault. It's goddamn bedlam down here. You tell him you asked Deuce for backup but surprise surprise he's nowhere to be found. Big surprise, you tell him. You tell him that was sarcasm. He says he knows.
+Вы говорите Слику, чтобы он тащил свою худосочную задницу к ахранилищу. Здесь чертов бедлам. Вы говорите, что звали на помощь Дьюса, но, сюрприз - сюрприз, его нигде нет. Огромный сюрприз, говорите. Вы добавляете, что это был сарказм. Он говорит, что знает.
 
-Slick says he'll be right there. He'll see if he can round up Droog for support.
+Слик говорит, что будет через мгновение. Он посмотрит, сможет ли вызвать Друга на подмогу.
 ###
 003155
 X

@@ -1,4 +1,4 @@
-[И] SS: Remove knife from eye.
+[И] СС: Вытащить нож из глаза.
 ###
 b947bed4aa
 ###
@@ -6,9 +6,9 @@ b947bed4aa
 ###
 http://ru-homestuck.org/storyfiles/hs2/01269.gif
 ###
-It's not a knife. It's <span style="color: #2ed73a">Sn</span><span style="color: black">o</span><span style="color: #2ed73a">wman</span>'s CIGARETTE HOLDER.
+Это не нож. Это МУНДШТУК <span style="color: #2ed73a">Снег</span><span style="color: black">о</span><span style="color: #2ed73a">вика</span>.
 
-All you know is she's gonna have a hell of a time getting it back.
+И Вы знаете, что ей придется чертовски сильно постараться, чтобы заполучить его назад.
 ###
 003170
 X

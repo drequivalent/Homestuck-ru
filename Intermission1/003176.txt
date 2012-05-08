@@ -1,4 +1,4 @@
-[И] SS: Stuff him in your deck of cards.
+[И] СС: Засунуть его в свою колоду карт.
 ###
 52d70df4c4
 ###
@@ -6,11 +6,11 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01276.gif
 ###
-You cram him in the WAR CHEST.
+Вы кидаете его в свой СУНДУК ВОЙНЫ.
 
-<span style="color: #2ed73a">Sawbuck </span>you need to keep alive too, for the moment. Not to return to the right timeline, but the right time.
+<span style="color: #2ed73a">Соубака</span> нужно тоже пока что оставить в живых. Не для того, чтобы вернуться в ту временную линию, но - в правильное время.
 
-Speaking of which, where's tubby think he's waddling off to.
+Кстати, куда это он смыться собрался.
 ###
 003177
 X

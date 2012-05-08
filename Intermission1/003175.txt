@@ -1,4 +1,4 @@
-[И] SS: Hit Crowbar in the head.
+[И] СС: Ударить Фомку по голове.
 ###
 54a9e4b9e4
 ###
@@ -6,9 +6,9 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01275.gif
 ###
-You can't kill him yet. You need him alive to return to the original timeline. 
+Вы еще не можете его убить. Он нужен живым, чтобы вернуться в оригинальную временную линию. 
 
-You will be taking that CROWBAR though.
+Но вы отберете у него эту ФОМКУ, по крайней мере.
 ###
 003176
 X

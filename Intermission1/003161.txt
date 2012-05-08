@@ -6,9 +6,9 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01261.gif
 ###
-You admit the thought of carrying an imprisoned tailor wherever you go is gratifying for personal reasons.
+Вы признаете, что идея ношения с собой пленного портного удовлетворяюща в плане личных интересов.
 
-But in this case keeping him alive should be useful in dealing with <span style="color: #2ed73a">English</span> later.
+Но в этом случае оставить его живым полезно, чтобы бозже разделаться с <span style="color: #2ed73a">Инглишем</span>.
 ###
 003162
 X

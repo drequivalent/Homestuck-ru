@@ -1,4 +1,4 @@
-[И] DD: Sneak into Stitch's boutique.
+[И] ДД: Пробраться в мастерскую Шва.
 ###
 a65c2696aa
 ###
@@ -6,11 +6,11 @@ a65c2696aa
 ###
 http://ru-homestuck.org/storyfiles/hs2/01260.gif
 ###
-Drop it and get in.
+Бросьте эту штуку, и залезайте.
 
-Don't bleed on the suits.
+DНе испачкайте костюмы.
 
-<span style="color: #2ed73a">Stitch</span> says huh?
+<span style="color: #2ed73a">Шов</span> говорит "А?"
 ###
 003161
 X

@@ -1,4 +1,4 @@
-[И] SS: Kill something out of rage and frustration.
+[И] СС: Убить кого-нибудь из ярости и досады.
 ###
 836dfe96b8
 ###
@@ -6,7 +6,7 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01271.gif
 ###
-<span style="color: #2ed73a">Stitch</span> gets the business end of your SABER RATTLE. He's dead. In this timeline at least.
+<span style="color: #2ed73a">Шов</span> поучает лезвие Вашей УГРОЖАЮЩЕЙ САБЛИ. Он мертв. По крайней мере, в этой временной линии.
 ###
 003172
 X

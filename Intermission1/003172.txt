@@ -1,4 +1,4 @@
-[И] SS: Bring knives to the gunfight.
+[И] СС: Принести ножей на перестрелку.
 ###
 b046f93924
 ###
@@ -6,11 +6,11 @@ b046f93924
 ###
 http://ru-homestuck.org/storyfiles/hs2/01272.gif
 ###
-Where do you think you're going, fatty?
+Ты куда собрался, жирдяй?
 
-You'll deal with him in a minute. 
+Вы справитесь с ним мгновенно. 
 
-You whip out your DOUBLE EDGED SWORD and OCCAM'S RAZOR.
+Вы достаете свои ОБОЮДООСТРЫЙ МЕЧ и БРИТВУ ОККАМА.
 ###
 003173
 X
