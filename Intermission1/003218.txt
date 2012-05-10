@@ -1,4 +1,4 @@
-[И] SS: Crowbar. Biscuits' oven. Make it hapen.
+[И] СС: Фомка. Духовка Бизкитса. Сделай это.
 ###
 406d6474d8
 ###
@@ -6,9 +6,9 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01318.gif
 ###
-You deal the oven a wicked flogging but not much happens.
+Вы долбите духовку что есть сил, но от этого мало, что меняется.
 
-The oven doesn't really have any magical time properties to be negated. It just travels into the future at a rate of one second per second, like everyone else.
+У этой духовки, на самом деле, нет никаких особых волшебных временных свойств, чтобы их можно было отменить. Она путешествует в будущее со скоростью секунда в секунду, как и все остальные.
 ###
 003219
 X

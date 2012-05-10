@@ -1,4 +1,4 @@
-[И] CD: Turn up heat on Biscuit's oven.
+[И] КД: Включить газ на духовке Бизкитса.
 ###
 5803be040a
 ###
@@ -7,9 +7,9 @@
 http://ru-homestuck.org/storyfiles/hs2/01320_1.gif
 http://ru-homestuck.org/storyfiles/hs2/01320_2.gif
 ###
-You're pretty sure this oven doesn't actually work at all. 
+Вы догадываетесь, что духовка, в общем-то не работает. 
 
-You just wheel it off somewhere else in the mansion so it can explode in peace.
+Вы просто отвозите ее в какое-то другое место в особняке, где она сможет спокойно себе взорваться.
 ###
 003221
 X

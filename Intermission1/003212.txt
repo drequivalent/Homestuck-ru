@@ -1,12 +1,11 @@
-[И] SS: Start whacking things with the crowbar.
+[И] СС: Начать бить окружающие предметы фомкой.
 ###
 d09b3c1ba1
 ###
 1265354054
 ###
 http://ru-homestuck.org/storyfiles/hs2/01312.gif
-###
-The first thing you whack is <span style="color: #2ed73a">Eggs</span>'s EGG TIMER. 
+Первая вещь, которую Вы разбиваете - ТАЙМЕР <span style="color: #2ed73a">Эггза</span>. 
 ###
 003213
 X

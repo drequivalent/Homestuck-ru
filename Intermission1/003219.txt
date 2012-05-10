@@ -1,4 +1,4 @@
-[И] CD: Put dynamite in oven.
+[И] КД: Положить в духовку динамита.
 ###
 07e0206710
 ###
@@ -6,7 +6,7 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01319.gif
 ###
-You set the bomb to go off in a few seconds, when both it and <span style="color: #2ed73a">Biscuits </span>are released from it in a few hours.
+Вы ставите бомбу на несколько секунд, в то время, как она и <span style="color: #2ed73a">Бизкитс</span> вылезут из нее только через несколько часов.
 ###
 003220
 X

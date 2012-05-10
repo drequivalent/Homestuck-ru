@@ -1,4 +1,4 @@
-[И] DD: Have Stitch patch up SS's effigy.
+[И] ДД: Заставить Шва зашить эффигию СС.
 ###
 cc87a78dc2
 ###
@@ -6,7 +6,7 @@ cc87a78dc2
 ###
 http://ru-homestuck.org/storyfiles/hs2/01299.gif
 ###
-Get to work, threadmonkey.
+Работать, обезьянка.
 ###
 003200
 X

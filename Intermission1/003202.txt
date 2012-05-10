@@ -1,4 +1,4 @@
-[И] SS: Arm yourself, in case Cans shows up.
+[И] СС: Вооружится, на случай, если заявится Кэнс.
 ###
 ef14ed6e1f
 ###
@@ -6,9 +6,9 @@ ef14ed6e1f
 ###
 http://ru-homestuck.org/storyfiles/hs2/01302.gif
 ###
-If <span style="color: #2ed73a">Cans</span> shows up, none of these weapons you've got are going to do any good.
+Если заявится <span style="color: #2ed73a">Кэнс</span>, ни одно из этих оружий Вас не спасет.
 
-You admire the LANCE for a moment. It's a pretty sweet weapon with outstanding craftsmanship. At least you got something out of the eye-gouging. She'll have to pry this thing from your rigid severed arm if she wants it back.
+Вы некоторое время с восхищением смотрите на КОПЬЕ. Превосходно сделанное и очень красивое оружие. По крайней мере, взамен глаза у Вас что-то есть. Если она хочет его обратно, ей придется у Вас его с рукой оторвать.
 ###
 003203
 X

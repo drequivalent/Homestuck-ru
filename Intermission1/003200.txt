@@ -1,4 +1,4 @@
-[И] SS: Have right eye patched up.
+[И] СС: Дать зашить себе правй глаз.
 ###
 9c49259df8
 ###
@@ -6,11 +6,11 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01300.gif
 ###
-DAMMIT.
+ПРОКЛЯТЬЕ.
 
-Your sprite was flipped the wrong way.
+Ваш спрайт был повернут не в ту сторону.
 
-You get Diamonds on the radio and tell him to undo it and wait until you're turned around. He says it's the right eye, right? Were you facing left or right? You say it's only right when facing left. It's the left eye when facing right. He says oh, so it's the left-right eye. You say yeah, but hang on a minute, you'll turn around so it's right-left. He says ok, he'll wait.
+Вы вызываете Даймондса по рации, и говорите ему, чтобы сделал все как было, и подождал, пока Вы повернетесь. Он спрашивает, нужен же правый глаз, верно? Вы влево, или вправо смотрели? Он говорит, что он правый только когда Вы смотрите влево. А когда влево, он - правый. Он говорит, а, так это левый-правый глаз. Вы отвечаете, да, но вы повернетесь, и он станет правым-левым. Он говорит, что подождет.
 ###
 003201
 X

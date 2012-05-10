@@ -1,4 +1,4 @@
-[И] DD: Check personal ads of periodical.
+[И] ДД: Проверить полоыс бесплатных объявлений.
 ###
 ed8ed8ba72
 ###
@@ -7,9 +7,9 @@ ed8ed8ba72
 http://ru-homestuck.org/storyfiles/hs2/01328_1.gif
 http://ru-homestuck.org/storyfiles/hs2/01328_2.gif
 ###
-This isn't a real newspaper. It's just a wrapper for your private sordid literature, which no one can ever see.
+Это не настоящая газета. Это просто маскировка для Вашей похабной литературы, чтобы ее никто не замечал.
 
-Uh oh, it's slipping out a bit. Your appetite for MONOCHROME BEAUTIES is nearly on public display. Gotta keep a lid on that smut! Especially with <span style="color: #2ed73a">Clover</span> around.
+Ой, выскальзывает малость. Ваше пристрастие к ЧЕРНО-БЕЛЫМ КРАСАВИЦАМ почти что на всеобщем обозрении. Надо получше прятать свою порнушку! Особенно, когда <span style="color: #2ed73a">Клевер</span> рядом.
 ###
 003229
 X

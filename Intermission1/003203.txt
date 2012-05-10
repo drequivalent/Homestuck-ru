@@ -1,4 +1,4 @@
-[И] SS: Ride around on horse hitcher pretending to joust.
+[И] СС: Покататься верхом на лошадиной трости как на рыцарском поединке.
 ###
 3f5cd2b00b
 ###
@@ -6,7 +6,7 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01303.gif
 ###
-YEEEEEEEEEEEEEEEEEEEEEEHAAAAAAAAAAAAAAAAA...
+ЙИИИИИИИИИИИИИИИИИИИИИИХААААААААААААААААА...
 ###
 003204
 X

@@ -1,4 +1,4 @@
-[И] DD: Resist urge to shout &quot;Oh Yeah!&quot;
+[И] ДД: Удержаться от соблазна воскликнуть &quot;О, да!&quot;
 ###
 66012ed0e3
 ###
@@ -6,7 +6,7 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01331.gif
 ###
-<span style="color: red"><span style="font-style: italic">Oh No!</span></span>
+<span style="color: red"><span style="font-style: italic">О, нет!</span></span>
 ###
 003232
 X

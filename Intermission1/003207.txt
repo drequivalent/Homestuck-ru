@@ -1,4 +1,4 @@
-[И] DD: Shoot up biscuit and eggs's effigies.
+[И] ДД: Расстрелять эфиггии Эггза и Бизкитса.
 ###
 97eafed382
 ###
@@ -6,9 +6,9 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01307.gif
 ###
-<span style="color: #2ed73a">Stitch </span>keeps their EFFIGIES in a big warehouse several miles away because of their ridiculous duplication tendencies.
+<span style="color: #2ed73a">Шов</span> хранит их эфиггии на большом складе за несколько миль отсюда из-за их привычки размножаться.
 
-You're sure as hell not going to drive all the way over there, so you just shoot at them in person.
+Вы уж точно так далеко не поедете, так что Вы просто стреляете в них.
 ###
 003208
 X

@@ -1,4 +1,4 @@
-[И] SS: CHARGE!
+[И] СС: В АТАКУ!
 ###
 b95a4730ec
 ###
@@ -6,7 +6,7 @@ b95a4730ec
 ###
 http://ru-homestuck.org/storyfiles/hs2/01310.gif
 ###
-<a href="http://www.mspaintadventures.com/?s=4&amp;p=001009" target="_blank" class="postlink">This is incredibly delirious biznasty.</a>
+<a href="http://www.mspaintadventures.com/?s=4&amp;p=001009" target="_blank" class="postlink">Это невообразимое безумие.</a>
 
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/deliriousbiznasty.gif" border="0" />
 ###

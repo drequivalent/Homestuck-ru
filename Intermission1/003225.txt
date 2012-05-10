@@ -1,4 +1,4 @@
-[И] DD: Ask Clover for the ultimate riddle.
+[И] ДД: Спросить Клевера об окончательной загадке.
 ###
 3b1f6c73e1
 ###
@@ -6,7 +6,7 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01325.gif
 ###
-You ask <span style="color: #2ed73a">Clover</span> to open the safe.
+Вы просите <span style="color: #2ed73a">Клевера</span> открыть хранилище.
 ###
 003226
 X
