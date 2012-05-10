@@ -1,4 +1,4 @@
-[И] SS: Quickly remove lance from Sawbuck.
+[И] СС: Срочно вытащить копье из Соубака.
 ###
 c061a0c457
 ###
@@ -6,11 +6,11 @@ c061a0c457
 ###
 http://ru-homestuck.org/storyfiles/hs2/01291.gif
 ###
-You pry the CIGARETTE HOLDER from his torso. Whoops, another time jump.
+Вы вырываете МУНДШТУК из его туловища. Упс, еще один прыжок во времени.
 
-This tub of goo keeps going for his gun. Widebody's gotta settle his big ass down.
+Этот кусок жира все еще тянется за своей пушкой. Пора бы толстозадому успокоиться.
 
-You really should incapacitate him without inflicting another wound. 
+Вам надо бы вывести его из строя, не ранив еще раз ненароком. 
 ###
 003192
 X

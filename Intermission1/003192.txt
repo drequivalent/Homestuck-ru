@@ -1,4 +1,4 @@
-[И] SS: Knock Sawbuck unconscious.
+[И] СС: Вырубить Соубака.
 ###
 f01e454b8f
 ###
@@ -6,9 +6,9 @@ f01e454b8f
 ###
 http://ru-homestuck.org/storyfiles/hs2/01292.gif
 ###
-COUNT SOME SHEEP BITCH
+ПОСЧИТАЙ-КА ОВЕЦ, СУЧАРА
 
-Wait... the clock on the wall...
+Минуточку... Часы на стене...
 ###
 003193
 X
