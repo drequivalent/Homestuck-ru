@@ -1,4 +1,4 @@
-[И] SS: Take a moment to think up some time-based one-liners
+[И] СС: Немного подумать над каким-нибудь афоризмом, связанным со временем
 ###
 cd4e3d999a
 ###
@@ -6,15 +6,15 @@ cd4e3d999a
 ###
 http://ru-homestuck.org/storyfiles/hs2/01284.gif
 ###
-Ok you think you got one. 
+Да, кажется, есть. 
 
-<span style="font-style: italic">Time travel sure can be a... 
+<span style="font-style: italic">Путешествия во времени, несомненно, могут быть... 
 
-DOUBLE EDGED SWORD. </span>
+ОБОЮДООСТРЫМ МЕЧОМ. </span>
 
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/pccool.gif" border="0" />
 
-Wait, that was awful. Really really bad. You're sure you can do better than that.
+Секундочку, это было ужасно. Очень, очень плохо. Вы уверены, что можете лучше.
 ###
 003185
 X

@@ -6,7 +6,7 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01281.gif
 ###
-You open the chest releasing them both. <span style="color: #2ed73a">Crowbar</span> doesn't look too pleased.
+Вы открываете сундук, выпуская их обоих. <span style="color: #2ed73a">Фомка</span>, кажется, не очень рад.
 ###
 003182
 X

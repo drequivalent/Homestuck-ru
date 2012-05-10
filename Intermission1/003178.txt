@@ -1,4 +1,4 @@
-[И] SS: Carry Sawbuck like Titan Atlas would carry the world
+[И] CC: Понести Соубака наподобие того, как титан Атлас держит мир
 ###
 1cce93e9a2
 ###
@@ -6,11 +6,11 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01278.gif
 ###
-You order Hearts to drop his tub on the double before this fat lard puts you in a wheelchair.
+Вы приказываете Хартсу бросить его вану на пол до того, как этот жирный ублюдок усадит вас в инвалидное кресло.
 
-If you take <span style="color: #2ed73a">Sawbuck</span> back to your own time and kill him there, that should save you the trouble of hunting him down. Might as well take <span style="color: #2ed73a">Stitch</span> too.
+Если отнести <span style="color: #2ed73a">Соубака</span> в Ваше обычное время и убить его там, его можно будет уже не стараться выслеживать. Можно так же поступить и со <span style="color: #2ed73a">Швом</span> тоже.
 
-Maybe. You're not really sure if that's how it works. You don't really care though.
+Возможно. Вы, в общем-то, не уверены, так ли оно все сложится. Да вам, собственно, все равно.
 ###
 003179
 X

@@ -6,9 +6,9 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01287.gif
 ###
-You are now Past Spades Slick... again. 
+Вы - прошлый Спейдс Слик... снова. 
 
-You were just about to pull <span style="color: #2ed73a">Crowbar</span>'s pin. You guess all that stuff with your future self and <span style="color: #2ed73a">Sawbuck</span> originally happened in this room while we were all off watching someone else, like Diamonds Droog or something. That makes sense.
+Вы только что собирались вытянуть булавку <span style="color: #2ed73a">Фомки</span>. Вы догадываетесь, что все, что случилось с будущим Вами и <span style="color: #2ed73a">Соубаком</span> изначально произошло в этой комнате, пока мы были заняты, наблюдая за кем-то другим, Даймондсом Другом, например, или еще кем-то. Это имеет смысл.
 ###
 003188
 X

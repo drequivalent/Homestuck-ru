@@ -1,4 +1,4 @@
-[И] SS: Stab first, utter puns later.
+[И] СС: Режь сначала, потом шути.
 ###
 c71e3aee5a
 ###
@@ -6,7 +6,7 @@ c71e3aee5a
 ###
 http://ru-homestuck.org/storyfiles/hs2/01286.gif
 ###
-Just as you hear your past self asking what happened to your eye, you jab <span style="color: #2ed73a">Sawbuck </span>with your BUTTERFLY EFFECT KNIFE. You remember a little while ago asking yourself about your eye, and not giving yourself an answer just before disappearing. Maybe if you stopped and thought about it for a second, you could have warned yourself and avoided the whole mess, albeit in the process of creating a paradox. But your strict policy of stabbing first and answering questions later prevented it. You're sure your past self understands/understood. You are sure of this because you very clearly remember understanding/understooding.
+Как только вы слышите, как прошлый Вы вопрошает, что с Вашим глазом, Вы тыкаете <span style="color: #2ed73a">Соубака</span> своим НОЖОМ ЭФФЕКТА БАБОЧКИ. Вы помните, как немногим раньше спросили себя о глазе, и как не ответили прямо перед тем, как исчезнуть. Может быть, если бы Вы немного подумали, вы бы предостерегли себя связываться со всей этой катавасией, чем создали бы парадокс. Но Ваша строгая политика сначала резать, а потом задавать вопросы не дала Вам это сделать. Вы уверены, что прошлый Вы это понимает/понимал. Вы уверены в этом, потому что Вы очень четко помните себя понимающим/понявшим.
 ###
 003187
 X

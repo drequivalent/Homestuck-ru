@@ -1,4 +1,4 @@
-[И] PSS: Remove Crowbar's pin.
+[И] ПСС: Вытянуть булавку Фомки.
 ###
 e0e4628851
 ###
@@ -7,7 +7,7 @@ e0e4628851
 http://ru-homestuck.org/storyfiles/hs2/01288_1.gif
 http://ru-homestuck.org/storyfiles/hs2/01288_2.gif
 ###
-<a href="http://www.mspaintadventures.com/?s=6&amp;p=003163" target="_blank" class="postlink">A whole bunch of shit happens that we already saw.</a>
+<a href="http://www.mspaintadventures.com/?s=6&amp;p=003163" target="_blank" class="postlink">Случается много всякой херни, которую мы уже видели.</a>
 ###
 003189
 X
