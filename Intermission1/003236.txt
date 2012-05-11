@@ -1,4 +1,4 @@
-[И] SS: Ignore him and just pry the safe open.
+[И] СС: Просто вскрыть сейф, игнорируя его.
 ###
 7ce3dc0ee7
 ###
@@ -6,9 +6,9 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/01336.gif
 ###
-You don't care what the consequences are. You're going to crack open this safe and be done with it.
+Вас не заботят последствия. Вы хотите уже просто взломать проклятый сейф, и покончить с этим.
 
-This whole intermission was starting to get a little punchy anyway.
+В люом случае, вся эта интермиссия несколько затянулась.
 ###
 003237
 X

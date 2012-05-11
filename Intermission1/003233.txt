@@ -1,4 +1,4 @@
-[И] HB: Use Eggs' body as bait for Cans.
+[И] ХБ: Использовать тело Эггза как приманку для Кэнса.
 ###
 0e43ab1512
 ###
@@ -7,7 +7,7 @@
 http://ru-homestuck.org/storyfiles/hs2/01333_1.gif
 http://ru-homestuck.org/storyfiles/hs2/01333_2.gif
 ###
-You flail the torso <span style="color: #2ed73a">Cans</span>-ward in an attempt to <a href="http://www.mspaintadventures.com/?s=4&amp;p=000436" target="_blank" class="postlink">placate him with the red meat</a>.
+Вы бросаете тело в направлении <span style="color: #2ed73a">Кэнса</span> в попытке <a href="http://www.mspaintadventures.com/?s=4&amp;p=000436" target="_blank" class="postlink">усмирить его красным мясом</a>.
 ###
 003234
 X
