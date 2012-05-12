@@ -1,4 +1,4 @@
-Dave: Pester Rose.
+Дейв: Написать Роуз.
 ###
 4aa4d4cef2
 ###
@@ -6,7 +6,7 @@ Dave: Pester Rose.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00469.gif
 ###
-|PESTERLOG|
+|ДОСТАЛОГ|
 <span style="color: #e00707">TG: oh there you are</span>
 <span style="color: #e00707">TG: john said your house was burning down are you on fire yet or what</span>
 <span style="color: #b536da">TT: No. For now I have retired to the safety of a smaller building which is much closer to the forest fire threatening my residence.</span>

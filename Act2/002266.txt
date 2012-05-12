@@ -1,4 +1,4 @@
-Rose: Investigate richly colored object in middle of screen.
+Роуз: Изучить пестро украшенный предмет в центре экрана.
 ###
 fd948df8a1
 ###
@@ -6,9 +6,9 @@ fd948df8a1
 ###
 http://ru-homestuck.org/storyfiles/hs2/00366.gif
 ###
-That would be your REFRIGERATOR, whose surfaces have customarily served as the battlefield for a chilly siege of PASSIVE-AGGRESSIVE one-upmanship.
+Это твой ХОЛОДИЛЬНИК, чья поверхность издавна служит полем боя для ПАССИВНО-АГРЕССИВНОЙ холодной войны. 
 
-This was a drawing you did of your cat JASPERS when you were younger, along with a poem about him. Your mother bought this ostentatious $15,000 frame for it, and had it welded to the door. 
+А это нарисованный тобой в детстве портрет кота ЯСПЕРСА с поэмой в его честь. Твоя мама купила для него вычурную рамку за 15000 долларов и приварила ее к дверце.
 ###
 002267
 X

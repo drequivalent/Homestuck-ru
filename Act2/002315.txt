@@ -1,4 +1,4 @@
-Rose: Plug in your laptop.
+Роуз: Подключить ноутбук.
 ###
 67a84e20a2
 ###
@@ -7,13 +7,13 @@ Rose: Plug in your laptop.
 http://ru-homestuck.org/storyfiles/hs2/00415_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00415_2.gif
 ###
-You plug in your LAPTOP and connect to the internet signal again.
+Ты подключаешь свой НОУТБУК и вновь соединяешься с интернетом. 
 
-Everything predictably falls out of your SYLLADEX, but you're not about to get bent out of shape about it. You have bigger fish to fry.
+Все довольно предсказуемо падает из твоего СИЛЛАДЕКСА, но тебя это не беспокоит. У тебя есть дела поважнее. 
 
-Looks like Dave noticed you're back online. He pesters you like clockwork.
+Похоже, Дейв заметил, что ты снова в сети. Он словно специально тебя поджидал. 
 
-And there's John. What on earth is he up to now?
+А вот и Джон. Да ради всего святого, что он творит теперь?
 ###
 002316
 X

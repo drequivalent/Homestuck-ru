@@ -1,4 +1,4 @@
-Dave: Check if Sweet Bro and Hella Jeff has a sweet update.
+Дейв: Проверить, пришло ли клевое обновление Клевого Бро и Чертяги Джеффа.
 ###
 650641f4b9
 ###
@@ -6,9 +6,9 @@ Dave: Check if Sweet Bro and Hella Jeff has a sweet update.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00459.gif
 ###
-Your BRO keeps up with your projects in his aggregator, just like you keep up with his. He's tuned into your various blogs, and of course SWEET BRO AND HELLA JEFF.
+БРО следит за твоими проектами в своем приложении, равно как и ты – за его проектами. Он читает все твои блоги и, само собой, КЛЕВОГО БРО И ЧЕРТЯГУ ДЖЕФФА.
 
-You navigate to the <a href="http://www.mspaintadventures.com/sweetbroandhellajeff/?cid=006.jpg" target="_blank" class="postlink">LATEST COMIC</a> in one of the many BULLSHIT FEEDBANDS.
+Ты ищешь вкладку <a href="http://www.mspaintadventures.com/sweetbroandhellajeff/?cid=006.jpg" target="_blank" class="postlink">ПОСЛЕДНИЙ КОМИКС</a> среди разнообразных НОВОСТНЫХ ЛЕНТ ВСЯКОГО ДЕРЬМА.
 ###
 002360
 X

@@ -1,4 +1,4 @@
-Dave: Get katana.
+Дейв: Взять катану.
 ###
 0742b3ab9f
 ###
@@ -6,11 +6,11 @@ Dave: Get katana.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00443.gif
 ###
-You captchalogue your <span style="color: blue">K</span><span style="color: red">A</span><span style="color: blue">T</span><span style="color: red">A</span><span style="color: blue">N</span><span style="color: red">A</span> (2+1+2+1+2+1 = 9%10 = 9) and prepare to venture out into the apartment to retrieve your BRO's copy of the game.
+Ты каптчалогируешь КАТАНУ = <span style="color: blue">K</span><span style="color: red">A</span><span style="color: blue">T</span><span style="color: red">A</span><span style="color: blue">N</span><span style="color: red">A</span> (2+1+2+1+2+1 = 9%10 = 9) и собираешься выйти из комнаты, чтобы забрать копию игры твоего БРО. 
 
-But first, maybe...
+Но вначале, может... 
 
-Just maybe...
+Чисто теоретически...
 ###
 002344
 X

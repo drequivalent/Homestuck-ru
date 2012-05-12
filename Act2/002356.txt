@@ -1,4 +1,4 @@
-Dave: Look at your brother's computer.
+Дейв: Взглянуть на компьютер брата.
 ###
 72023d8807
 ###
@@ -6,9 +6,9 @@ Dave: Look at your brother's computer.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00456.gif
 ###
-Your BRO's computer is password protected of course to protect all the incredible top secret shit he's got on the burners.
+Разумеется, компьютер твоего БРО закрыт паролем для защиты всей той невероятно сверхсекретной херни, которой он занимается. 
 
-Of course you know what the password is, and he knows you know it, and you're both cool with that because the password is the most awesome thing it can be.
+Разумеется, ты знаешь этот пароль, и он знает, что ты знаешь, и вы не паритесь по этому поводу, поскольку пароль этот – самая крутая вещь из всех возможных.
 ###
 002357
 X

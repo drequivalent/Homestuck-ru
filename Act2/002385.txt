@@ -7,18 +7,18 @@ a0da131bab
 http://ru-homestuck.org/storyfiles/hs2/00485_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00485_2.gif
 ###
-|PESTERLOG|
-<span style="color: #b536da">TT: I'll try recouping some of the grist from the catwalk I built earlier.</span>
-<span style="color: #0715cd">EB: IT KEEPS HAPENING</span>
-<span style="color: #b536da">TT: Ah, good. Looks like I can get a refund for earlier allocations.</span>
-<span style="color: #0715cd">EB: i told you rose</span>
-<span style="color: #0715cd">EB: i TOLD you about stairs!</span>
-<span style="color: #b536da">TT: Ok.</span>
-<span style="color: #b536da">TT: Consider me fully briefed on the matter of stairs.</span>
-<span style="color: #b536da">TT: Now if you don't mind, it's hard enough to concentrate on this without immersing ourselves in Strider's non sequitur.</span>
-<span style="color: #0715cd">EB: did you know he thinks puppets are cool?</span>
-<span style="color: #b536da">TT: Does he?</span>
-<span style="color: #0715cd">EB: he's so dumb!!</span>
+|ДОСТАЛОГ|
+<span style="color: #b536da">TT: Попробую восполнить запас материи за счет площадки, которую я построила ранее.</span>
+<span style="color: #0715cd">EB: ОНО ПРОДОЛЖАЕТ СЛУЧАТСЯ</span>
+<span style="color: #b536da">TT: О, превосходно. Похоже, можно вернуть ресурсы, затраченные на предыдущие постройки.</span>
+<span style="color: #0715cd">EB: а я говорил тебе, роуз</span>
+<span style="color: #0715cd">EB: я ГОВОРИЛ тебе о лесницах!</span>
+<span style="color: #b536da">TT: Хорошо.</span>
+<span style="color: #b536da">TT: Считай, что я полностью проинструктирована по части лестниц.</span>
+<span style="color: #b536da">TT: Теперь, с твоего позволения, мне довольно трудно сосредоточиться на строительстве и без потока страйдеровских алогизмов.</span>
+<span style="color: #0715cd">EB: ты знаешь, что он считает кукол крутыми?</span>
+<span style="color: #b536da">TT: Неужели?</span>
+<span style="color: #0715cd">EB: Он такой тупой!!</span>
 ###
 002386
 X

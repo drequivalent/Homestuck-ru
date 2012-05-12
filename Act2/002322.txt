@@ -1,4 +1,4 @@
-[S] GO ON. ==&gt;
+[S] ПРОДОЛЖАЙ. ==&gt;
 ###
 e1b9260c03
 ###
@@ -6,12 +6,12 @@ e1b9260c03
 ###
 F|http://ru-homestuck.org/storyfiles/hs2/00422
 ###
-|SPRITELOG|
-<span style="color: #00d5f2">NANNASPRITE: Above <span style="text-decoration: underline">The Medium</span>, beyond <span style="text-decoration: underline">The Seven Gates</span>, residing at the core of <span style="text-decoration: underline">The Incipisphere</span> is a place known as <span style="text-decoration: underline">Skaia</span>.</span>
+|СПРАЙТЛОГ|
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Над <span style="text-decoration: underline">Медиумом</span>, за <span style="text-decoration: underline">Семью Вратами</span>, прямо в центре <span style="text-decoration: underline">Первосферы</span> расположено место под названием <span style="text-decoration: underline">Скайя</span>.</span>
 
-<span style="color: #00d5f2">NANNASPRITE: Legend holds that <span style="text-decoration: underline">Skaia</span> exists as a dormant crucible of unlimited creative potential. What does this mean, you ask? I'm afraid my lips are sealed about that, dear! Hoo hoo!</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Легенда гласит, что <span style="text-decoration: underline">Скайя</span> служит колыбелью для безграничного творческого потенциала. Тебе интересно, что это значит? Боюсь, я не могу рассказать, дорогой! Ху ху!</span>
 
-<span style="color: #00d5f2">NANNASPRITE: But needless to say, where a realm of such profound importance is concerned, forces of light will forever be charged with its defense, while forces of darkness will just as persistently covet its destruction!</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Стоит ли говорить, что пока существует столь важная сфера, силы света всегда будут стремиться ее защитить, в то время как силы тьмы – пытаться ее уничтожить.</span>
 ###
 002323
 X

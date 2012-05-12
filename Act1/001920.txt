@@ -1,4 +1,4 @@
-John: Examine Con Air poster.
+Джон: Осмотреть постер Воздушной Тюрьмы.
 ###
 4da5df037f
 ###
@@ -6,11 +6,11 @@ John: Examine Con Air poster.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00020.gif
 ###
-PUT THE BUNNY BACK IN THE BOX.
+ПОЛОЖИ ЗАЙЦА ОБРАТНО В КОРОБКУ.
 
-I SAID, PUT THE BUNNY BACK IN THE BOX.
+Я СКАЗАЛ, ПОЛОЖИ ЗАЙЦА ОБРАТНО В КОРОБКУ.
 
-WHY COULDN'T YOU PUT THE BUNNY BACK IN THE BOX? 
+НУ ПОЧЕМУ ТЫ НЕ ПОЛОЖИЛ ЗАЙЦА ОБРАТНО В КОРОБКУ?
 ###
 001921
 X

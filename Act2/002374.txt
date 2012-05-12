@@ -1,4 +1,4 @@
-John: Rebuild the claw hammer and return it to specibus.
+Джон: Починить молоток и вернуть его в способус.
 ###
 000e91355f
 ###
@@ -6,7 +6,7 @@ John: Rebuild the claw hammer and return it to specibus.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00474.gif
 ###
-You are getting way better at this sort of thing.
+Ты управляешься с ним все лучше и лучше.
 ###
 002375
 X

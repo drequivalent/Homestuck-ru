@@ -6,7 +6,7 @@ e38629a6f6
 ###
 http://ru-homestuck.org/storyfiles/hs2/00406.gif
 ###
-By expanding your CACHE LIMIT, you've made room for all that nice grist you just collected. You now have 32 fragments of BUILD GRIST, and 10 fragments of SHALE.
+С увеличением ОБЪЕМА КЭША у тебя появилось место для всей той замечательной материи, которую ты собрал. Теперь у тебя есть 32 куска СТРОЙМАТЕРИИ и 10 кусков СЛАНЦА.
 ###
 002307
 X

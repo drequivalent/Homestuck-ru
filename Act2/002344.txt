@@ -1,4 +1,4 @@
-[S] Dave: Retrieve dead bird.
+[S] Дейв: Подобрать мертвую птицу.
 ###
 06a05374f5
 ###
@@ -6,21 +6,21 @@
 ###
 F|http://ru-homestuck.org/storyfiles/hs2/00444
 ###
-Dude, that bird is long gone. It probably won't last long in this heat anyway.
+Чувак, этой птице кранты. Все равно по такой жаре она долго не протянет. 
 
-You don't even know what's up with this sick heat. The sun threatens to set but won't step off. It's staring you down, like the big red eye of a hot needle skipping on a groove its tracing 'round the earth. While lingering in midair its heat seems to suspend time itself, stretching it like warped vinyl. It's meant to rain this season but there ain't been a drop in sight. Even a little drizzle would help. Might help to fizzle this sizzle a little bizzle, set the record straight on this global turn-tizzle.
+Ты даже не знаешь, почему стоит такое адское пекло. Солнце вот-вот должно сесть, но все никак не сдвинется с места. Оно довлеет над тобой как здоровенное красное ухо раскаленной иглы, сбившейся с ритма, который она чертит вокруг Земли. Кажется, что зависнув над планетой, оно замедляет своей жарой само время, растягивая его как горячий винил. Сезон должен быть дождливым, но нигде в окрестности не упало ни капли. Даже небольшой дождь помог бы малек. Отвлек бы солнцепек, было бы нормалек, винил бы разом на вертушки лег. 
 
-&quot;So don't change the dizzle, turn it up a little
-I got a living room full of fine dime brizzles
-Waiting on the Pizzle, the Dizzle and the Shizzle
-G's to the bizzack, now ladies here we gizzo
+&quot;Когда в клубе косятся (палящи канши)
+Я на них кладу хуй, и наслаждаюсь грязным танцем
+Мои пацы, мои кенты кидают баксы
+Мы отдыхаем со всеми, но на дистанции
 
-When the pimp's in the crib ma
-Drop it like it's hot
-Drop it like it's hot
-Drop it like it's hot...&quot;
+Давай делай это как будто горячо
+Давай двигай жопой, как будто бы горячо
+Давай танцуй для нас, как будто бы горячо
+Но где инферно тататам горячо...&quot;
 
--English Romantic poet, John Keats
+-Джон Китс, английский поэт-романтик
 ###
 002345
 X

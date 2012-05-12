@@ -1,4 +1,4 @@
-John: Bring 2 cans of shaving cream.
+Джон: Взять две банки крема для бритья.
 ###
 88425633f2
 ###
@@ -7,9 +7,9 @@ John: Bring 2 cans of shaving cream.
 http://ru-homestuck.org/storyfiles/hs2/00488_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00488_2.gif
 ###
-You captchalogue two cans of SHAVING CREAM just in case. You never know when you'll need to bust out a hilarious SHAVING CREAM SANTA BEARD to ratchet up your PRANKSTER'S GAMBIT.
+Ты каптчалогируешь две банки КРЕМА ДЛЯ БРИТЬЯ на всякий случай. Невозможно предугадать, когда тебе понадобится веселая БОРОДА САНТЫ ИЗ КРЕМА ДЛЯ БРИТЬЯ, чтобы провернуть свой ГАМБИТ ШУТНИКА. 
 
-Your TELESCOPE goes flying out the window.
+Твой ТЕЛЕСКОП вылетает в окно.
 ###
 002389
 X

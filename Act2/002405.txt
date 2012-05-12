@@ -1,4 +1,4 @@
-now my civil fellow, i have a well mannered query to ask
+теперь, мой воспитанный приятель, я бы хотел задать вам благовоспитанный вопрос
 ###
 17c2a62395
 ###
@@ -6,13 +6,13 @@ now my civil fellow, i have a well mannered query to ask
 ###
 http://ru-homestuck.org/storyfiles/hs2/00505.gif
 ###
-|PESTERLOG|
-<span style="color: #b536da">TT: I blocked the entrance to the study to give you some space to work with the Designix.</span>
-<span style="color: #b536da">TT: John, imps behind you.</span>
-<span style="color: #b536da">TT: Should I take care of it?</span>
-<span style="color: #b536da">TT: You trapped your PDA again, didn't you.</span>
-<span style="color: #b536da">TT: Why did you have to pick up all that stupid shaving cream?</span>
-<span style="color: #b536da">TT: So pointless.</span>
+|ДОСТАЛОГ|
+<span style="color: #b536da">TT: Я заблокировала вход в рабочий кабинет, чтобы дать тебе спокойно поработать с Кодоперфоратором.</span>
+<span style="color: #b536da">TT: Джон, позади тебя бесы. </span>
+<span style="color: #b536da">TT: Мне о них позаботиться? </span>
+<span style="color: #b536da">TT: Ты опять запихнул КПК в силладекс, не так ли? </span>
+<span style="color: #b536da">TT: Зачем ты взял весь этот идиотский крем для бритья? </span>
+<span style="color: #b536da">TT: Так бессмысленно.</span>
 ###
 002406
 X

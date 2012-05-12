@@ -6,12 +6,12 @@ a4ee162362
 ###
 http://ru-homestuck.org/storyfiles/hs2/00427.gif
 ###
-|SPRITELOG|
-<span style="color: #00d5f2">NANNASPRITE: Your planet is done for, dear! There is nothing you can do about that!</span>
-<span style="color: #0715cd">JOHN: oh...</span>
-<span style="color: #00d5f2">NANNASPRITE: Your purpose is so much more important than saving that silly old planet, though!</span>
-<span style="color: #0715cd">JOHN: and that is?</span>
-<span style="color: #00d5f2">NANNASPRITE: HOO HOO HOO HOO HOO!</span>
+|СПРАЙТЛОГ|
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Твоей планете пришел конец, дорогой! Ты ничегошеньки не можешь с этим поделать!</span>
+<span style="color: #0715cd">ДЖОН: блин...</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Однако твоя цель куда важнее спасения этой дряхлой глупой планеты!</span>
+<span style="color: #0715cd">ДЖОН: цель?</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: ХУ ХУ ХУ ХУ ХУ!</span>
 ###
 002328
 X

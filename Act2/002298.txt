@@ -1,4 +1,4 @@
-Rose: Forget the W and make haste to the mausoleum.
+Роуз: Забыть о W и поспешить в мавзолей.
 ###
 3c7fdfcf7c
 ###
@@ -6,7 +6,7 @@ Rose: Forget the W and make haste to the mausoleum.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00398.gif
 ###
-Retrieving the W never even crossed your mind. It's just a stupid magnet.
+Тебе бы и в голову не пришло возвращаться за той W. Это всего лишь дурацкий магнит.
 ###
 002299
 X

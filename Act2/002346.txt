@@ -1,4 +1,4 @@
-Dave: Hastily enter the room with wild abandon.
+Дейв: Ворваться в комнату с неугасимым рвением.
 ###
 006949d3a5
 ###
@@ -6,7 +6,7 @@ Dave: Hastily enter the room with wild abandon.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00446.gif
 ###
-You barge in and see a familiar face. A friendly face. 
+Ты заваливаешься и встречаешь знакомое лицо. Дружелюбное лицо.
 ###
 002347
 X

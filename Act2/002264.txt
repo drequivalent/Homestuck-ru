@@ -1,4 +1,4 @@
-Rose: Acquire umbrella for protection from elements.
+Роуз: Обзавестись зонтом для защиты от стихии.
 ###
 ef8e59710e
 ###
@@ -6,9 +6,9 @@ ef8e59710e
 ###
 http://ru-homestuck.org/storyfiles/hs2/00364.gif
 ###
-U &gt; L. U &lt; V.
+U (зонт) &gt; L (ноутбук). U (зонт) &lt; V (скрипка). 
 
-You're going to have a hell of a time accessing that card when you need it. You guess you'll just cross that bridge later.
+Тебе придется потратить уйму времени, чтобы в случае чего добраться до этой карты. Ты собираешься решить эту проблему чуть позже.
 ###
 002265
 X

@@ -1,4 +1,4 @@
-john might i bother you for a can opener?
+джон, могу ли я просить вас о консервном ноже?
 ###
 3ecb801ca4
 ###
@@ -6,9 +6,9 @@ john might i bother you for a can opener?
 ###
 http://ru-homestuck.org/storyfiles/hs2/00507.gif
 ###
-Oblivious to the commotion behind you, suddenly you find yourself pondering the whereabouts of a CAN OPENER.
+Не обращая внимания на шум позади, ты внезапно погружаешься в размышления о том, где может находиться КОНСЕРВНЫЙ НОЖ. 
 
-You think there is probably one in the kitchen, but the path is blocked by your REFRIGERATOR.
+Если тебе не изменяет память, то один должен быть на кухне, но проход заблокирован ХОЛОДИЛЬНИКОМ.
 ###
 002408
 X

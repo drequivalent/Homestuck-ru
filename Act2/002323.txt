@@ -6,10 +6,10 @@ c688bf6ac5
 ###
 F|http://ru-homestuck.org/storyfiles/hs2/00423
 ###
-|SPRITELOG|
-<span style="color: #00d5f2">NANNASPRITE: And as it so happens, at the center of this realm whose fate is in question, these very forces duel on a stage, stuck in eternal stalemate.</span>
+|СПРАЙТЛОГ|
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: И так уж сложилось, что в центре сей сферы, чья судьба под вопросом, тьма и свет сошлись в бесконечной схватке – и никто не в силах одержать верх.</span>
 
-<span style="color: #00d5f2">NANNASPRITE: Yes, they have dueled in this manner forever... that is, until you showed up!</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Да, они могли бы бороться вечно... до тех пор, пока не появился ты!</span>
 ###
 002324
 X

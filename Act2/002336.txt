@@ -1,4 +1,4 @@
-JOHN YOU ARE STUPID.
+ДЖОН, ТЫ ИДИОТ.
 ###
 6eb25cb529
 ###
@@ -6,7 +6,7 @@ JOHN YOU ARE STUPID.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00436.gif
 ###
-You really need to work on your manners.
+Тебе действительно стоит поработать над своими манерами.
 ###
 002337
 X

@@ -1,4 +1,4 @@
-John: Check cabinets for imps or useful items.
+Джон: Проверить шкафчики на наличие бесов и полезных вещей.
 ###
 8055530108
 ###
@@ -6,9 +6,9 @@ John: Check cabinets for imps or useful items.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00487.gif
 ###
-No imps in here. Just a lot of SHAVING CREAM.
+Никаких бесов внутри. Только куча КРЕМА ДЛЯ БРИТЬЯ. 
 
-Dads love shaving. It's basically all they do. (When they're not baking, that is.)
+Папы любят бриться. В общем-то, это все, чем они занимаются. (Когда не пекут, конечно).
 ###
 002388
 X

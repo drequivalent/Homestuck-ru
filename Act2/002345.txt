@@ -1,4 +1,4 @@
-Dave: Exit your room, and go into the living room.
+Дейв: Выйти из комнаты и направиться в гостиную.
 ###
 626d40914e
 ###
@@ -7,9 +7,9 @@ Dave: Exit your room, and go into the living room.
 http://ru-homestuck.org/storyfiles/hs2/00445_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00445_2.gif
 ###
-Sorry little dude, coming through. Gotta put you down for a bit.
+Прости, мелкий чувак, надо пройти. Положу-ка я тебя вниз ненадолго. 
 
-You figure you've left him hanging long enough.
+Ты считаешь, он достаточно уже здесь провисел.
 ###
 002346
 X

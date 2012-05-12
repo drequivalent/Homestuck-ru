@@ -7,21 +7,21 @@
 http://ru-homestuck.org/storyfiles/hs2/00421_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00421_2.gif
 ###
-|SPRITELOG|
-<span style="color: #00d5f2">NANNASPRITE: Your father was kidnapped!</span>
-<span style="color: #0715cd">JOHN: oh no!</span>
-<span style="color: #00d5f2">NANNASPRITE: When you crossed over to <span style="text-decoration: underline">The Medium</span>, he was apprehended by the very forces of darkness which your presence here has awakened.</span>
-<span style="color: #0715cd">JOHN: what? ok, so what is the medium you are talking about?</span>
-<span style="color: #00d5f2">NANNASPRITE: It is where we are now! A realm that is a ring of pure void, dividing light and darkness. It turns in the thick of <span style="text-decoration: underline">The Incipisphere</span>, a place untouched by the flow of time in your universe.</span>
-<span style="color: #0715cd">JOHN: you mean because we are inside a computer, or in the game software or something?</span>
-<span style="color: #00d5f2">NANNASPRITE: A computer? Why, what is that, dear? Some new fangled contraption, like the horseless auto-boxcar?</span>
-<span style="color: #0715cd">JOHN: well, uh, it's like this machine that, uh...</span>
-<span style="color: #00d5f2">NANNASPRITE: Hoo hoo hoo! Of course I know what a computer is, John! I was just pulling your leg! Hoo hoo hoo!</span>
-<span style="color: #0715cd">JOHN: oh, ok.</span>
-<span style="color: #00d5f2">NANNASPRITE: No, John. You are not inside a computer or software or anything like that! Try not to be so linear, dear. The software that brought you here was merely a mechanism that served as a gateway! Its routines in a way served to invoke this realm's instance, yet it stands independently of any physical machine, and somewhat paradoxically, always has!</span>
-<span style="color: #0715cd">JOHN: i'm not sure i get it, but alright.</span>
-<span style="color: #0715cd">JOHN: so what do i actually need to be doing here?</span>
-<span style="color: #00d5f2">NANNASPRITE: I think it would be best if we started with the big picture!</span>
+|СПРАЙТЛОГ|
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Твоего отца похитили!</span>
+<span style="color: #0715cd">ДЖОН: о нет!</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Когда ты переместился в <span style="text-decoration: underline">Медиум</span>, его схватили те самые темные силы, что пробудились при твоем появлении.</span>
+<span style="color: #0715cd">ДЖОН: чего? ну ладно, а что за медиум?</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Место, где мы сейчас находимся! Точно кольцо кромешной пустоты, это пространство разделяет свет и тьму, вращаясь в центре <span style="text-decoration: underline">Первосферы</span> – мира, что существует вне времени твоей вселенной.</span>
+<span style="color: #0715cd">ДЖОН: то есть мы типа внутри компьютера или игры или вроде того?</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Компьютер? Что это, дорогой? Какое-то новомодное изобретение вроде безлошадных авто-повозок?</span>
+<span style="color: #0715cd">ДЖОН: ну, эм, это такая машина, которая, блин...</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Ху ху ху! Ну конечно же, я знаю, что такое компьютер, Джон! Это была всего лишь шутка! Ху ху ху!</span>
+<span style="color: #0715cd">ДЖОН: о, ладно.</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Нет, Джон. Ты не в компьютере, не в игре и не в чем-либо подобном! Постарайся мыслить шире, дорогой. Программа, что привела тебя сюда, была лишь ключом для открытия врат! Можно сказать, запуск ее алгоритмов позволил обратиться к этой версии вселенной, которая, как бы парадоксально это ни звучало, всегда существовала независимо от какой-либо физической машины!</span>
+<span style="color: #0715cd">ДЖОН: не уверен, что понял, но ладно.</span>
+<span style="color: #0715cd">ДЖОН: и что мне теперь нужно здесь делать?</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Думаю, будет лучше, если я расскажу тебе все с самого начала!</span>
 ###
 002322
 X

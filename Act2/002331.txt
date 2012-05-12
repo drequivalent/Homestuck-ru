@@ -1,4 +1,4 @@
-Rose: Hit John in the head with box to get his attention.
+Роуз: Ударить Джона коробкой по голове, чтобы привлечь его внимание.
 ###
 fe0f0d707e
 ###
@@ -6,9 +6,9 @@ fe0f0d707e
 ###
 http://ru-homestuck.org/storyfiles/hs2/00431.gif
 ###
-You give John a swift drubbing in the noggin, but he is undeterred!
+Ты яростно долбишь Джона по его тупой башке, но он не останавливается!
 
-That is some fit he is throwing.
+Вот это истерика.
 ###
 002332
 X

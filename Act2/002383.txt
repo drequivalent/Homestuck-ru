@@ -1,4 +1,4 @@
-Piano: Level up for slaying the imp.
+Пианино: Повысить уровень за убийство беса.
 ###
 53260f1922
 ###
@@ -6,11 +6,11 @@ Piano: Level up for slaying the imp.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00483.gif
 ###
-The piano in its valiant effort has unfortunately been slain.
+К сожалению, в результате своего доблестного подвига пианино было повержено. 
 
-But if it hadn't, it would have raked in so many BOONDOLLARS, you have no idea.
+Иначе бы оно получило сейчас так много ДАРБАКСОВ, что ты и представить не можешь. 
 
-SO MANY.
+ТАК МНОГО.
 ###
 002384
 X

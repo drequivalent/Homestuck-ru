@@ -1,4 +1,4 @@
-Rose: Exit.
+Роуз: Выйти.
 ###
 20e204962e
 ###
@@ -6,13 +6,13 @@ Rose: Exit.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00394.gif
 ###
-You leave through the back door. 
+Ты выходишь через черный ход. 
 
-Nearby is the TRANSFORMER which distributes electricity from the UNDERGROUND GENERATOR powered by the river flowing beneath your house. 
+Возле двери находится ТРАНСФОРМАТОР, распределяющий энергию от ПОДЗЕМНОГО ГЕНЕРАТОРА, который работает за счет протекающей под вашим домом реки. 
 
-The transformer was struck by lightning though, and no longer works. You wonder if your mother has any plans to have it fixed. You guess she'd rather just play her mind games in a dark house like a weirdo.
+В трансформатор ударила молния, и теперь он сломан. Ты понятия не имеешь, собирается ли твоя мама заняться его ремонтом. Скорее всего, эта сумасшедшая просто продолжит свои безумные игры в темноте. 
 
-You can see the MAUSOLEUM and the PORTABLE GENERATOR across your back yard. You're almost there.
+Ты видишь МАВЗОЛЕЙ и ПОРТАТИВНЫЙ ГЕНЕРАТОР в глубине заднего дворика. Цель почти достигнута.
 ###
 002295
 X

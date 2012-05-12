@@ -1,4 +1,4 @@
-THE DOOR, JOHN. LOOK AT THE DOOR.
+ДВЕРЬ, ДЖОН. ПОСМОТРИ НА ДВЕРЬ.
 ###
 4a2fd01ae1
 ###
@@ -6,9 +6,9 @@ THE DOOR, JOHN. LOOK AT THE DOOR.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00416.gif
 ###
-You're right. Didn't Rose yank the door off its hinges and prop it on your bed?
+И правда. Разве Роуз не бросила дверь на твоей кровати, сорвав ее с петель? 
 
-Someone or something has put it back and left it slightly ajar.
+Кто-то или что-то вернуло ее на место и оставило приоткрытой.
 ###
 002317
 X

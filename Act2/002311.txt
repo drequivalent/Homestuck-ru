@@ -1,4 +1,4 @@
-FINE. NOW WHAT
+ОТЛИЧНО. ЧТО ОПЯТЬ
 ###
 6e3c3a1fa8
 ###
@@ -6,9 +6,9 @@ FINE. NOW WHAT
 ###
 http://ru-homestuck.org/storyfiles/hs2/00411.gif
 ###
-Dave is pestering you. But you don't have time to deal with his nonsense right now. 
+Дейв достает тебя. Но у тебя сейчас нет времени читать всякую чушь. 
 
-Something is amiss in your room. You can't quite put your finger on it...
+С твоей комнатой что-то не так, и ты не можешь толком понять, что...
 ###
 002312
 X

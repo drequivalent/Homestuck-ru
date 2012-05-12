@@ -1,4 +1,4 @@
-Dave: Answer chum.
+Дейв: Ответить приятелю.
 ###
 885035b5b1
 ###
@@ -6,8 +6,8 @@ Dave: Answer chum.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00382.gif
 ###
-|PESTERLOG|
--- gardenGnostic <span style="color: #4ac925">[GG]</span> began pestering turntechGodhead <span style="color: #e00707">[TG]</span> at 18:36 -- 
+|ДОСТАЛОГ|
+-- gardenGnostic <span style="color: #4ac925">[GG]</span> начал доставать turntechGodhead <span style="color: #e00707">[TG]</span> в 18:36 -- 
 
 <span style="color: #4ac925">GG: hi dave!!</span>
 <span style="color: #e00707">TG: hey sup</span>

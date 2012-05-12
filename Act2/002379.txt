@@ -1,4 +1,4 @@
-Rose: Use pogo ride to fling grist through window.
+Роуз: Использовать пружинные качели, чтобы закинуть материю через окно.
 ###
 52fba4da58
 ###
@@ -6,9 +6,9 @@ Rose: Use pogo ride to fling grist through window.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00479.gif
 ###
-Doesn't look like that GRIST is going anywhere.
+Не похоже, чтобы МАТЕРИЯ сдвинулась с места. 
 
-You just never know with these gaming abstractions.
+Ни в чем нельзя быть уверенным с этими игровыми абстракциями.
 ###
 002380
 X

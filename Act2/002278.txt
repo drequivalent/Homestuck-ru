@@ -1,4 +1,4 @@
-Rose: Hop over counter, landing in a roll.
+Роуз: Перепрыгнуть стойку, приземлившись в перекате.
 ###
 5a4098fba1
 ###
@@ -6,7 +6,7 @@ Rose: Hop over counter, landing in a roll.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00378.gif
 ###
-This bird's gotta fly!
+Эта птичка должна летать!
 ###
 002279
 X

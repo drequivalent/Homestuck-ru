@@ -1,4 +1,4 @@
-Rose: Pester John.
+Роуз: Написать Джону.
 ###
 637d73324c
 ###
@@ -7,7 +7,7 @@ Rose: Pester John.
 http://ru-homestuck.org/storyfiles/hs2/00419_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00419_2.gif
 ###
-|PESTERLOG|
+|ДОСТАЛОГ|
 <span style="color: #e00707">TG: oh there you are</span>
 <span style="color: #e00707">TG: john said your house was burning down are you on fire yet or what</span>
 <span style="color: #b536da">TT: No. For now I have retired to the safety of a smaller building which is much closer to the forest fire threatening my residence.</span>

@@ -1,4 +1,4 @@
-mister john, respectfully ask that you please stand up.
+господин джон, уважительно прошу вас встать на ноги.
 ###
 04b5ff7ee8
 ###
@@ -7,7 +7,7 @@ mister john, respectfully ask that you please stand up.
 http://ru-homestuck.org/storyfiles/hs2/00500_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00500_2.gif
 ###
-DON'T MOVE OR THE POGO GETS IT
+НИ С МЕСТА, ИЛИ КАЧАЛКА ОТХВАТИТ!
 ###
 002401
 X

@@ -6,12 +6,12 @@ b3e1a3ba48
 ###
 http://ru-homestuck.org/storyfiles/hs2/00426.gif
 ###
-|SPRITELOG|
-<span style="color: #0715cd">JOHN: ok, i think i get it now!</span>
-<span style="color: #0715cd">JOHN: so i guess the battle against good and evil is sort of irrelevant? well, i don't know, that all sounds kind of weird, but in any case, we build the house to get to these gates, and then i can save my dad!</span>
-<span style="color: #00d5f2">NANNASPRITE: Yes, John!</span>
-<span style="color: #0715cd">JOHN: and then after that, we solve this ultimate riddle thing and save earth from destruction!!!</span>
-<span style="color: #00d5f2">NANNASPRITE: Oh no, I'm afraid not!</span>
+|СПРАЙТЛОГ|
+<span style="color: #0715cd">ДЖОН: ага, кажется, до меня дошло!</span>
+<span style="color: #0715cd">ДЖОН: так выходит, битва между добром и злом ничего не значит? ну, не знаю, звучит это все немного странно, но в любом случае сначала нужно достроить дом, чтобы добраться до врат, и тогда я смогу спасти своего отца!</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Да, Джон!</span>
+<span style="color: #0715cd">ДЖОН: и после этого мы решаем эту штуку с величайшей загадкой и спасаем землю от уничтожения!!!</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Ох, сожалею, но нет!</span>
 ###
 002327
 X

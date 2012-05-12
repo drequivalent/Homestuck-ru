@@ -1,4 +1,4 @@
-YES I WILL HAVE TO AGREE WITH THE FLOAT HAG ABOUT THAT.
+ДА, МНЕ ПРИДЕТСЯ СОГЛАСИТЬСЯ С ЭТОЙ ПРИЗРАЧНОЙ КАРГОЙ.
 ###
 65d843ad1a
 ###
@@ -6,13 +6,13 @@ YES I WILL HAVE TO AGREE WITH THE FLOAT HAG ABOUT THAT.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00428.gif
 ###
-|SPRITELOG|
-<span style="color: #00d5f2">NANNASPRITE: John, you are such a good boy! I know you will succeed.</span>
-<span style="color: #0715cd">JOHN: thanks, nanna.</span>
-<span style="color: #00d5f2">NANNASPRITE: You are a good boy, and good boys deserve treats!</span>
-<span style="color: #0715cd">JOHN: hooray!</span>
-<span style="color: #00d5f2">NANNASPRITE: I am going to go bake you some cookies.</span>
-<span style="color: #0715cd">JOHN: ...</span>
+|СПРАЙТЛОГ|
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Джон, ты такой хороший мальчик! Я знаю, у тебя все получится.</span>
+<span style="color: #0715cd">ДЖОН: спасибо, бабуля.</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Ты хороший мальчик, а хорошие мальчики заслуживают угощений!</span>
+<span style="color: #0715cd">ДЖОН: урра!</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Пойду испеку тебе немного печенья.</span>
+<span style="color: #0715cd">ДЖОН: ...</span>
 ###
 002329
 X

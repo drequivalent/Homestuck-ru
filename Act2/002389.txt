@@ -1,4 +1,4 @@
-John: Ride pogo ride.
+Джон: Оседлать пружинную качалку.
 ###
 7cfbb2a73a
 ###
@@ -6,7 +6,7 @@ John: Ride pogo ride.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00489.gif
 ###
-It's a little cramped in here for any sort of proper reckless pogoing. You'll just grab it and hang on to it until the right moment presents itself.
+Здесь, пожалуй, тесновато для надлежащего безрассудного качания. Ты просто возьмешь качалку с собой и подождешь подходящего момента.
 ###
 002390
 X

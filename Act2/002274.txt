@@ -1,4 +1,4 @@
-Rose: Captchalogue velvet pillow.
+Роуз: Каптчалогировать бархатную подушку.
 ###
 ec20228ad9
 ###
@@ -6,11 +6,13 @@ ec20228ad9
 ###
 http://ru-homestuck.org/storyfiles/hs2/00374.gif
 ###
-You decide to take the VELVET PILLOW and lovingly embroider a poem in praise of MOTHERHOOD on it. Hopefully you can pull this off before she notices it's gone.
+Ты решаешь взять БАРХАТНУЮ ПОДУШКУ с собой, чтобы позже с любовью вышить на ней оду МАТЕРИНСТВУ. Ты надеешься успеть это до того, как она заметит пропажу. 
 
-Ve &gt; L. Ve &lt; Vi. Ve &gt; U.
+Ve (бархатная подушка) &gt; L (ноутбук).
+Ve (бархатная подушка) &lt; Vi (скрипка).
+Ve (бархатная подушка) &gt; U (зонт).
 
-But it causes your tree to be pretty badly unbalanced. It surely will AUTO-BALANCE itself in a moment. 
+Однако из-за подушки твое дерево становится крайне неустойчиво. Вот-вот произойдет АВТОБАЛАНСИРОВКА.
 ###
 002275
 X

@@ -1,4 +1,4 @@
-Rose: Peek inside kitchen.
+Роуз: Заглянуть на кухню.
 ###
 5244a375a5
 ###
@@ -6,7 +6,7 @@ Rose: Peek inside kitchen.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00365.gif
 ###
-The LIQUOR BOTTLES are out in full force. MOM is surely nearby.
+БУТЫЛКИ С АЛКОГОЛЕМ выстроились в ряд. МАМА определенно неподалеку.
 ###
 002266
 X

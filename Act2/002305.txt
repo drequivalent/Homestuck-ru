@@ -1,4 +1,4 @@
-NOW EXULT. VICTORY, SPOILS ARE YOURS.
+ЛИКУЙ, ЭТО ПОБЕДА. ДОБЫЧА ТВОЯ.
 ###
 ad0f883172
 ###
@@ -7,11 +7,11 @@ ad0f883172
 http://ru-homestuck.org/storyfiles/hs2/00405_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00405_2.gif
 ###
-The amazing victory allows you to scale the first two ACHIEVEMENT RUNGS on your ECHELADDER. You are now a PLUCKY TOT, with a new feather in your cap to show for it.
+Блестящая победа позволяет тебе преодолеть первые две СТУПЕНИ УСПЕХА твоей ЭШЕЛЕСТНИЦЫ. Теперь ты ОТВАЖНЫЙ МАЛЫШ, и в честь этого на твоей шляпе красуется новое перо. 
 
-The ECHELADDER rewards your bold ascent with 125 BOONDOLLARS. You waste little time in storing them in your CERAMIC PORKHOLLOW.
+За столь дерзкий взлет ЭШЕЛЕСТНИЦА вознаграждает тебя 125 ДАРБАКСАМИ. Ты не раздумывая убираешь их в КЕРАМИЧЕСКУЮ СВИНЬЮ-КОПИЛКУ.
 
-Additionally, climbing the rungs has boosted your GEL VISCOSITY and CACHE LIMIT.
+Кроме того, покорение ступеней увеличило твои ВЯЗКОСТЬ ГЕЛЯ и ОБЪЕМ КЭША.
 ###
 002306
 X

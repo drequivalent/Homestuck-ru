@@ -1,4 +1,4 @@
-Refrigerator: Level up for slaying the imp.
+Холодильник: Повысить уровень за убийство беса.
 ###
 f201ca75e6
 ###
@@ -6,9 +6,9 @@ f201ca75e6
 ###
 http://ru-homestuck.org/storyfiles/hs2/00503.gif
 ###
-The REFRIGERATOR skyrockets up the ECHELADDER to a new rung: FIVESTAR GENERAL ELECTRIC and earns 285 BOONDOLLARS.
+ХОЛОДИЛЬНИК взлетает по ЭШЕЛЕСТНИЦЕ на новую ступень – ПЯТИЗВЕЗДОЧНЫЙ ДЖЕНЕРАЛ ЭЛЕКТРИК и зарабатывает 285 ДАРБАКСОВ. 
 
-Things are really looking up for this feisty appliance.
+Определенного, у этого дерзкого электроприбора дела пошли в гору.
 ###
 002404
 X

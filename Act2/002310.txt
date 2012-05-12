@@ -1,4 +1,4 @@
-NOW REPAIR THE HAMMER.
+ТЕПЕРЬ ПОЧИНИ МОЛОТ.
 ###
 1ab5775fe6
 ###
@@ -6,9 +6,9 @@ NOW REPAIR THE HAMMER.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00410.gif
 ###
-You merge the SLEDGEHAMMER HEAD with its HANDLE, and return it to your STRIFE DECK, repairing the HAMMERKIND ABSTRATUS in the process. 
+Ты объединяешь БОЕК КУВАЛДЫ с РУКОЯТКОЙ и вставляешь их в БОЕВУЮ КАРТОТЕКУ, в процессе восстанавливая МОЛОТОВИДНЫЙ АБСТРАТУС.
 
-The smaller HAMMER HANDLE is ejected from the deck, since of course handles of any sort no longer belong in there. Obviously.
+РУКОЯТКА МОЛОТА выбрасывается из картотеки, поскольку теперь здесь нет места никаким рукояткам. Очевидно же.
 ###
 002311
 X

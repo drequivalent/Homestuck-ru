@@ -1,4 +1,4 @@
-Rose: Deploy the Punch Designix.
+Роуз: Разместить Кодоперфоратор.
 ###
 726c456542
 ###
@@ -6,12 +6,12 @@ Rose: Deploy the Punch Designix.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00471.gif
 ###
-|PESTERLOG|
-<span style="color: #b536da">TT: John, whenever you read this, you should know I put the shale you collected to use and finally deployed the Punch Designix.</span>
-<span style="color: #b536da">TT: It is in your study.</span>
-<span style="color: #b536da">TT: I can only drop it though. You'll have to be the one to mess around with it and see what it does.</span>
-<span style="color: #b536da">TT: When you're finished with your weird histrionics, maybe you could give it a try?</span>
-<span style="color: #b536da">TT: I'm updating my walkthrough, and it would help to know what it does.</span>
+|ДОСТАЛОГ|
+<span style="color: #b536da">TT: Джон, когда ты прочтешь это, имей в виду, что я пустила собранный тобой сланец в ход и наконец-то разместила Кодоперфоратор.</span>
+<span style="color: #b536da">TT: Он в твоем рабочем кабинете.</span>
+<span style="color: #b536da">TT: Однако я могу его лишь поставить. Повозиться с ним и выяснить, что он делает, придется тебе.</span>
+<span style="color: #b536da">TT: Когда закончишь свой странный спектакль, быть может, попробуешь им заняться?</span>
+<span style="color: #b536da">TT: Я обновляю свое прохождение, это поможет разобраться в его возможностях.</span>
 ###
 002372
 X

@@ -1,4 +1,4 @@
-JOHN, PURSUE ADVERSARY INTO THAT ROOM.
+ДЖОН, ВРАГ В ЭТОЙ КОМНАТЕ, ПРЕСЛЕДУЙ ЕГО.
 ###
 31c706d832
 ###
@@ -6,11 +6,11 @@ JOHN, PURSUE ADVERSARY INTO THAT ROOM.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00385.gif
 ###
-And even meanerwhile, in the present. Sort of.
+В это же самое время в настоящем. Типа того. 
 
-Once again, the slippery antagonist eludes you. You only find more of these unpleasant oily smears.
+Скользкий противник скрывается от тебя в очередной раз. Перед тобой лишь еще больше этих противных масляных пятен. 
 
-Someone is pestering you. Both your PDA and computer register the message.
+Кто-то достает тебя. Сообщение мигает сразу на компьютере и на КПК.
 ###
 002286
 X

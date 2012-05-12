@@ -1,4 +1,4 @@
-Seconds in the future, but not many...
+Через несколько секунд в будущем, но не очень много...
 ###
 1c3e097025
 ###
@@ -6,12 +6,12 @@ Seconds in the future, but not many...
 ###
 http://ru-homestuck.org/storyfiles/hs2/00470.gif
 ###
-|PESTERLOG|
-<span style="color: #b536da">TT: John, what are you doing?</span>
-<span style="color: #b536da">TT: Snap out of it.</span>
-<span style="color: #b536da">TT: We ought to discuss what your grandmother told you, don't you think?</span>
-<span style="color: #b536da">TT: Fine. Enjoy your stupor.</span>
-<span style="color: #b536da">TT: I'll go about my business elsewhere.</span>
+|ДОСТАЛОГ|
+<span style="color: #b536da">TT: Джон, что ты делаешь?</span>
+<span style="color: #b536da">TT: Очнись.</span>
+<span style="color: #b536da">TT: Нужно обсудить то, что сказала твоя бабушка, тебе не кажется?</span>
+<span style="color: #b536da">TT: Отлично. Блаженствуй в своем неведении.</span>
+<span style="color: #b536da">TT: Я займусь делом.</span>
 ###
 002371
 X

@@ -1,4 +1,4 @@
-John: Make your way to the study.
+Джон: Отправиться к рабочему кабинету.
 ###
 0f0dc033b6
 ###

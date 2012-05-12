@@ -1,4 +1,4 @@
-Rose: Hurry and activate the generator!
+Роуз: Поспеши и запусти генератор!
 ###
 ed92b8522d
 ###
@@ -7,9 +7,9 @@ ed92b8522d
 http://ru-homestuck.org/storyfiles/hs2/00413_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00413_2.gif
 ###
-You fire up the GENERATOR and drag a cord into the MAUSOLEUM.
+Ты запускаешь ГЕНЕРАТОР и втаскиваешь шнур в МАВЗОЛЕЙ. 
 
-It of course would be foolish to run the GENERATOR inside a confined space. GENERATOR SAFETY is everyone's business.
+Само собой, было бы глупо включать ГЕНЕРАТОР в закрытом пространстве. Соблюдение МЕР БЕЗОПАСНОСТИ при работе с ГЕНЕРАТОРАМИ это обязанность каждого.
 ###
 002314
 X

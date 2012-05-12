@@ -1,4 +1,4 @@
-ME?? ==&gt;
+Я?? ==&gt;
 ###
 fd72f71865
 ###
@@ -6,20 +6,20 @@ fd72f71865
 ###
 F|http://ru-homestuck.org/storyfiles/hs2/00424
 ###
-|SPRITELOG|
-<span style="color: #0715cd">JOHN: ME??</span>
+|СПРАЙТЛОГ|
+<span style="color: #0715cd">ДЖОН: Я??</span>
 
-<span style="color: #00d5f2">NANNASPRITE: Yes, you, John!</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Да, Джон, ты!</span>
 
-<span style="color: #00d5f2">NANNASPRITE: Before your mishap with my ashes, you may recall the <span style="text-decoration: underline">Sprite</span>'s previous incarnation, which resulted from its <span style="text-decoration: underline">Kernel</span>'s &quot;hatching&quot;.</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Прежде, чем случился казус с моим пеплом, как ты помнишь, существовало первое воплощение <span style="text-decoration: underline">Спрайта</span>, которое возникло в результате &quot;рождения&quot; <span style="text-decoration: underline">Ядра</span>.</span>
 
-<span style="color: #00d5f2">NANNASPRITE: You see, this hatching occurs automatically in response to your arrival! The result is a pair of <span style="text-decoration: underline">Kernels</span>, one dark, one light, each carrying the information they were prototyped with before the hatch!</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Видишь ли, это рождение произошло автоматически в ответ на твое прибытие! Исходная пара <span style="text-decoration: underline">Ядер</span>, темное и светлое, несут в себе информацию, которой они были прототипированы до своего появления!</span>
 
-<span style="color: #00d5f2">NANNASPRITE: One goes down, to a kingdom entrenched in darkness. The other, up, to a kingdom basking in light! Each comes to rest in an <span style="text-decoration: underline">Orb</span> atop a <span style="text-decoration: underline">Spire</span>, of which there are three others in kind. <span style="text-decoration: underline">The Four Spires</span> are situated above a throne, and these two thrones preside over the two respective <span style="text-decoration: underline">Sovereign Powers</span>!</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Одно отправилось вниз, в королевство, окутанное тьмой, другое наверх – в королевство, залитое светом! Каждое расположилось в <span style="text-decoration: underline">Шаре</span> на вершине одного из <span style="text-decoration: underline">Четырех Шпилей</span>. Шпили возвышаются над престолами, каковых существует два, предназначенных для соответствующих <span style="text-decoration: underline">Верховных Властителей</span>.</span>
 
-<span style="color: #00d5f2">NANNASPRITE: And once the <span style="text-decoration: underline">Kernels</span> are situated, that is when the game is afoot. The true war begins, light versus dark, good versus evil.</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: И как только <span style="text-decoration: underline">Ядра</span> заняли свои места, игра пришла в движение. Началась настоящая война – свет против тьмы, добро против зла.</span>
 
-<span style="color: #00d5f2">NANNASPRITE: This is a war that the forces of light are always destined to lose, without exception!</span>
+<span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Это война, в которой силам света предначертано поражение, как бы они ни боролись и как бы близка ни была победа!</span>
 ###
 002325
 X
