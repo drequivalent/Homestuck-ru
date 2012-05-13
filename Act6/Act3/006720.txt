@@ -1,6 +1,6 @@
 [S] ACT 6 ACT 3
 ###
-1c89492ede
+2c6d2a6c72
 ###
 1334372221
 ###
@@ -8,4 +8,5 @@ F|http://ru-homestuck.org/storyfiles/hs2/04817
 ###
 
 ###
+006724
 X

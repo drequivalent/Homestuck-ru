@@ -1,0 +1,69 @@
+==&gt;
+###
+0c463b40bd
+###
+1334886883
+###
+http://ru-homestuck.org/storyfiles/hs2/04836.gif
+###
+|SPRITELOG|
+<span style="color: #005682">VRISKA: Tavros, this fucking sucks.</span>
+<span style="color: #a15000">TAVROS: wHAT,</span>
+<span style="color: #005682">VRISKA: What do you mean, &quot;wHAT,&quot;?</span>
+<span style="color: #005682">VRISKA: For starters, that completely horri8le shared 8ody resurrection 8ullshit that just happened.</span>
+<span style="color: #005682">VRISKA: You were there, remem8er? That's kind of the point!</span>
+<span style="color: #a15000">TAVROS: oH, yEAH,</span>
+<span style="color: #a15000">TAVROS: i DON'T KNOW, iT WASN'T SO BAD,</span>
+<span style="color: #a15000">TAVROS: i THINK MAYBE WE WERE OVERREACTING, aBOUT BEING ONE PERSON?</span>
+<span style="color: #005682">VRISKA: Overreacting my ass!</span>
+<span style="color: #005682">VRISKA: What a nightmare. It's still making my ghostly skin crawl just thinking a8out it.</span>
+<span style="color: #a15000">TAVROS: nO, i THINK i'VE DECIDED, yOU'RE BEING UNREASONABLE,</span>
+<span style="color: #a15000">TAVROS: iT WAS COOL BEING ALIVE AGAIN FOR A WHILE, aS A STRANGE UNSETTLING MUTANT,</span>
+<span style="color: #a15000">TAVROS: iF WE DIDN'T EXPLODE OURSELF SO FAST, iT COULD HAVE BEEN AN ADVENTURE, mAYBE,</span>
+<span style="color: #005682">VRISKA: Oh, sure. That's easy for you to say.</span>
+<span style="color: #005682">VRISKA: You weren't the one getting the short end of the shared personality stick!</span>
+<span style="color: #005682">VRISKA: May8e if your personality was as much an upgrade to mine as mine was to yours, I would have 8een cool with it too.</span>
+<span style="color: #a15000">TAVROS: yOU MIGHT BE RIGHT,</span>
+<span style="color: #a15000">TAVROS: aCTUALLY IT WAS PRETTY NEAT,</span>
+<span style="color: #005682">VRISKA: What?</span>
+<span style="color: #a15000">TAVROS: gETTING TO FEEL ALL THE AMAZING SELF ESTEEM YOU GET TO FEEL,</span>
+<span style="color: #a15000">TAVROS: i DIDN'T REALLY KNOW WHAT IT FELT LIKE, i MOSTLY ONLY KNEW WHAT THE PRETEND KIND WAS LIKE,</span>
+<span style="color: #a15000">TAVROS: sO,</span>
+<span style="color: #a15000">TAVROS: tHANK YOU FOR LETTING ME FEEL THAT, i GUESS,</span>
+<span style="color: #005682">VRISKA: Hahahaha. You're welcome!</span>
+<span style="color: #005682">VRISKA: Now that you mention it, may8e there was a silver lining to that freak show.</span>
+<span style="color: #005682">VRISKA: Someone else finally got a chance to feel first hand how gr8 it is 8eing me!</span>
+<span style="color: #a15000">TAVROS: yEAH,</span>
+<span style="color: #a15000">TAVROS: iT MUST BE PRETTY GREAT OVERALL,</span>
+<span style="color: #a15000">TAVROS: sO,</span>
+<span style="color: #a15000">TAVROS: aSIDE FROM BEING PARTIALLY ME, bRIEFLY,</span>
+<span style="color: #a15000">TAVROS: hOW HAVE YOU BEEN?</span>
+<span style="color: #005682">VRISKA: Ok. Dead mostly.</span>
+<span style="color: #a15000">TAVROS: yES, mE TOO,</span>
+<span style="color: #005682">VRISKA: Yeah.</span>
+<span style="color: #005682">VRISKA: Hey, sorry a8out that 8y the way.</span>
+<span style="color: #a15000">TAVROS: aBOUT WHAT,</span>
+<span style="color: #005682">VRISKA: A8out killing you! It wasn't very cool of me.</span>
+<span style="color: #a15000">TAVROS: oH, rIGHT,</span>
+<span style="color: #a15000">TAVROS: i ALMOST FORGOT THAT EVEN HAPPENED,</span>
+<span style="color: #005682">VRISKA: How could you forget? Haven't you 8een pissed off at me a8out it?</span>
+<span style="color: #a15000">TAVROS: nO, i MEAN, iT WAS PRETTY MUCH MY FAULT, i THINK,</span>
+<span style="color: #a15000">TAVROS: i ATTACKED YOU WITH MY BOGUS SELF ESTEEM, aND i PAID THE ULTIMATE PRICE,</span>
+<span style="color: #005682">VRISKA: No, you idiot! That's not what happened at all. I sta88ed you through the chest 8ecause I was 8eing a huge 8itch!</span>
+<span style="color: #a15000">TAVROS: i MEAN, iT WAS A LONG TIME AGO, bUT THAT'S NOT REALLY HOW i REMEMBER IT,</span>
+<span style="color: #005682">VRISKA: Ugh, stop 8eing so stupid. That's so stupid!</span>
+<span style="color: #a15000">TAVROS: nO, yOU'RE STUPID,</span>
+<span style="color: #005682">VRISKA: You are such a pain in the ass when you're dead. Let's just agree it was my fault and drop it.</span>
+<span style="color: #a15000">TAVROS: nO, bUT OKAY,</span>
+<span style="color: #005682">VRISKA: Man, 8eing dead is such a drag.</span>
+<span style="color: #005682">VRISKA: I don't know if I can deal with this shit anymore!</span>
+<span style="color: #a15000">TAVROS: i THINK IT'S ALRIGHT,</span>
+<span style="color: #005682">VRISKA: Oh come on. It's so 8oring!</span>
+<span style="color: #005682">VRISKA: What a completely pointless and hollow existence this is.</span>
+<span style="color: #005682">VRISKA: And if the existential malaise wasn't 8ad enough, now I have to 8e constantly watching out for that fucking orange guy.</span>
+<span style="color: #a15000">TAVROS: oRANGE GUY?</span>
+<span style="color: #005682">VRISKA: The orange guy! Haven't you seen him?</span>
+<span style="color: #a15000">TAVROS: nO,</span>
+###
+006740
+X
