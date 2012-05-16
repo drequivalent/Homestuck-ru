@@ -1,4 +1,4 @@
-[S] ACT 4 ==&gt;
+[S] АКТ 4 ==&gt;
 ###
 a795e68b24
 ###
@@ -6,7 +6,6 @@ a795e68b24
 ###
 F|http://ru-homestuck.org/storyfiles/hs2/01358
 ###
-<a href="http://www.mspaintadventures.com/storyfiles/hs2/scraps/gate1map.jpg" target="_blank" class="postlink">MAP</a>
+<a href="http://www.mspaintadventures.com/storyfiles/hs2/scraps/gate1map.jpg" target="_blank" class="postlink">КАРТА</a>
 ###
 003259
-Проба
