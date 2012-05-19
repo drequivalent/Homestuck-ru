@@ -1,4 +1,4 @@
-Enter name.
+Ввести имя.
 ###
 e558c2dd3d
 ###
@@ -6,7 +6,7 @@ e558c2dd3d
 ###
 http://ru-homestuck.org/storyfiles/hs2/04116.gif
 ###
-Once again, you make the incalculable blunder of attempting to engrave an already allocated placronym. His name was etched when he turned 13 too, almost 3 years ago. It's been sitting here messily in this UNBELIEVABLY DEADLY PILE OF GUNS ever since. What sort of vulgar, childish moniker were you going to stick this poor bastard with? Barfbreath Turdsmirk? It doesn't even matter. Just tell him what to do!
+И снова, вы делаете ужасно тупую попытку перегравировать уже загравированный жетон. Его имя было так же выбито, когда ему исполнилось 13, почти 3 года назад. Так он с тех пор и валяется в этой НЕВЕРОЯТНО ОПАСНОЙ КУЧЕ ПУШЕК. Каким же грубым, ребяческим прозвищем вы хотели наградить этого беднягу? Блеводушный Говнохмыл? Эно не имеет, впрочем, никакого значения. Просто скажите ему, что делать!
 ###
 006020
 X
