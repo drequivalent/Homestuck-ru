@@ -1,4 +1,4 @@
-Джон: Исследовать постер с Проблемным Сыщиком.
+Джон: Осмотреть постер с Проблемным Сыщиком.
 ###
 7aa4165e4d
 ###
@@ -6,7 +6,7 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/00011.gif
 ###
-Интересно, возможно ли вообще стать круче, чем он?  Ты сильно в этом сомневаешься. <a href="http://www.topatoco.com/merchant.mvc?Screen=CTGY&amp;Store_Code=TO&amp;Category_Code=MSPA-ART" target="_blank" class="postlink">Этот постер - одна из твоих самых лучших покупок.</a>
+Возможно ли вообще достать что-то, круче чем этот постер? Ты сильно в этом сомневаешься. <a href="http://www.topatoco.com/merchant.mvc?Screen=CTGY&amp;Store_Code=TO&amp;Category_Code=MSPA-ART" target="_blank" class="postlink">Этот постер - одна из твоих самых лучших покупок.</a>
 
 На стене рядом с ним - пустое пространство. Вскоре ты собираешься повесить туда ещё один постер.
 ###
