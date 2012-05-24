@@ -1,4 +1,4 @@
-[S] Jade: Open FreshJamz!
+[S] Джейд: Открыть FreshJamz!
 ###
 a2b111ede1
 ###
@@ -6,7 +6,7 @@ a2b111ede1
 ###
 F|http://ru-homestuck.org/storyfiles/hs2/00830
 ###
-You open the FRESHJAMZ MEDIA PLAYER and add Dave's remix to the playlist.
+Ты открываешь FRESHJAMZ MEDIA PLAYER и добавляешь ремиксы Дейва в плейлист.
 ###
 002731
 X

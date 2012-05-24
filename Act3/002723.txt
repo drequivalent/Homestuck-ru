@@ -1,4 +1,4 @@
-Jade: Captchalogue bass.
+Джейд: Каптчалогировать бас-гитару.
 ###
 f5d47abea9
 ###
@@ -6,7 +6,7 @@ f5d47abea9
 ###
 http://ru-homestuck.org/storyfiles/hs2/00823.gif
 ###
-You take the PORTABLE AMP from the WALL SOCKET too.
+Также ты берешь ПОРТАТИВНЫЙ УСИЛИТЕЛЬ из НАСТЕННОЙ РОЗЕТКИ.
 ###
 002724
 X

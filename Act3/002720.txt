@@ -1,4 +1,4 @@
-Jade: Examine the atomic bass by your bed.
+Джейд: Осмотреть атомную бас-гитару на кровати.
 ###
 465b986cbd
 ###
@@ -6,9 +6,9 @@ Jade: Examine the atomic bass by your bed.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00820.gif
 ###
-You wouldn't exactly call it an atomic bass, but it is heavily customized to accommodate a high level of musical virtuosity, the perfect instrument for the eclectically spirited.
+На самом деле ты бы не стала называть ее атомной бас-гитарой, но она, если уж на то пошло, специально создана с расчетом на служение музыкальным виртуозам высшего уровня, совершенный инструмент для эклектических духом.
 
-You've tuned the strings way down of course because your stumpy arms can't reach the low notes.
+Ты ослабляешь высоту струн, потому что твои короткие руки не достают до низких нот.
 ###
 002721
 X

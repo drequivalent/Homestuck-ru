@@ -1,4 +1,4 @@
-Jade: Activate Pesterchum.
+Джейд: Запустить Pesterchum.
 ###
 3b5a7828db
 ###
@@ -6,9 +6,9 @@ Jade: Activate Pesterchum.
 ###
 F|http://ru-homestuck.org/storyfiles/hs2/00826
 ###
-Hey look, John is online! Hooray!
+Эй, вы только гляньте, Джон в сети! Ура!
 
-Also it looks like Dave pestered you about something yesterday but you missed it.
+Кстати, похоже, что вчера к тебе с чем-то приставал Дейв, но ты пропустила.
 ###
 002727
 X

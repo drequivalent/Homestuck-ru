@@ -1,4 +1,4 @@
-Jade: Open lunchtop.
+Джейд: Открыть ноутейнер.
 ###
 3372d759f9
 ###
@@ -6,7 +6,7 @@ Jade: Open lunchtop.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00824.gif
 ###
-You like to make yourself comfy in your plushy pile before getting down to business with your computer.
+Прежде чем приступить к делам за компьютером, тебе хочется сделать плюшевую кучу для своего удобства.
 ###
 002725
 X

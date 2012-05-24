@@ -1,4 +1,4 @@
-Jade: Pester John.
+Джейд: Написать Джону.
 ###
 6a64cae88c
 ###
@@ -6,9 +6,9 @@ Jade: Pester John.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00827.gif
 ###
-You greet John but he does not respond. He is undoubtedly gallivanting around his house in a state of barely restrained birthday mirth. He may also be retrieving the two packages and the two envelopes which you are certain came in the mail for him earlier.
+Ты приветствуешь Джона, но он не отвечает. Знамо дело, он шатается по дому в состоянии едва сдерживаемой праздничной радости. А еще он мог получить две посылки и два конверта, которые, ты уверена, пришли ему по почте чуть раньше.
 
-You will wait a little while and see if he returns before you head out.
+Ты немного подождешь и посмотришь, вернется ли он до твоего ухода.
 ###
 002728
 X
