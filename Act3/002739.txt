@@ -1,4 +1,4 @@
-Jade: Be the other girl.
+Джейд: Быть другой девушкой.
 ###
 66ba2c104e
 ###
@@ -6,11 +6,11 @@ Jade: Be the other girl.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00839.gif
 ###
-You are now the other girl several hours in the future.
+Теперь ты другая девушка через несколько часов в будущем.
 
-It appears a secret passage in the mausoleum has been opened.
+Похоже, что в мавзолее открылся секретный проход.
 
-It's getting awfully toasty in here. You gather up your belongings, including your dead cat.
+Здесь становится слишком жарко. Ты собираешь вещи, не забывая про кота.
 ###
 002740
 X

@@ -1,4 +1,4 @@
-Rose: Look for mad scientists.
+Роуз: Поискать сумасшедших ученых.
 ###
 d2a1b38abe
 ###
@@ -6,9 +6,9 @@ d2a1b38abe
 ###
 http://ru-homestuck.org/storyfiles/hs2/00848.gif
 ###
-There are no scientists to be found, mad or otherwise. Or anyone for that matter. The lab appears to be deserted. 
+Никаких ученых не найдено: ни сумасшедших, ни каких-то других. И вообще никого, если на то пошло. Кажется, в лаборатории пусто.
 
-There is a KIOSK though.
+Хотя, рядом стоит ТЕРМИНАЛ.
 ###
 002749
 X

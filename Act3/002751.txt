@@ -1,4 +1,4 @@
-Jade: Transportalize as far down as you can go.
+Джейд: Транспортализироваться настолько глубоко, насколько возможно.
 ###
 852aaeb30a
 ###
@@ -7,11 +7,11 @@ Jade: Transportalize as far down as you can go.
 http://ru-homestuck.org/storyfiles/hs2/00851_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00851_2.gif
 ###
-This is as far down as you can go. 
+Ты настолько глубоко, насколько возможно.
 
-The GRAND FOYER is still a few floors down, but the TRANSPORTALIZER on that level is blocked by one of GRANDPA'S impressive BIG GAME TROPHIES, and you just don't think he would cotton to someone moving it. 
+АВАНЗАЛ все еще на несколько этажей ниже, но ТРАНСПОРТАТОР заблокирован на этом уровне ДЕДУШКИНЫМИ ПОБЕДНЫМИ ТРОФЕЯМИ, и ты не уверена, что тот согласится что-нибудь переместить.
 
-Speaking of which, here are some of his TROPHIES now. He has a million of these ghastly things. You really dislike them.
+Кстати говоря, здесь тоже есть несколько его ТРОФЕЕВ. У него миллион таких жутких вещей. Тебе они действительно не нравятся.
 ###
 002752
 X

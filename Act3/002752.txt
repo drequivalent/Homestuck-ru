@@ -1,4 +1,4 @@
-Jade: Proceed.
+Джейд: Продолжить.
 ###
 67f0083a48
 ###
@@ -7,9 +7,9 @@ Jade: Proceed.
 http://ru-homestuck.org/storyfiles/hs2/00852_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00852_2.gif
 ###
-You hop down a level.
+Ты спускаешься на уровень ниже.
 
-Granddad also likes to accumulate VALIANT KNIGHTS from his travels. These are pretty cool, you guess.
+Дедуля также любит собирать ГЕРОИЧЕСКИХ РЫЦАРЕЙ в своих путешествиях. На твой взгляд, эти особенно классные.
 ###
 002753
 X

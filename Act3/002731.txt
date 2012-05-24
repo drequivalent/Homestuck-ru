@@ -1,4 +1,4 @@
-Jade: Open Echidna and go to mspaintadventures.com
+Джейд: Открыть браузер Echidna и перейти на mspaintadventures.com
 ###
 9c663ee681
 ###
@@ -6,11 +6,11 @@ Jade: Open Echidna and go to mspaintadventures.com
 ###
 http://ru-homestuck.org/storyfiles/hs2/00831.gif
 ###
-You open your web browser and visit MSPA.
+Ты открываешь свой браузер и посещаешь MSPA.
 
-You navigate to a random page in the middle of the latest epic. 
+Ты переходишь на случайную страницу в середине последней эпопеи.
 
-Looks like he was just finishing up some sort of weird tangential intermission here. Whatever it was, it clearly advanced the plot in no relevant way whatsoever.
+Похоже, что здесь он только закончил какую-то странную отвлеченную от темы интермиссию. Чем бы оно ни было, ясно, что оно не имеет никакого отношения к развитию сюжета.
 ###
 002732
 X

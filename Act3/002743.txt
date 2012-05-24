@@ -1,4 +1,4 @@
-[S] Jade: Descend.
+[S] Джейд: Спуститься.
 ###
 2b4bde2b62
 ###
@@ -6,7 +6,7 @@
 ###
 F|http://ru-homestuck.org/storyfiles/hs2/00843
 ###
-Try as you might, you can't stop your mind from drifting to the fate of your friends. You dwell on a particular configuration of REMINDERS on your finger.
+Сколько ни пытайся, ты не можешь отвлечь свой разум от мыслей о судьбе друзей. Ты обращаешь внимание на особое расположение НАПОМИНАЛОК на своих пальцах.
 ###
 002744
 X

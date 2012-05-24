@@ -6,7 +6,7 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/00850.gif
 ###
-It looks like the kiosk monitors the lab's enormous HUBGRID.
+Видимо, терминал управляет огромной ХАБСЕТЬЮ лаборатории.
 ###
 002751
 X
