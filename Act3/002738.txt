@@ -7,7 +7,7 @@ Jade: Pester Rose.
 http://ru-homestuck.org/storyfiles/hs2/00838.gif
 ###
 |PESTERLOG|
-<span style="color: #b536da">TT: I require a font of frighteningly accurate yet infuriatingly nonspecific information.</span>
+<span style="color: #b536da">TT: I require a font of frighteningly accurate yet infuriatingly nonspecific information. </span>
 <span style="color: #b536da">TT: Do you know where I can find a wellspring of this sort?</span>
 <span style="color: #4ac925">GG: hahaha yes ok but we cant talk for long!!!</span>
 <span style="color: #b536da">TT: You have plans? </span>
