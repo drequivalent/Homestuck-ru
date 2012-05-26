@@ -1,4 +1,4 @@
-Rose: Attempt to plug laptop into nearby hub.
+Роуз: Попытаться подключить ноутбук к ближайшему хабу.
 ###
 c4581221f3
 ###

@@ -1,4 +1,4 @@
-Rose: Examine fetch modus.
+Роуз: Изучить метод доступа.
 ###
 d35aa70ec9
 ###
@@ -6,9 +6,9 @@ d35aa70ec9
 ###
 http://ru-homestuck.org/storyfiles/hs2/00864.gif
 ###
-Looks like you can choose between picking leaves, or awkwardly uprooting the whole tree, as you've been doing.
+Кажется, ты можешь выбрать между сбором листьев и грубым перемещением всего дерева, что стоит у тебя сейчас.
 
-You select LEAF. You also turn off AUTO-BALANCE, since its consequences can be a little mystifying sometimes.
+Ты выбираешь ЛИСТ. И отключаешь АВТОБАЛАНСИРОВКУ, так как иногда ее последствия могут быть немного озадачивающими.
 ###
 002765
 X

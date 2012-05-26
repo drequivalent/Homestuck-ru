@@ -6,7 +6,7 @@ afe59555ed
 ###
 http://ru-homestuck.org/storyfiles/hs2/00867.gif
 ###
-You pick the LAPTOP leaf from the tree.
+Ты отрываешь с дерева лист с НОУТБУКОМ.
 ###
 002768
 X

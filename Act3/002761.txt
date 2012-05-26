@@ -1,4 +1,4 @@
-Rose: Go to the center and do a goofy dance.
+Роуз: Пройти в центр и придурошно потанцевать.
 ###
 66864efb3c
 ###
@@ -6,9 +6,9 @@ Rose: Go to the center and do a goofy dance.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00861.gif
 ###
-At the center, you find a little stage that looks perfect for supporting a spectacularly silly dance. Or it would if standing on it didn't make you a little nervous, and also if that didn't sound like a retarded idea given the circumstances. 
+В центре ты видишь небольшой помост, идеально подходящий для помощи в эффектном глупом танце. Или он мог бы помочь, если бы мысль о том, чтобы постоять на нем, не заставляла тебя малость нервничать, а также, учитывая обстоятельства, если бы эта идея не звучала столь тупо.
 
-It looks sort of like the various contraptions you've been deploying in John's house. You wonder what it does?
+Помост похож на различные устройства, которые ты размещала в доме Джона. Интересно, что это?
 ###
 002762
 X

@@ -1,4 +1,4 @@
-Rose: Find the unlocked hub.
+Роуз: Найти отсоединенный хаб.
 ###
 6ce848ce76
 ###
@@ -6,11 +6,11 @@ Rose: Find the unlocked hub.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00866.gif
 ###
-As long as you're going to plug in your computer, you might as well find that hub.
+Так как ты собираешься включить свой компьютер, сначала необходимо найти хаб.
 
-Here it is. HUB SN_LAB0413. It is unlocked, and thus removable from the grid.
+Вот и он. ХАБ SN_LAB0413. Он отключен, а следовательно, его можно вытащить из сети.
 
-You suspect this was the same beacon transmitting the unsecured signal you were using earlier.
+Ты подозреваешь, что именно он давал тот самый сигнал с незащищенной связью, которую ты использовала чуть раньше.
 ###
 002767
 X
