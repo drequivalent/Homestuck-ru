@@ -1,4 +1,4 @@
-Jade: Pester Dave.
+Джейд: Написать Дейву.
 ###
 6a2c89e4c7
 ###
@@ -6,71 +6,71 @@ Jade: Pester Dave.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00835.gif
 ###
-|PESTERLOG|
-<span style="color: #4ac925">gardenGnostic [GG]</span> began pestering <span style="color: #e00707">turntechGodhead [TG]</span> at 2009-04-13 -- 12:36
+|ДОСТАЛОГ|
+<span style="color: #4ac925">gardenGnostic [GG]</span> начал доставать <span style="color: #e00707">turntechGodhead [TG]</span> в 2009-04-13 -- 12:36
 
-<span style="color: #4ac925">GG: hi dave!! </span>
-<span style="color: #e00707">TG: hey sup</span>
-<span style="color: #4ac925">GG: not much sup with you!!</span>
-<span style="color: #4ac925">GG: bro! hehehe</span>
-<span style="color: #e00707">TG: haha</span>
-<span style="color: #e00707">TG: good one</span>
-<span style="color: #e00707">TG: s'alright being chill i guess you know how it goes</span>
-<span style="color: #4ac925">GG: great! feeling cool today?</span>
-<span style="color: #4ac925">GG: mr cool guy?</span>
-<span style="color: #e00707">TG: oh man you know it</span>
-<span style="color: #4ac925">GG: sooooo cooooooool!!!</span>
-<span style="color: #e00707">TG: you know shit is ice cold up in here</span>
-<span style="color: #e00707">TG: shit is wicked bananas i am telling you</span>
+<span style="color: #4ac925">GG: привет, дейв!! </span>
+<span style="color: #e00707">TG: хай чо как</span>
+<span style="color: #4ac925">GG: без тебя не так клево!!</span>
+<span style="color: #4ac925">GG: бро! хехехе</span>
+<span style="color: #e00707">TG: хаха</span>
+<span style="color: #e00707">TG: прикольно</span>
+<span style="color: #e00707">TG: тусоваться ништяк ну ты и сама знаешь</span>
+<span style="color: #4ac925">GG: ага! насколько крут сегодня?</span>
+<span style="color: #4ac925">GG: мистер крутой парень?</span>
+<span style="color: #e00707">TG: ох чуве а то ты не в курсе</span>
+<span style="color: #4ac925">GG: такооооой крутоооооооой!!!</span>
+<span style="color: #e00707">TG: аж до дрожи пробирает</span>
+<span style="color: #e00707">TG: круче яиц буду отвечаю</span>
 <span style="color: #4ac925">GG: :D</span>
-<span style="color: #4ac925">GG: so have you talked to john today???</span>
-<span style="color: #e00707">TG: yeah we were just talking a while ago about how he sucks at his sylladex</span>
-<span style="color: #e00707">TG: can you believe he uses stack that kid is ridiculous</span>
-<span style="color: #4ac925">GG: lol</span>
-<span style="color: #4ac925">GG: well that doesnt sound like much fun!</span>
-<span style="color: #e00707">TG: what was it you use again...</span>
-<span style="color: #e00707">TG: wait nm</span>
-<span style="color: #e00707">TG: i forgot whenever we talk about your goofy modusses i get a migrane. what do you want with john</span>
+<span style="color: #4ac925">GG: говорил сегодня с джоном???</span>
+<span style="color: #e00707">TG: ага только что базарили насколько его силладекс убожество</span>
+<span style="color: #e00707">TG: прикинь он использует стек во лошара</span>
+<span style="color: #4ac925">GG: лол</span>
+<span style="color: #4ac925">GG: да уж, звучит не очень весело!</span>
+<span style="color: #e00707">TG: а что там ты сама юзала...</span>
+<span style="color: #e00707">TG: погодь хм</span>
+<span style="color: #e00707">TG: вечно забываю от разговоров про твои безумные модусы у меня башка раскалывается. чего хочешь от джона</span>
 <span style="color: #4ac925">GG: :)</span>
-<span style="color: #4ac925">GG: i want to tell him happy birthday and ask him about his birthday package!</span>
-<span style="color: #e00707">TG: oh yeah</span>
-<span style="color: #e00707">TG: i was being sort of cagey and told him to check the mail cause i was wondering if mine came yet</span>
-<span style="color: #4ac925">GG: i think it did!</span>
-<span style="color: #e00707">TG: yeah?</span>
-<span style="color: #4ac925">GG: and i think mine came too</span>
-<span style="color: #e00707">TG: so uh</span>
-<span style="color: #e00707">TG: i guess you want to know if he likes it or something?</span>
-<span style="color: #4ac925">GG: no!!!!!!!</span>
-<span style="color: #4ac925">GG: he will not open it</span>
-<span style="color: #4ac925">GG: he will lose it!!!</span>
-<span style="color: #e00707">TG: oh</span>
-<span style="color: #e00707">TG: uh</span>
-<span style="color: #e00707">TG: wow sorry to hear that i guess?</span>
-<span style="color: #4ac925">GG: no its good actually!</span>
-<span style="color: #4ac925">GG: because he will find it again later when he really needs it</span>
-<span style="color: #4ac925">GG: which of course is why i sent it in the first place!</span>
-<span style="color: #e00707">TG: see like</span>
-<span style="color: #e00707">TG: i never get how you know these things</span>
-<span style="color: #4ac925">GG: i dont know</span>
-<span style="color: #4ac925">GG: i just know that i know!</span>
-<span style="color: #e00707">TG: hmm alright</span>
-<span style="color: #4ac925">GG: anyway i have to go!</span>
-<span style="color: #4ac925">GG: i have to feed bec which is always a bit of an undertaking</span>
-<span style="color: #e00707">TG: man</span>
-<span style="color: #e00707">TG: if i were you i would just take that fucking devilbeast out behind the woodshed and blow its head off</span>
-<span style="color: #4ac925">GG: heheheh!</span>
-<span style="color: #4ac925">GG: i dont think i could if i tried!!!</span>
-<span style="color: #e00707">TG: yeah</span>
-<span style="color: #e00707">TG: say hi to your grand dad for me too ok</span>
+<span style="color: #4ac925">GG: хочу поздравить с днем рождения и узнать о его подарке!</span>
+<span style="color: #e00707">TG: ах да</span>
+<span style="color: #e00707">TG: я типа схитрил и сказал ему проверить почту думаю мой подарок тоже уже должен придти</span>
+<span style="color: #4ac925">GG: полагаю, что так!</span>
+<span style="color: #e00707">TG: да ну?</span>
+<span style="color: #4ac925">GG: мой тоже пришел</span>
+<span style="color: #e00707">TG: значит эм</span>
+<span style="color: #e00707">TG: наверное ты хочешь знать понравилось ему или нет?</span>
+<span style="color: #4ac925">GG: нет!!!!!!!</span>
+<span style="color: #4ac925">GG: он его не откроет</span>
+<span style="color: #4ac925">GG: он его потеряет!!!</span>
+<span style="color: #e00707">TG: о</span>
+<span style="color: #e00707">TG: эм</span>
+<span style="color: #e00707">TG: вау жаль слышать наверное?</span>
+<span style="color: #4ac925">GG: нет, это даже хорошо!</span>
+<span style="color: #4ac925">GG: ведь он найдет его снова позднее, когда он ему действительно понадобится</span>
+<span style="color: #4ac925">GG: и именно для этого я его ему и послала!</span>
+<span style="color: #e00707">TG: типа омг</span>
+<span style="color: #e00707">TG: никак понять не могу откуда ты все это знаешь</span>
+<span style="color: #4ac925">GG: не знаю</span>
+<span style="color: #4ac925">GG: просто знаю то, что знаю!</span>
+<span style="color: #e00707">TG: хмм ладно</span>
+<span style="color: #4ac925">GG: в общем, мне пора идти!</span>
+<span style="color: #4ac925">GG: нужно покормить бэка, это вроде как моя обязанность</span>
+<span style="color: #e00707">TG: чуве</span>
+<span style="color: #e00707">TG: будь я на твоем месте я бы вывел это дьявольское отродье за сарай и прострелил ему башку</span>
+<span style="color: #4ac925">GG: хехехех!</span>
+<span style="color: #4ac925">GG: не думаю, что смогу, даже если попытаюсь!!!</span>
+<span style="color: #e00707">TG: ага</span>
+<span style="color: #e00707">TG: передавай деду привет от меня лады</span>
 <span style="color: #4ac925">GG: ._.</span>
-<span style="color: #4ac925">GG: yes i guess an encounter with him is almost certain</span>
-<span style="color: #4ac925">GG: it is usually........</span>
-<span style="color: #4ac925">GG: intense!!!</span>
-<span style="color: #e00707">TG: well yeah isnt it always with family</span>
-<span style="color: #e00707">TG: but he sounds like a total badass</span>
-<span style="color: #4ac925">GG: yeah he totally is!!!</span>
-<span style="color: #4ac925">GG: anyway gotta go!</span>
-<span style="color: #e00707">TG: see ya</span>
+<span style="color: #4ac925">GG: да, видимо, встреча с ним неизбежна</span>
+<span style="color: #4ac925">GG: обычно они проходят........</span>
+<span style="color: #4ac925">GG: напряжно!!!</span>
+<span style="color: #e00707">TG: ну знаешь у кого в семье по другому</span>
+<span style="color: #e00707">TG: но он походу та еще задница</span>
+<span style="color: #4ac925">GG: вот именно!!!</span>
+<span style="color: #4ac925">GG: ладно, мне пора!</span>
+<span style="color: #e00707">TG: увидимся</span>
 <span style="color: #4ac925">GG: &lt;3</span>
 ###
 002736
