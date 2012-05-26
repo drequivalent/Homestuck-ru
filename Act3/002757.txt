@@ -6,9 +6,9 @@ dc2eb64ca1
 ###
 http://ru-homestuck.org/storyfiles/hs2/00857.gif
 ###
-You reach the ground level. This is the stupid thing blocking the transportalizer. It is unspeakably hideous.
+Ты достигаешь уровня земли. Эта тупая штука заблокировала транспортатор. Она неописуемо мерзкая.
 
-Down the southeast hall is the GRAND FOYER. You'll have to cross through it to leave the house.
+АВАНЗАЛ ниже юго-восточного зала. Тебе придется обойти это, чтобы покинуть дом.
 ###
 002758
 X

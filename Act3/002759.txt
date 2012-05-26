@@ -1,4 +1,4 @@
-Jade: Answer.
+Джейд: Ответить.
 ###
 2ffb716428
 ###
@@ -6,23 +6,23 @@ Jade: Answer.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00859.gif
 ###
-|PESTERLOG|
-<span style="color: #626262">carcinoGeneticist [CG]</span> began trolling gardenGnostic <span style="color: #4ac925">[GG]</span> at 13:04 
+|ДОСТАЛОГ|
+<span style="color: #626262">carcinoGeneticist [CG]</span> начал троллить gardenGnostic <span style="color: #4ac925">[GG]</span> в 13:04 
 
-<span style="color: #626262">CG: HI AGAIN, IDIOT.</span>
-<span style="color: #4ac925">GG: oh nooooooo</span>
-<span style="color: #626262">CG: SO I GUESS TODAY IS FINALLY THE DAY YOU FUCK EVERYTHING UP.</span>
+<span style="color: #626262">CG: СНОВА ЗДОРОВА, ТУПИЦА.</span>
+<span style="color: #4ac925">GG: о нееееееет</span>
+<span style="color: #626262">CG: ПОЛАГАЮ, СЕГОДНЯ ИМЕННО ТОТ ДЕНЬ, КОГДА ТЫ ВСЕ ПРОЕБАЛА.</span>
 <span style="color: #4ac925">GG: &gt;:O</span>
-<span style="color: #626262">CG: IS THERE NOTHING I CAN DO TO CHANGE YOUR MIND?</span>
-<span style="color: #4ac925">GG: you can leave me alone!!!!!</span>
-<span style="color: #4ac925">GG: how can you even be talking to me after i blocked you....</span>
-<span style="color: #4ac925">GG: AND after i logged out????</span>
-<span style="color: #626262">CG: YOU DON'T GET THAT I AM BETTER AND SMARTER THAN YOU IN EVERY WAY, FOREVER.</span>
-<span style="color: #626262">CG: YOU DON'T GET THAT BECAUSE YOU ARE INCREDIBLY STUPID.</span>
-<span style="color: #4ac925">GG: i get that youre a jerk and you should shut up!</span>
-<span style="color: #4ac925">GG: goodbye you jerk!!!!!!!!!</span>
+<span style="color: #626262">CG: И НЕТ НИЧЕГО, ЧТО Я МОГ БЫ СДЕЛАТЬ, ЧТОБЫ ИЗМЕНИТЬ ТВОЕ РЕШЕНИЕ?</span>
+<span style="color: #4ac925">GG: ты мог бы оставить меня в покое!!!!!</span>
+<span style="color: #4ac925">GG: как ты вообще пишешь мне, если я тебя заблокировала....</span>
+<span style="color: #4ac925">GG: ДА ЕЩЕ после того как я разлогинилась????</span>
+<span style="color: #626262">CG: ТЫ НЕ ПОНИМАЕШЬ, ЧТО Я ЛУЧШЕ И УМНЕЕ ВО ВСЕХ ОТНОШЕНИЯХ, НАВСЕГДА.</span>
+<span style="color: #626262">CG: ТЫ НЕ ПОНИМАЕШЬ ЭТОГО, ПОТОМУ ЧТО ТЫ НЕВЕРОЯТНО ГЛУПА.</span>
+<span style="color: #4ac925">GG: я понимаю, что ты придурок и должен заткнуться!</span>
+<span style="color: #4ac925">GG: бай-бай, козел!!!!!!!!!</span>
 
-<span style="color: #4ac925">gardenGnostic [GG]</span> blocked <span style="color: #626262">carcinoGeneticist [CG]</span> at 13:06 
+<span style="color: #4ac925">gardenGnostic [GG]</span> заблокировал <span style="color: #626262">carcinoGeneticist [CG]</span> в 13:06
 ###
 002760
 X
