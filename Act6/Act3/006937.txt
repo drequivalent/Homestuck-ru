@@ -1,0 +1,42 @@
+Jane: Answer client shades.
+###
+cf915fd1e7
+###
+1339236479
+###
+http://ru-homestuck.org/storyfiles/hs2/05034_1.gif
+http://ru-homestuck.org/storyfiles/hs2/05034_2.gif
+###
+|PESTERLOG|
+<span style="color: #e00707">timaeusTestified [TT]</span> began pestering <span style="color: #00d5f2">gutsyGumshoe [GG]</span>
+<span style="color: #e00707">TT: Hold up.</span>
+<span style="color: #e00707">TT: Before you go any further, there's been a change of plan.</span>
+<span style="color: #00d5f2">GG: Really?</span>
+<span style="color: #e00707">TT: Well, not a change of plan so much as an acceleration.</span>
+<span style="color: #e00707">TT: Everyone needs to get into the game sooner than expected. There is a new unaccounted for variable.</span>
+<span style="color: #e00707">TT: Particularly for Roxy and Dirk.</span>
+<span style="color: #00d5f2">GG: What is it?</span>
+<span style="color: #e00707">TT: They are probably going to die if they don't join the game very soon.</span>
+<span style="color: #00d5f2">GG: Shucks!!!!!</span>
+<span style="color: #e00707">TT: Hey, I'm upset about it too, but let's watch the fucking language.</span>
+<span style="color: #00d5f2">GG: Ok, what do I do?</span>
+<span style="color: #e00707">TT: Install the server. I downloaded it to your computer along with a few other crucial system upgrades when we established our connection.</span>
+<span style="color: #00d5f2">GG: Upgrades? What upgrades?</span>
+<span style="color: #00d5f2">GG: Wait, is that how this stupid &quot;Delirious Biznasty&quot; application got on here?</span>
+<span style="color: #e00707">TT: No comment.</span>
+<span style="color: #e00707">TT: Install and run the server.</span>
+<span style="color: #e00707">TT: You will be connecting with Roxy. I will have Jake connect with Dirk. Setting up the chain like this will be important.</span>
+<span style="color: #00d5f2">GG: Why?</span>
+<span style="color: #e00707">TT: It seems that I again have no comment.</span>
+<span style="color: #00d5f2">GG: Sheesh.</span>
+<span style="color: #00d5f2">GG: Very well then, Mister Zipperlips.</span>
+<span style="color: #e00707">TT: I don't have lips. You just said something laughably illogical.</span>
+<span style="color: #e00707">TT: How typical of someone who isn't a fashion accessory of immeasurable intelligence.</span>
+<span style="color: #00d5f2">GG: Whatever! Let's curtail the horseplay this once while I help Roxy.</span>
+<span style="color: #00d5f2">GG: Ok. I installed it. Now what? Should I run it?</span>
+<span style="color: #e00707">TT: Yes. That copy is programmed to connect automatically with the client she's running.</span>
+<span style="color: #00d5f2">GG: Okey dokey. Doing that now.</span>
+<span style="color: #00d5f2">GG: Hey, I can see her room! :B</span>
+###
+006938
+X
