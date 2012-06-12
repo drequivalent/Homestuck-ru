@@ -6,27 +6,27 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/04350.gif
 ###
-|DIALOGLOG|
-<span style="color: #008282">TEREZI: 1 4M SO SORRY YOU GUYS</span>
-<span style="color: #008282">TEREZI: W3 4R3 4CTU4LLY 4 LOT COOL3R TH4N TH1S!</span>
-<span style="color: #e00707">DAVE: are you actually</span>
-<span style="color: #008282">TEREZI: ...</span>
-<span style="color: #008282">TEREZI: NO</span>
-<span style="color: #008282">TEREZI: NO W3 AR3 NOT</span>
-<span style="color: #626262">KARKAT: WHAT IS HAPPENING NOW</span>
-<span style="color: #626262">KARKAT: SOMEONE TELL ME WHAT'S GOING ON.</span>
-<span style="color: #626262">KARKAT: WHO'S THE LEADER NOW?</span>
-<span style="color: #626262">KARKAT: ARADIA ARE YOU THE LEADER NOW</span>
-<span style="color: #626262">KARKAT: OR IS IT ROSE &quot;I HAVE AN IDEA, LET'S TAKE THE INVINCIBLE DEMON HEAD ON!&quot; LALONDE.</span>
-<span style="color: #626262">KARKAT: I NEED TO KNOW WHO THE LEADER IS</span>
-<span style="color: #626262">KARKAT: I NEED TO KNOW IN WHOSE DIRECTION I MUST BEHAVE AS THE MOST PATHETICALLY USELESS SUBORDINATE I CAN BE.</span>
-<span style="color: #626262">KARKAT: QUICK, SOMEONE BOSS ME AROUND! I'M FUCKING INCOMPETENT AND RARING TO GO.</span>
-<span style="color: #626262">KARKAT: THAT'S WHAT YOU DO WHEN THERE'S A LEADER AROUND TRYING TO MAKE PLANS, RIGHT?</span>
-<span style="color: #626262">KARKAT: YOU DROP YOUR IQ HARDER THAN A PAIR OF HILARIOUSLY PLUMMETING PANTS, YOU CEASELESSLY RAMBLE ABOUT VAPID BULLSHIT, YOU RUN AROUND HIDING ALL OF YOUR WORLDLY POSSESSIONS IN TREASURE CHESTS, AND THEN EVERYONE STARTS MURDERING EACH OTHER.</span>
-<span style="color: #626262">KARKAT: IF THERE'S ANY OTHER EXPERIENCE CHARACTERIZING LEADERSHIP, IT'S ONE I SURE AS FUCK NEVER HAD!</span>
-<span style="color: #626262">KARKAT: SO I NEED TO KNOW WHO THE LEADER IS.</span>
-<span style="color: #626262">KARKAT: STRIDER, IS IT YOU???</span>
-<span style="color: #008282">TEREZI: 4444444UGH</span>
+|ДИАЛОГЛОГ|
+<span style="color: #008282">ТЕРЕЗИ: ЧУВ4К11 Я П3Р3Д В4М11 Т4К 11ЗВ11НЯЮСЬ</span>
+<span style="color: #008282">ТЕРЕЗИ: Н4 САМОМ Д3Л3 МЫ КРУЧ3!</span>
+<span style="color: #e00707">ДЕЙВ: на самом деле вы</span>
+<span style="color: #008282">ТЕРЕЗИ: ...</span>
+<span style="color: #008282">ТЕРЕЗИ: Н3Т</span>
+<span style="color: #008282">ТЕРЕЗИ: МЫ Н3</span>
+<span style="color: #626262">КАРКАТ: ЧТО ПРОИСХОДИТ</span>
+<span style="color: #626262">КАРКАТ: КТО-НИБУДЬ, СКАЖИТЕ ЧТО ПРОИСХОДИТ.</span>
+<span style="color: #626262">КАРКАТ: КТО СЕЙЧАС ГЛАВНЫЙ?</span>
+<span style="color: #626262">КАРКАТ: АРАДИЯ, ТЫ ГЛАВНАЯ</span>
+<span style="color: #626262">КАРКАТ: ИЛИ РОУЗ &quot;У МЕНЯ ИДЕЯ, ВОЗЬСЁМ ГОЛОВУ НЕПОБЕДИМОГО ДЕМОНА!&quot; ЛАЛОНД.</span>
+<span style="color: #626262">КАРКАТ: МНЕ НУЖНО ЗНАТЬ КТО ГЛАВНЫЙ</span>
+<span style="color: #626262">КАРКАТ: МНЕ НУЖНО ЗНАТЬ В ЧЬЁМ НАПРАВЛЕНИИ ВЕСТИ СЕБЯ КАК САМЫЙ ЖАЛКИЙ БЕСПОЛЕЗНЫЙ ПОМОЩНИК, КАКИМ Я МОГУ БЫТЬ.</span>
+<span style="color: #626262">КАРКАТ: БЫСТРЕЕ, ГЛАВЕНСТВУЙТЕ НАДО МНОЙ! Я БЛЯДЬ НЕКОМПЕТЕНТЕН И В НЕТЕРПЕНИИ НАЧАТЬ.</span>
+<span style="color: #626262">КАРКАТ: ВЫ ЭТИМ И ЗАНИМАЕТЕСЬ, КОГДА ГЛАВНЫЙ ПЫТАЕТСЯ СТРОИТЬ ПЛАНЫ, ВЕРНО?</span>
+<span style="color: #626262">КАРКАТ:ВЫ УРОНИЛИ СВОЙ IQ БЫСТРЕЙ. ЧЕМ СПАДАЮЩУЮ ПАРУ ШТАНОВ, ВЫ НЕПРЕРЫВНО БОЛТАЕТЕ О СУЩЕЙ ЕРУНДЕ, ВЫ НОСИТЕСЬ ТУДА-СЮДА, ПРЯЧА СВОИ ПОЖИТКИ В СУНДУКИ С СОКРОВИЩАМИ, А ЗАТЕМ НАЧИНАЕТЕ УБИВАТЬ ДРУГ ДРУГА.</span>
+<span style="color: #626262">КАРКАТ: ЕСЛИ ЕСТЬ КАКОЙ-ТО ДРУГОЙ ОПЫТ, ХАРАКТЕРИЗУЮЩИЙ ЛИДЕРСТВО, ЕГО , Я ДОХУЯ УВЕРЕН, У МЕНЯ НИКОГДА НЕ БЫЛО!</span>
+<span style="color: #626262">КАРКАТ: ПОТОМУ МНЕ НУЖНО ЗНАТЬ КТО ГЛАВНЫЙ.</span>
+<span style="color: #626262">КАРКАТ: СТРАЙДЕР, ЭТО ТЫ???</span>
+<span style="color: #008282">ТЕРЕЗИ: 4444444УГХ</span>
 ###
 006254
 X

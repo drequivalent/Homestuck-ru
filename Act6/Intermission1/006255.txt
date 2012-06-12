@@ -7,13 +7,13 @@ b2c038da7d
 http://ru-homestuck.org/storyfiles/hs2/04352.gif
 ###
 |DIALOGLOG|
-<span style="color: #b536da">ROSE: Nothing yet.</span>
-<span style="color: #b536da">ROSE: But reasonably soon, within a certain window, it will be time to leave.</span>
-<span style="color: #b536da">ROSE: We will then pilot this meteor as fast as we can make it go in that exact direction.</span>
-<span style="color: #a1a100">SOLLUX: what's that way?</span>
-<span style="color: #b536da">ROSE: Nothing whatsoever.</span>
-<span style="color: #b536da">ROSE: As of now, that way lies darkness and uncertainty beyond description.</span>
-<span style="color: #008141">KANAYA: I See</span>
+<span style="color: #b536da">ROSE: Пока ничего.</span>
+<span style="color: #b536da">ROSE: Но веротно скоро в определённом окне настанет время покинуть это место.</span>
+<span style="color: #b536da">ROSE: Замем мы будем двигать этот метеорит так быстро, насколько это возможно, строго в определённом направлении.</span>
+<span style="color: #a1a100">SOLLUX: куда?</span>
+<span style="color: #b536da">ROSE: Пока никуда.</span>
+<span style="color: #b536da">ROSE: Сейчас можно сказать только, что путь лежит через тьму.</span>
+<span style="color: #008141">KANAYA: Вижу</span>
 <span style="color: #008141">KANAYA: Then Perhaps We Should Reserve The Infinite Darkness Plan For The Maybe Column For Now</span>
 <span style="color: #008141">KANAYA: I Think Im Even Willing To Let Dave Take A Crack At The Logistics Before We Commit To That Particular Maneuver Daring Though It Sounds</span>
 <span style="color: #e00707">DAVE: aw yeah</span>

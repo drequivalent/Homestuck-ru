@@ -6,8 +6,8 @@ ccaa54095f
 ###
 http://ru-homestuck.org/storyfiles/hs2/04349.gif
 ###
-|DIALOGLOG|
-<span style="color: #626262">KARKAT: I WAS JOKING, GET THOSE FUCKING THINGS AWAY FROM ME</span>
+|ДИАЛОГЛОГ|
+<span style="color: #626262">КАРКАТ: Я ПОШУТИЛ, ДЕРЖИ ЭТУ ЕБАНУЮ ХУЙНЮ ПОДАЛЬШЕ ОТ МЕНЯ/span>
 ###
 006253
 X
