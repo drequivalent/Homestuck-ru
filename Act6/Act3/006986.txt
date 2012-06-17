@@ -1,4 +1,4 @@
-Roxy: Return home.
+Рокси: Вернуться в дом.
 ###
 d4df53b3e1
 ###
@@ -6,7 +6,7 @@ d4df53b3e1
 ###
 http://ru-homestuck.org/storyfiles/hs2/05083.gif
 ###
-You have returned home to find a variety of devices deployed throughout your house, and a variety of fires threatening to burn it down.
+Ты возвращаешься домой, где находишь море устройств, расставленных по всему зданию, а море огня угрожает сжечь его дотла.
 ###
 006987
 X
