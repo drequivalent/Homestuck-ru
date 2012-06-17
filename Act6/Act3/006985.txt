@@ -1,4 +1,4 @@
-I selected all those characters. Time to move on.
+Я выбрал всех этих персонажей. Пора двигаться дальше.
 ###
 7ec277f8b0
 ###
@@ -6,7 +6,7 @@ I selected all those characters. Time to move on.
 ###
 http://ru-homestuck.org/storyfiles/hs2/05082.gif
 ###
-You press onward, feeling refreshed and invigorated by all the free will you were just dealt. The story was your oyster for a while there. Or more specifically, it was one of four slightly different oysters you could choose from, in any order, as long as you ultimately selected and consumed all four oysters when all was said and done. This must be what it feels like to be a god, you think to yourself. Or at the very least, the patron of a seafood restaurant.
+Вы переходите вперед, чувствуя, как освежает и воодушевляет вся та свобода выбора, которая теперь находится в вашем распоряжении. До сих пор история была вашей устрицей. Или, если точнее, одной из четырех слегка разных устриц, из которых вы могли выбирать в любом порядке до тех пор, пока наконец-то не выбрали все четыре устрицы, и все было сказано и сделано. Должно быть, именно так и чувствует себя бог, думаете вы про себя. Или, по крайней мере, спонсор ресторана морепродуктов.
 ###
 006986
 X
