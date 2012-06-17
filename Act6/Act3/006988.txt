@@ -1,4 +1,4 @@
-Roxy: Connect with Jake.
+Рокси: Подсоединиться к Джейку.
 ###
 c8e2368076
 ###
@@ -8,11 +8,11 @@ http://ru-homestuck.org/storyfiles/hs2/05085_1.gif
 http://ru-homestuck.org/storyfiles/hs2/05085_2.gif
 http://ru-homestuck.org/storyfiles/hs2/05085_3.gif
 ###
-You run the server program which auto-connects with Jake and a viewport of his old house just pops right open. This is going to be so easy. You can already tell, compared to you, everyone else sucks so bad at this game, not to mention at computers in general.
+Ты запускаешь серверную программу, которая автоматически подключается к Джейку и открывает видео-порт на его старый дом, как раз появившийся перед тобой настежь открытым. Это будет так просто. Можно сказать, по сравнению с тобой, в этой игре лажают все, что уж говорить о компьютерах.
 
-You better deploy all this equipment ASAP. Not only are you in a hurry to hop into the session yourself, it looks like his volcano is beginning to erupt. Some lava has started a forest fire which is now spreading slowly toward the house. No sign of Jake yet. Hopefully the Dirks can somehow tag team that doofus and make him get with the program.
+Лучше расставить все эти устройства как можно быстрее. Не только тебе стоит поспешить прыгнуть в сессию - похоже, его вулкан уже готов к извержению. Небольшие потоки лавы стали причиной лесного пожара, который теперь медленно подбирается к дому. Джейка еще не видно. Ты надеешься, что Дирк сумеет как-нибудь вытянуть этого тупицу и заставить его сделать все необходимое.
 
-Oh right, she was going to message you when you got home, you almost forgot. Time to switch gears and go into multitasking mode. You'll get as much done as you can while you talk, ALSO while nursing this hangover. It takes a special kind of hacker babe to be able to handle that, you think. You truly are as deadaly to the grid ass you are beatuiful.
+Ах да, ты чуть не забыла, что она просила тебя написать ей, когда ты вернешься домой. Время переключиться и войти в режим многозадачности. Ты постараешься сделать как можно больше, пока будешь разговаривать, А ТАКЖЕ пока будешь отходить от похмелья. Ты считаешь, чтобы управиться со всем этим, нужно быть не простой малышкой-хакером. Ты реально столь беспощанда к сети, какак и прекарсна.
 
 ***
 ###
