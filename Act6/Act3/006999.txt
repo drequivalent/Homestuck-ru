@@ -1,4 +1,4 @@
-Calliope: Dehorn.
+Каллиопа: Снять рога.
 ###
 6d85eee2e7
 ###
@@ -6,11 +6,11 @@ Calliope: Dehorn.
 ###
 http://ru-homestuck.org/storyfiles/hs2/05096.gif
 ###
-You remove the last accessory to your prized COSPLAY ENSEMBLE, and put it neatly with the rest of the stuff. The place is messy enough already without tossing horns about carelessly.
+Ты избавляешься от последнего аксессуара из своего драгоценного КОСПЛЕЙНОГО КОСТЮМА и аккуратно кладешь его рядом с другими вещами. Это место и без того грязное, чтобы беспечно разбрасываться рогами.
 
-You have many fond memories of solo-cosplay in your room. It's a lot of fun and alarmingly comfortable to just lounge around your room in-character. You really hope you'll get the chance to put it on again after your nap... 
+У тебя множество воспоминаний об одиночном косплее в своей комнате. Здесь очень весело и настораживающе удобно отдыхать "в образе". Ты надеешься, что у тебя еще будет шанс снова в него облачиться после сна…
 
-Well, maybe not the face paint. You don't wear that so much anymore. He gets especially furious when you do.
+Ну, может, исключая грим на лице. Ты стараешься не использовать его больше. Он приходит в особую ярость, когда ты им красишься.
 ###
 007000
 X
