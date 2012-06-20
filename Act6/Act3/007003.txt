@@ -1,4 +1,4 @@
-Calliope: Tidy up a little.
+Каллиопа: Немного прибраться.
 ###
 3a296c2b25
 ###
@@ -6,7 +6,7 @@ Calliope: Tidy up a little.
 ###
 http://ru-homestuck.org/storyfiles/hs2/05100.gif
 ###
-You stow the delicious mess in your sylladex. You might be inclined to snack on it now, but due to the nature of your JUJU MODUS, you cannot access it. Once you captchalogue something, only your brother can use it. And vice versa. You always make sure never to captchalogue anything that is particularly important to you. You think sometimes he chucks stuff over to your side of the room just to bait you into captchaloguing it for him, and getting it into his inventory. You kind of don't think he was engaging in such machinations this time though. It looks like he was just being a petulant brat.
+Ты помещаешь вкусный беспорядок в свой силладекс. Ты была бы не против перекусить и сейчас, но, из-за характеристик своего МОДУСА "ДЖУДЖУ", не имеешь доступа к предметам. Все, что ты каптчалогируешь, способен использовать только брат. И наоборот. Ты всегда следишь за тем, чтобы не каптчалогировать чего-нибудь действительно важного для тебя. Ты думаешь, что иногда он пуляет вещи в сторону твоей половины просто в виде приманки, чтобы ты каптчалогировала их для него. Ты вроде как не уверена, чтобы в этот раз он устраивал такие же махинации. Похоже, он просто вел себя как несносный мальчишка.
 ###
 007004
 X

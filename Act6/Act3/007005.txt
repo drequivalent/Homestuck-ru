@@ -1,4 +1,4 @@
-Calliope: See what you've got captchalogued.
+Каллиопа: Посмотреть, что у тебя каптчалогировано.
 ###
 54534107b2
 ###
@@ -6,9 +6,9 @@ Calliope: See what you've got captchalogued.
 ###
 http://ru-homestuck.org/storyfiles/hs2/05102.gif
 ###
-Given the frustrating nature of your modus, your sylladex tends to serve as more of a mutual garbage dump than an inventory.
+Учитывая разочаровывающие характеристики твоего модуса, твой силладекс, как правило,  служит скорее мусоркой, чем инвентаризационным складом.
 
-You're almost afraid to look at what he's left for you in here...
+Тебе почти страшно взглянуть на то, что он для тебя оставил...
 ###
 007006
 X

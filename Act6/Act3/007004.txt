@@ -1,4 +1,4 @@
-Calliope: Examine box.
+Каллиопа: Изучить коробку.
 ###
 6f3423dc65
 ###
@@ -6,8 +6,8 @@ Calliope: Examine box.
 ###
 http://ru-homestuck.org/storyfiles/hs2/05101.gif
 ###
-It is a box of SPECIAL STARDUST. Cherubs love this stuff. They eat it like breakfast cereal every day. 
+Это коробка с ОСОБЕННОЙ ЗВЕЗДНОЙ ПЫЛЬЮ. Херувимы любят эту штуку. Они едят ее на завтрак вместо хлопьев каждый день.
 
-It doesn't even have any magical properties though. It's really just some useless sparkly powder they like to eat. It's basically inedible to any other kind of creature. However, it is potentially quite useful for various arts and crafts.
+Впрочем, у нее нет никаких магических свойств. Это действительно просто бесполезный блестящий порошок, который им нравится есть. В основном, несъедобный для других видов существ. Тем не менее, он потенциально весьма полезен для различных искусств и ремесел.
 ###
 X
