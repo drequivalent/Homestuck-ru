@@ -1,4 +1,4 @@
-Calliope: Examine black tome.
+Каллиопа: Изучить черный том.
 ###
 07d7e0ace7
 ###
@@ -6,7 +6,7 @@ Calliope: Examine black tome.
 ###
 http://ru-homestuck.org/storyfiles/hs2/05108.gif
 ###
-It's some sort of programming book. You don't care much for programming, but you've adapted it as a FANFICTION JOURNAL. You've filled it up completely with your most colorful headcanons and romfics. You've also pasted in some of your artwork, turning a rather dreary manual on some morbid, tilde-heavy language into a lively scrapbook. Many of the stories involve Callie, and all of them involve heavy themes of romance. Particularly the other three quadrants which are completely alien to you, and therefore especially titillating.
+Это своего рода книга программирования. Тебя не особо волнует программирование, но ты приспособила книгу под ЖУРНАЛ ФАНФИКШЕНА. Ты полностью заполнила ее наиболее красочным хедканоном и романтичными фиками. Также ты вставила туда несколько своих рисунков, превращая довольно скучный учебник ужасного, перегруженного тильдами языка в яркий альбом. Многие из историй связаны с Каллии, и все они о довольно тяжелых романтических темах. В частности, о трех квадрантах, которые совершенно для тебя непривычны, и поэтому наиболее захватывающи.
 ###
 007012
 X
