@@ -1,4 +1,4 @@
-Calliope: Exit.
+Каллиопа: Выйти.
 ###
 c13b6cfd8a
 ###
@@ -6,9 +6,9 @@ c13b6cfd8a
 ###
 http://ru-homestuck.org/storyfiles/hs2/05119.gif
 ###
-You step into the sunlight. 
+Ты вступаешь в солнечный свет.
 
-Sunlight, on this planet, is sort of hard to avoid. 
+Избежать света на этой планете своего рода очень сложно.
 ###
 007023
 X
