@@ -1,4 +1,4 @@
-Calliope: Check out bed.
+Каллиопа: Осмотреть кровать.
 ###
 6a670d45bb
 ###
@@ -6,9 +6,9 @@ Calliope: Check out bed.
 ###
 http://ru-homestuck.org/storyfiles/hs2/05116.gif
 ###
-Like you said, you don't have a bed. 
+Как ты и говорила, у тебя нет кровати.
 
-You have a SARSWAPAGUS.
+У тебя есть САРКООБМЕННИК.
 ###
 007020
 X
