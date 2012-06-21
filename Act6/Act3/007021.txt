@@ -1,4 +1,4 @@
-Calliope: Examine ladder.
+Каллиопа: Изучить лестницу.
 ###
 d664c40cc2
 ###
@@ -6,9 +6,9 @@ d664c40cc2
 ###
 http://ru-homestuck.org/storyfiles/hs2/05118.gif
 ###
-This leads outside. Being tethered to the wall, you can't venture too far beyond the exit though.
+Лестница ведет наружу. Будучи прикованной к стене, ты не можешь рискнуть прогуляться подальше от выхода.
 
-But you might as well go for a bit fresh air before you sleep. One more six-foot-radius stroll in the sun. It could be your last chance. 
+Но все же ты можешь пойти и немного подышать свежим воздухом перед сном. Еще одна прогулка радиусом в шесть футов под солнцем. Это может оказаться твоим последним шансом.
 ###
 007022
 X
