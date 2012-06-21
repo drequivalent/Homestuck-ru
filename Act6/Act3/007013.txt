@@ -1,4 +1,4 @@
-Calliope: Retrieve wand.
+Каллиопа: Взять палочку.
 ###
 28e1653b27
 ###
@@ -6,9 +6,9 @@ Calliope: Retrieve wand.
 ###
 http://ru-homestuck.org/storyfiles/hs2/05110.gif
 ###
-The WHITE WAND is your weapon of choice, half the time. Magic is very handy. Some believe magic to be fake. But you know better than that.
+БЕЛАЯ ПАЛОЧКА - вот твое избранное оружие в половине случаев. Магия очень удобна. Некоторые считают магию выдумкой. Но ты-то знаешь лучше.
 
-Of course, if anyone tried using this wand right now, it sure would seem like magic wasn't real. Can't very well use magic when your wand is out of bullets.
+Конечно, если ты попытаешься использовать палочку прямо сейчас, может показаться, что магия действительно не существует. Не очень удобно использовать палочку, пока в ней нет пуль.
 ###
 007014
 X
