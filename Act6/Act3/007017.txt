@@ -1,4 +1,4 @@
-Calliope: Holster magnum.
+Каллиопа: Засунуть магнум в кобуру.
 ###
 9d6a77c1b8
 ###
@@ -6,9 +6,9 @@ Calliope: Holster magnum.
 ###
 http://ru-homestuck.org/storyfiles/hs2/05114.gif
 ###
-You neatly put the weapon where it belongs. No need to wear it, since you'll be preparing for your nap soon.
+Ты аккуратно кладешь оружие на свое место. Нет необходимости брать его с собой, ведь скоро ты отправишься спать.
 
-You kind of wish straightening up your room didn't feel so much like getting your affairs in order.
+Ты вроде как стараешься навести порядок в комнате, не чувствуя того же порядка в своих делах.
 ###
 007018
 X
