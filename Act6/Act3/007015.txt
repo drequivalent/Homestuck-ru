@@ -1,4 +1,4 @@
-Calliope: Examine chest.
+Каллиопа: Изучить сундук.
 ###
 c37a16e032
 ###
@@ -6,9 +6,9 @@ c37a16e032
 ###
 http://ru-homestuck.org/storyfiles/hs2/05112.gif
 ###
-This is your JUJU CHEST.
+Этой твой СУНДУК ДЖУДЖУ.
 
-You keep your JUJU inside it, surprisingly enough.
+Ты держишь в нем свои ДЖУДЖУ, что не удивительно.
 ###
 007016
 X
