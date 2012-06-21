@@ -1,4 +1,4 @@
-Calliope: Load wand.
+Каллиопа: Зарядить палочку.
 ###
 c3878f4462
 ###
@@ -7,10 +7,10 @@ c3878f4462
 http://ru-homestuck.org/storyfiles/hs2/05111_1.gif
 http://ru-homestuck.org/storyfiles/hs2/05111_2.gif
 ###
-You load your WHITE MAGNUM.
+Ты заряжаешь свой БЕЛЫЙ МАГНУМ.
 
-You wouldn't trade your dualing weapon for any other. It is lightweight, elegant and precise, like a conductor's baton with stopping power. 
+Тебе бы не хотелось менять свое дуэльное оружие на что-нибудь другое. Оно легкое, изящное и точное, как палочка дирижера, в чьей власти останавливать ход событий.
 
-Your brother's favored weapon is a little more... heavy handed. To each his own, you guess. 
+Любимое оружие твоего брата немного более... тяжеловесное. Ты полагаешь, каждому свое.
 ###
 X
