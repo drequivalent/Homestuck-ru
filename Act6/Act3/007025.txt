@@ -1,4 +1,4 @@
-Calliope: Look around one last time.
+Каллиопа: Осмотреться в последний раз.
 ###
 a1f4fbdc4e
 ###
@@ -6,7 +6,7 @@ a1f4fbdc4e
 ###
 http://ru-homestuck.org/storyfiles/hs2/05122.gif
 ###
-Whatever way it is you finally depart this world, you're going to miss the place.
+Как бы то ни было, когда ты, наконец, покинешь этот мир, тебе будет его не хватать.
 ###
 007026
 X
