@@ -6,8 +6,8 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/00513.gif
 ###
-|PESTERLOG|
-<span style="color: #b536da">TT: Ladders seem to be a bit cheaper than stairs.</span>
+|ДОСТАЛОГ|
+<span style="color: #b536da">TT: Лестницы, похоже, дешевле ступенек.</span>
 ###
 002414
 X

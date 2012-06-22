@@ -1,4 +1,4 @@
-Rose: Construct loft above John's room.
+Роуз: Соорудить мезонин над комнатой Джона.
 ###
 c057c718e6
 ###

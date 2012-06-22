@@ -13,10 +13,10 @@ http://ru-homestuck.org/storyfiles/hs2/00484.gif
 <span style="color: #b536da">TT: Похоже, Джон, тебе будет чем заняться.</span>
 <span style="color: #0715cd">EB: ыыыгх!</span>
 <span style="color: #0715cd">EB: ну так что ты строишь?</span>
-<span style="color: #b536da">TT: Лестницы.</span>
+<span style="color: #b536da">TT: Ступеньки.</span>
 <span style="color: #b536da">TT: К слову, они довольно дорогие.</span>
 <span style="color: #0715cd">EB: ох, блин...</span>
-<span style="color: #0715cd">EB: я бы мог предупредить тебя о лестницах, роуз!</span>
+<span style="color: #0715cd">EB: я бы мог предупредить тебя о ступеньках, роуз!</span>
 ###
 002385
 X
