@@ -6,11 +6,11 @@ f8efc8c332
 ###
 http://ru-homestuck.org/storyfiles/hs2/05174.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: BuT I THINK.</span>
-<span style="color: #323232">uu: THIS DELuXE BITCH HAS GOTTEN A BIT CARRIED AWAY HERE.</span>
-<span style="color: #323232">uu: ALL THINKING SHE CAN. DO HEROIC STuFF. AND &quot;SAVE LIVES&quot;. uGH.</span>
-<span style="color: #323232">uu: BuT THE ROXY HuMAN HAS MISCALCuLATED.</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: ВПРОЧЕМ, Я ДуМАЮ.</span>
+<span style="color: #323232">uu: ЭТА ОТМЕННАЯ СуЧКА СЛИШКОМ уВЛЕКЛАСЬ.</span>
+<span style="color: #323232">uu: ВСЕМ КАЖЕТСЯ, ОНА МОЖЕТ. ДЕЛАТЬ ГЕРОИЧЕСКИЕ ВЕЩИ. И &quot;СПАСАТЬ ЖИЗНИ&quot;. ТЬФу.</span>
+<span style="color: #323232">uu: НО ЧЕЛОВЕК РОКСИ ПРОСЧИТАЛАСЬ.</span>
 ###
 007078
 X
