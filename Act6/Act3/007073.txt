@@ -6,11 +6,11 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05170.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: HE MAKES NO BONES ABOuT GANKING MY LOOK.</span>
-<span style="color: #323232">uu: IT'S PATHETIC.</span>
-<span style="color: #323232">uu: YOu DON'T JuST GO AND JACK A MAN'S SWAGGER.</span>
-<span style="color: #323232">uu: THAT'S THE CARDINAL FuCKING RuLE OF BROS. RIGHT?</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: И НЕ СКРЫВАЕТ, ЧТО СЛИЗАЛ МОЙ ВИД.</span>
+<span style="color: #323232">uu: ЭТО ЖАЛКО.</span>
+<span style="color: #323232">uu: НЕЛЬЗЯ ПРОСТО ВЗЯТЬ И СКОПИРОВАТЬ ЧуЖОЙ СТИЛЬ.</span>
+<span style="color: #323232">uu: ЭТО ЖЕ БЛЯДСКОЕ ГЛАВНОЕ ПРАВИЛО БРО. ВЕРНО?</span>
 ###
 007074
 X
