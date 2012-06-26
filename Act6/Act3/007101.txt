@@ -6,10 +6,10 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05198.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: HOLD uP.</span>
-<span style="color: #323232">uu: GONNA STOP LAuGHING FOR A SECOND TO MAKE ANOTHER TRANSCENDENTAL MASTERPIECE.</span>
-<span style="color: #323232">uu: THE FINE ARTS REQuIRE ALL OF MY CONCENTRATION.</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: ПОГОДЬ.</span>
+<span style="color: #323232">uu: ПРИДЕТСЯ ПЕРЕСТАТЬ СМЕЯТЬСЯ, ЧТОБЫ СДЕЛАТЬ ЕЩЕ ОДИН ПРЕВОСХОДНЫЙ ШЕДЕВР.</span>
+<span style="color: #323232">uu: ХОРОШИЕ АРТЫ ТРЕБуЮТ ВСЕГО МОЕГО ВНИМАНИЯ.</span>
 ###
 007102
 X
