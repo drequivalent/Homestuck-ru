@@ -1,4 +1,4 @@
-Select character.
+Выберите персонажа.
 ###
 62dbb54959
 ###
@@ -6,18 +6,18 @@ Select character.
 ###
 F|http://ru-homestuck.org/storyfiles/hs2/05134
 ###
-|PESTERLOG|
-<span style="color: #323232">undyingUmbrage [uu]</span> began jeering <span style="color: #929292">uranianUmbra [UU]</span> 
-<span style="color: #323232">uu: HEY.</span>
-<span style="color: #323232">uu: I WOuLD LIKE TO PLAY A GAME.</span>
-<span style="color: #323232">uu: IT'S CALLED &quot;BOND WITH AN IDIOT SISTER OVER SOME BuLLSHIT SHARED INTERESTS BEFORE SHE DIES FOREVER.&quot;</span>
-<span style="color: #323232">uu: DOES THAT SOuND FuN.</span>
-<span style="color: #323232">uu: HERE'S A GOOD PART OF THE STORY I THINK.</span>
-<span style="color: #323232">uu: YOu MuST KNOW THE ONE I MEAN.</span>
-<span style="color: #323232">uu: LET'S TALK ABOuT IT TOGETHER.</span>
-<span style="color: #323232">uu: SHARE SOME THEORIES.</span>
-<span style="color: #323232">uu: DO SOME FAN GIRLING.</span>
-<span style="color: #323232">uu: PRODuCE SOME.</span>
-<span style="color: #323232">uu: &quot;FAN ART.&quot;</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">undyingUmbrage [uu]</span> начал глумиться над <span style="color: #929292">uranianUmbra [UU]</span> 
+<span style="color: #323232">uu: ЭЙ.</span>
+<span style="color: #323232">uu: Я НЕ ПРОЧЬ СЫГРАТЬ В ИГРу.</span>
+<span style="color: #323232">uu: КОТОРАЯ НАЗЫВАЕТСЯ &quot;РАЗДЕЛИ С ТуПОЙ СЕСТРИЦЕЙ НЕСКОЛЬКО ДЕРЬМОВЫХ ОБЩИХ ИНТЕРЕСОВ, ПРЕЖДЕ ЧЕМ ОНА уМРЕТ НАВСЕГДА&quot;.</span>
+<span style="color: #323232">uu: РАЗВЕ НЕ ВЕСЕЛО ЗВуЧИТ.</span>
+<span style="color: #323232">uu: ВОТ ПОДХОДЯЩАЯ ЧАСТЬ ИСТОРИИ, МНЕ КАЖЕТСЯ.</span>
+<span style="color: #323232">uu: ТЫ ЖЕ ПОНИМАЕШЬ, ЧТО Я ИМЕЮ В ВИДу?</span>
+<span style="color: #323232">uu: ДАВАЙ ПОГОВОРИМ О НЕЙ ВМЕСТЕ.</span>
+<span style="color: #323232">uu: ОБСуДИМ ПАРОЧКу ТЕОРИЙ.</span>
+<span style="color: #323232">uu: МАЛОСТЬ ПОФАНГЕРЛИМ.</span>
+<span style="color: #323232">uu: СОЗДАДИМ НЕМНОГО.</span>
+<span style="color: #323232">uu: &quot;ФАНАРТА&quot;.</span>
 ###
 X
