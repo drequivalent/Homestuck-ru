@@ -6,12 +6,12 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05182.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: LuCKILY.</span>
-<span style="color: #323232">uu: I POSSESS A VIVID IMAGINATION.</span>
-<span style="color: #323232">uu: SuCH HAS BEEN MY uNPRECEDENTED ESCALATION ARTISTIC PROWESS.</span>
-<span style="color: #323232">uu: THAT I AM NOW ABLE TO RENDER WITH IMMACuLATE PRECISION.</span>
-<span style="color: #323232">uu: THAT WHICH REMAINS ENTIRELY uNSEEN!</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: К СЧАСТЬЮ.</span>
+<span style="color: #323232">uu: у МЕНЯ ЖИВОЕ ВООБРАЖЕНТИЕ.</span>
+<span style="color: #323232">uu: КОТОРОЕ ПОМОГЛО МНЕ ДОСТИЧЬ НЕБЫВАЛОГО РОСТА В ХуЖОДЕСТВЕННОМ ИСКуССТВЕ.</span>
+<span style="color: #323232">uu: И ТЕПЕРЬ Я СПОСОБЕН ВОССОЗДАТЬ С уДИВИТЕЛЬНОЙ ТОЧНОСТЬЮ.</span>
+<span style="color: #323232">uu: ТО, ЧТО РАНЬШЕ ПОСТОЯННО ПРОЗЯБАЛО В БЕЗВЕСТНОСТИ!</span>
 ###
 007086
 X
