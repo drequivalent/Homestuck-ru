@@ -1,4 +1,4 @@
-Be Jane.
+Быть Джейн.
 ###
 171b35bcbb
 ###
@@ -6,12 +6,12 @@ Be Jane.
 ###
 http://ru-homestuck.org/storyfiles/hs2/05135.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: THERE'S THE JANE HuMAN.</span>
-<span style="color: #323232">uu: YOu LIKE THE JANE HuMAN BEST DON'T YOu?</span>
-<span style="color: #323232">uu: YOu CAN RELATE TO HER.</span>
-<span style="color: #323232">uu: SHE IS ALMOST AS uGLY AS YOu.</span>
-<span style="color: #323232">uu: AND TWICE AS DuMB.</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: НАПРИМЕР, ЧЕЛОВЕК ДЖЕЙН.</span>
+<span style="color: #323232">uu: ОНА БОЛЬШЕ ВСЕГО ТЕБЕ НРАВИТСЯ, ВЕРНО?</span>
+<span style="color: #323232">uu: ТЫ МОЖЕШЬ РАВНЯТЬСЯ НА НЕЕ.</span>
+<span style="color: #323232">uu: ОНА ПОЧТИ ТАК ЖЕ уРОДЛИВА, КАК И ТЫ.</span>
+<span style="color: #323232">uu: И В ДВА РАЗА ГЛуПЕЙ.</span>
 ###
 007039
 X
