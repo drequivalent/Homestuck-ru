@@ -6,9 +6,9 @@ e001dee987
 ###
 http://ru-homestuck.org/storyfiles/hs2/05186.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: BuT DON'T GET ME WRONG.</span>
-<span style="color: #323232">uu: ABOuT THE DIRK HuMAN.</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: НО НЕ ПОЙМИ НЕПРАВИЛЬНО.</span>
+<span style="color: #323232">uu: О ЧЕЛОВЕКЕ ДИРКЕ.</span>
 ###
 007090
 X
