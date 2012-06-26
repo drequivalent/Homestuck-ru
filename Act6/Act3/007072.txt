@@ -6,12 +6,12 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05169.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: EITHER HE IS LIKE.</span>
-<span style="color: #323232">uu: MY PERSONAL ONE MAN FANDOM.</span>
-<span style="color: #323232">uu: KIND OF LIKE. A HYPOTHETICAL SuRROGATE FOR ALL MY POTENTIAL ADMIRERS.</span>
-<span style="color: #323232">uu: OR.</span>
-<span style="color: #323232">uu: HE IS A WORTHLESS HACK.</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: ОН ЛИБО.</span>
+<span style="color: #323232">uu: МОЙ ЛИЧНЫЙ ФАНДОМ ИЗ ОДНОГО ЧЕЛОВЕКА.</span>
+<span style="color: #323232">uu: ВРОДЕ КАК. ГИПОТЕТИЧЕСКИЙ ЗАМЕНИТЕЛЬ ВСЕХ МОИХ ВЕРОЯТНЫХ ПОКЛОННИКОВ.</span>
+<span style="color: #323232">uu: ЛИБО.</span>
+<span style="color: #323232">uu: НИКуДЫШНАЯ ПОДДЕЛКА.</span>
 ###
 007073
 X
