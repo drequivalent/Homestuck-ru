@@ -6,10 +6,10 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05175.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: THIS RIDICuLOuS FEMALE HAS FAILED TO TAKE INTO CONSIDERATION.</span>
-<span style="color: #323232">uu: THAT.</span>
-<span style="color: #323232">uu: YOu CAN'T............</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: ЭТА ОТВРАТИТЕЛЬНАЯ ЖЕНЩИНА НЕ УЧЛА.</span>
+<span style="color: #323232">uu: ЧТО.</span>
+<span style="color: #323232">uu: НЕВОЗМОЖНО............</span>
 ###
 007079
 X
