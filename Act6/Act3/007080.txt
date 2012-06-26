@@ -6,12 +6,12 @@ b426c82859
 ###
 http://ru-homestuck.org/storyfiles/hs2/05177.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: THE MIIIIIIIIIIILES!</span>
-<span style="color: #323232">uu: AAAAAAAAAAAH HAA HAA HAA HEE HEE.</span>
-<span style="color: #323232">uu: &quot;YOu CAN'T ESCAPE THE MILES&quot; IS TOTALLY GOING TO BECOME A THING, CAL!</span>
-<span style="color: #323232">uu: THERE'S NOTHING YOu CAN DO ABOuT IT. BECAuSE YOu'LL BE DEAD!</span>
-<span style="color: #323232">uu: HOOOOOOOOOOO HOO HOO HOO HAA HAA!</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: МИИИИИИИИИИИЛЬ!</span>
+<span style="color: #323232">uu: AAAAAAAAAAAХ ХAA ХAA ХAA ХEE ХEE.</span>
+<span style="color: #323232">uu: &quot;НЕВОЗМОЖНО ИЗБЕЖАТЬ МИЛЬ&quot; И ЭТО ОБЯЗАТЕЛЬНО СЛуЧИТСЯ, КАЛ!</span>
+<span style="color: #323232">uu: ТЫ НИЧЕГО НЕ СМОЖЕШЬ С ЭТИМ ПОДЕЛАТЬ. ПОТОМу ЧТО БуДЕШЬ МЕРТВА! </span>
+<span style="color: #323232">uu: ХOOOOOOOOOOO ХOO ХOO ХOO ХAA ХAA!</span>
 ###
 007081
 X
