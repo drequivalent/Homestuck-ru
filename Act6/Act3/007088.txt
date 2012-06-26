@@ -6,14 +6,14 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05185.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: GIVE ME A FuCKING BREAK.</span>
-<span style="color: #323232">uu: I AM NEW TO THIS.</span>
-<span style="color: #323232">uu: GuSHING OVER THIS POINTLESS CLAPTRAP.</span>
-<span style="color: #323232">uu: I AM REACHING OuT TO YOu CAL.</span>
-<span style="color: #323232">uu: WE HAVE TO SAVOR.</span>
-<span style="color: #323232">uu: THESE PRECIOuS FEW MOMENTS WE HAVE LEFT TOGETHER!</span>
-<span style="color: #323232">uu: HEE HEE.</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: ДАЙ МНЕ ЕЩЕ ОДИН ШАНС.</span>
+<span style="color: #323232">uu: Я НОВИЧЕК В ЭТОМ.</span>
+<span style="color: #323232">uu: В ФОНТАНИРОВАНИИ БЕССМЫСЛЕННОЙ ЧЕПуХОЙ.</span>
+<span style="color: #323232">uu: Я ВЕДЬ ИДу ТЕБЕ НАВСТРЕЧу, КАЛ.</span>
+<span style="color: #323232">uu: МЫ ДОЛЖНЫ НАСЛАДИТЬСЯ.</span>
+<span style="color: #323232">uu: ЭТИМИ ДРАГОЦЕННЫМИ СЕКуНДАМИ, ЧТО ОСТАЛИСЬ у НАС ДВОИХ!</span>
+<span style="color: #323232">uu: ХЕЕ ХЕЕ.</span>
 ###
 007089
 X
