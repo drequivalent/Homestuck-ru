@@ -6,11 +6,11 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05188.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: DAMN IT.</span>
-<span style="color: #323232">uu: ALWAYS WITH THE BLACKOuT SHIT.</span>
-<span style="color: #323232">uu: BE SuCH A RuDE CRACKDOWN. ON MY MONEY AS FuCK.</span>
-<span style="color: #323232">uu: KID SNuFF CHANNEL.</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: ДА ЕПТ.</span>
+<span style="color: #323232">uu: СНОВА ДЕРЬМОВЫЙ ЧЕРНЫЙ ЭКРАН.</span>
+<span style="color: #323232">uu: BЧТО ЗА ГРуБЫЕ МЕРЫ. ОН ЖЕ НА МОИ ДЕНЬГИ БЛЯ.</span>
+<span style="color: #323232">uu: СРАНЫЙ ДЕТСКИЙ КАНАЛ.</span>
 ###
 007092
 X
