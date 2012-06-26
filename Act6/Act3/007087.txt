@@ -1,4 +1,4 @@
-Be Dirk.
+Быть Дирком.
 ###
 e4449ef041
 ###
@@ -6,21 +6,21 @@ e4449ef041
 ###
 http://ru-homestuck.org/storyfiles/hs2/05184.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: OK.</span>
-<span style="color: #323232">uu: SAY WHAT YOu WILL.</span>
-<span style="color: #323232">uu: ABOuT THE BITCHES.</span>
-<span style="color: #323232">uu: AND THE BRAIN DAMAGED JACKASS IN SHORTS.</span>
-<span style="color: #323232">uu: BuT. THE DIRK HuMAN IS A PRETTY COOL GuY.</span>
-<span style="color: #323232">uu: HE GETS THINGS DONE.</span>
-<span style="color: #323232">uu: AND ISN'T AFRAID TO FuCK SOME SHIT uP.</span>
-<span style="color: #323232">uu: LIKE. HE ACTuALLY LISTENS.</span>
-<span style="color: #323232">uu: TO STuFF THAT'S IMPORTANT FOR A DuDE TO GET OFF HIS CHEST.</span>
-<span style="color: #323232">uu: YOu KNOW. HE *GETS* EXACTLY THAT WHICH THE BITCHES CAN NEVER uNDERSTAND.</span>
-<span style="color: #323232">uu: I GuESS WHAT I MEAN IS. HE REALLY KNOWS WHAT IT MEANS.</span>
-<span style="color: #323232">uu: TO TRuLY BE A BRO.</span>
-<span style="color: #323232">uu: OH FuCK.</span>
-<span style="color: #323232">uu: WAS I JuST &quot;FAN GIRLING&quot; TOO HARD THERE?</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: Ну И.</span>
+<span style="color: #323232">uu: ГОВОРИ, ЧТО уГОДНО.</span>
+<span style="color: #323232">uu: О СуЧКАХ.</span>
+<span style="color: #323232">uu: И ТРАВМИРОВАННОМ НАГОЛОВу БОЛВАНЕ В ШОРТАХ.</span>
+<span style="color: #323232">uu: НО. ЧЕЛОВЕК ДИРК РЕАЛЬНО КРуТОЙ ПАРЕНЬ.</span>
+<span style="color: #323232">uu: ОН ЗНАЕТ СВОЕ ДЕЛО.</span>
+<span style="color: #323232">uu: И НЕ БОИТСЯ ВОЗИТЬСЯ С ЧуЖИМИ ПРОБЛЕМАМИ.</span>
+<span style="color: #323232">uu: ТИПА. ОН ДЕЙСТВИТЕЛЬНО СЛуШАЕТ.</span>
+<span style="color: #323232">uu: ВАЖНуЮ ЧуШЬ, КОТОРОЙ ЧуВАКАМ НЕОБХОДИМО ДЕЛИТЬСЯ.</span>
+<span style="color: #323232">uu: ПОНИМАЕШЬ. ОН *СХВАТЫВАЕТ* ИМЕННО ТО, ЧТО СуЧКИ НИКОГДА НЕ ПОЙМуТ.</span>
+<span style="color: #323232">uu: ПОЛАГАЮ, Я ИМЕЮ В ВИДу. ЧТО ОН НА САМОМ ДЕЛЕ ЗНАЕТ, ЧТО ЭТО ЗНАЧИТ.</span>
+<span style="color: #323232">uu: БЫТЬ НАСТОЯЩИМ БРО.</span>
+<span style="color: #323232">uu: О БЛЯ.</span>
+<span style="color: #323232">uu: КАК-ТО Я ПЕРЕБОРЩИЛ С &quot;ФАНГЕРЛИЗМОМ&quot;, КАЖЕТСЯ?</span>
 ###
 007088
 X
