@@ -6,10 +6,10 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05143.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: SHE'S SLIPPING AWAY FROM uS!</span>
-<span style="color: #323232">uu: BYE JANE HuMAN!</span>
-<span style="color: #323232">uu: HAA HAA HOO HEE HEE!</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: И ВОТ ОНА уСКОЛЬЗАЕТ ОТ НАС!</span>
+<span style="color: #323232">uu: ПРОЩАЙ, ЧЕЛОВЕК ДЖЕЙН</span>
+<span style="color: #323232">uu: ХАА ХАА ХОО ХЕЕ ХЕЕ!</span>
 ###
 007047
 X
