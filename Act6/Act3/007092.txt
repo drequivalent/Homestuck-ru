@@ -6,10 +6,10 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05189.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: NO MATTER.</span>
-<span style="color: #323232">uu: PRETTY SuRE I GOT THIS COVERED.</span>
-<span style="color: #323232">uu: WITH MY GODLY SKILLZ.</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: НЕ ВАЖНО.</span>
+<span style="color: #323232">uu: уВЕРЕН, у МЕНЯ ПОЛуЧИЛОСЬ уХВАТИТЬ СуТЬ.</span>
+<span style="color: #323232">uu: С МОИМИ-ТО БОЖЕСТВЕННЫМИ НАВЫКАМИ.</span>
 ###
 007093
 X
