@@ -6,9 +6,9 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05137.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: AND WHAT HAVE WE HERE?</span>
-<span style="color: #323232">uu: WAIT FOR IT...........</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: СМОТРИ, К ЧЕМу ЭТО ПРИВЕЛО.</span>
+<span style="color: #323232">uu: Ну-КА...........</span>
 ###
 007041
 X
