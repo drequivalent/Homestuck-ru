@@ -6,10 +6,10 @@ c44af44112
 ###
 http://ru-homestuck.org/storyfiles/hs2/05191.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: I TOLD HIM!</span>
-<span style="color: #323232">uu: WHAT DID I TELL HIM???????????</span>
-<span style="color: #323232">uu: THERE CAN ONLY BE ONE!</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: А Я ГОВОРИЛ ЕМу!</span>
+<span style="color: #323232">uu: ЧТО Я ЕМу ГОВОРИЛ???????????</span>
+<span style="color: #323232">uu: МОЖЕТ БЫТЬ ТОЛЬКО ОДИН!</span>
 ###
 007095
 X
