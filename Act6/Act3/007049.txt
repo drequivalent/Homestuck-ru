@@ -6,11 +6,11 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05146.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: WHATEVER.</span>
-<span style="color: #323232">uu: GOT A GOOD ENOuGH A LOOK.</span>
-<span style="color: #323232">uu: FOR SOME SOLID GOLD...</span>
-<span style="color: #323232">uu: *PORTRAITuRE.*</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: ПОФИГу.</span>
+<span style="color: #323232">uu: Я ВИДЕЛ ДОСТАТОЧНО.</span>
+<span style="color: #323232">uu: ДЛЯ СОЗДАНИЯ АБСОЛЮТНО БЕСЦЕННОГО...</span>
+<span style="color: #323232">uu: *ПОРТРЕТА*.</span>
 ###
 007050
 X
