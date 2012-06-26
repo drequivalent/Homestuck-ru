@@ -7,7 +7,7 @@ e325d7b6f5
 http://ru-homestuck.org/storyfiles/hs2/05176.gif
 ###
 |PESTERLOG|
-<span style="color: #323232">uu: ESCAPE.</span>
+<span style="color: #323232">uu: ИЗБЕЖАТЬ.</span>
 ###
 007080
 X
