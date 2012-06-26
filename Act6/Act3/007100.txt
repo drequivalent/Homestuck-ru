@@ -6,8 +6,8 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05197.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. HAAAA. HAAAA. HEEEE. HEEEE. HOOOO. HOOOO. </span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO. ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO. ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO. ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO. ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO. ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO. ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO. ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO. ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO. ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO. ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO. ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO. ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO. ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO. ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO. ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO. ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO. ХААAA. ХААAA. ХЕЕEE. ХЕЕEE. ХООOO. ХООOO.
 ###
 007101
 X
