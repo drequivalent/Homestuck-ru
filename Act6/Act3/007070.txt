@@ -6,8 +6,8 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05167.gif
 ###
-|PESTERLOG|
-<span style="color: #323232">uu: LOOK AT THIS.</span>
+|ДОСТАЛОГ|
+<span style="color: #323232">uu: СМОТРИ.</span>
 ###
 007071
 X
