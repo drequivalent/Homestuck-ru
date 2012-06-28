@@ -6,8 +6,8 @@ a09e68f1bd
 ###
 http://ru-homestuck.org/storyfiles/hs2/05211.gif
 ###
-|DIALOGLOG|
-<span style="color: #f2a400">DIRK: She needs to come home.</span>
+|ДИАЛОГЛОГ|
+<span style="color: #f2a400">ДИРК: Она должна вернуться домой.</span>
 ###
 007115
 X
