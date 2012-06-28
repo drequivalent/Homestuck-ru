@@ -6,27 +6,27 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05202.gif
 ###
-|DIALOGLOG|
-<span style="color: #f2a400">DIRK: Hey. You're kind of breathing down my neck there.</span>
-<span style="color: #008282">TEREZI: (wh4t?)</span>
-<span style="color: #008282">TEREZI: (no 1m not)</span>
-<span style="color: #f2a400">DIRK: Yes you are.</span>
-<span style="color: #f2a400">DIRK: Are you sniffing me?</span>
-<span style="color: #008282">TEREZI: (no)</span>
-<span style="color: #f2a400">DIRK: It sounds like you're sniffing me.</span>
-<span style="color: #f2a400">DIRK: Do you really have to stand so close?</span>
-<span style="color: #008282">TEREZI: (wh4t 4r3 you t4lk1ng 4bout)</span>
-<span style="color: #f2a400">DIRK: You just inched a little closer. Just now.</span>
-<span style="color: #008282">TEREZI: (no th1s 1s f1n3)</span>
-<span style="color: #008282">TEREZI: (1 4m tot4lly r3sp3ct1ng your p3rson4l bound4r13s)</span>
-<span style="color: #f2a400">DIRK: Ok, you just took a big fucking sniff.</span>
-<span style="color: #f2a400">DIRK: Cut that out.</span>
-<span style="color: #008282">TEREZI: (no!)</span>
-<span style="color: #f2a400">DIRK: Wait.</span>
-<span style="color: #f2a400">DIRK: Shut up.</span>
-<span style="color: #f2a400">DIRK: Ok, something's happening.</span>
-<span style="color: #008282">TEREZI: (&gt;:?)</span>
-<span style="color: #f2a400">DIRK: I feel weird.</span>
+|ДИАЛОГЛОГ|
+<span style="color: #f2a400">ДИРК: Эй. Ты вроде как сопишь мне прямо в шею.</span>
+<span style="color: #008282">ТЕРЕЗИ: (ч3го?)</span>
+<span style="color: #008282">ТЕРЕЗИ: (н3т, н3 соплю)</span>
+<span style="color: #f2a400">ДИРК: Да, сопишь.</span>
+<span style="color: #f2a400">ДИРК: Ты обнюхиваешь меня?</span>
+<span style="color: #008282">ТЕРЕЗИ: (н3т)</span>
+<span style="color: #f2a400">ДИРК: А кажется, что обнюхиваешь.</span>
+<span style="color: #f2a400">ДИРК: Тебе правда необходимо стоять так близко?</span>
+<span style="color: #008282">ТЕРЕЗИ: (н3 пон11м4ю, о ч3м ты)</span>
+<span style="color: #f2a400">ДИРК: Ты только что придвинулась ближе. Вот сейчас.</span>
+<span style="color: #008282">ТЕРЕЗИ: (н3т, вс3 в порядк3)</span>
+<span style="color: #008282">ТЕРЕЗИ: (я ув4ж4ю тво3 п3рсон4льно3 простр4нство)</span>
+<span style="color: #f2a400">ДИРК: Так, ты только что сделала хренов огромный шмыг.</span>
+<span style="color: #f2a400">ДИРК: Кончай уже.</span>
+<span style="color: #008282">ТЕРЕЗИ: (н3т!)</span>
+<span style="color: #f2a400">ДИРК: Погодь.</span>
+<span style="color: #f2a400">ДИРК: Заткнись.</span>
+<span style="color: #f2a400">ДИРК: Хм, что-то не так.</span>
+<span style="color: #008282">ТЕРЕЗИ: (&gt;:?)</span>
+<span style="color: #f2a400">ДИРК: Странно себя чувствую.</span>
 ###
 007106
 X
