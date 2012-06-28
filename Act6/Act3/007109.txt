@@ -6,10 +6,10 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05206.gif
 ###
-|DIALOGLOG|
-<span style="color: #f2a400">DIRK: Alright.</span>
-<span style="color: #f2a400">DIRK: Uh.</span>
-<span style="color: #f2a400">DIRK: Hey everyone.</span>
+|ДИАЛОГЛОГ|
+<span style="color: #f2a400">ДИРК: Понятно.</span>
+<span style="color: #f2a400">ДИРК: Эм.</span>
+<span style="color: #f2a400">ДИРК: Привет всем.</span>
 ###
 007110
 X
