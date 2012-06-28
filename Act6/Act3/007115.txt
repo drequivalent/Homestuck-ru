@@ -6,9 +6,9 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05212.gif
 ###
-|DIALOGLOG|
-<span style="color: #f2a400">DIRK: Tell the aquatic punk girl my idiot bro is sorry for beating the shit out of her.</span>
-<span style="color: #f2a400">DIRK: Ha ha, who am I kidding.</span>
-<span style="color: #f2a400">DIRK: She stone cold does not give a fuck.</span>
+|ДИАЛОГЛОГ|
+<span style="color: #f2a400">ДИРК: Передайте водной панкухе извинения от моего глупого бро за то, что выбил из нее все дерьмо.</span>
+<span style="color: #f2a400">ДИРК: Ха ха, кого я обманываю.</span>
+<span style="color: #f2a400">ДИРК: Этой ледышке же похуй веники.</span>
 ###
 X
