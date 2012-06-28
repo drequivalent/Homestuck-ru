@@ -1,4 +1,4 @@
-fellow john, it appears we have reached an impasse
+друг мой джон, судя по всему наш разговор зашел в тупик
 ###
 30bba3ebd8
 ###
@@ -6,7 +6,7 @@ fellow john, it appears we have reached an impasse
 ###
 http://ru-homestuck.org/storyfiles/hs2/00514.gif
 ###
-Yes, it seems so.
+Да, похоже на то.
 ###
 002415
 X

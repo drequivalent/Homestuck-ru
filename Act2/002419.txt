@@ -1,4 +1,4 @@
-i shall take my leave now john. until next time
+я должен сейчас уйти джон. до встречи
 ###
 095db41d09
 ###
@@ -6,9 +6,9 @@ i shall take my leave now john. until next time
 ###
 http://ru-homestuck.org/storyfiles/hs2/00519.gif
 ###
-Wait, where did all this sweet loot come from?
+Постойте-ка, откуда взялся весь этот клевый лут?
 
-And why is there suddenly a crumpled hat on your head?
+И почему у тебя на голове внезапно оказалась смятая шляпа?
 ###
 002420
 X
