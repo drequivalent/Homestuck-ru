@@ -6,11 +6,11 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05207.gif
 ###
-|DIALOGLOG|
-<span style="color: #f2a400">DIRK: So...</span>
-<span style="color: #f2a400">DIRK: Here's the thing.</span>
-<span style="color: #f2a400">DIRK: I have to go.</span>
-<span style="color: #f2a400">DIRK: Like, right now.</span>
+|ДИАЛОГЛОГ|
+<span style="color: #f2a400">ДИРК: Тут...</span>
+<span style="color: #f2a400">ДИРК: Такое дело.</span>
+<span style="color: #f2a400">ДИРК: Я должен идти.</span>
+<span style="color: #f2a400">ДИРК: Прямо сейчас, да.</span>
 ###
 007111
 X
