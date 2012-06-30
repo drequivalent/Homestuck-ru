@@ -6,8 +6,8 @@
 ###
 F|http://ru-homestuck.org/storyfiles/hs2/05214
 ###
-|DIALOGLOG|
-<span style="color: #f2a400">DIRK: See you later.</span>
+|ДИАЛОГЛОГ|
+<span style="color: #f2a400">ДИРК: Увидимся позже.</span>
 ###
 007118
 X
