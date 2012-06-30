@@ -6,8 +6,8 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/05213.gif
 ###
-|DIALOGLOG|
-<span style="color: #f2a400">DIRK: So, yeah.</span>
+|ДИАЛОГЛОГ|
+<span style="color: #f2a400">ДИРК: В общем, народ.</span>
 ###
 007117
 X
