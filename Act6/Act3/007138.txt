@@ -1,4 +1,4 @@
-[S] Dirk: Synchronize.
+[S] Дирк: Синхронизироваться.
 ###
 e87fdbe4ac
 ###
