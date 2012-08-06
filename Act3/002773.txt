@@ -1,4 +1,4 @@
-Rose: Look around for anything else of importance.
+Роуз: Оглядеться в поисках чего-нибудь важного.
 ###
 d4651e88f5
 ###
@@ -6,7 +6,7 @@ d4651e88f5
 ###
 http://ru-homestuck.org/storyfiles/hs2/00873.gif
 ###
-This looks like something of importance.
+Это выглядит как нечто важное.
 ###
 002774
 X
