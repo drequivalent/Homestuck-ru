@@ -6,11 +6,11 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/00874.gif
 ###
-It appears to be Skaianet's primary SESSION TERMINAL, monitoring a great number of SBURB SESSIONS in the northeastern United States and parts of Canada. Upon further investigation you draw some logical conclusions.
+Похоже что это ТЕРМИНАЛ СЕССИЙ SkaiaNet, отслеживающий огромное количество СЕССИЙ SBURB на северо-востоке США и части Канады. После дальнейшего расследования, ты сделала несколько логических заключений.
 
-It looks like each SESSION consists of an IP address and a physical location. The colored dots on the map appear to be METEOR IMPACT SITES. It seems each session corresponds with a meteor, but not all meteors have sessions.
+Похоже что каждая СЕССИЯ состоит из IP-адреса и физического местоположения. Цветные точки на карте, кажется, ЗОНЫ ПАДЕНИЯ МЕТЕОРОВ. Похоже что каждой сессии соответствует метеор, но не у всех метеоров есть сессии.
 
-The color of the dot appears to indicate the status of the meteor's descent. The red dots indicate meteors that have already landed. Yellow dots are imminent collisions. Green will impact later, and blue will take the longest to touch down.
+Цвет точки по видимому, указывает на статус приближения метеора. Красные точки обозначают метеоры, которые уже приземлились. Желтые - неизбежное столконвение. Зеленые приземляться позже, а синие приземляться совсем не скоро.
 ###
 002775
 X
