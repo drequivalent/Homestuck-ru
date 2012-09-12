@@ -1,0 +1,33 @@
+[A6I3] ==&gt;
+###
+83bfa6d947
+###
+1347420801
+###
+http://ru-homestuck.org/storyfiles/hs2/05288.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: god damn dave sprite.</span>
+<span style="color: #0715cd">JOHN: that guy molts like it's going out of style.</span>
+<span style="color: #4ac925">JADE: oh...</span>
+<span style="color: #4ac925">JADE: heh</span>
+<span style="color: #4ac925">JADE: yeah</span>
+<span style="color: #0715cd">JOHN: where is he anyway?</span>
+<span style="color: #0715cd">JOHN: i specifically told dave sprite several times when my party would start, because i knew he would do this.</span>
+<span style="color: #0715cd">JOHN: he's already missed half the movie!</span>
+<span style="color: #4ac925">JADE: why do you always call him dave sprite?</span>
+<span style="color: #0715cd">JOHN: um... because that's his name?</span>
+<span style="color: #0715cd">JOHN: dave sprite.</span>
+<span style="color: #4ac925">JADE: no, i mean why do you always say it like that? with the space between words?</span>
+<span style="color: #4ac925">JADE: its not dave sprite, its just davesprite</span>
+<span style="color: #0715cd">JOHN: what ever.</span>
+<span style="color: #0715cd">JOHN: i can't believe he's standing me up on my birthday.</span>
+<span style="color: #0715cd">JOHN: maybe he doesn't want to hang out with jaspers?</span>
+<span style="color: #0715cd">JOHN: jaspers, i hope you're not going to start chasing him around again when he gets here.</span>
+<span style="color: #f141ef">JASPERSPRITE: Hisssss!</span>
+<span style="color: #0715cd">JOHN: dude, shut up.</span>
+<span style="color: #4ac925">JADE: yeah.... john</span>
+<span style="color: #4ac925">JADE: i dont think davesprite is coming tonight</span>
+###
+007192
+X
