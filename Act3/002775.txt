@@ -6,13 +6,19 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/00875.gif
 ###
-You use the panel to center on your present location and zoom in. Surrounding the lab are of course the hundreds of smaller meteors that have been raining down steadily throughout the evening. Most of these meteor(ite)s have either landed already, or will shortly. 
+Ты используешь панель чтобы центрироваться(?) на своей текущей локации и увеличиваешь 
 
-Centered over the lab is a significantly larger imminent collision. You can't say precisely how imminent, but you could certainly take an educated stab at it.
+масштаб. Вокруг лаборатории, конечно же, сотни маленьких метеоров, которые сыпались  
 
-Just southwest of the lab, centered suspiciously near the location of your house, is an even larger looming collision. Though this one appears slightly less imminent.
+непрервыно в течение вечера. Большинство этих метеоритов либо уже приземлилось, либо 
 
-The terminal looks like it can monitor any meteor or session around the world. Search filters can be applied as well, restricting results based on size, time of impact, location, and so on.
+приземлится чуть позже.
+
+По центру, прямо над лабораторией, значительно большая по размеру, нависла неизбежная  угроза столкновения. Ты не можешь сказать насколько неизбежная, но ты определенно могла бы попытаться рассчитать.
+
+Чуть юго-западнее лаборатории, подозрительно недалеко от твоего дома, расположилась точка еще большего приближающегося столкновения. Хотя эта кажется менее неизбежной.
+
+Терминал, похоже, может отслеживать любой метеор или сессию по всему миру. Так же может быть применен фильтр поиска, ограничивающий результаты в зависимости от размера, времени столкновения, локации и т.д.
 ###
 002776
 X
