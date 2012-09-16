@@ -1,0 +1,62 @@
+[A6I3] ==&gt;
+###
+42ecf77668
+###
+1347773577
+###
+http://ru-homestuck.org/storyfiles/hs2/05292.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: ok, fine.</span>
+<span style="color: #4ac925">JADE: thats not down, thats up!</span>
+<span style="color: #4ac925">JADE: oh well, at least youre not making those unsettling gestures...</span>
+<span style="color: #4ac925">JADE: john...</span>
+<span style="color: #4ac925">JADE: what are you doing?</span>
+<span style="color: #0715cd">JOHN: nothing!</span>
+<span style="color: #4ac925">JADE: i hope youre not entertaining some awkward train of thought about, uh...</span>
+<span style="color: #0715cd">JOHN: no!!!</span>
+<span style="color: #4ac925">JADE: what is with you??</span>
+<span style="color: #4ac925">JADE: today is your birthday, youre supposed to be having fun!</span>
+<span style="color: #4ac925">JADE: but youve been so testy, as if youre committed to not having a good time</span>
+<span style="color: #0715cd">JOHN: well, maybe i'm just getting a little tired of being stuck on this lame boat!</span>
+<span style="color: #0715cd">JOHN: don't you think it's gotten kind of old?</span>
+<span style="color: #4ac925">JADE: yeah, i can see how you might find it a little slow here</span>
+<span style="color: #4ac925">JADE: i dunno, i havent minded much... maybe its different for me though because i used to live all alone?</span>
+<span style="color: #0715cd">JOHN: oh sure, i'm sure it's GREAT for you. you get to spend your days smooching and breaking up with dave sprite and what not, and you can shrink down to any old planet you feel like, any time. whereas i have to make this whole big deal of ASKING you to shrink or unshrink me, and...</span>
+<span style="color: #4ac925">JADE: but i dont mind doing that any time!!!</span>
+<span style="color: #0715cd">JOHN: i know, but you think i want to bug you about that at the drop of a hat? when you're busy and on dates and stuff? i just happen to have respect for something called PERSONAL BOUNDARIES, jade.</span>
+<span style="color: #0715cd">JOHN: and it's not like there's really anyone else to talk to, except the inscrutable chess people and a bunch of brainless consorts and an idiot cat princess. oh and also nanna, but i mean, she's my grandmother, and she's great, but a guy can only spend so much quality time with his grandmother before he starts to feel like kind of a loser whose friends are too busy to spend time with him!</span>
+<span style="color: #4ac925">JADE: john... if you told me this earlier i would have...</span>
+<span style="color: #0715cd">JOHN: and i still never visit any interesting dream bubbles, and we can't even finish our cool planet quests because the moment we broke through the window all our denizens decided to go back to sleep, and...</span>
+<span style="color: #0715cd">JOHN: i guess what i'm saying is, i'm MORE than ready to get to the other window and meet our friends and other new people and stuff.</span>
+<span style="color: #0715cd">JOHN: are you sure you can't make the ship go faster???</span>
+<span style="color: #4ac925">JADE: were already going as fast as i can make us go</span>
+<span style="color: #0715cd">JOHN: and how fast is that again?</span>
+<span style="color: #4ac925">JADE: about the speed of light!</span>
+<span style="color: #0715cd">JOHN: well, can't you use your space powers and bump it up a notch?</span>
+<span style="color: #4ac925">JADE: no! nothing can go faster than light john</span>
+<span style="color: #4ac925">JADE: unless you teleport of course</span>
+<span style="color: #0715cd">JOHN: and why can't you teleport us again?</span>
+<span style="color: #4ac925">JADE: i already explained this! i cant do that here, its not within the domain of the green sun which gives me those powers!</span>
+<span style="color: #0715cd">JOHN: is that why we can't go faster than light either?</span>
+<span style="color: #4ac925">JADE: no thats just a regular law of physics!!! jeez</span>
+<span style="color: #0715cd">JOHN: ok, i mean, i know that. but this isn't really a regular place, right?</span>
+<span style="color: #0715cd">JOHN: isn't the speed of light like a thousand miles a second? so what does that really mean here? are miles and seconds the same here as on earth? how does this nonsense dimension we're racing through jive with all the relativity mumbo jumbo?</span>
+<span style="color: #4ac925">JADE: ok first of all, thats not even close to the speed of light</span>
+<span style="color: #4ac925">JADE: light travels at a hundred and eighty six miles per second no matter what frame of reference youre in... even this one!</span>
+<span style="color: #4ac925">JADE: second of all special relativity and comparing laws of physics between different frames of reference, those are tricky issues to talk about!</span>
+<span style="color: #4ac925">JADE: but id be more than happy to talk about them if youd like. actually i would enjoy that because i never really get to talk about science wi...</span>
+<span style="color: #0715cd">JOHN: no, i don't want to talk about physics! i don't know anything about the laws of physics, because they are hard and boring.</span>
+<span style="color: #0715cd">JOHN: i simply would like them to behave in a way that is most convenient to ME and MY LIFE! is that really asking too much?</span>
+<span style="color: #4ac925">JADE: yes as a matter of fact it is!</span>
+<span style="color: #0715cd">JOHN: well, guess what? SCIENCE IS STUPID BULLSHIT!!!</span>
+<span style="color: #4ac925">JADE: you take that back!!!!!</span>
+<span style="color: #0715cd">JOHN: no.</span>
+<span style="color: #0715cd">JOHN: magic is awesome.</span>
+<span style="color: #0715cd">JOHN: science blows.</span>
+<span style="color: #0715cd">JOHN: the end.</span>
+<span style="color: #4ac925">JADE: john.....</span>
+<span style="color: #4ac925">JADE: what is that?</span>
+###
+007196
+X
