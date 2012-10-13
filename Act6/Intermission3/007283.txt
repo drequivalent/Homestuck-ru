@@ -1,0 +1,49 @@
+[A6I3] ==&gt;
+###
+2b03aa4640
+###
+1350083075
+###
+http://ru-homestuck.org/storyfiles/hs2/05380.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: huh?</span>
+<span style="color: #a15000">TAVROS: gIVE IT TO ME,</span>
+<span style="color: #0715cd">JOHN: what... the ring?</span>
+<span style="color: #a15000">TAVROS: yES, iT'S MINE,</span>
+<span style="color: #0715cd">JOHN: who are you?</span>
+<span style="color: #a15000">TAVROS: i'M, yOUR WORST BAD DREAM, iF YOU DON'T RETURN MY TREASURE,</span>
+<span style="color: #a15000">TAVROS: i FOUND IT, sNUGGLED IN THE SAND, bEING PRETTY AND GOLD AND BY ITSELF, aND i WANT IT BACK,</span>
+<span style="color: #0715cd">JOHN: so you found it here, like exactly where i just found it... but then instead of picking it up, you fell asleep?</span>
+<span style="color: #a15000">TAVROS: wHEN YOU PUT IT THAT WAY, i SOUND STUPID,</span>
+<span style="color: #a15000">TAVROS: bUT, yES,</span>
+<span style="color: #0715cd">JOHN: sorry buddy. as the age old saying goes, you snooze, you lose.</span>
+<span style="color: #a15000">TAVROS: i NEVER HEARD THAT AGE OLD SAYING, iN MY CULTURE, sO, fUCK YOUR LINGUAL HERITAGE, aND GIVE ME THE RING,</span>
+<span style="color: #0715cd">JOHN: why were you even asleep?</span>
+<span style="color: #a15000">TAVROS: i WAS TIRED,</span>
+<span style="color: #a15000">TAVROS: dUH,</span>
+<span style="color: #0715cd">JOHN: this is such a dumb place to fall asleep, dude.</span>
+<span style="color: #a15000">TAVROS: tREASURE HUNTING IS HARD,</span>
+<span style="color: #a15000">TAVROS: sHE HAS ME WORKING LIKE A BARKFIEND,</span>
+<span style="color: #0715cd">JOHN: who?</span>
+<span style="color: #a15000">TAVROS: mY MATESPRIT,</span>
+<span style="color: #a15000">TAVROS: tHAT MEANS GIRLFRIEND, yOU IGNORAMUS,</span>
+<span style="color: #0715cd">JOHN: i know what it means!</span>
+<span style="color: #0715cd">JOHN: no offense, but you seem like kind of a lame troll. i don't think we ever talked before, did we?</span>
+<span style="color: #a15000">TAVROS: wHO CARES, gIVE ME MY TREASURE,</span>
+<span style="color: #0715cd">JOHN: no way! it's mine bro.</span>
+<span style="color: #a15000">TAVROS: sHIT!</span>
+<span style="color: #a15000">TAVROS: oKAY,</span>
+<span style="color: #a15000">TAVROS: mAYBE WE CAN WORK OUT SOME KIND OF DEAL,</span>
+<span style="color: #0715cd">JOHN: i dunno. this ring is pretty sweet. the price would have to be pretty steep.</span>
+<span style="color: #a15000">TAVROS: wOW,</span>
+<span style="color: #a15000">TAVROS: yOU ARE REALLY PUTTING ME, iN AN UNCOMFORTABLE AND CHALLENGING SITUATION,</span>
+<span style="color: #0715cd">JOHN: why do you want this desert ring so bad. is it magic?</span>
+<span style="color: #0715cd">JOHN: i don't really feel magic wearing it...</span>
+<span style="color: #0715cd">JOHN: i mean, not any more than usual.</span>
+<span style="color: #a15000">TAVROS: i DON'T KNOW, iF IT'S MAGIC,</span>
+<span style="color: #a15000">TAVROS: tHAT'S NOT WHY i WANT IT,</span>
+<span style="color: #0715cd">JOHN: well, i'm not giving it to you unless you have a really good reason.</span>
+###
+007284
+X
