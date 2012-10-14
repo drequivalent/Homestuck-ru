@@ -6,9 +6,9 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/00280.gif
 ###
-The pesky SPRITE eludes you again! Not even the great Colonel himself can outfox it!!!
+Надоедливый СПРАЙТ снова усколььзает от вас! И даже сам великий Полковник не может перехватить его!!!
 
-In narrowly missing with your attempt to create the COLONELSPRITE, you drop the massive tome. The entire house rattles under the astonishing girth of the book.
+Едва не создав ПОЛКОВНИКСПРАЙТА, вы уронили массивный фолиант. Весь дом грохотал из-за удивительного размера книги.
 ###
 002181
 X

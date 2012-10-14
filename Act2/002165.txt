@@ -1,4 +1,4 @@
-FINE. PROCEED AS YOUR LEVEL OF COMFORT DICTATES.
+ОТЛИЧНО. ДЕЛАЙ КАК ТЕБЕ УДОБНЕЕ.
 ###
 d102469928
 ###
@@ -7,7 +7,7 @@ d102469928
 http://ru-homestuck.org/storyfiles/hs2/00265_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00265_2.gif
 ###
-You cautiously walk within range of the PDA. Rose retrieves it.
+Вы осторожно входите в диапозон КПК. Роуз достает его.
 ###
 002166
 X

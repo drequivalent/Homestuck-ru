@@ -1,4 +1,4 @@
-INSPECT HAG ASH INCIDENT.
+ПРОВЕРЬ ЧТО СЛУЧИЛОСЬ С ПЕПЛОМ КАРГИ.
 ###
 2a3d1b5501
 ###
@@ -6,9 +6,9 @@ INSPECT HAG ASH INCIDENT.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00282.gif
 ###
-You find the SACRED URN toppled again. This time you're quite sure it wasn't your fault!
+Ты обнаруживаешь, что СВЯЩЕННАЯ УРНА снова упала. На этот раз ты абсолютно уверен, что это не твоя вина!
 
-The SPRITE is nowhere to be found.
+СПРАЙТА нигде не видно.
 ###
 002183
 X

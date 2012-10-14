@@ -1,4 +1,4 @@
-FIRST, TAKE THE FABRIC ITEM ON THE FLOOR THERE.
+СПЕРВА ВОЗЬМИ ПРЕДМЕТ ИЗ ТКАНИ ТАМ, НА ПОЛУ.
 ###
 7d8c8228e0
 ###
@@ -6,9 +6,9 @@ FIRST, TAKE THE FABRIC ITEM ON THE FLOOR THERE.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00257.gif
 ###
-The TOWEL? Why?
+ПОЛОТЕНЦЕ? Почему?
 
-Oh well, you're the boss. You captchalogue the TOWEL. What now?
+Ладно, ты босс. Ты каптчалогируешь ПОЛОТЕНЦЕ. Что сейчас?
 ###
 002158
 X

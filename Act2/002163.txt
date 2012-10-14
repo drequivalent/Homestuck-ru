@@ -1,4 +1,4 @@
-JOHN RUN ACROSS PRECARIOUS PLATFORM SWIFTLY.
+ДЖОН БЫСТРО ПЕРЕБЕГИ НА НЕСТАНДАРТНУЮ ПЛАТФОРМУ.
 ###
 ed3099528f
 ###
@@ -6,7 +6,7 @@ ed3099528f
 ###
 http://ru-homestuck.org/storyfiles/hs2/00263.gif
 ###
-John isn't sure about that. It's a long way down.
+Джон не уверен в этом. Это долгий путь вниз.
 ###
 002164
 X

@@ -1,4 +1,4 @@
-FINE. JOHN. RETURN TO YOUR QUARTERS.
+ОТЛИЧНО. ДЖОН. ВЕРНИСЬ В ПОМЕЩЕНИЕ.
 ###
 38b0ebead3
 ###
@@ -6,7 +6,7 @@ FINE. JOHN. RETURN TO YOUR QUARTERS.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00255.gif
 ###
-You go back up to your bedroom, tiptoeing around this weird petroleum-based sludge.
+Ты возвращаешься в спальню, осторожно обходя эту странную, похожую на нефть, грязь.
 ###
 002156
 X

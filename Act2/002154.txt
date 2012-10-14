@@ -1,4 +1,4 @@
-BOY, QUIT ALL THIS SCURRYING AROUND.
+МАЛЬЧИК, ПРЕКРАТИ СУЕТИТЬСЯ.
 ###
 8f3974f507
 ###
@@ -6,7 +6,7 @@ BOY, QUIT ALL THIS SCURRYING AROUND.
 ###
 http://ru-homestuck.org/storyfiles/hs2/00254.gif
 ###
-For the last time, this boy's name is John!!!
+На будущее, мальчика зовут Джон!!!
 ###
 002155
 X

@@ -1,4 +1,4 @@
-Rose: Check status of battery.
+Роуз: Проверить состояние батареи.
 ###
 913bf537ad
 ###
@@ -7,9 +7,9 @@ Rose: Check status of battery.
 http://ru-homestuck.org/storyfiles/hs2/00274_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00274_2.gif
 ###
-Your LAPTOP BATTERY is alright for now, but it won't be for long.
+БАТАРЕЯ ЛЭПТОПА сейчас в порядке, но это ненадолго.
 
-If the power in the house doesn't come back on, you can think of one last resort: the small BACKUP GENERATOR stored behind the MAUSOLEUM.
+Если энергтя не появится, ты можешь думать о последнем варианте: небольшой РЕЗЕРВНЫЙ ГЕНЕРАТОР хранится за МАВЗОЛЕЕМ.
 ###
 002175
 X

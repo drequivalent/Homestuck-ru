@@ -1,4 +1,4 @@
-BOY.
+МАЛЬЧИК.
 ###
 e15ba1c742
 ###
@@ -7,11 +7,11 @@ e15ba1c742
 http://ru-homestuck.org/storyfiles/hs2/00252_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00252_2.gif
 ###
-What is left of the SPRITE undergoes a mysterious transformation.
+С тем, осталось слева от СПРАЙТА, происходит удивительная трансформация.
 
-For a moment you thought you heard someone say &quot;BOY&quot;, as if whispered in the periphery of your awareness. 
+На мнгновение тебе показалось, что ты услышал, как кто-то сказал &quot;МАЛЬЧИК&quot;, как будто шепнул на ухо где-то на краю твоего сознания. 
 
-It was probably just your imagination though.
+Однако, вероятно, это было просто твое воображение.
 ###
 002153
 X

@@ -1,4 +1,4 @@
-Rose: Prototype sprite with Betty Crocker box.
+Розе: Прототипировать спрайта коробкой Бетти Крокер.
 ###
 e7667e0c44
 ###
@@ -6,15 +6,15 @@ e7667e0c44
 ###
 http://ru-homestuck.org/storyfiles/hs2/00275.gif
 ###
-|PESTERLOG|
-<span style="color: #0715cd">EB: what? oh man, you're going to use that?</span>
-<span style="color: #0715cd">EB: that sucks, what a stupid idea!</span>
-<span style="color: #b536da">TT: We have to hurry along. I'm running low on battery power.</span>
-<span style="color: #0715cd">EB: but the cake mix... ugh, that's so dumb.</span>
-<span style="color: #b536da">TT: I doubt it matters.</span>
-<span style="color: #b536da">TT: We might as well just use any old crap lying around.</span>
-<span style="color: #0715cd">EB: fine.</span>
-<span style="color: #0715cd">EB: i GUESS.</span>
+|ДОСТАЛОГ|
+<span style="color: #0715cd">EB: что? оу, ты собираешься использовать это?</span>
+<span style="color: #0715cd">EB: отстой, что за глупая идея!</span>
+<span style="color: #b536da">TT: Мы должны торопиться. У меня очень низкий заряд батареи.</span>
+<span style="color: #0715cd">EB: но полуфабрикат... тьфу, это так тупо.</span>
+<span style="color: #b536da">TT: Я сомневаюсь, что это имеет значение.</span>
+<span style="color: #b536da">TT: С тем же успехом мы могли бы использовать любое дерьмо, валяющееся рядом.</span>
+<span style="color: #0715cd">EB: хорошо.</span>
+<span style="color: #0715cd">EB: я ДУМАЮ.</span>
 ###
 002176
 X

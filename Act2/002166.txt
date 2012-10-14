@@ -1,4 +1,4 @@
-NOW TAKE IT.
+СЕЙЧАС ВОЗЬМИ ЕГО.
 ###
 9bd9bb76e5
 ###
@@ -7,9 +7,9 @@ NOW TAKE IT.
 http://ru-homestuck.org/storyfiles/hs2/00266_1.gif
 http://ru-homestuck.org/storyfiles/hs2/00266_2.gif
 ###
-You grab the PDA, launching one of the HARLEQUIN FIGURINES into the night.
+Ты берешь КПК, запуская одну из ФИГУРОК АРЛЕКИНА в ночь. HARLEQUIN FIGURINE
 
-You can kiss that one goodbye.
+Можешь попрощаться с ней.
 ###
 002167
 X

@@ -1,4 +1,4 @@
-Rose: Remove cruxtruder from doorway.
+Роуз: Передвинуть центрудер от двери.
 ###
 ef3cc1fd9c
 ###
@@ -6,17 +6,17 @@ ef3cc1fd9c
 ###
 http://ru-homestuck.org/storyfiles/hs2/00283.gif
 ###
-|PESTERLOG|
+|ДОСТЛАОГ|
 <span style="color: #0715cd">EB: aw man, where'd it go?</span>
-<span style="color: #b536da">TT: I can't find it anywhere in the house.</span>
-<span style="color: #b536da">TT: No time to worry about it.</span>
+<span style="color: #b536da">TT: Я не могу найти его нигде в доме.</span>
+<span style="color: #b536da">TT: Не время беспокоиться об этом.</span>
 <span style="color: #b536da">TT: The next thing we should do is get your server copy of the game from the car.</span>
 <span style="color: #b536da">TT: You need to connect to my client, so I can repeat your steps and presumably join you, wherever you are.</span>
-<span style="color: #b536da">TT: We should do this quickly, before my house burns down.</span>
+<span style="color: #b536da">TT: Мы должны сделать это быстро, до того, как мой дом сгорит.</span>
 <span style="color: #0715cd">EB: what, there's a fire??</span>
 <span style="color: #b536da">TT: There will be soon.</span>
-<span style="color: #0715cd">EB: oh jeez!</span>
-<span style="color: #0715cd">EB: so move this thing already!</span>
+<span style="color: #0715cd">EB: о божеoh jeez!</span>
+<span style="color: #0715cd">EB: так подвинь уже эту штуку!</span>
 <span style="color: #b536da">TT: It looks like it requires a lot of grist to move.</span>
 <span style="color: #b536da">TT: I don't have enough to relocate the door, either.</span>
 <span style="color: #0715cd">EB: how much do you have?</span>

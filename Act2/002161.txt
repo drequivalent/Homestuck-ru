@@ -1,4 +1,4 @@
-I SEE. ==&gt;?
+Я ВИЖУ. ==&gt;?
 ###
 5679cbcdb9
 ###
@@ -6,9 +6,9 @@ I SEE. ==&gt;?
 ###
 http://ru-homestuck.org/storyfiles/hs2/00261.gif
 ###
-Yes, that will suffice.
+Да, этого будет достаточно.
 
-Rose deletes the PERFECTLY GENERIC OBJECTS. 6 units of BUILD GRIST are restored to your GRIST CACHE.
+Роуз удалила СОВЕРШЕННО ОДИНАКОВЫЕ ОБЪЕКТЫ. 6 едениц СТРОЙМАТЕРИИ прибавилось к твоему GRIST CACHE.
 ###
 002162
 X
