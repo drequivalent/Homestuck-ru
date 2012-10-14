@@ -1,0 +1,74 @@
+[A6I3] ==&gt;
+###
+c419a4f77a
+###
+1350194939
+###
+http://ru-homestuck.org/storyfiles/hs2/05383.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">VRISKA: Yeah!</span>
+<span style="color: #005682">VRISKA: Oh, sorry. I really should have introduced myself. I guess I forgot I technically never met this version of you.</span>
+<span style="color: #0715cd">JOHN: uh. that's alright. nice to meet you.</span>
+<span style="color: #0715cd">JOHN: wait...</span>
+<span style="color: #0715cd">JOHN: are you a ghost too?</span>
+<span style="color: #005682">VRISKA: Yep.</span>
+<span style="color: #0715cd">JOHN: so... you're dead?</span>
+<span style="color: #005682">VRISKA: Yes, John. That's what 8eing a ghost means.</span>
+<span style="color: #0715cd">JOHN: ok, i'm still confused though...</span>
+<span style="color: #0715cd">JOHN: sorry if i sound dumb, but dream bubbles are still kind of baffling to me.</span>
+<span style="color: #0715cd">JOHN: you're, uh... &quot;REALLY&quot; dead?</span>
+<span style="color: #0715cd">JOHN: as in, the real you? i mean... dang, what the hell am i even trying to ask here...</span>
+<span style="color: #005682">VRISKA: No, I get what you're asking.</span>
+<span style="color: #005682">VRISKA: Yes, the real me. The actual, legit, fully authentic alpha timeline Vriska. Dead. Gone. Fuckin' toast.</span>
+<span style="color: #0715cd">JOHN: oh.</span>
+<span style="color: #0715cd">JOHN: so when i meet up with everyone on your troll meteor in a year, that means...</span>
+<span style="color: #0715cd">JOHN: you'll be...</span>
+<span style="color: #005682">VRISKA: A corpse!!!!!!!!</span>
+<span style="color: #005682">VRISKA: That's assuming my 8ody was sufficiently preserved during the trip.</span>
+<span style="color: #005682">VRISKA: Which, now that I think a8out it, I guess it was? It must have 8een, 8ecause otherwise that unspeaka8le prototyping atrocity couldn't have happened.</span>
+<span style="color: #005682">VRISKA: That piece of shit clown. I still have no idea what the deal with that was! He's completely lost his mind. Anyway, that's neither here nor there.</span>
+<span style="color: #005682">VRISKA: Honestly, I'm surprised you hadn't already heard I was dead, one way or another. It's kind of old news?</span>
+<span style="color: #005682">VRISKA: Then again, these things are all relative. So who knows.</span>
+<span style="color: #0715cd">JOHN: ...</span>
+<span style="color: #005682">VRISKA: Are you ok? You seem sad.</span>
+<span style="color: #0715cd">JOHN: well,</span>
+<span style="color: #0715cd">JOHN: yeah.</span>
+<span style="color: #0715cd">JOHN: it's always sad to hear a friend died. even if you find out about it from their ghost.</span>
+<span style="color: #005682">VRISKA: I guess so.</span>
+<span style="color: #0715cd">JOHN: also, i had kind of thought that when we all arrived at the new session, that...</span>
+<span style="color: #0715cd">JOHN: we were going to like... hang out. or something.</span>
+<span style="color: #005682">VRISKA: Oh yeah! That's right. We were.</span>
+<span style="color: #005682">VRISKA: 8ut then I got sta88ed through the 8ack. Which to 8e fair, was for the good of the party, so the meteor could make the trip in the first place, and keep this whole crazy sequence of events intact.</span>
+<span style="color: #005682">VRISKA: Not gonna lie. I made some mistakes.</span>
+<span style="color: #0715cd">JOHN: wow. what even happened out there?</span>
+<span style="color: #005682">VRISKA: Just some pointless, deadly teen drama. Mostly 8rought on 8y ourselves, all acting like juvenile idiots. Like I said, old news.</span>
+<span style="color: #005682">VRISKA: VERY old for me. I've 8een here a pretty long time now.</span>
+<span style="color: #005682">VRISKA: A lot has happened since I died. John, did you know the little rendezvous we planned sort of already happened? I mean, in a way.</span>
+<span style="color: #0715cd">JOHN: what? it did?</span>
+<span style="color: #005682">VRISKA: Yes. With your ghost.</span>
+<span style="color: #0715cd">JOHN: huh??</span>
+<span style="color: #005682">VRISKA: I mean, the ghost of one of your altern8te selves, who died along the way doing some stupid thing.</span>
+<span style="color: #005682">VRISKA: Actually, he and I d8ted for a little while.</span>
+<span style="color: #a15000">TAVROS: wHOA, hOLD ON,</span>
+<span style="color: #a15000">TAVROS: wHAT'S THIS, aBOUT DATING WHO?</span>
+<span style="color: #005682">VRISKA: Groan. Here we go.</span>
+<span style="color: #a15000">TAVROS: wHY DIDN'T YOU TELL ME, aBOUT THAT,</span>
+<span style="color: #005682">VRISKA: Tavros, I have led a rich and complic8ted life and death. I can hardly 8e expected to tell you a8out every little thing that I've 8een through.</span>
+<span style="color: #005682">VRISKA: 8esides, you should have already known this a8out me.</span>
+<span style="color: #a15000">TAVROS: wHY,</span>
+<span style="color: #005682">VRISKA: 8ecause we shared a sprite 8ody once!!!!!!!! We 8riefly had access to all each others memories and feelings.</span>
+<span style="color: #005682">VRISKA: So if you didn't take the chance to dig that out of my memory, you only have yourself to 8lame.</span>
+<span style="color: #a15000">TAVROS: nO, bUT, tHAT HARDLY LASTED ANY TIME AT ALL,</span>
+<span style="color: #a15000">TAVROS: aND THERE WERE A LOT, oF OVERWHELMING EXPERIENCES ALL HAPPENING AT ONCE,</span>
+<span style="color: #a15000">TAVROS: hOW COULD i TRY TO REMEMBER ALL YOUR MEMORIES BEFORE WE EXPLODED,</span>
+<span style="color: #005682">VRISKA: Well, all I can say is, I managed! I took the opportunity to remem8er pretty much all YOUR memories.</span>
+<span style="color: #005682">VRISKA: I was in and out like a 8andit, and now all your life experiences are mine.</span>
+<span style="color: #a15000">TAVROS: tHAT'S NOT FAIR,</span>
+<span style="color: #a15000">TAVROS: bECAUSE, yOU'RE SMARTER THAN ME, aND MORE CUNNING,</span>
+<span style="color: #005682">VRISKA: Them's the 8r8ks!!!!!!!!</span>
+<span style="color: #0715cd">JOHN: wait, i'm with tavros here, i think we should back this up a bit.</span>
+<span style="color: #0715cd">JOHN: so, my alternate reality ghost dated you?</span>
+###
+007287
+X

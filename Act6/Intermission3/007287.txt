@@ -1,0 +1,78 @@
+[A6I3] ==&gt;
+###
+5b5d187bf6
+###
+1350195192
+###
+http://ru-homestuck.org/storyfiles/hs2/05384.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">VRISKA: Yes.</span>
+<span style="color: #0715cd">JOHN: that...</span>
+<span style="color: #0715cd">JOHN: but...</span>
+<span style="color: #005682">VRISKA: What?</span>
+<span style="color: #0715cd">JOHN: vriska, this is a very bizarre and unsettling fact to me!</span>
+<span style="color: #005682">VRISKA: Why?</span>
+<span style="color: #0715cd">JOHN: because...</span>
+<span style="color: #0715cd">JOHN: man, i don't know, it just is!</span>
+<span style="color: #0715cd">JOHN: you say we dated for a while, but like, i don't even get to remember doing that?</span>
+<span style="color: #0715cd">JOHN: i think that's mostly what's weird about it.</span>
+<span style="color: #005682">VRISKA: Hey, we apparently don't get to remem8er the results of a lot of choices we didn't actually make!</span>
+<span style="color: #005682">VRISKA: Again, see: the 8r8ks.</span>
+<span style="color: #0715cd">JOHN: well...</span>
+<span style="color: #0715cd">JOHN: can you at least tell me what happened there? like, how did that go?</span>
+<span style="color: #005682">VRISKA: It was fine. For a while.</span>
+<span style="color: #005682">VRISKA: It didn't really work out.</span>
+<span style="color: #0715cd">JOHN: oh.</span>
+<span style="color: #005682">VRISKA: We crossed paths every now and then after that.</span>
+<span style="color: #005682">VRISKA: Things stayed pretty friendly 8etween us.</span>
+<span style="color: #005682">VRISKA: Until he died.</span>
+<span style="color: #0715cd">JOHN: what??</span>
+<span style="color: #0715cd">JOHN: what do you mean he died?</span>
+<span style="color: #005682">VRISKA: He was murdered.</span>
+<span style="color: #0715cd">JOHN: you mean... his GHOST died?</span>
+<span style="color: #005682">VRISKA: Yes.</span>
+<span style="color: #0715cd">JOHN: as in, he just doesn't exist at all anymore? like DEAD dead?</span>
+<span style="color: #005682">VRISKA: Yes! Dead dead. For good.</span>
+<span style="color: #0715cd">JOHN: i don't... how does that even...</span>
+<span style="color: #0715cd">JOHN: who killed him???</span>
+<span style="color: #0715cd">JOHN: was it jack?</span>
+<span style="color: #005682">VRISKA: Jack? Are you kidding? No, John.</span>
+<span style="color: #005682">VRISKA: Jack is 8arely in the picture as a threat anymore. He's just more old news.</span>
+<span style="color: #0715cd">JOHN: he is not old news though!</span>
+<span style="color: #0715cd">JOHN: he's still as strong and menacing as ever.</span>
+<span style="color: #0715cd">JOHN: i just had an awesome battle with him in this very dream bubble!</span>
+<span style="color: #005682">VRISKA: You did?</span>
+<span style="color: #0715cd">JOHN: yeah. i found him skulking around a memory of my dead dad, and i got pissed off, so i really let him have it.</span>
+<span style="color: #0715cd">JOHN: oh, i even used the cool hammer you helped me make. remember that?</span>
+<span style="color: #005682">VRISKA: Oh yeah!</span>
+<span style="color: #005682">VRISKA: Those were good times, when I helped you 8e gr8. ::::)</span>
+<span style="color: #0715cd">JOHN: yes.</span>
+<span style="color: #0715cd">JOHN: the last time i faced him was kind of embarrassing. i let him get the drop on me, and he just stabbed me right away.</span>
+<span style="color: #0715cd">JOHN: but this time i think i held my own pretty well. i even got in one good hit against him!</span>
+<span style="color: #0715cd">JOHN: i gave him a solid bop on the head, and the dice roll made him wear a silly hat.</span>
+<span style="color: #005682">VRISKA: That's awesome!!!!!!!!</span>
+<span style="color: #005682">VRISKA: One time in an altern8te reality, I came pretty close to killing him apparently.</span>
+<span style="color: #0715cd">JOHN: oh really?</span>
+<span style="color: #005682">VRISKA: You 8et. To 8ad that was in a timeline that didn't really count. 8ut it's always reassuring to know you can put up a good fight against a strong adversary if you ever needed to. Now I guess you know you can too.</span>
+<span style="color: #0715cd">JOHN: i guess so!</span>
+<span style="color: #005682">VRISKA: What happened after you 8onked him on the head? I 8et he was mad.</span>
+<span style="color: #0715cd">JOHN: yeah, he sure was. but our fight was interrupted by like... another taller, white jack dressed in rags.</span>
+<span style="color: #005682">VRISKA: A white Jack?</span>
+<span style="color: #0715cd">JOHN: well, no, it wasn't actually a jack, it was someone different altogether, who just looked like him. with wings and a sword and everything.</span>
+<span style="color: #0715cd">JOHN: i think the white jack was probably a girl? i'm not sure, but that was my hunch. i didn't talk to her or anything. she looked really angry.</span>
+<span style="color: #0715cd">JOHN: anyway, he seemed scared of her, so he flew away, and she chased him.</span>
+<span style="color: #0715cd">JOHN: do you know who she was?</span>
+<span style="color: #005682">VRISKA: No fucking clue.</span>
+<span style="color: #0715cd">JOHN: whatever jack's doing out here in dream bubble land, he seems to have his hands full with her on his tail.</span>
+<span style="color: #0715cd">JOHN: but as you can see, he is FAR from out of the picture.</span>
+<span style="color: #005682">VRISKA: Ok, that may 8e, 8ut it sure wasn't Jack who killed a whole shitload of ghosts out here, including one of yours.</span>
+<span style="color: #005682">VRISKA: I really dou8t Jack can even kill ghosts. In fact, I don't think anyone can except for this guy.</span>
+<span style="color: #0715cd">JOHN: what guy?</span>
+<span style="color: #005682">VRISKA: Lord English.</span>
+<span style="color: #0715cd">JOHN: who??</span>
+<span style="color: #005682">VRISKA: Wow, John. Really?</span>
+<span style="color: #005682">VRISKA: Wow.</span>
+<span style="color: #005682">VRISKA: Time to get a clue!</span>
+###
+X

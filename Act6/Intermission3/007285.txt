@@ -1,0 +1,27 @@
+[A6I3] ==&gt;
+###
+da828dd65a
+###
+1350194696
+###
+http://ru-homestuck.org/storyfiles/hs2/05382.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">VRISKA: TAAAAAAAAVR........ Oh!</span>
+<span style="color: #005682">VRISKA: Hi John.</span>
+<span style="color: #005682">VRISKA: Tavros, I didn't know you were hanging out with John. You should have come told me.</span>
+<span style="color: #a15000">TAVROS: bUT, i JUST WOKE UP FROM THE SAND PILE, aND FOUND HIM HERE,</span>
+<span style="color: #a15000">TAVROS: i HAD LITERALLY NO TIME TO GO TELL YOU, bECAUSE OF AN ARGUMENT,</span>
+<span style="color: #005682">VRISKA: What? What were you arguing a8out?</span>
+<span style="color: #a15000">TAVROS: uHHH,</span>
+<span style="color: #005682">VRISKA: W8........ what do you mean woke up? Why were you asleep?</span>
+<span style="color: #a15000">TAVROS: uHHH,</span>
+<span style="color: #005682">VRISKA: Dammit, Tavros. You can't 8e slacking off like that.</span>
+<span style="color: #005682">VRISKA: I told you, we aren't fucking around anymore. This is serious 8usiness.</span>
+<span style="color: #0715cd">JOHN: hey...</span>
+<span style="color: #0715cd">JOHN: excuse me, but</span>
+<span style="color: #0715cd">JOHN: are you...</span>
+<span style="color: #0715cd">JOHN: vriska?</span>
+###
+007286
+X
