@@ -1,0 +1,67 @@
+[A6I3] ==&gt;
+###
+22f06fa983
+###
+1350281532
+###
+http://ru-homestuck.org/storyfiles/hs2/05385.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">VRISKA: Hasn't it ever occurred to you to wonder who the ultim8 8ad guy of this adventure was going to 8e?</span>
+<span style="color: #0715cd">JOHN: ultimate bad guy?</span>
+<span style="color: #0715cd">JOHN: you mean like the last boss?</span>
+<span style="color: #005682">VRISKA: Man, even that way of putting it is a little too pedestrian.</span>
+<span style="color: #005682">VRISKA: I mean, I already 8eat a last 8oss! The 8lack king was the officially sanctioned last 8oss of our session, and I killed him. This is different.</span>
+<span style="color: #005682">VRISKA: There's always someone stronger w8ing to 8e revealed. Jack showed up shortly after that, and he was MUCH stronger.</span>
+<span style="color: #005682">VRISKA: Eventually the curtains get pulled 8ack, and you find out who was 8ehind every terri8le thing that happened all along. Someone who is invaria8ly stronger than all other adversaries 8y a wide margin. The supreme villain!</span>
+<span style="color: #005682">VRISKA: To 8e honest, I was always kind of w8ing for that guy to show up, whoever he was. For the other shoe to drop, you know? There's always a 8ig 8ad 8ehind everything. A true gamer sees stuff like this coming a mile away.</span>
+<span style="color: #0715cd">JOHN: ok. if you say so.</span>
+<span style="color: #0715cd">JOHN: i always kind of thought jack was evil and strong enough to be our main anatgonist. but if you say there is someone even stronger and more evil, then... wow.</span>
+<span style="color: #005682">VRISKA: Yes, I'll admit, I was fooled 8y Jack 8riefly.</span>
+<span style="color: #005682">VRISKA: For a little while, I thought he was the supreme menace, and I would have to face him in a final showdown.</span>
+<span style="color: #005682">VRISKA: 8ut it turned out that was just a 8it of standard misdirection. He was just another step up in a typical pattern of escal8tion involving increasingly &quot;insurmounta8le&quot; threats, which legendary heroes like us have to overcome to achieve total victory over everything.</span>
+<span style="color: #005682">VRISKA: Also, let's face it. I don't think Jack is all that evil, so much as he's just a murderous asshole. Trust me, I know the type.</span>
+<span style="color: #005682">VRISKA: 8ut English, that guy is as evil as they come. He's the real deal!!!!!!!!</span>
+<span style="color: #a15000">TAVROS: oKAY, cAN i JUST SAY SOMETHING,</span>
+<span style="color: #a15000">TAVROS: i STILL DON'T KNOW WHY YOU'RE SO SURE, hE'S THE FINAL VILLAIN,</span>
+<span style="color: #a15000">TAVROS: bECAUSE, yOU YOURSELF SAID, tHERE'S ALWAYS SOMEONE STRONGER, rIGHT,</span>
+<span style="color: #a15000">TAVROS: sO, i'M PERCEIVING A CONTRADICTION ABOUT YOUR FACTS,</span>
+<span style="color: #005682">VRISKA: Tavros, come on. We've already talked a8out this ad nauseum.</span>
+<span style="color: #005682">VRISKA: He's the 8ig 8ad!!!!!!!! It's so o8vious. I mean, MAY8E there's someone stronger out there in paradox space? Who knows.</span>
+<span style="color: #005682">VRISKA: 8ut whoever that is has nothing to fucking do with this massive extended multiverse-spanning campaign!!!!!!!!</span>
+<span style="color: #005682">VRISKA: English was the guy who stacked the whole deck against us from the start, rigging shit to go haywire, wiping out our race, 8lowing up universes, exterimin8ting ghosts, slaughtering dark gods, and shattering reality itself. Pretty sure we reached the top floor, 8uddy!</span>
+<span style="color: #a15000">TAVROS: oKAY, bUT ALL i'M SAYING IS, wHAT IF,</span>
+<span style="color: #a15000">TAVROS: tHERE'S SOMEONE EVEN WORSE THAN THAT, dUE TO SPECULATION,</span>
+<span style="color: #005682">VRISKA: Un8elieva8le.</span>
+<span style="color: #005682">VRISKA: John, just ignore him. He tends to 8e contrary just for the sake of 8eing contrary. It's just what he does these days.</span>
+<span style="color: #005682">VRISKA: He seems to think it's how you show confidence and assertiveness. The key to high self esteem is apparently just saying &quot;nuh uh!&quot; all the time.</span>
+<span style="color: #a15000">TAVROS: nO, tHAT'S NOT TRUE,</span>
+<span style="color: #005682">VRISKA: See?</span>
+<span style="color: #005682">VRISKA: This was apparently the 8ig lesson he learned from sharing a 8rain with me for a few minutes. In order to feel good a8out yourself, just 8e a constant pain in the ass!!!!!!!!</span>
+<span style="color: #a15000">TAVROS: nO, tHAT'S NOT WHAT i LEARNED,</span>
+<span style="color: #0715cd">JOHN: haha.</span>
+<span style="color: #0715cd">JOHN: i see what you mean.</span>
+<span style="color: #a15000">TAVROS: nO,</span>
+<span style="color: #a15000">TAVROS: nO,</span>
+<span style="color: #a15000">TAVROS: nO, oKAY, i REALIZE ALL i'M SAYING IS NO, WHICH IS JUST HELPING MAKE YOU LOOK AS RIGHT AS POSSIBLE ABOUT MAKING FUN OF ME,</span>
+<span style="color: #a15000">TAVROS: bUT i LEARNED IN YOUR BRAIN THAT YOU AREN'T ALWAYS RIGHT ABOUT EVERYTHING,</span>
+<span style="color: #a15000">TAVROS: yOU WERE WRONG ABOUT LOTS OF THINGS,</span>
+<span style="color: #a15000">TAVROS: yOU WERE WRONG ABOUT RUFIO!</span>
+<span style="color: #a15000">TAVROS: rUFIO WAS REAL ALL ALONG, }:D</span>
+<span style="color: #005682">VRISKA: Alright, granted, there did in fact exist a person 8y that name.</span>
+<span style="color: #005682">VRISKA: You aren't spelling it right, though.</span>
+<span style="color: #a15000">TAVROS: hOW DO YOU KNOW HOW i'M SPELLING IT, wHEN i'M JUST TALKING, iNSTEAD OF USING LETTERS,</span>
+<span style="color: #005682">VRISKA: 8ecause that's how you spelled it when we used to chat online, dum8ass!!!!!!!! You weren't using enough letters.</span>
+<span style="color: #a15000">TAVROS: sO,</span>
+<span style="color: #005682">VRISKA: And in any case, he doesn't actually represent your self esteem. He's just some dude.</span>
+<span style="color: #a15000">TAVROS: bUT, hE MAKES ME FEEL BETTER ABOUT MYSELF wHEN i THINK OF HIM, sO THE REALITY IS EFFECTIVELY EQUIVALENT TO MY FRAUDULENT CHILDHOOD SUPERSTITION,</span>
+<span style="color: #005682">VRISKA: Lol. Whatever floats your 8oat.</span>
+<span style="color: #0715cd">JOHN: you both seem a bit testy with each other. it's kind of funny.</span>
+<span style="color: #0715cd">JOHN: actually it's a little hard to believe you and he are...</span>
+<span style="color: #005682">VRISKA: What?</span>
+<span style="color: #0715cd">JOHN: er...</span>
+<span style="color: #0715cd">JOHN: never mind, actually.</span>
+<span style="color: #005682">VRISKA: ???????!</span>
+###
+007289
+X

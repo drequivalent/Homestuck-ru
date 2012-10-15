@@ -1,0 +1,88 @@
+[A6I3] ==&gt;
+###
+d8c619d06e
+###
+1350281669
+###
+http://ru-homestuck.org/storyfiles/hs2/05387.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">VRISKA: He's just some huge overpowered green freak. A time traveling monster, supposedly invinci8le.</span>
+<span style="color: #005682">VRISKA: Who he is, what he is, where he came from, none of that really matters.</span>
+<span style="color: #005682">VRISKA: What matters is how we're going to defeat him.</span>
+<span style="color: #005682">VRISKA: That's what Tavros and I have 8een working on here for some time now.</span>
+<span style="color: #0715cd">JOHN: working on what?</span>
+<span style="color: #005682">VRISKA: Treasure hunting!</span>
+<span style="color: #0715cd">JOHN: oh yeah?</span>
+<span style="color: #0715cd">JOHN: what treasure?</span>
+<span style="color: #005682">VRISKA: Yes. Ok, I should explain.</span>
+<span style="color: #005682">VRISKA: There's sort of a plan in motion to 8eat English. It's a three pronged approach.</span>
+<span style="color: #005682">VRISKA: A num8er of people out here in the furthest ring are working on different prongs of the strategy independently.</span>
+<span style="color: #005682">VRISKA: The first is a quest to find the lost ghost of some alien girl. She's said to 8e one of the keys to defeating him in some way.</span>
+<span style="color: #005682">VRISKA: Other people are allegedly out there working on that right now. If you ask me, it sounds like a really 8oring approach to defeating him. Who knows if it's even true.</span>
+<span style="color: #a15000">TAVROS: (gIVe it tO me,)</span>
+<span style="color: #0715cd">JOHN: (stop that!)</span>
+<span style="color: #0715cd">JOHN: (keep your hands to yourself.)</span>
+<span style="color: #005682">VRISKA: The second is a quest to raise an army of ghosts to challenge him directly in some kind of huge 8attle royale, I guess.</span>
+<span style="color: #005682">VRISKA: From what I understand, some yahoo out there is 8usy rounding people up. I really have no idea how that's going. I usually just hear stuff through the grapevine.</span>
+<span style="color: #005682">VRISKA: That approach doesn't really interest me either. Gonna file it under &quot;8oring&quot; as well. Seems a little heavy handed, not to mention too slow.</span>
+<span style="color: #a15000">TAVROS: (gIve Me thE riNG,)</span>
+<span style="color: #0715cd">JOHN: (no!)</span>
+<span style="color: #a15000">TAVROS: (yes, yOu ASs,)</span>
+<span style="color: #0715cd">JOHN: (dude, you suck at whispering!)</span>
+<span style="color: #a15000">TAVROS: (you sAiD you'D GIve it to me,)</span>
+<span style="color: #0715cd">JOHN: (i changed my mind!)</span>
+<span style="color: #005682">VRISKA: The third prong is what Tavros and I are 8usy with. The aforementioned treasure hunt.</span>
+<span style="color: #005682">VRISKA: The legend says there's some mystical ancient treasure hidden somewhere out here in the furthest ring.</span>
+<span style="color: #005682">VRISKA: I'm assuming it's some kind of weapon. It's said that if you use it, or like, activ8te it in some way, he can 8e defeated forever.</span>
+<span style="color: #005682">VRISKA: The nature of the treasure is pretty vague, actually. 8ut the first rule of treasure hunting, which I'm admittedly just making up now, is that it doesn't fucking matter what the treasure is.</span>
+<span style="color: #a15000">TAVROS: (wE had a deAl,)</span>
+<span style="color: #0715cd">JOHN: (quit it!)</span>
+<span style="color: #a15000">TAVROS: (why Are you sUcH a liar,)</span>
+<span style="color: #0715cd">JOHN: (shut up. i'm keeping it.)</span>
+<span style="color: #a15000">TAVROS: (thiS is noT cOOl,)</span>
+<span style="color: #a15000">TAVROS: (you're PrevenTing joYful human sTYled matrimonY frOM happEning,)</span>
+<span style="color: #0715cd">JOHN: (yeah right. like she would even say yes.)</span>
+<span style="color: #0715cd">JOHN: (i don't even think she's really your girlfriend. i think you made that up!)</span>
+<span style="color: #a15000">TAVROS: (wow, no, wOw,)</span>
+<span style="color: #a15000">TAVROS: (you wEnt thERE,)</span>
+<span style="color: #005682">VRISKA: These three goals are all tied to the same legend which I've uncovered clues a8out over time. Legendary shit is everywhere out here. I'm seriously up to my ass in legend. Hell, I probably even qualify as a legend myself!!!!!!!!</span>
+<span style="color: #005682">VRISKA: When it comes to solving a 8ig mystery like this, it doesn't hurt that everywhere we go, places are composed of the collective memories of many different adventurers.</span>
+<span style="color: #005682">VRISKA: We've explored ancient crypts, networks of 8urial mounds, dusty old tom8s, giant pyramids, you name it. Hints a8out the endgame are hidden all over the place.</span>
+<span style="color: #005682">VRISKA: Really, everyone's pretty lucky I died so I could do all the dirty work on this. Let's get real, no8ody's 8etter prepared to take on the treasure hunting duties than I am.</span>
+<span style="color: #a15000">TAVROS: (unhAnd the treasurE,)</span>
+<span style="color: #a15000">TAVROS: (it's prEcious to Me, jUst liKe, My beautiful GIRLFRIEND,)</span>
+<span style="color: #0715cd">JOHN: (you are so full of shit!)</span>
+<span style="color: #a15000">TAVROS: (we're in LOVE toGetHEr, aSSHole,)</span>
+<span style="color: #0715cd">JOHN: (there's no way you're getting this ring.)</span>
+<span style="color: #a15000">TAVROS: (fUCk, YoU,)</span>
+<span style="color: #005682">VRISKA: Not that I'd have it any other way. This just sounds like the 8est plan to me. Why 8other messing around with an army of ghostly dipshits, or some shy magic alien when you can go str8 for the ultim8 weapon?</span>
+<span style="color: #005682">VRISKA: Hell, may8e I'll just walk right up to him, one-shot the guy and end it all right there.</span>
+<span style="color: #005682">VRISKA: That's how a real pro goes a8out 8usiness. You take any shortcut you find.</span>
+<span style="color: #0715cd">JOHN: (i am going to wish as super hard as i can that i wake up with this ring.)</span>
+<span style="color: #0715cd">JOHN: (it's probably magic, so i bet it makes my wish come true!)</span>
+<span style="color: #a15000">TAVROS: (i doubT that From happeNing,)</span>
+<span style="color: #0715cd">JOHN: (if i wish hard enough, that will make it slightly less impossible!)</span>
+<span style="color: #a15000">TAVROS: (oh, you bastARD, you arE gOOd,)</span>
+<span style="color: #0715cd">JOHN: (i think some day i will use it to propose to *MY* girlfriend. what do you think about THAT, wise guy?)</span>
+<span style="color: #a15000">TAVROS: (noOO!!!)</span>
+<span style="color: #a15000">TAVROS: (gIMme,)</span>
+<span style="color: #0715cd">JOHN: (this is pathetic.)</span>
+<span style="color: #0715cd">JOHN: (stop grabbing at me! we're missing what she's saying!)</span>
+<span style="color: #0715cd">JOHN: (she's going to think we're idiots, won't you STOP?)</span>
+<span style="color: #005682">VRISKA: Are you fuckers even listening to me???????? God DAMN it.</span>
+<span style="color: #0715cd">JOHN: yes!</span>
+<span style="color: #005682">VRISKA: No you're not. You're squa88ling with Tavros and his loud shitty whispering a8out some 8ullshit.</span>
+<span style="color: #005682">VRISKA: Come on, guys. Am I really 8eing that 8oring?</span>
+<span style="color: #005682">VRISKA: I'm really starting to understand how my ancestor must have felt sometimes. No8ody ever respects an important explan8tion!!!!!!!!</span>
+<span style="color: #a15000">TAVROS: (i've alReadY heARd yoUR explANAtions, tHough,)</span>
+<span style="color: #005682">VRISKA: Why are you still whispering jackass?!</span>
+<span style="color: #a15000">TAVROS: oHH,</span>
+<span style="color: #a15000">TAVROS: sORRY,</span>
+<span style="color: #005682">VRISKA: Sigh.</span>
+<span style="color: #005682">VRISKA: 8oth of you just keep your damn hands to yourselves, shut up, and let me finish my story.</span>
+<span style="color: #005682">VRISKA: Tavros! 8ring me the treasure maps!!!!!!!!</span>
+<span style="color: #a15000">TAVROS: yES,</span>
+<span style="color: #a15000">TAVROS: rIGHT AWAY,</span>
+###
+X
