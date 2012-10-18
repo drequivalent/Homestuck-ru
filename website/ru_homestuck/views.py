@@ -1,9 +1,10 @@
+from django.conf import settings
 from django.shortcuts import render_to_response
 from django.template import RequestContext
 from glob import glob
 from os.path import join, basename
 
-path_to_files = "/home/sergey/vcs-checkouts/Homestuck-ru"
+path_to_files = settings.HOMESTUCK_STORYFILES_DIR
 start_page = "001901"
 
 def parse_txt(page_number):
