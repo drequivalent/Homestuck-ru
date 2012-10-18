@@ -1,0 +1,69 @@
+body {
+	background-color: #000000;
+	color: #ffffff;
+	font-size: 12px;
+}
+
+.logo, #footer, .hdr {
+	display: none;
+}
+
+.nav {
+	background-color: #000000;
+	font-size: 9px;
+}
+
+#staff {
+	width: 940px;
+	display:inline-table; 
+	background-color: #082a00;
+	}
+
+#right {
+	float: left;
+	}
+
+#left {
+	width: 258px;
+	background: #0e4603;
+	border-color: #082a00;
+	float: right;
+	border-width: 1px 4px 0px 0px;
+}
+
+#news {
+	background: #0e4603;
+	width: 638px;
+	border-style: solid;
+	border-width: 1px 5px 0px 5px;
+	border-color: #082a00;
+	padding: 15px 15px 15px 15px;
+}
+
+
+.nav a {
+	color:#ffffff !important;
+}
+
+a {
+	color: #2cff4b !important;
+
+}
+
+#page {
+	background: #0e4603;
+	border-color: #082a00;
+	border-width: 1px 145px 25px 145px;
+}
+
+#border {
+	background: #000000;
+}
+
+#plist {
+	margin: 25px 5px 10px 5px;
+	}
+
+img[src="candycorn.gif"]{
+	content: url("candycorn_scratch.png");
+}

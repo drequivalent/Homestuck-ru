@@ -1,0 +1,34 @@
+body {
+	background-color: #000000;
+}
+
+.logo {
+	background-image: url('scratched1.png');
+}
+
+.nav {
+	background: #1b1b1b;
+}
+
+#left {
+	background: #1b1b1b;
+	border-color: #848484;
+}
+
+#news {
+	background: #dcdcdc;
+}
+
+
+.nav a {
+	color:#848484 !important;
+}
+
+a {
+	color: #848484 !important;
+}
+
+#page {
+	background: #dcdcdc;
+	border-color: #848484;
+}

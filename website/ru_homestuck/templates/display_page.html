@@ -1,0 +1,175 @@
+{% load staticfiles %}
+
+<html>
+<head>
+
+<link rel="icon" href="{% static 'img/favicon.ico' %}"/>
+
+<!--- Meta-информация (заполнить) --->
+
+<meta charset="utf-8">
+<meta name="description" content="Открытый перевод знаменитого интерактивного веб-комикса." />
+<meta name="keywords" content="Homestuck, Хомстак, Хоумстак, комикс, веб-комикс, перевод" />
+
+<title>Homestuck на русском</title>
+
+<link type="text/css" rel="stylesheet" href="{% static 'css/main.css' %}"/>
+
+<!--- Вставка строчек или ссылка на файл с более приоритетным CSS (в зависимости от требуемого дизайна)
+
+<link type="text/css" rel="stylesheet" href="change.css" />
+
+--->
+
+</head>
+
+<body>
+<center>
+
+<div class="logo"><a href="http://ru-homestuck.org"></a></div>
+
+<!------------------------------- Меню ----------------------------->
+
+<div class="nav">
+ <ul>
+	<li class="nav1"><a href="http://www.mspaintadventures.com">MS PAINT ADVENTURES</a></li>
+	<img src="{% static 'img/line.png' %}" align="absmiddle">
+	<li class="nav1"><a href="https://github.com/drequivalent/Homestuck-ru.git">GITHUB</a></li>
+	<img src="{% static 'img/candycorn.gif' %}" align="texttop">
+	<li class="nav2"><a href="#">ЛОГ</a></li>
+	<img src="{% static 'img/line.png' %}" align="absmiddle">
+	<li class="nav2"><a href="#">ПОИСК</a></li>
+	<img src="{% static 'img/candycorn.gif' %}" align="texttop">
+	<li class="nav3"><a href="#">О ПРОЕКТЕ</a></li>
+ </ul>
+</div>
+
+<!------------------------------- Конец меню ----------------------------->
+
+<div id="staff">
+	<div id="left">
+		<img class="hdr" src="{% static 'img/latestpages.png' %}">
+		<div id="plist">
+
+<!------------------------------------ Блок для вставки ссылок на новые страницы --------------------------------->
+
+		Latest Pages:</br>
+06/27/12 - <a href="#">"I clicked on all those kisdfsdfds fsfdfsdfgxdgsdg dgdsgddgdr dgsdgsdsdfsd"</a></br>
+06/26/12 - <a href="#">"==>"</a></br>
+06/26/12 - <a href="#">"==>"</a></br>
+06/26/12 - <a href="#">"==>"</a></br>
+06/26/12 - <a href="#">"fsfsdddddsssssssss ssssssssssssss ssssssssssss ssssssss sssssss==>"</a></br>
+06/26/12 - <a href="#1">"==>"</a></br>
+06/26/12 - <a href="#">"==>"</a></br>
+06/26/12 - <a href="#">"==>"</a></br>
+06/26/12 - <a href="#2">"==>"</a></br>
+06/26/12 - <a href="#">"==>"</a></br>
+06/26/12 - <a href="#1">"==>"</a></br>
+06/26/12 - <a href="#">"==>"</a></br>
+06/26/12 - <a href="#3">"==>"</a></br>
+06/26/12 - <a href="#">"==>"</a></br>
+06/26/12 - <a href="#">"==>"</a></br>
+06/26/12 - <a href="#1">"==>"</a></br>
+06/26/12 - <a href="#">"==>"</a></br>
+06/26/12 - <a href="#2">"==>"</a></br>
+06/26/12 - <a href="#">"==>"</a></br>
+06/26/12 - <a href="#">"==>"</a></br>
+06/26/12 - <a href="#1">"==>"</a></br>
+06/26/12 - <a href="#">"==>"</a></br>
+06/26/12 - <a href="#2">"==>"</a></br>
+06/26/12 - <a href="#">"==>"</a></br>
+06/26/12 - <a href="#">"==>"</a></br>
+06/26/12 - <a href="#1">"==>"</a></br>
+
+<!------------------------------- Конец блока для вставки ссылок на новые страницы ------------------------------>
+	
+		</div>
+		<div id="all"><a href="#">ВСЕ СТРАНИЦЫ</a></div>
+	</div>
+
+	<div id="right">
+		<div id="content">
+
+<!----------------------------------
+
+Блок для вставки страницы. Разные элементы требуют разного CSS:
+заголовок, картинка, текст-абзацы, текст-логи, ссылка на следующую страницу.
+
+--------------------------------------->
+
+<h1>{{ title }}</h1>
+
+{% for image in storyfiles %}
+
+<img src="{% static image %}">
+
+{% endfor %}
+
+<div id="text">
+<p>
+{{ text|safe }}
+</p>
+</div>
+
+<!-- Ссылка на следующую страницу -->
+<div id=next>
+> <a href="{% url ru_homestuck.views.display_page next_page_number %}">{{ next_page_title }}</a></br></br>
+</div>
+
+<!--------------- Сохранение игры ----------->
+
+<div id="gamemenu">
+
+{% if prev_page %}
+<a href="{% url ru_homestuck.views.display_page start_page %}">Start Over</a> | 
+<a href="{% url ru_homestuck.views.display_page prev_page %}">Go Back</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+{% endif %}
+Save game unimplemented
+
+</div>
+
+<!--------------- Конец блока сохранения игры ----------->
+
+<!-------------------------------- Конец блока для вставки страницы --------------------------------------->
+
+		</div>
+		<div id="news">
+				<img class="hdr" src="{% static 'img/news.png' %}">
+
+<!------------------------------------------------- Блок для новостей ------------------------------------------------>
+
+				<div class="rss"><p>A young man stands in his bedroom. It just so happens that today, the 13th of April, is this young man's birthday. Though it was thirteen years ago he was given life, it is only today he will be given a name! </p></div>
+				<div class="rss"><p>A young man stands in his bedroom. It just so happens that today, the 13th of April, is this young man's birthday. Though it was thirteen years ago he was given life, it is only today he will be given a name! </p></div>
+				<div class="rss"><p>A young man stands in his bedroom. It just so happens that today, the 13th of April, is this young man's birthday. Though it was thirteen years ago he was given life, it is only today he will be given a name! </p></div>
+
+<!----------------------------------------- Конец блока для новостей ----------------------------------------------->
+
+		</div>
+	</div>
+</div>
+
+<div id="footer">
+<!------------------------------- Меню ----------------------------->
+
+<div class="nav">
+ <ul>
+	<li class="nav1"><a href="http://www.mspaintadventures.com">MS PAINT ADVENTURES</a></li>
+	<img src="{% static 'img/line.png' %}" align="absmiddle">
+	<li class="nav1"><a href="https://github.com/drequivalent/Homestuck-ru.git">GITHUB</a></li>
+	<img src="{% static 'img/candycorn.gif' %}" align="texttop">
+	<li class="nav2"><a href="#">ЛОГ</a></li>
+	<img src="{% static 'img/line.png' %}" align="absmiddle">
+	<li class="nav2"><a href="#">ПОИСК</a></li>
+	<img src="{% static 'img/candycorn.gif' %}" align="texttop">
+	<li class="nav3"><a href="#">О ПРОЕКТЕ</a></li>
+ </ul>
+</div>
+
+<!------------------------------- Конец меню ----------------------------->
+
+<div class="logo"><a href="http://ru-homestuck.org"></a></div>
+</div>
+</center>
+</body>
+</html>

@@ -1,0 +1,34 @@
+body {
+	background-color: #3f573c;
+}
+
+.logo {
+	background-image: url('green.png');
+}
+
+.nav {
+	background: #395538;
+}
+
+#left {
+	background: #bcd9b0;
+	border-color: #e8f8df;
+}
+
+#news {
+	background: #e8f8df;
+}
+
+
+.nav a {
+	color:#e6f7dd !important;
+}
+
+a {
+	color: #395538 !important;
+}
+
+#page {
+	background: #e8f8df;
+	border-color: #bcd9b0;
+}

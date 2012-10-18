@@ -1,0 +1,168 @@
+*	{
+	margin:0px;
+	padding: 0px;
+	}
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	background-color: #535353;
+	color:#000000;
+	}
+
+ul {
+	list-style-type: none;
+	}
+
+li {
+	display: inline;
+	vertical-align: middle;
+	}
+
+.logo {
+	background-image: url('../img/main.png');
+	width: 950px;
+	height: 70px;
+	}
+
+.nav {
+	font-family: Arial, Helvetica, sans-serif;
+	background: #5a5a5a;
+	font-size: 10px;
+	width: 950px;
+	font-weight:bold;
+	padding-top: 1px;
+	clear: both;
+	}
+
+#staff {
+	width: 950px;
+	}
+
+#left {
+	width: 255px;
+	float: left;
+	background: #c6c6c6;
+	border-style: solid;
+	border-color: #eae5ec;
+	border-width: 7px 7px 7px 0px;
+	}
+
+#right {
+	float: right;
+	}
+
+#content {
+	width: 670px;
+	background: #eeeeee;
+	border-style: solid;
+	border-color: #c6c6c6;
+	border-width: 7px 0px 7px 7px;
+	margin-bottom: 12px;
+	}
+
+#news {
+	width: 647px;
+	background: #eeeeee;
+	padding: 0px 15px 15px 15px;
+	}
+
+.hdr {
+	margin: 10px 0px 10px 0px;
+	clear: both;
+	}
+
+#plist {
+	width: 230px;
+	font-size: 10px;
+	text-align: left;
+	font-weight: 700;
+	margin: 0px 5px 10px 5px;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+
+#page {
+	width: 650px;
+	background: #eeeeee;
+	border-style: solid;
+	border-color: #c6c6c6;
+	border-width: 7px 150px 25px 150px;
+	}
+
+#all {
+	font-size: 17px;
+	text-align: center;
+	font-weight: 700;
+	margin: 0px 5px 10px 5px;
+}
+
+a:hover {
+	color: #551a8b;
+}
+
+a:visited {
+	color: #551a8b;
+}
+
+.nav1 a {
+	color:#ffffff;
+}
+
+.nav2 a {
+	color:#39d5f6;
+}
+
+.nav3 a {
+	color: #ffb529;
+}
+
+.rss {
+	margin: 10px 0px 10px 0px;
+}
+
+/* Свойства элементов контейнера с текущей страницей */
+
+h1 {
+	font-family: courier, monospace;
+	font-size:32px;
+	margin:15px 0px 15px 0px;
+	clear: both;
+	}
+
+#text {
+	font-family: courier, monospace;
+	width: 600px;
+	margin-top: 20px;
+	font-weight:bold;
+	}
+
+#next {
+	font-size: 24px;
+	text-align: left;
+	margin: 15px 0px 0px 25px;
+}
+
+#border {
+	border: 1px dashed gray;
+	width: 600px;
+	padding: 1px;
+	margin-top: 30px;
+}
+
+#border p {
+	text-align: left;
+	font-weight: bold;
+	font-family: courier, monospace;
+	margin: 15px 30px 15px 30px;
+}
+
+#gamemenu {
+	text-align: left;
+	font-size: 10px;
+	margin: 15px 0px 15px 20px;
+}
+
+#gamemenu a {
+	font-weight: bold;
+}
