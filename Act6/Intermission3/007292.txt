@@ -1,0 +1,16 @@
+[A6I3] ==&gt;
+###
+d05c0dca70
+###
+1350620160
+###
+http://ru-homestuck.org/storyfiles/hs2/05389.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">VRISKA: John, come take a look at this.</span>
+<span style="color: #0715cd">JOHN: those are all treasure maps?</span>
+<span style="color: #005682">VRISKA: Sort of! Pro8a8ly not like any maps you've seen.</span>
+<span style="color: #005682">VRISKA: Check it out. This ought to help you understand how frustr8ting this treasure hunt really is.</span>
+###
+007293
+X

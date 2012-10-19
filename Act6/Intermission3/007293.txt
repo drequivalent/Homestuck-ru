@@ -1,0 +1,32 @@
+[A6I3] ==&gt;
+###
+d6a721d791
+###
+1350620465
+###
+http://ru-homestuck.org/storyfiles/hs2/05390.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">VRISKA: John, tell me what you see here.</span>
+<span style="color: #0715cd">JOHN: um...</span>
+<span style="color: #0715cd">JOHN: where?</span>
+<span style="color: #005682">VRISKA: Right here.</span>
+<span style="color: #005682">VRISKA: What is this? This thing I'm holding?</span>
+<span style="color: #0715cd">JOHN: a black piece of paper?</span>
+<span style="color: #005682">VRISKA: No, John.</span>
+<span style="color: #005682">VRISKA: This is 8ULLSHIT is what it is.</span>
+<span style="color: #0715cd">JOHN: oh.</span>
+<span style="color: #0715cd">JOHN: yes, clearly.</span>
+<span style="color: #005682">VRISKA: This is what a map looks like in the furthest ring.</span>
+<span style="color: #005682">VRISKA: This is what ALL maps look like out here.</span>
+<span style="color: #005682">VRISKA: Turns out plotting the relative geographical features of an infinite 8lack expanse of pure void is every 8it as moronic as it sounds. 8ut that didn't stop some ancient eldritch chucklefuck from doing exactly that.</span>
+<span style="color: #005682">VRISKA: For the longest time, this is all we've had to go on when it came to deciphering the clues and figuring out the coordin8tes of the legendary treasure.</span>
+<span style="color: #005682">VRISKA: Do you have any idea how hard it is to pin down the physical location of something out here? Never mind the fact that physical location in the furthest ring is already a mallea8le concept. Just imagine what it's like giving someone directions! What do you tell them?</span>
+<span style="color: #005682">VRISKA: Proceed in a str8 line shaped like a perpetually shifting torus knot until you feel a sense of despair transcending all mortal comprehension, then hang a right at the next octopus?</span>
+<span style="color: #005682">VRISKA: There's nothing static out there. No landmarks, no points of reference. Nothing!</span>
+<span style="color: #005682">VRISKA: If you want to make any headway in this gr8 8ig field of fuckall, SOMEONE has got to start wrecking some shit.</span>
+<span style="color: #0715cd">JOHN: would that someone be you?</span>
+<span style="color: #005682">VRISKA: Haha. I wish I had that kind of firepower. 8ut no.</span>
+###
+007294
+X
