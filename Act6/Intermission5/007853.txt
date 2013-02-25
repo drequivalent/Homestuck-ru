@@ -1,0 +1,45 @@
+[A6I5] ==&gt;
+###
+7ff808ab82
+###
+1361762745
+###
+http://ru-homestuck.org/storyfiles/hs2/05950.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">VRISKA: Nice to see you again, John. It's 8een too long.</span>
+<span style="color: #0715cd">JOHN: yeah...</span>
+<span style="color: #0715cd">JOHN: actually hasn't it been exactly a year?</span>
+<span style="color: #0715cd">JOHN: i think it was my birthday last time we met too, heh.</span>
+<span style="color: #005682">VRISKA: A year for you, may8e. Who even knows how long it's 8een out here, 8ut who cares.</span>
+<span style="color: #005682">VRISKA: The point is, as you can see the plan I descri8ed to you 8efore is in full swing.</span>
+<span style="color: #0715cd">JOHN: you mean the big treasure hunt, with all those black maps?</span>
+<span style="color: #005682">VRISKA: Yes. 8ut they aren't 8lack anymore! Not totally.</span>
+<span style="color: #005682">VRISKA: Everything's gone exactly as I intended. English has taken the 88, hook line and sinker.</span>
+<span style="color: #005682">VRISKA: He's 8een chasing our &quot;extended party&quot; around the ring, 8lowing shit up with his monster 8reath, thus revealing the path to the treasure in the process.</span>
+<span style="color: #005682">VRISKA: I must say, for an evil mastermind, the guy is kind of a dope.</span>
+<span style="color: #005682">VRISKA: Supposedly his every move is a carefully calcul8ted ploy to assure his existence in the first place, yet here he is wrecking the joint like an oaf, unwittingly helping the hero find the weapon that will finally take him down.</span>
+<span style="color: #005682">VRISKA: And we're almost there, too! Although 8y now it's 8ecome em8arrassingly o8vious that the treasure was hidden right around where we started all along.</span>
+<span style="color: #005682">VRISKA: These maps have just 8een leading us all in a 8ig stupid circle!</span>
+<span style="color: #005682">VRISKA: I should have seen it coming. I guess that's my 8ad. In terms of 8onehead moves, that's English: 1, Vriska: 1, so I guess we're even. 8ut may8e we don't have to mention that detail when we document my heroism in the annals of gr8tness.</span>
+<span style="color: #0715cd">JOHN: uh... mention what, exactly?</span>
+<span style="color: #005682">VRISKA: Exactly!</span>
+<span style="color: #005682">VRISKA: Haha, I almost forgot how deceptively quick you are on the uptake, John.</span>
+<span style="color: #a15000">TAVROS: (tHAT'S NOT SO IMPRESSIVE,)</span>
+<span style="color: #a15000">TAVROS: (i WAS CONFUSED BY WHAT YOU WERE SAYING, tOO,)</span>
+<span style="color: #005682">VRISKA: Tavros, if you're going to interrupt, don't mum8le. And even then, don't.</span>
+<span style="color: #005682">VRISKA: Anyway, I really don't mind the fact that these cryptic treasure maps have led us all on a wild honk8ird chase.</span>
+<span style="color: #005682">VRISKA: I've never once complained a8out a good long treasure hunt, and I'm not a8out to start now.</span>
+<span style="color: #005682">VRISKA: 8esides, with the way spacetime works out here, who can say for sure we would 8e a8le to find the treasure at all unless we traced this exact path?</span>
+<span style="color: #005682">VRISKA: No8ody can say that, is who. Least of all English, who as far as I know, can't actually speak so much as issue 8lood curdling roars that cleave the found8tions of reality itself.</span>
+<span style="color: #005682">VRISKA: You're of course welcome to join us on our adventure, for as long as you're asleep.</span>
+<span style="color: #005682">VRISKA: We could use another hand on deck. I'll even give you a rank and title!</span>
+<span style="color: #a15000">TAVROS: yOU GET TO BE LOWER THAN ME,</span>
+<span style="color: #a15000">TAVROS: tHAT'S THE FAIREST RULE,</span>
+<span style="color: #005682">VRISKA: Wrong.</span>
+<span style="color: #005682">VRISKA: Tavros, who's the captain here?</span>
+<span style="color: #005682">VRISKA: Last time I checked, it wasn't Swa88y Nitram, Poopmaster Extraordinaire.</span>
+<span style="color: #a15000">TAVROS: }:(</span>
+###
+007854
+X
