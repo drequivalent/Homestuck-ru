@@ -1,0 +1,19 @@
+[A6I5] ==&gt;
+###
+a59452f761
+###
+1361943600
+###
+http://ru-homestuck.org/storyfiles/hs2/05956.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">ARANEA: Actually John, I'm very glad you 8rought this up.</span>
+<span style="color: #005682">ARANEA: 8ecause I was in the middle of a wonderful story a8out this very su8ject, which you interrupted when you 8oarded our ship.</span>
+<span style="color: #0715cd">JOHN: oh.</span>
+<span style="color: #0715cd">JOHN: sorry.</span>
+<span style="color: #005682">ARANEA: No, that's fine!</span>
+<span style="color: #005682">ARANEA: Really, I'm quite pleased that you did.</span>
+<span style="color: #005682">ARANEA: This way I get to start over from the 8eginning!</span>
+###
+007860
+X
