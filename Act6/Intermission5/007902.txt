@@ -1,0 +1,22 @@
+[A6I5] ==&gt;
+###
+544c464892
+###
+1363401314
+###
+http://ru-homestuck.org/storyfiles/hs2/05999.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">ARANEA: It meant that he would only have to conquer twelve planets instead.</span>
+<span style="color: #005682">ARANEA: This 8it of good fortune could very well have 8een the difference which allowed him to overcome a nearly impossi8le challenge.</span>
+<span style="color: #005682">ARANEA: His task was to destroy all of these planets in order, each within a time allowance that gets shorter with every planet.</span>
+<span style="color: #005682">ARANEA: To destroy a planet, first it must 8e conquered.</span>
+<span style="color: #005682">ARANEA: He would have to overcome all forces of resistance on the planet, and ultim8tely defeat whatever powerful underling ruled there.</span>
+<span style="color: #005682">ARANEA: Then, much like he did to unlock the quest in the first place, he would have to travel to the planet's core.</span>
+<span style="color: #005682">ARANEA: There he would retrieve a 8om8, and return to the surface.</span>
+<span style="color: #005682">ARANEA: If he did not accomplish this in time, the 8om8 would deton8 in the core, and the game would 8e lost automatically.</span>
+<span style="color: #005682">ARANEA: The 8om8 is not powerful enough to destroy the planet alone.</span>
+<span style="color: #005682">ARANEA: In fact, its purpose is not to damage the planet at all, 8ut to move it.</span>
+###
+007903
+X
