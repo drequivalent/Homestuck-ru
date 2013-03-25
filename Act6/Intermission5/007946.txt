@@ -1,0 +1,12 @@
+[A6I5] ==&gt;
+###
+8256e91442
+###
+1364204101
+###
+F|http://ru-homestuck.org/storyfiles/hs2/06043
+###
+|DIALOGLOG|
+<span style="color: #a1a100">SOLLUX: LADIES.</span>
+###
+X
