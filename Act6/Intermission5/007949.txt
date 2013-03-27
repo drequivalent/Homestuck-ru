@@ -1,0 +1,28 @@
+[A6I5] ==&gt;
+###
+95070b3820
+###
+1364353362
+###
+http://ru-homestuck.org/storyfiles/hs2/06046.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: vriska, i have to be honest. years ago when we first talked, it was a lot of fun to get to know you.</span>
+<span style="color: #0715cd">JOHN: and i admit i thought about you a lot since then.</span>
+<span style="color: #0715cd">JOHN: but i guess i never quite realized how little i actually understood you.</span>
+<span style="color: #0715cd">JOHN: during this crazy treasure quest, i tried to reserve judgment, like maybe it was just a troll thing i didn't get.</span>
+<span style="color: #0715cd">JOHN: but seeing how those other guys felt about it, i think it's more complicated than that.</span>
+<span style="color: #0715cd">JOHN: obviously not all trolls are like you.</span>
+<span style="color: #0715cd">JOHN: and i know i'm not.</span>
+<span style="color: #0715cd">JOHN: maybe this was all for a good cause, but it still felt like a pretty fucked up way to go about it.</span>
+<span style="color: #0715cd">JOHN: and...</span>
+<span style="color: #0715cd">JOHN: all i'm saying is, i'm ready to go. i've seen enough, and i miss my friends.</span>
+<span style="color: #0715cd">JOHN: i'll think about what to do with the ring, but honestly...</span>
+<span style="color: #005682">VRISKA: Honestly <span style="font-style: italic">what?</span></span>
+<span style="color: #0715cd">JOHN: again, i am just keeping it real!</span>
+<span style="color: #0715cd">JOHN: but if i am really thinking hard about who i should bring back to life...</span>
+<span style="color: #0715cd">JOHN: i dunno if my conscience can justify bringing back someone so...</span>
+<span style="color: #0715cd">JOHN: dangerous.</span>
+###
+007950
+X

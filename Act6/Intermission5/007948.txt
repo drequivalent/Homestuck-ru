@@ -1,0 +1,41 @@
+[A6I5] ==&gt;
+###
+1f316331f8
+###
+1364353234
+###
+http://ru-homestuck.org/storyfiles/hs2/06045.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">VRISKA: May8e?</span>
+<span style="color: #0715cd">JOHN: i'll think about it.</span>
+<span style="color: #005682">VRISKA: You'll THINK a8out it??</span>
+<span style="color: #0715cd">JOHN: well, yeah.</span>
+<span style="color: #0715cd">JOHN: it sounds like an important item, so deciding what to do with it is kind of a big responsibility.</span>
+<span style="color: #0715cd">JOHN: it's supposed to bring ghosts back to life, but we don't know how it works.</span>
+<span style="color: #0715cd">JOHN: what if it only keeps you alive as long as you're wearing it?</span>
+<span style="color: #0715cd">JOHN: that would mean only one ghost could come back.</span>
+<span style="color: #005682">VRISKA: Right! All the 8etter reason to let me use it!</span>
+<span style="color: #0715cd">JOHN: but there are a lot of ghosts!</span>
+<span style="color: #0715cd">JOHN: i'm just not sure what to do yet.</span>
+<span style="color: #005682">VRISKA: W8. You're not ACTUALLY thinking of giving it to someone else, are you?</span>
+<span style="color: #005682">VRISKA: That's my ring! The orange guy gave it to ME!</span>
+<span style="color: #0715cd">JOHN: yeah, well frankly, i don't give a shit about the orange guy!</span>
+<span style="color: #0715cd">JOHN: the ring is mine for now, so i'm the one who has to figure out what to do with it.</span>
+<span style="color: #0715cd">JOHN: speaking of waking up, it's probably time i got going too.</span>
+<span style="color: #0715cd">JOHN: i'm not trying to join the mutiny or anything, but i do have friends waiting for me out there.</span>
+<span style="color: #005682">VRISKA: John, w8!</span>
+<span style="color: #005682">VRISKA: I hope we're not parting on 8ad terms here.</span>
+<span style="color: #005682">VRISKA: You aren't holding all this treasure hunting shit against me like Tavros is, right?</span>
+<span style="color: #005682">VRISKA: We're still cool, right John?</span>
+<span style="color: #0715cd">JOHN: uh...</span>
+<span style="color: #005682">VRISKA: If you have to leave, I get that, 8ut I really want us to stay friends!</span>
+<span style="color: #005682">VRISKA: I always felt like we had a special 8ond, John. Like we're 8oth always in the position of having to take charge as leaders, even if we never asked for that responsi8ility.</span>
+<span style="color: #005682">VRISKA: And I don't wanna pressure you into anything, 8ut I would really appreci8 it if you'd at least think a8out me next time you take a nap with that ring on!</span>
+<span style="color: #0715cd">JOHN: it's fine. we can stay friends.</span>
+<span style="color: #0715cd">JOHN: i don't really like to make enemies with people, even if they're...</span>
+<span style="color: #005682">VRISKA: Even if they're what?</span>
+<span style="color: #0715cd">JOHN: umm.</span>
+###
+007949
+X
