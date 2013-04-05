@@ -1,0 +1,20 @@
+[A6I5] ==&gt;
+###
+e8a02bb949
+###
+1365193023
+###
+http://ru-homestuck.org/storyfiles/hs2/06089.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: ok, i'm not sure what that crazy outburst was about.</span>
+<span style="color: #0715cd">JOHN: i think i'll just let that one go.</span>
+<span style="color: #0715cd">JOHN: but you say this little house thing is intangible?</span>
+<span style="color: #005682">VRISKA: Yes.</span>
+<span style="color: #0715cd">JOHN: so i can't touch it?</span>
+<span style="color: #005682">VRISKA: Yeah, I'm pretty sure that's what intangi8le means!</span>
+<span style="color: #0715cd">JOHN: what happens if i try?</span>
+<span style="color: #005682">VRISKA: I dunno if I would do that if I were you.</span>
+###
+007993
+X
