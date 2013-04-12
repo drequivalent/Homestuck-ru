@@ -1,0 +1,26 @@
+[A6I5] ==&gt;
+###
+67b5eb8d0e
+###
+1365750676
+###
+http://ru-homestuck.org/storyfiles/hs2/06221.gif
+###
+|DIALOGLOG|
+<span style="color: #e00707">DAVE: so</span>
+<span style="color: #e00707">DAVE: has anyone figured out how were actually gonna stop this meteor</span>
+<span style="color: #e00707">DAVE: or was three years not enough time to solve that problem</span>
+<span style="color: #626262">KARKAT: NO, WE HAVEN'T.</span>
+<span style="color: #626262">KARKAT: OH MY GOD.</span>
+<span style="color: #626262">KARKAT: WE'RE STILL TRAVELING AT THE SPEED OF LIGHT, AND WE ONLY SEEM TO BE PICKING UP STEAM!</span>
+<span style="color: #e00707">DAVE: i dont think thats possible dude</span>
+<span style="color: #e00707">DAVE: in fact im not sure we were ever traveling at light speed</span>
+<span style="color: #e00707">DAVE: i think maybe theres been some bogus science in circulation that we been chumped into gettin behind</span>
+<span style="color: #626262">KARKAT: WHAT?</span>
+<span style="color: #e00707">DAVE: just saying</span>
+<span style="color: #626262">KARKAT: NO.</span>
+<span style="color: #626262">KARKAT: *I'M* JUST SAYING.</span>
+<span style="color: #626262">KARKAT: WE CAME ALL THIS WAY, AND WE'RE ALL GOING TO DIE!!!</span>
+###
+008125
+X
