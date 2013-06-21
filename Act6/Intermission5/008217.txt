@@ -1,0 +1,14 @@
+[A6A6I1] ====&gt;
+###
+2134e484ea
+###
+1371775582
+###
+S|http://www.mspaintadventures.com/storyfiles/hs2/06315
+###
+|DIALOGLOG|
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">hello dave</span>
+<span style="color: #e00707">DAVE: god dammit</span>
+###
+008218
+X
