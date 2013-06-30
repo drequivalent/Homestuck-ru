@@ -1,0 +1,25 @@
+[A6A6I1] ====&gt;
+###
+61f6771e75
+###
+1372622929
+###
+http://ru-homestuck.org/storyfiles/hs2/06327.gif
+###
+|DIALOGLOG|
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">you dont?</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">i thought it was common knowledge</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">when you cast healing magic on a zombie or dracula they die!</span>
+<span style="color: #008141">KANAYA: How Do You Figure</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">i dont know...</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">isnt that how it works in stories and games and such</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">seems pretty logical to me</span>
+<span style="color: #008141">KANAYA: I Think You Are Presuming To Know A Lot About My Nature Which Is Not Actually True</span>
+<span style="color: #008141">KANAYA: It Sounds As Though Youre Suggesting That I Have Qualities Similar To Certain Types Of Shadow Droppers Which Is Not Quite The Case But Even If It Was There Are A Lot Of Myths About Shadow Dropper Physiology That Are Commonly Perpetuated By Popular...</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">SIIIGH</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">i can see a demonstration will be in order</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">jane</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">if you would be so kind</span>
+###
+008230
+X
