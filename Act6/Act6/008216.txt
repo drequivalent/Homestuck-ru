@@ -1,0 +1,16 @@
+[A6A6I1] ====&gt;
+###
+732210227b
+###
+1371775526
+###
+S|http://www.mspaintadventures.com/storyfiles/hs2/06314
+###
+|DIALOGLOG|
+<span style="color: #e00707">DAVE: no dont</span>
+<span style="color: #e00707">DAVE: john no stop turning into wind you fickle idiot</span>
+<span style="color: #e00707">DAVE: dont just leave right away that is such an insanely predictable move</span>
+<span style="color: #e00707">DAVE: i said get back here you slippery motherfucker!!!</span>
+###
+008217
+X

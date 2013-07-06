@@ -1,0 +1,37 @@
+[A6A6I1] ====&gt;
+###
+f0a606f4bc
+###
+1371775178
+###
+http://ru-homestuck.org/storyfiles/hs2/06313.gif
+###
+|DIALOGLOG|
+<span style="color: #e00707">DAVE: whoa</span>
+<span style="color: #e00707">DAVE: john</span>
+<span style="color: #0715cd">JOHN: what were you looking at there...</span>
+<span style="color: #0715cd">JOHN: hey, are you crying?</span>
+<span style="color: #e00707">DAVE: what</span>
+<span style="color: #e00707">DAVE: no</span>
+<span style="color: #0715cd">JOHN: ...</span>
+<span style="color: #e00707">DAVE: i mean i was just laughing too hard at something dumb</span>
+<span style="color: #e00707">DAVE: you know how it is</span>
+<span style="color: #0715cd">JOHN: heh, yeah.</span>
+<span style="color: #0715cd">JOHN: can i see?</span>
+<span style="color: #e00707">DAVE: no its nothing</span>
+<span style="color: #e00707">DAVE: where the fuck have you been</span>
+<span style="color: #e00707">DAVE: do you remember what happened since we got here</span>
+<span style="color: #0715cd">JOHN: yes.</span>
+<span style="color: #e00707">DAVE: well</span>
+<span style="color: #e00707">DAVE: are you gonna fill me in or keep floating there in the most uninformative way possible</span>
+<span style="color: #0715cd">JOHN: uh oh.</span>
+<span style="color: #0715cd">JOHN: dave, i have to go!</span>
+<span style="color: #e00707">DAVE: what</span>
+<span style="color: #e00707">DAVE: why</span>
+<span style="color: #0715cd">JOHN: i can't hang around in once place for too long.</span>
+<span style="color: #0715cd">JOHN: let's catch up later, ok?</span>
+<span style="color: #e00707">DAVE: john wait</span>
+<span style="color: #0715cd">JOHN: see you buddy!</span>
+###
+008216
+X
