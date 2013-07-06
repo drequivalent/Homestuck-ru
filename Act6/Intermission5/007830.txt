@@ -10,14 +10,14 @@ http://ru-homestuck.org/storyfiles/hs2/05927.gif
 <span style="color: #626262">КАРКАТ: ОТВЕЧАЙ, МУДЕНЬ.</span>
 <span style="color: #626262">КАРКАТ: НЕ ДЕЛАЙ ВИД, ЧТО ТЫ СЛИШКОМ ЗАНЯТ, ТЕБЕ МЕНЯ НЕ НАЕБАТЬ.</span>
 <span style="color: #626262">КАРКАТ: ТЫ, НАВЕРНОЕ, НА ЭТОМ МЕТЕОРЕ ЕДИНСТВЕННЫЙ, WHO'S GOT EVEN LESS ON HIS NUTRITION PLATEAU THAN ME.</span>
-<span style="color: #626262">КАРКАТ: EVEN THE MAYOR HAS A MORE DEMANDING SCHEDULE THAN WE DO, LET'S FACE THE FUCKING FACTS.</span>
-<span style="color: #626262">КАРКАТ: WHAT. DID YOU THINK CAN TOWN RUNS ITSELF??</span>
-<span style="color: #626262">КАРКАТ: FAT CHANCE.</span>
-<span style="color: #626262">КАРКАТ: DAVE.</span>
-<span style="color: #626262">КАРКАТ: GOD DAMN IT DAVE.</span>
-<span style="color: #626262">КАРКАТ: I HAVE A PROBLEM.</span>
-<span style="color: #626262">КАРКАТ: NO.</span>
-<span style="color: #626262">КАРКАТ: *WE* HAVE A PROBLEM.</span>
+<span style="color: #626262">КАРКАТ: ДАЖЕ У МЭРА БОЛЕЕ НАПРЯЖЕННЫЙ ГРАФИК, ПОСМОТРИМ ПРАВДЕ, БЛЯТЬ, В ГЛАЗА.</span>
+<span style="color: #626262">КАРКАТ: ТЫ ЧТО ДУМАЛ, КОНСЕРВНЫЙ ГОРОД САМ СОБОЙ УПРАВЛЯЕТСЯ??</span>
+<span style="color: #626262">КАРКАТ: КАК БЫ НЕ ТАК.</span>
+<span style="color: #626262">КАРКАТ: ДЕЙВ.</span>
+<span style="color: #626262">КАРКАТ: ЧЕРТ БЫ ПОДРАЛ, ДЕЙВ.</span>
+<span style="color: #626262">КАРКАТ: У МЕНЯ ПРОБЛЕМА.</span>
+<span style="color: #626262">КАРКАТ: НЕТ.</span>
+<span style="color: #626262">КАРКАТ: У *НАС* ПРОБЛЕМА.</span>
 ###
 007831
 X
