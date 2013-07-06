@@ -8,7 +8,7 @@ http://ru-homestuck.org/storyfiles/hs2/05924_1.gif
 http://ru-homestuck.org/storyfiles/hs2/05924_2.gif
 ###
 |DIALOGLOG|
-<span style="color: #626262">KARKAT: DAVE ARE YOU THERE</span>
+<span style="color: #626262">КАРКАТ: ДЕЙВ, ТЫ ЗДЕСЬ?</span>
 ###
 007828
 X

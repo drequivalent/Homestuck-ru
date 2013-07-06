@@ -7,7 +7,7 @@ fc2f693ef2
 http://ru-homestuck.org/storyfiles/hs2/05925.gif
 ###
 |DIALOGLOG|
-<span style="color: #626262">KARKAT: COME IN DAVE.</span>
+<span style="color: #626262">КАРКАТ: ОТВЕТЬ, ДЕЙВ.</span>
 ###
 007829
 X
