@@ -7,25 +7,25 @@
 http://ru-homestuck.org/storyfiles/hs2/06049.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">VRISKA: The treasure's down there.</span>
-<span style="color: #005682">VRISKA: If my guess is right, it should 8e 8uried in one of his ancient memories.</span>
-<span style="color: #005682">VRISKA: 8y now we've all 8een wind8agged to hell and 8ack 8y my dear ancestor.</span>
-<span style="color: #005682">VRISKA: So I'll trust no8ody's gonna mind indulging one of MY stories.</span>
-<span style="color: #005682">VRISKA: There was a pretty good yarn a8out this treasure I read once during our travels.</span>
-<span style="color: #005682">VRISKA: Found it in some damn memory, who knows whose.</span>
-<span style="color: #005682">VRISKA: It was a good read. IMPECCA8LE prose. Failing to do it justice would be the real matter of gray morality here, if you ask me.</span>
-<span style="color: #005682">VRISKA: 8ut right now I 8n't in the mood to figure out how not to make it fucking suck.</span>
-<span style="color: #005682">VRISKA: So I'll just say this.</span>
-<span style="color: #005682">VRISKA: It was supposedly a weapon that once 8elonged to him.</span>
-<span style="color: #005682">VRISKA: 8ut he could never use it without altering its nature.</span>
-<span style="color: #005682">VRISKA: Meaning he could only use it once.</span>
-<span style="color: #005682">VRISKA: So he did.</span>
-<span style="color: #005682">VRISKA: After that, it could only 8e used again one more time.</span>
-<span style="color: #005682">VRISKA: And only as a weapon against him.</span>
-<span style="color: #005682">VRISKA: Knowing it was one of the keys to his defeat, he had it locked away deep in the void.</span>
-<span style="color: #005682">VRISKA: That's it. Part one of my story. Hold your applause.</span>
-<span style="color: #005682">VRISKA: Guess we'll find out if that's true.</span>
-<span style="color: #005682">VRISKA: Or if it turns out all my despica8le shit was in vain.</span>
+<span style="color: #005682">ВРИСКА: The treasure's down there.</span>
+<span style="color: #005682">ВРИСКА: If my guess is right, it should 8e 8uried in one of his ancient memories.</span>
+<span style="color: #005682">ВРИСКА: 8y now we've all 8een wind8agged to hell and 8ack 8y my dear ancestor.</span>
+<span style="color: #005682">ВРИСКА: So I'll trust no8ody's gonna mind indulging one of MY stories.</span>
+<span style="color: #005682">ВРИСКА: There was a pretty good yarn a8out this treasure I read once during our travels.</span>
+<span style="color: #005682">ВРИСКА: Found it in some damn memory, who knows whose.</span>
+<span style="color: #005682">ВРИСКА: It was a good read. IMPECCA8LE prose. Failing to do it justice would be the real matter of gray morality here, if you ask me.</span>
+<span style="color: #005682">ВРИСКА: 8ut right now I 8n't in the mood to figure out how not to make it fucking suck.</span>
+<span style="color: #005682">ВРИСКА: So I'll just say this.</span>
+<span style="color: #005682">ВРИСКА: It was supposedly a weapon that once 8elonged to him.</span>
+<span style="color: #005682">ВРИСКА: 8ut he could never use it without altering its nature.</span>
+<span style="color: #005682">ВРИСКА: Meaning he could only use it once.</span>
+<span style="color: #005682">ВРИСКА: So he did.</span>
+<span style="color: #005682">ВРИСКА: After that, it could only 8e used again one more time.</span>
+<span style="color: #005682">ВРИСКА: And only as a weapon against him.</span>
+<span style="color: #005682">ВРИСКА: Knowing it was one of the keys to his defeat, he had it locked away deep in the void.</span>
+<span style="color: #005682">ВРИСКА: That's it. Part one of my story. Hold your applause.</span>
+<span style="color: #005682">ВРИСКА: Guess we'll find out if that's true.</span>
+<span style="color: #005682">ВРИСКА: Or if it turns out all my despica8le shit was in vain.</span>
 ###
 007953
 X

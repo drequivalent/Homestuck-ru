@@ -7,6 +7,6 @@
 http://ru-homestuck.org/storyfiles/hs2/06207.gif
 ###
 |DIALOGLOG|
-<span style="color: #0715cd">JOHN: we're here?</span>
+<span style="color: #0715cd">ДЖОН: we're here?</span>
 ###
 X

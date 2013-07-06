@@ -7,7 +7,7 @@ f4cbb54ee0
 http://ru-homestuck.org/storyfiles/hs2/06212.gif
 ###
 |DIALOGLOG|
-<span style="color: #0715cd">JOHN: where IS everyone?</span>
+<span style="color: #0715cd">ДЖОН: where IS everyone?</span>
 ###
 008116
 X

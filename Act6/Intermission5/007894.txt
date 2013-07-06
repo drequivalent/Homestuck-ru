@@ -7,11 +7,11 @@
 http://ru-homestuck.org/storyfiles/hs2/05991.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">ARANEA: He entered what is called a dead session.</span>
-<span style="color: #005682">ARANEA: This qualifies as 8oth a null and void session, 8ut is even less than either of those. Compared to a typical session, it is almost unrecogniza8le.</span>
-<span style="color: #005682">ARANEA: 8efore the game 8egins, Skaia is 8lotted out with a dark layer of clouds. Its light is extinguished for good.</span>
-<span style="color: #005682">ARANEA: There is no planet w8ting for the player in the medium.</span>
-<span style="color: #005682">ARANEA: So instead, he 8rought it with him.</span>
+<span style="color: #005682">АРАНЕЯ: He entered what is called a dead session.</span>
+<span style="color: #005682">АРАНЕЯ: This qualifies as 8oth a null and void session, 8ut is even less than either of those. Compared to a typical session, it is almost unrecogniza8le.</span>
+<span style="color: #005682">АРАНЕЯ: 8efore the game 8egins, Skaia is 8lotted out with a dark layer of clouds. Its light is extinguished for good.</span>
+<span style="color: #005682">АРАНЕЯ: There is no planet w8ting for the player in the medium.</span>
+<span style="color: #005682">АРАНЕЯ: So instead, he 8rought it with him.</span>
 ###
 007895
 X

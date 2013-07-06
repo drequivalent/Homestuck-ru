@@ -7,23 +7,23 @@
 http://ru-homestuck.org/storyfiles/hs2/06005.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">ARANEA: Hmm.</span>
-<span style="color: #005682">ARANEA: You really liked it that much, Vriska?</span>
-<span style="color: #005682">VRISKA: Hell yeah!</span>
-<span style="color: #005682">VRISKA: Oh my god. That leprechaun stuff? Soooooooo good.</span>
-<span style="color: #005682">VRISKA: Right guys?</span>
-<span style="color: #005682">ARANEA: Wow. Well, I would 8e happy to continue then, if you-</span>
-<span style="color: #005682">VRISKA: Mindfang, have I told you how gr8 it's 8een to get to know each other, and team up on adventures and stuff?</span>
-<span style="color: #005682">VRISKA: I really feel like you've helped me get in touch with my ancestral roots. Mainly as a kickass storyteller.</span>
-<span style="color: #005682">VRISKA: It was like this whole part of my personality I was never aware of. Like the part that's compelled to just outright explain tons of really interesting things to people, while sparing no detail whatsoever.</span>
-<span style="color: #005682">VRISKA: It's made me feel a lot closer to understanding my aspect, as well as closer to you. So I just wanted to say, thanks!</span>
-<span style="color: #005682">ARANEA: Aw, you're welcome!</span>
-<span style="color: #005682">ARANEA: I feel the exact same way a8out my time with you.</span>
-<span style="color: #005682">ARANEA: You have really helped me get in touch with the true pir8 within. I saw in you the adventurous spirit I always wished I could 8e.</span>
-<span style="color: #005682">ARANEA: You helped me finally understand the virtue in rationalizing questiona8le decisions, and 8ehaving unscrupulously for the gr8ter good!</span>
-<span style="color: #005682">VRISKA: Haha, stop! You're going to make me start tearing up.</span>
-<span style="color: #005682">VRISKA: Get over here and give me a hug, alpha sister.</span>
-<span style="color: #005682">ARANEA: ::::)</span>
+<span style="color: #005682">АРАНЕЯ: Hmm.</span>
+<span style="color: #005682">АРАНЕЯ: You really liked it that much, Vriska?</span>
+<span style="color: #005682">ВРИСКА: Hell yeah!</span>
+<span style="color: #005682">ВРИСКА: Oh my god. That leprechaun stuff? Soooooooo good.</span>
+<span style="color: #005682">ВРИСКА: Right guys?</span>
+<span style="color: #005682">АРАНЕЯ: Wow. Well, I would 8e happy to continue then, if you-</span>
+<span style="color: #005682">ВРИСКА: Mindfang, have I told you how gr8 it's 8een to get to know each other, and team up on adventures and stuff?</span>
+<span style="color: #005682">ВРИСКА: I really feel like you've helped me get in touch with my ancestral roots. Mainly as a kickass storyteller.</span>
+<span style="color: #005682">ВРИСКА: It was like this whole part of my personality I was never aware of. Like the part that's compelled to just outright explain tons of really interesting things to people, while sparing no detail whatsoever.</span>
+<span style="color: #005682">ВРИСКА: It's made me feel a lot closer to understanding my aspect, as well as closer to you. So I just wanted to say, thanks!</span>
+<span style="color: #005682">АРАНЕЯ: Aw, you're welcome!</span>
+<span style="color: #005682">АРАНЕЯ: I feel the exact same way a8out my time with you.</span>
+<span style="color: #005682">АРАНЕЯ: You have really helped me get in touch with the true pir8 within. I saw in you the adventurous spirit I always wished I could 8e.</span>
+<span style="color: #005682">АРАНЕЯ: You helped me finally understand the virtue in rationalizing questiona8le decisions, and 8ehaving unscrupulously for the gr8ter good!</span>
+<span style="color: #005682">ВРИСКА: Haha, stop! You're going to make me start tearing up.</span>
+<span style="color: #005682">ВРИСКА: Get over here and give me a hug, alpha sister.</span>
+<span style="color: #005682">АРАНЕЯ: ::::)</span>
 ###
 007909
 X

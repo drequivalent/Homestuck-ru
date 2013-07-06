@@ -7,36 +7,36 @@
 http://ru-homestuck.org/storyfiles/hs2/05933.gif
 ###
 |DIALOGLOG|
-<span style="color: #626262">KARKAT: WELL, WHENEVER SHE WAKES UP, WE ALL NEED TO HAVE A SERIOUS TALK ABOUT THIS.</span>
-<span style="color: #626262">KARKAT: IF SHE'S IN THIS CONDITION WHEN GET TO THE NEW SESSION, IT'LL BE A GODDAMN EMBARRASSMENT.</span>
-<span style="color: #626262">KARKAT: NOT TO MENTION DEADLY! NEED I REMIND YOU WHO'S STILL FOLLOWING US? SHE DOESN'T LOOK PRIMED FOR BATTLE FROM WHERE I'M STANDING!</span>
-<span style="color: #626262">KARKAT: WE NEED TO ACT AS A UNIFIED FRONT, DAVE. WE NEED TO LET HER KNOW THAT AS HER FRIENDS WE CAN'T STAND BY AND WATCH HER DEGRADE HERSELF LIKE THIS.</span>
-<span style="color: #e00707">DAVE: man i dunno</span>
-<span style="color: #e00707">DAVE: sounds like you wanna make this needlessly melodramatic</span>
-<span style="color: #626262">KARKAT: STAND BY. I'M PUTTING YOU ON SPEAKER CRAB.</span>
-<span style="color: #e00707">DAVE: speaker crab</span>
-<span style="color: #626262">KARKAT: YES. SPEAKER CRAB.</span>
-<span style="color: #e00707">DAVE: man dont put me on speaker crab</span>
-<span style="color: #626262">KARKAT: SHE NEEDS TO HEAR FROM YOU DAVE. SHE TRUSTS YOU.</span>
-<span style="color: #e00707">DAVE: god</span>
-<span style="color: #e00707">DAVE: honestly she can do whatever she wants i put this all behind me a while ago</span>
-<span style="color: #e00707">DAVE: why do you really want me in on this conversation is it just that you dont know what to say by yourself</span>
-<span style="color: #626262">KARKAT: MAYBE IT IS DAVE!</span>
-<span style="color: #626262">KARKAT: MAYBE THAT'S EXACTLY WHAT IT FUCKING IS.</span>
-<span style="color: #626262">KARKAT: I'M SORRY. I'M NOT A &quot;GOD TIER&quot;.</span>
-<span style="color: #626262">KARKAT: I AM NOT SO FORTUNATE AS TO BE BLESSED WITH THE &quot;GIFT OF GAB&quot; LIKE YOU.</span>
-<span style="color: #e00707">DAVE: what</span>
-<span style="color: #626262">KARKAT: THAT BADGE YOU EARNED. YOU KNOW, THE ONE THAT MAKES IT EASIER TO TALK TO PEOPLE?</span>
-<span style="color: #626262">KARKAT: LIKE, REALLY OPEN UP ABOUT YOUR FEELINGS AND SAY WHATEVER NEEDS TO BE SAID?</span>
-<span style="color: #e00707">DAVE: hahaha thats what you think that does?</span>
-<span style="color: #626262">KARKAT: ISN'T IT??</span>
-<span style="color: #e00707">DAVE: no dude thats not what gift of gab does</span>
-<span style="color: #626262">KARKAT: OK WHAT DOES IT DO THEN WISE GUY!</span>
-<span style="color: #e00707">DAVE: its utility isnt really comprehensible to lowly mortals sorry</span>
-<span style="color: #626262">KARKAT: YOU SNIDE CHUTE HUFFER.</span>
-<span style="color: #626262">KARKAT: WHY DON'T YOU COME UP HERE SO I CAN PUSH YOU OFF THIS BUILDING?</span>
-<span style="color: #e00707">DAVE: nah</span>
-<span style="color: #626262">KARKAT: I'M PUTTING YOU ON SPEAKER CRAB, AND THEN TOGETHER WE ARE GOING TO KEEP IT *REAL AS SHIT*, DO YOU HEAR ME?</span>
+<span style="color: #626262">КАРКАТ: НУ, КОГДА БЫ ОНА НЕ ПРОСНУЛАСЬ, НАМ НАДО БУДЕТ ОБ ЭТОМ СЕРЬЕЗНО ПОГОВОРИТЬ.</span>
+<span style="color: #626262">КАРКАТ: ЕСЛИ ОНА ОСТАНЕТСЯ В ТАКОМ СОСТОЯНИИ К ТОМУ МОМЕНТУ, КАК МЫ ПРИБУДЕМ В НОВУЮ СЕССИЮ, ЭТО БУДЕТ ЕБАННЫЙ СТЫД.</span>
+<span style="color: #626262">КАРКАТ: СМЕРТЕЛЬНЫЙ, К ТОМУ ЖЕ! МНЕ НАПОМНИТЬ ТЕБЕ, КТО ВСЕ ЕЩЕ СЛЕДУЕТ ЗА НАМИ ПО ПЯТАМ? ПО-МОЕМУ, ОНА НЕ ОЧЕНЬ-ТО ГОТОВА К СРАЖЕНИЮ!</span>
+<span style="color: #626262">КАРКАТ: НАМ НУЖНО ВЫСТУПИТЬ ЕДИНЫМ ФРОНТОМ, ДЕЙВ. НАМ НУЖНО ДОВЕСТИ ДО ЕЕ СВЕДЕНИЯ, ЧТО КАК ЕЕ ДРУЗЬЯ МЫ НЕ МОЖЕМ СТОЯТЬ СЛОЖА РУКИ И СМОТРЕТЬ, КАК ОНА РАЗЛАГАЕТСЯ.</span>
+<span style="color: #e00707">ДЕЙВ: чувак не знаю</span>
+<span style="color: #e00707">ДЕЙВ: по-моему ты излишне драматизируешь</span>
+<span style="color: #626262">КАРКАТ: ПОДОЖДИ, Я ПЕРЕКЛЮЧАЮ ТЕБЯ НА КРАБОФОН.</span>
+<span style="color: #e00707">ДЕЙВ: крабофон</span>
+<span style="color: #626262">КАРКАТ: ДА. КРАБОФОН.</span>
+<span style="color: #e00707">ДЕЙВ: чувак не надо меня на крабофон</span>
+<span style="color: #626262">КАРКАТ: ЕЙ НАДО ВЫСЛУШАТЬ ТЕБЯ, ДЕЙВ. ОНА ТЕБЕ ДОВЕРЯЕТ.</span>
+<span style="color: #e00707">ДЕЙВ: боже</span>
+<span style="color: #e00707">ДЕЙВ: честно говоря она может делать что хочет я все это оставил позади довольно давно</span>
+<span style="color: #e00707">ДЕЙВ: зачем ты меня в этот разговор впутываешь тебе что самому сказать нечего</span>
+<span style="color: #626262">КАРКАТ: МОЖЕТ БЫТЬ И ТАК, ДЕЙВ!</span>
+<span style="color: #626262">КАРКАТ: МОЖЕТ БЫТЬ, ЭТО, БЛЯТЬ, В ТОЧНОСТИ ТАК И ЕСТЬ.</span>
+<span style="color: #626262">КАРКАТ: ПРОСТИТЕ, Я НЕ НА &quot;БОЖЕСТВЕННОМ УРОВНЕ&quot;.</span>
+<span style="color: #626262">КАРКАТ: Я НЕ НАСТОЛЬКО ВЕЗУЧ, ЧТОБЫ БЫТЬ ВОЗНАГРАЖДЕННЫМ &quot;ДАРОМ БОЛТОВНИ&quot; КАК ТЫ.</span>
+<span style="color: #e00707">ДЕЙВ: что</span>
+<span style="color: #626262">КАРКАТ: ТОТ ЗНАЧОК, ЧТО ТЫ ПОЛУЧИЛ. НУ ЗНАЕШЬ, КОТОРЫЙ УПРОЩАЕТ РАЗГОВОРЫ С ЛЮДЬМИ?</span>
+<span style="color: #626262">КАРКАТ: ТИПА, ПОЗВОЛЯЕТ РАСКРЫТЬ ДУШУ И НАЙТИ НУЖНЫЕ СЛОВА?</span>
+<span style="color: #e00707">ДЕЙВ: хахаха ты думаешь он так работает?</span>
+<span style="color: #626262">КАРКАТ: А ЧТО, НЕТ??</span>
+<span style="color: #e00707">ДЕЙВ: не чувак это не то как работает дар болтовни</span>
+<span style="color: #626262">КАРКАТ: ОК, ТОГДА ЧТО ОН ДЕЛАЕТ, УМНИК?</span>
+<span style="color: #e00707">ДЕЙВ: его предназначение простым смертным не понять извини</span>
+<span style="color: #626262">КАРКАТ: УГЛЮДОК ТЫ СИРАНЫЙ.</span>
+<span style="color: #626262">КАРКАТ: ПОЧЕМУ БЫ ТЕБЕ НЕ ПОДНЯТЬСЯ СЮДА, ЧТОБЫ Я ТЕБЯ ОТСЮДА ВИНЗ СПИХНУЛ?</span>
+<span style="color: #e00707">ДЕЙВ: нах</span>
+<span style="color: #626262">КАРКАТ: Я ПЕРЕКЛЮЧАЮ ТЕБЯ НА КРАБОФОН, И ВМЕСТЕ МЫ ДОЛЖНЫ БЫТЬ *ОХУЕННЫ ПРЯМ ПИЗДЕЦ*, УЛАВЛИВАЕШЬ?</span>
 ###
 007837
 X

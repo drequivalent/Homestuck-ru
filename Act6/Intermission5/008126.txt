@@ -7,30 +7,30 @@
 http://ru-homestuck.org/storyfiles/hs2/06223.gif
 ###
 |DIALOGLOG|
-<span style="color: #e00707">DAVE: dude did you just bark</span>
-<span style="color: #626262">KARKAT: WHAT? NO I DIDN'T BARK.</span>
-<span style="color: #626262">KARKAT: I THOUGHT THAT WAS YOU.</span>
-<span style="color: #e00707">DAVE: why would i bark</span>
-<span style="color: #626262">KARKAT: <span style="font-style: italic">WELL WHY THE FUCK WOULD I BARK???</span></span>
-<span style="color: #e00707">DAVE: because youre having a mental breakdown</span>
-<span style="color: #626262">KARKAT: WHY DON'T YOU HAVE A MENTAL GO FUCK YOURSELF?</span>
-<span style="color: #626262">KARKAT: OR! OR WAIT! THEN USE YOUR ALLEGED &quot;TIME POWERS&quot; TO MAKE A COPY OF YOURSELF AND TURN THIS AUDACIOUS PHANTASY INTO A SENSUAL REALITY!</span>
-<span style="color: #e00707">DAVE: nah</span>
+<span style="color: #e00707">ДЕЙВ: dude did you just bark</span>
+<span style="color: #626262">КАРКАТ: WHAT? NO I DIDN'T BARK.</span>
+<span style="color: #626262">КАРКАТ: I THOUGHT THAT WAS YOU.</span>
+<span style="color: #e00707">ДЕЙВ: why would i bark</span>
+<span style="color: #626262">КАРКАТ: <span style="font-style: italic">WELL WHY THE FUCK WOULD I BARK???</span></span>
+<span style="color: #e00707">ДЕЙВ: because youre having a mental breakdown</span>
+<span style="color: #626262">КАРКАТ: WHY DON'T YOU HAVE A MENTAL GO FUCK YOURSELF?</span>
+<span style="color: #626262">КАРКАТ: OR! OR WAIT! THEN USE YOUR ALLEGED &quot;TIME POWERS&quot; TO MAKE A COPY OF YOURSELF AND TURN THIS AUDACIOUS PHANTASY INTO A SENSUAL REALITY!</span>
+<span style="color: #e00707">ДЕЙВ: nah</span>
 <span style="color: #000000">BARK</span>
-<span style="color: #626262">KARKAT: THERE IT WAS AGAIN!</span>
-<span style="color: #626262">KARKAT: THE BARK HAPPENED AGAIN!</span>
-<span style="color: #e00707">DAVE: wasnt me</span>
-<span style="color: #626262">KARKAT: WHO THE FUCK IS BARKING.</span>
-<span style="color: #e00707">DAVE: kanaya did you bark</span>
-<span style="color: #e00707">DAVE: you fuckin with us maryam</span>
-<span style="color: #008141">KANAYA: (hisssss...)</span>
-<span style="color: #626262">KARKAT: TEREZI, WAS IT YOU???</span>
-<span style="color: #008282">TEREZI: (grrrrrr...)</span>
-<span style="color: #626262">KARKAT: WHAT IS IT? WHAT ARE YOU LOOKING AT?</span>
-<span style="color: #e00707">DAVE: maybe the mayor barked</span>
-<span style="color: #e00707">DAVE: mayor was that you</span>
-<span style="color: #e00707">DAVE: haha i bet it was</span>
-<span style="color: #e00707">DAVE: god i love the mayor hes so full of surprises</span>
+<span style="color: #626262">КАРКАТ: THERE IT WAS AGAIN!</span>
+<span style="color: #626262">КАРКАТ: THE BARK HAPPENED AGAIN!</span>
+<span style="color: #e00707">ДЕЙВ: wasnt me</span>
+<span style="color: #626262">КАРКАТ: WHO THE FUCK IS BARKING.</span>
+<span style="color: #e00707">ДЕЙВ: kanaya did you bark</span>
+<span style="color: #e00707">ДЕЙВ: you fuckin with us maryam</span>
+<span style="color: #008141">КАНАЙЯ: (hisssss...)</span>
+<span style="color: #626262">КАРКАТ: TEREZI, WAS IT YOU???</span>
+<span style="color: #008282">ТЕРЕЗИ: (grrrrrr...)</span>
+<span style="color: #626262">КАРКАТ: WHAT IS IT? WHAT ARE YOU LOOKING AT?</span>
+<span style="color: #e00707">ДЕЙВ: maybe the mayor barked</span>
+<span style="color: #e00707">ДЕЙВ: mayor was that you</span>
+<span style="color: #e00707">ДЕЙВ: haha i bet it was</span>
+<span style="color: #e00707">ДЕЙВ: god i love the mayor hes so full of surprises</span>
 ###
 008127
 X

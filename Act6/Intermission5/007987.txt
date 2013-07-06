@@ -7,7 +7,7 @@
 http://ru-homestuck.org/storyfiles/hs2/06084.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">VRISKA: *Huff puff.*</span>
+<span style="color: #005682">ВРИСКА: *Huff puff.*</span>
 ###
 007988
 X

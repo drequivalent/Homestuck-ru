@@ -7,7 +7,7 @@
 http://ru-homestuck.org/storyfiles/hs2/06092.gif
 ###
 |DIALOGLOG|
-<span style="color: #0715cd">JOHN: ouch!</span>
+<span style="color: #0715cd">ДЖОН: ouch!</span>
 ###
 007996
 X

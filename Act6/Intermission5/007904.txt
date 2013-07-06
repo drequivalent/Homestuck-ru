@@ -7,10 +7,10 @@
 http://ru-homestuck.org/storyfiles/hs2/06001.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">ARANEA: He repeats this process for each planet until they are all gone.</span>
-<span style="color: #005682">ARANEA: There is one caveat though. He must skip the eighth planet.</span>
-<span style="color: #005682">ARANEA: If he sinks that one 8efore any of the others, it will result in the destruction of the entire session.</span>
-<span style="color: #005682">ARANEA: Thus it must 8e the final planet he conquers.</span>
+<span style="color: #005682">АРАНЕЯ: He repeats this process for each planet until they are all gone.</span>
+<span style="color: #005682">АРАНЕЯ: There is one caveat though. He must skip the eighth planet.</span>
+<span style="color: #005682">АРАНЕЯ: If he sinks that one 8efore any of the others, it will result in the destruction of the entire session.</span>
+<span style="color: #005682">АРАНЕЯ: Thus it must 8e the final planet he conquers.</span>
 ###
 007905
 X

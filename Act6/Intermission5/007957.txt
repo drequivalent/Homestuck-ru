@@ -7,23 +7,23 @@
 http://ru-homestuck.org/storyfiles/hs2/06054.gif
 ###
 |DIALOGLOG|
-<span style="color: #b536da">ROSE: Oh,, but you could not be further fromp the truth.</span>
-<span style="color: #b536da">ROSE: The prestervation of Can Town has trenendous symbolic importance.</span>
-<span style="color: #b536da">ROSE: We are ahll that's left of our respective races, Kanaye.</span>
-<span style="color: #b536da">ROSE: We are the light of civivization!</span>
-<span style="color: #b536da">ROSE: Is our responsipility to carry the torch through the abyss whilest keeping it lit, and hic...</span>
-<span style="color: #b536da">ROSE: And set it pupon the harth of the newd world.</span>
-<span style="color: #008141">KANAYA: I Think The Torch Is Not All You Have Managed To Keep Lit</span>
-<span style="color: #b536da">ROSE: Its light... OUUR light will spread throughout our creation, but only, Kayaka, ONLY,</span>
-<span style="color: #b536da">ROSE: If we respect the light of civilazation itself. If we respect the light of DEMCOCRACY!!</span>
-<span style="color: #008141">KANAYA: ......</span>
-<span style="color: #008141">KANAYA: So Many Finish Crumbs Up In Here</span>
-<span style="color: #b536da">ROSE: Civilitey/ Liberby. Reason. Efidication. Civilty.</span>
-<span style="color: #b536da">ROSE: Rationality. Learning, Jutstice. Libersty. Hornor. Elucidution.. Civlity. Raison...</span>
-<span style="color: #b536da">ROSE: This are the virshues which emboby the magnificence that is Can Town.</span>
-<span style="color: #008141">KANAYA: You Said Some Of Those Words Two Or Three Times And Most Of Them Werent Words</span>
-<span style="color: #b536da">ROSE: Pfhaha! I just got it!</span>
-<span style="color: #b536da">ROSE: &quot;That'sh not all you managed to keep lit.&quot;</span>
-<span style="color: #b536da">ROSE: That burn was sii<span style="font-style: italic">iiii</span>ck! Hah,ahah I love it.</span>
+<span style="color: #b536da">РОУЗ: Oh,, but you could not be further fromp the truth.</span>
+<span style="color: #b536da">РОУЗ: The prestervation of Can Town has trenendous symbolic importance.</span>
+<span style="color: #b536da">РОУЗ: We are ahll that's left of our respective races, Kanaye.</span>
+<span style="color: #b536da">РОУЗ: We are the light of civivization!</span>
+<span style="color: #b536da">РОУЗ: Is our responsipility to carry the torch through the abyss whilest keeping it lit, and hic...</span>
+<span style="color: #b536da">РОУЗ: And set it pupon the harth of the newd world.</span>
+<span style="color: #008141">КАНАЙЯ: I Think The Torch Is Not All You Have Managed To Keep Lit</span>
+<span style="color: #b536da">РОУЗ: Its light... OUUR light will spread throughout our creation, but only, Kayaka, ONLY,</span>
+<span style="color: #b536da">РОУЗ: If we respect the light of civilazation itself. If we respect the light of DEMCOCRACY!!</span>
+<span style="color: #008141">КАНАЙЯ: ......</span>
+<span style="color: #008141">КАНАЙЯ: So Many Finish Crumbs Up In Here</span>
+<span style="color: #b536da">РОУЗ: Civilitey/ Liberby. Reason. Efidication. Civilty.</span>
+<span style="color: #b536da">РОУЗ: Rationality. Learning, Jutstice. Libersty. Hornor. Elucidution.. Civlity. Raison...</span>
+<span style="color: #b536da">РОУЗ: This are the virshues which emboby the magnificence that is Can Town.</span>
+<span style="color: #008141">КАНАЙЯ: You Said Some Of Those Words Two Or Three Times And Most Of Them Werent Words</span>
+<span style="color: #b536da">РОУЗ: Pfhaha! I just got it!</span>
+<span style="color: #b536da">РОУЗ: &quot;That'sh not all you managed to keep lit.&quot;</span>
+<span style="color: #b536da">РОУЗ: That burn was sii<span style="font-style: italic">iiii</span>ck! Hah,ahah I love it.</span>
 ###
 X

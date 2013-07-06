@@ -7,30 +7,30 @@ a722b29d10
 http://ru-homestuck.org/storyfiles/hs2/06066.gif
 ###
 |DIALOGLOG|
-<span style="color: #0715cd">JOHN: hmm.</span>
-<span style="color: #0715cd">JOHN: alright. then i guess that settles that.</span>
-<span style="color: #77003c">MEENAH: no but you dont understand</span>
-<span style="color: #77003c">MEENAH: if i ganked your ring and put it on</span>
-<span style="color: #77003c">MEENAH: and became not a ghost anemonemore</span>
-<span style="color: #77003c">MEENAH: and had to hit the road and conquer stuff</span>
-<span style="color: #77003c">MEENAH: i would miss my friends 38(</span>
-<span style="color: #0715cd">JOHN: then, uh...</span>
-<span style="color: #0715cd">JOHN: don't?</span>
-<span style="color: #77003c">MEENAH: no blue boy you arent listening</span>
-<span style="color: #77003c">MEENAH: i cant even handle it</span>
-<span style="color: #77003c">MEENAH: thinkin aboat ditching my fronds</span>
-<span style="color: #77003c">MEENAH: they meant so much to me since i been dead</span>
-<span style="color: #77003c">MEENAH: ya feel me blue dweeb</span>
-<span style="color: #0715cd">JOHN: yes.</span>
-<span style="color: #0715cd">JOHN: my friends mean a lot to me too.</span>
-<span style="color: #77003c">MEENAH: the serket twins</span>
-<span style="color: #77003c">MEENAH: they just</span>
-<span style="color: #77003c">MEENAH: bleugh</span>
-<span style="color: #77003c">MEENAH: look at em</span>
-<span style="color: #77003c">MEENAH: so disgustinly adorbs together</span>
-<span style="color: #77003c">MEENAH: all likin each other and BEING like each other and junk</span>
-<span style="color: #77003c">MEENAH: i dont think i could take it</span>
-<span style="color: #77003c">MEENAH: i aint ready to say fareshell</span>
+<span style="color: #0715cd">ДЖОН: hmm.</span>
+<span style="color: #0715cd">ДЖОН: alright. then i guess that settles that.</span>
+<span style="color: #77003c">МИНА: no but you dont understand</span>
+<span style="color: #77003c">МИНА: if i ganked your ring and put it on</span>
+<span style="color: #77003c">МИНА: and became not a ghost anemonemore</span>
+<span style="color: #77003c">МИНА: and had to hit the road and conquer stuff</span>
+<span style="color: #77003c">МИНА: i would miss my friends 38(</span>
+<span style="color: #0715cd">ДЖОН: then, uh...</span>
+<span style="color: #0715cd">ДЖОН: don't?</span>
+<span style="color: #77003c">МИНА: no blue boy you arent listening</span>
+<span style="color: #77003c">МИНА: i cant even handle it</span>
+<span style="color: #77003c">МИНА: thinkin aboat ditching my fronds</span>
+<span style="color: #77003c">МИНА: they meant so much to me since i been dead</span>
+<span style="color: #77003c">МИНА: ya feel me blue dweeb</span>
+<span style="color: #0715cd">ДЖОН: yes.</span>
+<span style="color: #0715cd">ДЖОН: my friends mean a lot to me too.</span>
+<span style="color: #77003c">МИНА: the serket twins</span>
+<span style="color: #77003c">МИНА: they just</span>
+<span style="color: #77003c">МИНА: bleugh</span>
+<span style="color: #77003c">МИНА: look at em</span>
+<span style="color: #77003c">МИНА: so disgustinly adorbs together</span>
+<span style="color: #77003c">МИНА: all likin each other and BEING like each other and junk</span>
+<span style="color: #77003c">МИНА: i dont think i could take it</span>
+<span style="color: #77003c">МИНА: i aint ready to say fareshell</span>
 ###
 007970
 X

@@ -9,8 +9,8 @@ http://ru-homestuck.org/storyfiles/hs2/06105.gif
 |DIALOGLOG|
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/johnblurtext1.gif" border="0" />
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/johnblurtext2.gif" border="0" />
-<span style="color: #005682">VRISKA: John, will you get your hand out of there?</span>
-<span style="color: #005682">VRISKA: You're vaguely fucking shit up in some totally am8iguous way.</span>
+<span style="color: #005682">ВРИСКА: John, will you get your hand out of there?</span>
+<span style="color: #005682">ВРИСКА: You're vaguely fucking shit up in some totally am8iguous way.</span>
 ###
 008009
 X

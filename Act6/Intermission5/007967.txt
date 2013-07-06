@@ -7,9 +7,9 @@
 http://ru-homestuck.org/storyfiles/hs2/06064.gif
 ###
 |DIALOGLOG|
-<span style="color: #77003c">MEENAH: pst blue guy</span>
-<span style="color: #0715cd">JOHN: me?</span>
-<span style="color: #77003c">MEENAH: no the other weenie in blue pjs</span>
-<span style="color: #77003c">MEENAH: yes you cmere</span>
+<span style="color: #77003c">МИНА: pst blue guy</span>
+<span style="color: #0715cd">ДЖОН: me?</span>
+<span style="color: #77003c">МИНА: no the other weenie in blue pjs</span>
+<span style="color: #77003c">МИНА: yes you cmere</span>
 ###
 X

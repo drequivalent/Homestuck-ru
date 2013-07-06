@@ -7,7 +7,7 @@
 http://ru-homestuck.org/storyfiles/hs2/06213.gif
 ###
 |DIALOGLOG|
-<span style="color: #0715cd">JOHN: this sucks.</span>
+<span style="color: #0715cd">ДЖОН: this sucks.</span>
 ###
 008117
 X

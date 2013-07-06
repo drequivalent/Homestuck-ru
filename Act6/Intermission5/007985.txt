@@ -7,7 +7,7 @@
 http://ru-homestuck.org/storyfiles/hs2/06082.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">VRISKA: <span style="font-style: italic">SUUUUUUUUCK........</span></span>
+<span style="color: #005682">ВРИСКА: <span style="font-style: italic">SUUUUUUUUCK........</span></span>
 ###
 007986
 X

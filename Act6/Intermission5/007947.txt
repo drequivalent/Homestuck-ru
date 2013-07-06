@@ -7,31 +7,31 @@
 http://ru-homestuck.org/storyfiles/hs2/06044.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">VRISKA: GOOD RIDD8NCE YOU 8ACKSTA88ING INGR8TES!</span>
-<span style="color: #005682">VRISKA: I HOPE LORD ENGLISH E8TS YOU 8LL!!!!!!!!</span>
-<span style="color: #0715cd">JOHN: hey, vriska.</span>
-<span style="color: #005682">VRISKA: WH8T!</span>
-<span style="color: #0715cd">JOHN: actually...</span>
-<span style="color: #0715cd">JOHN: you know that ring?</span>
-<span style="color: #005682">VRISKA: What a8out it!</span>
-<span style="color: #0715cd">JOHN: i have it now.</span>
-<span style="color: #005682">VRISKA: You do??</span>
-<span style="color: #005682">VRISKA: Where! Let me see!!</span>
-<span style="color: #0715cd">JOHN: no, i mean, not on me.</span>
-<span style="color: #0715cd">JOHN: i guess i wasn't wearing it when i fell asleep.</span>
-<span style="color: #0715cd">JOHN: it seems to have the power to come with me in and out of my dreams, as long as i'm wearing it.</span>
-<span style="color: #0715cd">JOHN: that's how i got it in the first place. i had it on when i woke up.</span>
-<span style="color: #005682">VRISKA: You were wearing it??</span>
-<span style="color: #005682">VRISKA: Why? And why were you playing keepaway with it in the first place!</span>
-<span style="color: #005682">VRISKA: I mean, aside from the o8vious fact that messing with Tavros is its own hilarious reward.</span>
-<span style="color: #0715cd">JOHN: i don't know.</span>
-<span style="color: #0715cd">JOHN: i guess...</span>
-<span style="color: #0715cd">JOHN: i liked it, and i just wanted to hang on to it for some reason.</span>
-<span style="color: #0715cd">JOHN: but i didn't know i would wake up with it.</span>
-<span style="color: #005682">VRISKA: This is perfect!</span>
-<span style="color: #005682">VRISKA: That means all you have to do is put it on when you wake up, then come find me the next time you go to sleep!</span>
-<span style="color: #0715cd">JOHN: yeah...</span>
-<span style="color: #0715cd">JOHN: maybe.</span>
+<span style="color: #005682">ВРИСКА: GOOD RIDD8NCE YOU 8ACKSTA88ING INGR8TES!</span>
+<span style="color: #005682">ВРИСКА: I HOPE LORD ENGLISH E8TS YOU 8LL!!!!!!!!</span>
+<span style="color: #0715cd">ДЖОН: hey, vriska.</span>
+<span style="color: #005682">ВРИСКА: WH8T!</span>
+<span style="color: #0715cd">ДЖОН: actually...</span>
+<span style="color: #0715cd">ДЖОН: you know that ring?</span>
+<span style="color: #005682">ВРИСКА: What a8out it!</span>
+<span style="color: #0715cd">ДЖОН: i have it now.</span>
+<span style="color: #005682">ВРИСКА: You do??</span>
+<span style="color: #005682">ВРИСКА: Where! Let me see!!</span>
+<span style="color: #0715cd">ДЖОН: no, i mean, not on me.</span>
+<span style="color: #0715cd">ДЖОН: i guess i wasn't wearing it when i fell asleep.</span>
+<span style="color: #0715cd">ДЖОН: it seems to have the power to come with me in and out of my dreams, as long as i'm wearing it.</span>
+<span style="color: #0715cd">ДЖОН: that's how i got it in the first place. i had it on when i woke up.</span>
+<span style="color: #005682">ВРИСКА: You were wearing it??</span>
+<span style="color: #005682">ВРИСКА: Why? And why were you playing keepaway with it in the first place!</span>
+<span style="color: #005682">ВРИСКА: I mean, aside from the o8vious fact that messing with Tavros is its own hilarious reward.</span>
+<span style="color: #0715cd">ДЖОН: i don't know.</span>
+<span style="color: #0715cd">ДЖОН: i guess...</span>
+<span style="color: #0715cd">ДЖОН: i liked it, and i just wanted to hang on to it for some reason.</span>
+<span style="color: #0715cd">ДЖОН: but i didn't know i would wake up with it.</span>
+<span style="color: #005682">ВРИСКА: This is perfect!</span>
+<span style="color: #005682">ВРИСКА: That means all you have to do is put it on when you wake up, then come find me the next time you go to sleep!</span>
+<span style="color: #0715cd">ДЖОН: yeah...</span>
+<span style="color: #0715cd">ДЖОН: maybe.</span>
 ###
 007948
 X

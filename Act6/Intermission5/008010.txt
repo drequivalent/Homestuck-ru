@@ -7,6 +7,6 @@
 http://ru-homestuck.org/storyfiles/hs2/06107.gif
 ###
 |DIALOGLOG|
-<span style="color: #77003c">MEENAH: dammit</span>
+<span style="color: #77003c">МИНА: dammit</span>
 ###
 X

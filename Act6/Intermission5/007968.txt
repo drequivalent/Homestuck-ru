@@ -7,23 +7,23 @@
 http://ru-homestuck.org/storyfiles/hs2/06065.gif
 ###
 |DIALOGLOG|
-<span style="color: #77003c">MEENAH: listfin</span>
-<span style="color: #77003c">MEENAH: i have a problem</span>
-<span style="color: #0715cd">JOHN: what?</span>
-<span style="color: #77003c">MEENAH: now we both know some day ima be the one to swindle you out of that life ring</span>
-<span style="color: #0715cd">JOHN: we do?</span>
-<span style="color: #77003c">MEENAH: yeah</span>
-<span style="color: #77003c">MEENAH: shit is inevibubble and we all know it</span>
-<span style="color: #0715cd">JOHN: ...</span>
-<span style="color: #0715cd">JOHN: ok.</span>
-<span style="color: #77003c">MEENAH: i like priceless treasure</span>
-<span style="color: #77003c">MEENAH: you GOT priceless treasure</span>
-<span style="color: #77003c">MEENAH: my fuckin hero title deal all but guarantees ill steal it from you some day</span>
-<span style="color: #77003c">MEENAH: and ill come back to life so i can rip shit up in the real world and get all the gold and make all yall my slaves and rule everything forev</span>
-<span style="color: #0715cd">JOHN: i see.</span>
-<span style="color: #77003c">MEENAH: just one problem though</span>
-<span style="color: #0715cd">JOHN: what's that?</span>
-<span style="color: #77003c">MEENAH: i dunno if i wanna?</span>
+<span style="color: #77003c">МИНА: listfin</span>
+<span style="color: #77003c">МИНА: i have a problem</span>
+<span style="color: #0715cd">ДЖОН: what?</span>
+<span style="color: #77003c">МИНА: now we both know some day ima be the one to swindle you out of that life ring</span>
+<span style="color: #0715cd">ДЖОН: we do?</span>
+<span style="color: #77003c">МИНА: yeah</span>
+<span style="color: #77003c">МИНА: shit is inevibubble and we all know it</span>
+<span style="color: #0715cd">ДЖОН: ...</span>
+<span style="color: #0715cd">ДЖОН: ok.</span>
+<span style="color: #77003c">МИНА: i like priceless treasure</span>
+<span style="color: #77003c">МИНА: you GOT priceless treasure</span>
+<span style="color: #77003c">МИНА: my fuckin hero title deal all but guarantees ill steal it from you some day</span>
+<span style="color: #77003c">МИНА: and ill come back to life so i can rip shit up in the real world and get all the gold and make all yall my slaves and rule everything forev</span>
+<span style="color: #0715cd">ДЖОН: i see.</span>
+<span style="color: #77003c">МИНА: just one problem though</span>
+<span style="color: #0715cd">ДЖОН: what's that?</span>
+<span style="color: #77003c">МИНА: i dunno if i wanna?</span>
 ###
 007969
 X

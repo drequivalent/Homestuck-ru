@@ -7,12 +7,12 @@
 http://ru-homestuck.org/storyfiles/hs2/05975.gif
 ###
 |DIALOGLOG|
-<span style="color: #77003c">MEENAH: girl your stories never end my bladder cant even deal</span>
-<span style="color: #77003c">MEENAH: just keep talking while im gone</span>
-<span style="color: #005682">ARANEA: No, that's ok. We can w8!</span>
-<span style="color: #77003c">MEENAH: i already heard the damn story though!</span>
-<span style="color: #005682">ARANEA: Not all of it!</span>
-<span style="color: #77003c">MEENAH: glubber fuck cant you just keep yappin about snake sex while i hit the lil grubs room already</span>
+<span style="color: #77003c">МИНА: girl your stories never end my bladder cant even deal</span>
+<span style="color: #77003c">МИНА: just keep talking while im gone</span>
+<span style="color: #005682">АРАНЕЯ: No, that's ok. We can w8!</span>
+<span style="color: #77003c">МИНА: i already heard the damn story though!</span>
+<span style="color: #005682">АРАНЕЯ: Not all of it!</span>
+<span style="color: #77003c">МИНА: glubber fuck cant you just keep yappin about snake sex while i hit the lil grubs room already</span>
 ###
 007879
 X

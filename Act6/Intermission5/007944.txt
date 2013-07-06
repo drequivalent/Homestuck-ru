@@ -7,15 +7,15 @@
 http://ru-homestuck.org/storyfiles/hs2/06041.gif
 ###
 |DIALOGLOG|
-<span style="color: #a15000">TAVROS: fLY, pUPA,</span>
-<span style="color: #a15000">TAVROS: fLYYYYY,</span>
-<span style="color: #a15000">TAVROS: (heheHehE,)</span>
-<span style="color: #a15000">TAVROS: (ehHHehehEheH, oH yEs,)</span>
-<span style="color: #a15000">TAVROS: (heheHEHEHEhehEhEheh, so clEVEr,)</span>
-<span style="color: #a15000">TAVROS: (how i refEreNCed, whaT wEre onCE, scoRNfUl remArKS dIreCtED at me, eheHahAHa!)</span>
-<span style="color: #a15000">TAVROS: (hahAhehE, so sicK! sO sICk!!!!,)</span>
-<span style="color: #005682">VRISKA: WE CAN ALL HEAR YOU WH8SPERING FROM D8WN HERE SHIT F8R 8RAINS!!!!!!!!</span>
-<span style="color: #a1a100">SOLLUX: hey tavr0s, wait up, i think i'm c0ming with y0u.</span>
+<span style="color: #a15000">ТАВРОС: fLY, pUPA,</span>
+<span style="color: #a15000">ТАВРОС: fLYYYYY,</span>
+<span style="color: #a15000">ТАВРОС: (heheHehE,)</span>
+<span style="color: #a15000">ТАВРОС: (ehHHehehEheH, oH yEs,)</span>
+<span style="color: #a15000">ТАВРОС: (heheHEHEHEhehEhEheh, so clEVEr,)</span>
+<span style="color: #a15000">ТАВРОС: (how i refEreNCed, whaT wEre onCE, scoRNfUl remArKS dIreCtED at me, eheHahAHa!)</span>
+<span style="color: #a15000">ТАВРОС: (hahAhehE, so sicK! sO sICk!!!!,)</span>
+<span style="color: #005682">ВРИСКА: WE CAN ALL HEAR YOU WH8SPERING FROM D8WN HERE SHIT F8R 8RAINS!!!!!!!!</span>
+<span style="color: #a1a100">СОЛЛУКС: hey tavr0s, wait up, i think i'm c0ming with y0u.</span>
 ###
 007945
 X

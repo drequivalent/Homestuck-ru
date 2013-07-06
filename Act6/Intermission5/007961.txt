@@ -7,11 +7,11 @@ e845749633
 http://ru-homestuck.org/storyfiles/hs2/06058.gif
 ###
 |DIALOGLOG|
-<span style="color: #b536da">ROSE: .. .</span>
-<span style="color: #b536da">ROSE: ...</span>
-<span style="color: #b536da">ROSE: ,,. ..</span>
-<span style="color: #b536da">ROSE: . .</span>
-<span style="color: #b536da">ROSE: ,....</span>
+<span style="color: #b536da">РОУЗ: .. .</span>
+<span style="color: #b536da">РОУЗ: ...</span>
+<span style="color: #b536da">РОУЗ: ,,. ..</span>
+<span style="color: #b536da">РОУЗ: . .</span>
+<span style="color: #b536da">РОУЗ: ,....</span>
 ###
 007962
 X

@@ -7,6 +7,6 @@ a65d18f3f7
 http://ru-homestuck.org/storyfiles/hs2/06027.gif
 ###
 |DIALOGLOG|
-<span style="color: #0715cd">JOHN: oh my god, you are all so insane!</span>
+<span style="color: #0715cd">ДЖОН: oh my god, you are all so insane!</span>
 ###
 X

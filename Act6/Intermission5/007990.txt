@@ -7,7 +7,7 @@
 http://ru-homestuck.org/storyfiles/hs2/06087.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">ARANEA: ...</span>
+<span style="color: #005682">АРАНЕЯ: ...</span>
 ###
 007991
 X

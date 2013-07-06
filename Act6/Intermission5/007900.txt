@@ -7,10 +7,10 @@ bba74a7aec
 http://ru-homestuck.org/storyfiles/hs2/05997.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">ARANEA: The resulting explosion is known as the First 8r8k.</span>
-<span style="color: #005682">ARANEA: From the primordial 8last would emerge fifteen planets for the player to conquer.</span>
-<span style="color: #005682">ARANEA: They would scatter and ricochet at high velocity 8efore settling into or8it in the medium.</span>
-<span style="color: #005682">ARANEA: The 8r8k is a very violent phenomenon though. Not all planets will necessarily clear the 8last 8efore the Skaian de8ris settles into its final st8.</span>
+<span style="color: #005682">АРАНЕЯ: The resulting explosion is known as the First 8r8k.</span>
+<span style="color: #005682">АРАНЕЯ: From the primordial 8last would emerge fifteen planets for the player to conquer.</span>
+<span style="color: #005682">АРАНЕЯ: They would scatter and ricochet at high velocity 8efore settling into or8it in the medium.</span>
+<span style="color: #005682">АРАНЕЯ: The 8r8k is a very violent phenomenon though. Not all planets will necessarily clear the 8last 8efore the Skaian de8ris settles into its final st8.</span>
 ###
 007901
 X

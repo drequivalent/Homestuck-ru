@@ -7,10 +7,10 @@
 http://ru-homestuck.org/storyfiles/hs2/06052.gif
 ###
 |DIALOGLOG|
-<span style="color: #008141">KANAYA: ...</span>
-<span style="color: #008141">KANAYA: ...</span>
-<span style="color: #008141">KANAYA: ...</span>
-<span style="color: #008141">KANAYA: ...</span>
-<span style="color: #008141">KANAYA: ...</span>
+<span style="color: #008141">КАНАЙЯ: ...</span>
+<span style="color: #008141">КАНАЙЯ: ...</span>
+<span style="color: #008141">КАНАЙЯ: ...</span>
+<span style="color: #008141">КАНАЙЯ: ...</span>
+<span style="color: #008141">КАНАЙЯ: ...</span>
 ###
 X

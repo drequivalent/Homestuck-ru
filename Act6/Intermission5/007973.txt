@@ -7,8 +7,8 @@ e487995907
 F|http://ru-homestuck.org/storyfiles/hs2/06070
 ###
 |DIALOGLOG|
-<span style="color: #005682">VRISKA: Will you guys hurry up??</span>
-<span style="color: #005682">VRISKA: This is seriously some of the most half assed treasure hunting I've ever seen.</span>
-<span style="color: #0715cd">JOHN: hang on, i'm coming!!!</span>
+<span style="color: #005682">ВРИСКА: Will you guys hurry up??</span>
+<span style="color: #005682">ВРИСКА: This is seriously some of the most half assed treasure hunting I've ever seen.</span>
+<span style="color: #0715cd">ДЖОН: hang on, i'm coming!!!</span>
 ###
 X

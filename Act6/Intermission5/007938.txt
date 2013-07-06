@@ -7,7 +7,7 @@
 http://ru-homestuck.org/storyfiles/hs2/06035.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">VRISKA: ARE YOU KIDDING ME.</span>
+<span style="color: #005682">ВРИСКА: ARE YOU KIDDING ME.</span>
 ###
 007939
 X

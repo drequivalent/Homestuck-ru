@@ -7,24 +7,24 @@ e07e8d6da9
 http://ru-homestuck.org/storyfiles/hs2/05976.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">ARANEA: I'm afraid not. Everyone must listen to the full story.</span>
-<span style="color: #77003c">MEENAH: omfg</span>
-<span style="color: #77003c">MEENAH: you really are turnin evil arent ya</span>
-<span style="color: #77003c">MEENAH: i would be proud except of how terrible and boring the actual consequences are for me personally</span>
-<span style="color: #0715cd">JOHN: wait...</span>
-<span style="color: #0715cd">JOHN: does that mean when you're a ghost you still have to pee?</span>
-<span style="color: #77003c">MEENAH: none a your business blue kid</span>
-<span style="color: #0715cd">JOHN: that's so weird.</span>
-<span style="color: #0715cd">JOHN: am i the only one who thinks that's weird?</span>
-<span style="color: #005682">VRISKA: No, John. It's definitely pretty weird that ghosts have to pee.</span>
-<span style="color: #005682">VRISKA: You get used to life as a ghost pretty fast, though.</span>
-<span style="color: #0715cd">JOHN: but weren't you already pretty used to peeing when you were alive?</span>
-<span style="color: #005682">VRISKA: Yeah. That's why you get used to it pretty fast, dummy!</span>
-<span style="color: #0715cd">JOHN: this is kind of a stupid conversation.</span>
-<span style="color: #0715cd">JOHN: can we hear more about the snakes and whatnot? it was a pretty cool story.</span>
-<span style="color: #005682">ARANEA: Yes! ::::D</span>
-<span style="color: #005682">ARANEA: As soon as Meenah returns from her visit to the load gaper.</span>
-<span style="color: #77003c">MEENAH: HOLY MACK-ER-EL CAN YOU S)(ITFUCKS JUST -ENJOY YOUR SPAC-E LIZARD PORN W)(IL-E I TAK-E A FUCKING PISS???</span>
+<span style="color: #005682">АРАНЕЯ: I'm afraid not. Everyone must listen to the full story.</span>
+<span style="color: #77003c">МИНА: omfg</span>
+<span style="color: #77003c">МИНА: you really are turnin evil arent ya</span>
+<span style="color: #77003c">МИНА: i would be proud except of how terrible and boring the actual consequences are for me personally</span>
+<span style="color: #0715cd">ДЖОН: wait...</span>
+<span style="color: #0715cd">ДЖОН: does that mean when you're a ghost you still have to pee?</span>
+<span style="color: #77003c">МИНА: none a your business blue kid</span>
+<span style="color: #0715cd">ДЖОН: that's so weird.</span>
+<span style="color: #0715cd">ДЖОН: am i the only one who thinks that's weird?</span>
+<span style="color: #005682">ВРИСКА: No, John. It's definitely pretty weird that ghosts have to pee.</span>
+<span style="color: #005682">ВРИСКА: You get used to life as a ghost pretty fast, though.</span>
+<span style="color: #0715cd">ДЖОН: but weren't you already pretty used to peeing when you were alive?</span>
+<span style="color: #005682">ВРИСКА: Yeah. That's why you get used to it pretty fast, dummy!</span>
+<span style="color: #0715cd">ДЖОН: this is kind of a stupid conversation.</span>
+<span style="color: #0715cd">ДЖОН: can we hear more about the snakes and whatnot? it was a pretty cool story.</span>
+<span style="color: #005682">АРАНЕЯ: Yes! ::::D</span>
+<span style="color: #005682">АРАНЕЯ: As soon as Meenah returns from her visit to the load gaper.</span>
+<span style="color: #77003c">МИНА: HOLY MACK-ER-EL CAN YOU S)(ITFUCKS JUST -ENJOY YOUR SPAC-E LIZARD PORN W)(IL-E I TAK-E A FUCKING PISS???</span>
 ###
 007880
 X

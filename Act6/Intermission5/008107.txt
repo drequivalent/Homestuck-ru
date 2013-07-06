@@ -7,7 +7,7 @@ abaf240b28
 http://ru-homestuck.org/storyfiles/hs2/06204.gif
 ###
 |DIALOGLOG|
-<span style="color: #0715cd">JOHN: what.</span>
+<span style="color: #0715cd">ДЖОН: what.</span>
 ###
 008108
 X

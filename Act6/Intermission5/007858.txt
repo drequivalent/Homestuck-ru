@@ -7,22 +7,22 @@
 http://ru-homestuck.org/storyfiles/hs2/05955.gif
 ###
 |DIALOGLOG|
-<span style="color: #a15000">TAVROS: jOHN JUST SAID TROLLS ARE WEIRD,</span>
-<span style="color: #a15000">TAVROS: hE SAID IT QUIETLY, bUT i HEARD HIM,</span>
-<span style="color: #0715cd">JOHN: hey!</span>
-<span style="color: #0715cd">JOHN: you snitch.</span>
-<span style="color: #77003c">MEENAH: yeah but</span>
-<span style="color: #77003c">MEENAH: arent we</span>
-<span style="color: #a15000">TAVROS: uH,,,,,</span>
-<span style="color: #77003c">MEENAH: moral of the story is blue kid is a dumb nerd but is right when he says stuff</span>
-<span style="color: #77003c">MEENAH: look at that its like me and him are becoming fast fronds thus lulling him into a sense of false confidence already</span>
-<span style="color: #0715cd">JOHN: what?</span>
-<span style="color: #77003c">MEENAH: (soon my lil whale...)</span>
-<span style="color: #77003c">MEENAH: (soon...)</span>
-<span style="color: #005682">ARANEA: It is true. To a human, the ways of trolls from 8oth Alternia and 8eforus will seem very strange.</span>
-<span style="color: #005682">ARANEA: In fact, prior to uniting in the afterlife, even the two groups of trolls were reasona8ly alien to one another.</span>
-<span style="color: #005682">ARANEA: I've had a gr8 deal of time to study the cultures of many species throughout paradox space. No matter which race you 8elong to, one can always find another whose ideals pose a challenge of comprehension to even the most open minded.</span>
-<span style="color: #005682">ARANEA: And though the ethical standards of those from Alternia may seem unpalata8le to you, rest assured there are 8eings elsewhere in the cosmos whose violent 8ehavior would 8e considered extreme even to most trolls.</span>
+<span style="color: #a15000">ТАВРОС: jOHN JUST SAID TROLLS ARE WEIRD,</span>
+<span style="color: #a15000">ТАВРОС: hE SAID IT QUIETLY, bUT i HEARD HIM,</span>
+<span style="color: #0715cd">ДЖОН: hey!</span>
+<span style="color: #0715cd">ДЖОН: you snitch.</span>
+<span style="color: #77003c">МИНА: yeah but</span>
+<span style="color: #77003c">МИНА: arent we</span>
+<span style="color: #a15000">ТАВРОС: uH,,,,,</span>
+<span style="color: #77003c">МИНА: moral of the story is blue kid is a dumb nerd but is right when he says stuff</span>
+<span style="color: #77003c">МИНА: look at that its like me and him are becoming fast fronds thus lulling him into a sense of false confidence already</span>
+<span style="color: #0715cd">ДЖОН: what?</span>
+<span style="color: #77003c">МИНА: (soon my lil whale...)</span>
+<span style="color: #77003c">МИНА: (soon...)</span>
+<span style="color: #005682">АРАНЕЯ: It is true. To a human, the ways of trolls from 8oth Alternia and 8eforus will seem very strange.</span>
+<span style="color: #005682">АРАНЕЯ: In fact, prior to uniting in the afterlife, even the two groups of trolls were reasona8ly alien to one another.</span>
+<span style="color: #005682">АРАНЕЯ: I've had a gr8 deal of time to study the cultures of many species throughout paradox space. No matter which race you 8elong to, one can always find another whose ideals pose a challenge of comprehension to even the most open minded.</span>
+<span style="color: #005682">АРАНЕЯ: And though the ethical standards of those from Alternia may seem unpalata8le to you, rest assured there are 8eings elsewhere in the cosmos whose violent 8ehavior would 8e considered extreme even to most trolls.</span>
 ###
 007859
 X

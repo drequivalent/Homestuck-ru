@@ -7,15 +7,15 @@
 http://ru-homestuck.org/storyfiles/hs2/06029.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">ARANEA: Thank you for joining us, John.</span>
-<span style="color: #005682">ARANEA: Commodore Nepeta and Rear Admiral Feferi have 8oth 8een clamoring for one last tale, and I am not one to disappoint.</span>
-<span style="color: #77003c">FEFERI: 38)</span> <span style="color: #416600">NEPETA: :33</span>
-<span style="color: #77003c">MEENAH: (clamoring)</span>
-<span style="color: #77003c">MEENAH: (as in clams text it)</span>
-<span style="color: #0715cd">JOHN: ok. what's this one about?</span>
-<span style="color: #0715cd">JOHN: ogre sex, or salamander shipping, or something?</span>
-<span style="color: #005682">ARANEA: Nope! Although I would 8e happy to tell you all a8out those topics another time.</span>
-<span style="color: #005682">ARANEA: This is a story a8out two legendary rings.</span>
+<span style="color: #005682">АРАНЕЯ: Thank you for joining us, John.</span>
+<span style="color: #005682">АРАНЕЯ: Commodore Nepeta and Rear Admiral Feferi have 8oth 8een clamoring for one last tale, and I am not one to disappoint.</span>
+<span style="color: #77003c">ФЕФЕРИ: 38)</span> <span style="color: #416600">NEPETA: :33</span>
+<span style="color: #77003c">МИНА: (clamoring)</span>
+<span style="color: #77003c">МИНА: (as in clams text it)</span>
+<span style="color: #0715cd">ДЖОН: ok. what's this one about?</span>
+<span style="color: #0715cd">ДЖОН: ogre sex, or salamander shipping, or something?</span>
+<span style="color: #005682">АРАНЕЯ: Nope! Although I would 8e happy to tell you all a8out those topics another time.</span>
+<span style="color: #005682">АРАНЕЯ: This is a story a8out two legendary rings.</span>
 ###
 007933
 X

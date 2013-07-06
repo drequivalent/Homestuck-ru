@@ -7,11 +7,11 @@
 http://ru-homestuck.org/storyfiles/hs2/06022.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">VRISKA: Hey guys! Stop dragging your feet 8ack there! You're falling so far 8ehind, you're starting to look tiny and ridiculous from here.</span>
-<span style="color: #005682">VRISKA: The treasure should 8e 8uried just up ahead. Let's pick up the pace!</span>
-<span style="color: #a1a100">SOLLUX: excuse me, s0me 0f us here have special needs. i think i will c0ntinue dragging my feet if y0u d0n't mind.</span>
-<span style="color: #005682">VRISKA: Sollux, will you just let Aranea heal your eyes already and catch the fuck up?</span>
-<span style="color: #a1a100">SOLLUX: N0!!!!!!!!!!</span>
+<span style="color: #005682">ВРИСКА: Hey guys! Stop dragging your feet 8ack there! You're falling so far 8ehind, you're starting to look tiny and ridiculous from here.</span>
+<span style="color: #005682">ВРИСКА: The treasure should 8e 8uried just up ahead. Let's pick up the pace!</span>
+<span style="color: #a1a100">СОЛЛУКС: excuse me, s0me 0f us here have special needs. i think i will c0ntinue dragging my feet if y0u d0n't mind.</span>
+<span style="color: #005682">ВРИСКА: Sollux, will you just let Aranea heal your eyes already and catch the fuck up?</span>
+<span style="color: #a1a100">СОЛЛУКС: N0!!!!!!!!!!</span>
 ###
 007926
 X

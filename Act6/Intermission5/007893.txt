@@ -7,13 +7,13 @@
 http://ru-homestuck.org/storyfiles/hs2/05990.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">ARANEA: 8ut this game was never meant to 8e played solo.</span>
-<span style="color: #005682">ARANEA: Its format is inherently cooper8tive. The diversity of players, the com8in8tion of their efforts and aspects, this is what awakens the true cre8tive potential of the game. Without them, a session will wither and die.</span>
-<span style="color: #005682">ARANEA: If one enters alone, it completely alters the nature of the game. It changes its purpose.</span>
-<span style="color: #005682">ARANEA: For a solo player, a challenging quest 8ecomes an insurmounta8le one. A reward of infinite promise 8ecomes a 8oon far more sinister.</span>
-<span style="color: #005682">ARANEA: The gauntlet which the player must overcome is seemingly designed to 8e impossi8le. For all intents and purposes, it is not actually a game at all. It is a death sentence for any player foolish enough to accept the challenge.</span>
-<span style="color: #005682">ARANEA: 8ut it 8ears repeating.</span>
-<span style="color: #005682">ARANEA: This was very special cheru8.</span>
+<span style="color: #005682">АРАНЕЯ: 8ut this game was never meant to 8e played solo.</span>
+<span style="color: #005682">АРАНЕЯ: Its format is inherently cooper8tive. The diversity of players, the com8in8tion of their efforts and aspects, this is what awakens the true cre8tive potential of the game. Without them, a session will wither and die.</span>
+<span style="color: #005682">АРАНЕЯ: If one enters alone, it completely alters the nature of the game. It changes its purpose.</span>
+<span style="color: #005682">АРАНЕЯ: For a solo player, a challenging quest 8ecomes an insurmounta8le one. A reward of infinite promise 8ecomes a 8oon far more sinister.</span>
+<span style="color: #005682">АРАНЕЯ: The gauntlet which the player must overcome is seemingly designed to 8e impossi8le. For all intents and purposes, it is not actually a game at all. It is a death sentence for any player foolish enough to accept the challenge.</span>
+<span style="color: #005682">АРАНЕЯ: 8ut it 8ears repeating.</span>
+<span style="color: #005682">АРАНЕЯ: This was very special cheru8.</span>
 ###
 007894
 X

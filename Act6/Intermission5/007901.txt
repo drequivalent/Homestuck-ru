@@ -7,11 +7,11 @@ e496b3f80d
 http://ru-homestuck.org/storyfiles/hs2/05998.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">ARANEA: The vast amount of resulting matter then collapses into a 8lack hole.</span>
-<span style="color: #005682">ARANEA: Its gravit8tional pull is tremendous. Any o8ject within range will 8e sucked in and destroyed.</span>
-<span style="color: #005682">ARANEA: Those planets which settle into or8it will 8e safe, for the time 8eing.</span>
-<span style="color: #005682">ARANEA: 8ut in the case of our villain's session, three of the planets did not make it and fell 8ack into the hole.</span>
-<span style="color: #005682">ARANEA: This was a very lucky 8r8k for him!</span>
+<span style="color: #005682">АРАНЕЯ: The vast amount of resulting matter then collapses into a 8lack hole.</span>
+<span style="color: #005682">АРАНЕЯ: Its gravit8tional pull is tremendous. Any o8ject within range will 8e sucked in and destroyed.</span>
+<span style="color: #005682">АРАНЕЯ: Those planets which settle into or8it will 8e safe, for the time 8eing.</span>
+<span style="color: #005682">АРАНЕЯ: 8ut in the case of our villain's session, three of the planets did not make it and fell 8ack into the hole.</span>
+<span style="color: #005682">АРАНЕЯ: This was a very lucky 8r8k for him!</span>
 ###
 007902
 X

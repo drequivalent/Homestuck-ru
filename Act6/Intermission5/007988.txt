@@ -7,7 +7,7 @@ f666644a07
 http://ru-homestuck.org/storyfiles/hs2/06085.gif
 ###
 |DIALOGLOG|
-<span style="color: #0715cd">JOHN: ...</span>
+<span style="color: #0715cd">ДЖОН: ...</span>
 ###
 007989
 X

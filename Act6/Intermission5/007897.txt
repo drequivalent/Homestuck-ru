@@ -7,29 +7,29 @@ c470b05561
 F|http://ru-homestuck.org/storyfiles/hs2/05994
 ###
 |DIALOGLOG|
-<span style="color: #005682">ARANEA: No denizen has ever 8een mistaken for pleasant company. 8ut the self-proclaimed god of all monsters is notoriously inhospita8le to his players.</span>
-<span style="color: #005682">ARANEA: His choices are known for their wild extremes.</span>
-<span style="color: #005682">ARANEA: And to this player, in this session, he offered his most extreme choice of all.</span>
-<span style="color: #005682">ARANEA: It was the choice 8etween a path of conquest, and a path of sacrifice.</span>
-<span style="color: #005682">ARANEA: 8ut this is putting it lightly.</span>
-<span style="color: #005682">ARANEA: In a tongue only his player could understand, he descri8ed what the path of the martyr entailed.</span>
-<span style="color: #005682">ARANEA: In short, it involved nothing.</span>
-<span style="color: #005682">ARANEA: The player chooses to walk away from the tempt8tion of power. To surrender all am8ition, and to welcome death.</span>
-<span style="color: #005682">ARANEA: In exchange for this pledge comes a promise. The player's sacrifice is assured to 8enefit all who will ever live.</span>
-<span style="color: #005682">ARANEA: In death, the player would later 8e in the position to help 8ring an end to a force of unfathoma8le evil and destruction.</span>
-<span style="color: #005682">ARANEA: A force which was unleashed, for instance, 8y someone who once opted for the other choice.</span>
-<span style="color: #005682">ARANEA: Yalda8aoth then descri8ed what it meant to choose the path of the conqueror.</span>
-<span style="color: #005682">ARANEA: It was a path for a more active player, to 8e sure. The player's mettle as a conquering force would 8e tested directly, and repeatedly.</span>
-<span style="color: #005682">ARANEA: One 8y one, he would have to conquer and destroy a num8er of planets spawned for him in the session. Each would 8e more difficult than the last.</span>
-<span style="color: #005682">ARANEA: After destroying them all, his true land would 8ecome unlocked.</span>
-<span style="color: #005682">ARANEA: He would then return to face his denizen again, and defeat him in com8at.</span>
-<span style="color: #005682">ARANEA: If successful, his reward would 8e unprecedented.</span>
-<span style="color: #005682">ARANEA: He would receive the 8oon of unconditional immortality, where resurrection would not 8e linked with the just or heroic nature of death.</span>
-<span style="color: #005682">ARANEA: It is unclear how this 8oon would 8e awarded, since to my knowledge it is 8eyond even the a8ility of a denizen to allow this.</span>
-<span style="color: #005682">ARANEA: 8ut through whatever mechanism the 8oon is 8estowed, immortality is only the 8eginning.</span>
-<span style="color: #005682">ARANEA: The player is somehow also im8ued with a limitless supply of power. Enough to destroy anything he wanted, for as long as he wanted.</span>
-<span style="color: #005682">ARANEA: And knowing the villain of our story, anything he wanted would be everything. And as long as he wanted would be forever.</span>
-<span style="color: #005682">ARANEA: Yes, knowing our villain, the choice he would make is quite clear.</span>
-<span style="color: #005682">ARANEA: Knowing him, in fact, proves it could hardly 8e considered a choice at all.</span>
+<span style="color: #005682">АРАНЕЯ: No denizen has ever 8een mistaken for pleasant company. 8ut the self-proclaimed god of all monsters is notoriously inhospita8le to his players.</span>
+<span style="color: #005682">АРАНЕЯ: His choices are known for their wild extremes.</span>
+<span style="color: #005682">АРАНЕЯ: And to this player, in this session, he offered his most extreme choice of all.</span>
+<span style="color: #005682">АРАНЕЯ: It was the choice 8etween a path of conquest, and a path of sacrifice.</span>
+<span style="color: #005682">АРАНЕЯ: 8ut this is putting it lightly.</span>
+<span style="color: #005682">АРАНЕЯ: In a tongue only his player could understand, he descri8ed what the path of the martyr entailed.</span>
+<span style="color: #005682">АРАНЕЯ: In short, it involved nothing.</span>
+<span style="color: #005682">АРАНЕЯ: The player chooses to walk away from the tempt8tion of power. To surrender all am8ition, and to welcome death.</span>
+<span style="color: #005682">АРАНЕЯ: In exchange for this pledge comes a promise. The player's sacrifice is assured to 8enefit all who will ever live.</span>
+<span style="color: #005682">АРАНЕЯ: In death, the player would later 8e in the position to help 8ring an end to a force of unfathoma8le evil and destruction.</span>
+<span style="color: #005682">АРАНЕЯ: A force which was unleashed, for instance, 8y someone who once opted for the other choice.</span>
+<span style="color: #005682">АРАНЕЯ: Yalda8aoth then descri8ed what it meant to choose the path of the conqueror.</span>
+<span style="color: #005682">АРАНЕЯ: It was a path for a more active player, to 8e sure. The player's mettle as a conquering force would 8e tested directly, and repeatedly.</span>
+<span style="color: #005682">АРАНЕЯ: One 8y one, he would have to conquer and destroy a num8er of planets spawned for him in the session. Each would 8e more difficult than the last.</span>
+<span style="color: #005682">АРАНЕЯ: After destroying them all, his true land would 8ecome unlocked.</span>
+<span style="color: #005682">АРАНЕЯ: He would then return to face his denizen again, and defeat him in com8at.</span>
+<span style="color: #005682">АРАНЕЯ: If successful, his reward would 8e unprecedented.</span>
+<span style="color: #005682">АРАНЕЯ: He would receive the 8oon of unconditional immortality, where resurrection would not 8e linked with the just or heroic nature of death.</span>
+<span style="color: #005682">АРАНЕЯ: It is unclear how this 8oon would 8e awarded, since to my knowledge it is 8eyond even the a8ility of a denizen to allow this.</span>
+<span style="color: #005682">АРАНЕЯ: 8ut through whatever mechanism the 8oon is 8estowed, immortality is only the 8eginning.</span>
+<span style="color: #005682">АРАНЕЯ: The player is somehow also im8ued with a limitless supply of power. Enough to destroy anything he wanted, for as long as he wanted.</span>
+<span style="color: #005682">АРАНЕЯ: And knowing the villain of our story, anything he wanted would be everything. And as long as he wanted would be forever.</span>
+<span style="color: #005682">АРАНЕЯ: Yes, knowing our villain, the choice he would make is quite clear.</span>
+<span style="color: #005682">АРАНЕЯ: Knowing him, in fact, proves it could hardly 8e considered a choice at all.</span>
 ###
 X

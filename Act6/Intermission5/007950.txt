@@ -7,35 +7,35 @@
 http://ru-homestuck.org/storyfiles/hs2/06047.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">VRISKA: Fine.</span>
-<span style="color: #005682">VRISKA: Don't give me the ring then.</span>
-<span style="color: #005682">VRISKA: Actually, you know what? Even if you change your mind some day, forget it!</span>
-<span style="color: #005682">VRISKA: I don't even want it anymore.</span>
-<span style="color: #0715cd">JOHN: you don't?</span>
-<span style="color: #005682">VRISKA: No.</span>
-<span style="color: #005682">VRISKA: I've 8een dead this long. What's a little longer.</span>
-<span style="color: #005682">VRISKA: Keep your ring. I don't want anyone's pity.</span>
-<span style="color: #005682">VRISKA: So 8eat it, Eg8ert.</span>
-<span style="color: #0715cd">JOHN: ...</span>
-<span style="color: #005682">VRISKA: ........</span>
-<span style="color: #005682">VRISKA: WELL????????</span>
-<span style="color: #0715cd">JOHN: huh?</span>
-<span style="color: #005682">VRISKA: JOHN, I THOUGHT YOU WERE LEAVING.</span>
-<span style="color: #0715cd">JOHN: oh. right.</span>
-<span style="color: #0715cd">JOHN: i guess i'll just be...</span>
-<span style="color: #005682">VRISKA: WHAT ARE YOU A FUCKING IDIOT?! DON'T GO YET.</span>
-<span style="color: #0715cd">JOHN: wh...</span>
-<span style="color: #0715cd">JOHN: what?</span>
-<span style="color: #005682">VRISKA: Look, you made yourself perfectly clear. You think I'm a heartless monster, and you don't want to help me out.</span>
-<span style="color: #005682">VRISKA: Whatever!</span>
-<span style="color: #005682">VRISKA: 8ut are you SERIOUSLY going to check out of this dream like TWO MINUTES 8efore you see what the treasure is?!</span>
-<span style="color: #005682">VRISKA: Holy crap, dude. Where is your sense of curiosity????????</span>
-<span style="color: #005682">VRISKA: If I can manage to put up with you for a little longer, I think you can stand my morally 8ankrupt company long enough to find out what this thing is.</span>
-<span style="color: #005682">VRISKA: Why am I the only person in paradox space who actually THINKS!</span>
-<span style="color: #0715cd">JOHN: oh.</span>
-<span style="color: #0715cd">JOHN: sure.</span>
-<span style="color: #0715cd">JOHN: i guess i'll go a little further and check out the treasure.</span>
-<span style="color: #0715cd">JOHN: heh, you're right. it would be dumb not to.</span>
-<span style="color: #005682">VRISKA: Good.</span>
+<span style="color: #005682">ВРИСКА: Fine.</span>
+<span style="color: #005682">ВРИСКА: Don't give me the ring then.</span>
+<span style="color: #005682">ВРИСКА: Actually, you know what? Even if you change your mind some day, forget it!</span>
+<span style="color: #005682">ВРИСКА: I don't even want it anymore.</span>
+<span style="color: #0715cd">ДЖОН: you don't?</span>
+<span style="color: #005682">ВРИСКА: No.</span>
+<span style="color: #005682">ВРИСКА: I've 8een dead this long. What's a little longer.</span>
+<span style="color: #005682">ВРИСКА: Keep your ring. I don't want anyone's pity.</span>
+<span style="color: #005682">ВРИСКА: So 8eat it, Eg8ert.</span>
+<span style="color: #0715cd">ДЖОН: ...</span>
+<span style="color: #005682">ВРИСКА: ........</span>
+<span style="color: #005682">ВРИСКА: WELL????????</span>
+<span style="color: #0715cd">ДЖОН: huh?</span>
+<span style="color: #005682">ВРИСКА: JOHN, I THOUGHT YOU WERE LEAVING.</span>
+<span style="color: #0715cd">ДЖОН: oh. right.</span>
+<span style="color: #0715cd">ДЖОН: i guess i'll just be...</span>
+<span style="color: #005682">ВРИСКА: WHAT ARE YOU A FUCKING IDIOT?! DON'T GO YET.</span>
+<span style="color: #0715cd">ДЖОН: wh...</span>
+<span style="color: #0715cd">ДЖОН: what?</span>
+<span style="color: #005682">ВРИСКА: Look, you made yourself perfectly clear. You think I'm a heartless monster, and you don't want to help me out.</span>
+<span style="color: #005682">ВРИСКА: Whatever!</span>
+<span style="color: #005682">ВРИСКА: 8ut are you SERIOUSLY going to check out of this dream like TWO MINUTES 8efore you see what the treasure is?!</span>
+<span style="color: #005682">ВРИСКА: Holy crap, dude. Where is your sense of curiosity????????</span>
+<span style="color: #005682">ВРИСКА: If I can manage to put up with you for a little longer, I think you can stand my morally 8ankrupt company long enough to find out what this thing is.</span>
+<span style="color: #005682">ВРИСКА: Why am I the only person in paradox space who actually THINKS!</span>
+<span style="color: #0715cd">ДЖОН: oh.</span>
+<span style="color: #0715cd">ДЖОН: sure.</span>
+<span style="color: #0715cd">ДЖОН: i guess i'll go a little further and check out the treasure.</span>
+<span style="color: #0715cd">ДЖОН: heh, you're right. it would be dumb not to.</span>
+<span style="color: #005682">ВРИСКА: Good.</span>
 ###
 X

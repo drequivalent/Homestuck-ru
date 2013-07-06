@@ -7,26 +7,26 @@ e813436338
 http://ru-homestuck.org/storyfiles/hs2/06038.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">VRISKA: Don't play dum8 with me. That ring you had.</span>
-<span style="color: #005682">VRISKA: You know, the same one the orange guy tried to give me?</span>
-<span style="color: #a15000">TAVROS: i STILL DON'T KNOW, aBOUT THIS ORANGE GUY YOU MENTION SOMETIMES,</span>
-<span style="color: #a15000">TAVROS: yOU TALK ABOUT ORANGE GUY, bUT, iN REALITY, hE SOUNDS PROBABLY FAKE?</span>
-<span style="color: #a15000">TAVROS: lIKE HOW YOU THOUGHT RUFIOH USED TO BE, uNTIL FACTS PROVED HE WASN'T,</span>
-<span style="color: #005682">VRISKA: You actually think I'm making this up? Why would I make up a story a8out an orange guy?!</span>
-<span style="color: #005682">VRISKA: What kind of juvenile fuckup do you take me for????????</span>
-<span style="color: #005682">VRISKA: The orange guy was real. He was surrounded 8y a 8unch of stupid fucking horses, and he tried to give me a ring so I knocked him out cold.</span>
-<span style="color: #005682">VRISKA: And then l8ter YOU found it.</span>
-<span style="color: #a15000">TAVROS: nO i DIDN'T,</span>
-<span style="color: #005682">VRISKA: Yes you did! Don't lie to me.</span>
-<span style="color: #005682">VRISKA: You had the ring, and you and John were fighting over it 8ehind your 8acks like a couple of idiots for a while.</span>
-<span style="color: #005682">VRISKA: What, you think I didn't notice?!</span>
-<span style="color: #a15000">TAVROS: yES, nO,</span>
-<span style="color: #a15000">TAVROS: i DIDN'T THINK YOU DID,</span>
-<span style="color: #005682">VRISKA: Well I did! And I didn't care 8ecause I didn't think the ring did jack shit!</span>
-<span style="color: #005682">VRISKA: 8ut now that I know it does jack A WHOLE FUCKING LOT, I would like you to stop 8ehaving like a disingenuous, argument8tive ASSH8LE and <span style="font-style: italic">T8LL ME WHERE IT IS</span>.</span>
-<span style="color: #a15000">TAVROS: i DON'T KNOW WHERE IT IS,</span>
-<span style="color: #a15000">TAVROS: iT'S GONE,</span>
-<span style="color: #005682">VRISKA: What do you mean it's gone!</span>
+<span style="color: #005682">ВРИСКА: Don't play dum8 with me. That ring you had.</span>
+<span style="color: #005682">ВРИСКА: You know, the same one the orange guy tried to give me?</span>
+<span style="color: #a15000">ТАВРОС: i STILL DON'T KNOW, aBOUT THIS ORANGE GUY YOU MENTION SOMETIMES,</span>
+<span style="color: #a15000">ТАВРОС: yOU TALK ABOUT ORANGE GUY, bUT, iN REALITY, hE SOUNDS PROBABLY FAKE?</span>
+<span style="color: #a15000">ТАВРОС: lIKE HOW YOU THOUGHT RUFIOH USED TO BE, uNTIL FACTS PROVED HE WASN'T,</span>
+<span style="color: #005682">ВРИСКА: You actually think I'm making this up? Why would I make up a story a8out an orange guy?!</span>
+<span style="color: #005682">ВРИСКА: What kind of juvenile fuckup do you take me for????????</span>
+<span style="color: #005682">ВРИСКА: The orange guy was real. He was surrounded 8y a 8unch of stupid fucking horses, and he tried to give me a ring so I knocked him out cold.</span>
+<span style="color: #005682">ВРИСКА: And then l8ter YOU found it.</span>
+<span style="color: #a15000">ТАВРОС: nO i DIDN'T,</span>
+<span style="color: #005682">ВРИСКА: Yes you did! Don't lie to me.</span>
+<span style="color: #005682">ВРИСКА: You had the ring, and you and John were fighting over it 8ehind your 8acks like a couple of idiots for a while.</span>
+<span style="color: #005682">ВРИСКА: What, you think I didn't notice?!</span>
+<span style="color: #a15000">ТАВРОС: yES, nO,</span>
+<span style="color: #a15000">ТАВРОС: i DIDN'T THINK YOU DID,</span>
+<span style="color: #005682">ВРИСКА: Well I did! And I didn't care 8ecause I didn't think the ring did jack shit!</span>
+<span style="color: #005682">ВРИСКА: 8ut now that I know it does jack A WHOLE FUCKING LOT, I would like you to stop 8ehaving like a disingenuous, argument8tive ASSH8LE and <span style="font-style: italic">T8LL ME WHERE IT IS</span>.</span>
+<span style="color: #a15000">ТАВРОС: i DON'T KNOW WHERE IT IS,</span>
+<span style="color: #a15000">ТАВРОС: iT'S GONE,</span>
+<span style="color: #005682">ВРИСКА: What do you mean it's gone!</span>
 ###
 007942
 X

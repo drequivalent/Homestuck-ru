@@ -7,9 +7,9 @@
 http://ru-homestuck.org/storyfiles/hs2/06210.gif
 ###
 |DIALOGLOG|
-<span style="color: #0715cd">JOHN: jaspers???</span>
-<span style="color: #0715cd">JOHN: dave sprite????</span>
-<span style="color: #0715cd">JOHN: ...</span>
+<span style="color: #0715cd">ДЖОН: jaspers???</span>
+<span style="color: #0715cd">ДЖОН: dave sprite????</span>
+<span style="color: #0715cd">ДЖОН: ...</span>
 ###
 008114
 X

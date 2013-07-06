@@ -7,8 +7,8 @@
 http://ru-homestuck.org/storyfiles/hs2/06208.gif
 ###
 |DIALOGLOG|
-<span style="color: #0715cd">JOHN: hello???</span>
-<span style="color: #0715cd">JOHN: is anyone there?</span>
+<span style="color: #0715cd">ДЖОН: hello???</span>
+<span style="color: #0715cd">ДЖОН: is anyone there?</span>
 ###
 008112
 X

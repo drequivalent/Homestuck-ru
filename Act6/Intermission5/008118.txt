@@ -7,7 +7,7 @@ c458ed0f0d
 http://ru-homestuck.org/storyfiles/hs2/06215.gif
 ###
 |DIALOGLOG|
-<span style="color: #0715cd">JOHN: sigh.</span>
+<span style="color: #0715cd">ДЖОН: sigh.</span>
 ###
 008119
 X

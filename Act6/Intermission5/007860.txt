@@ -7,12 +7,12 @@ d4da087651
 http://ru-homestuck.org/storyfiles/hs2/05957.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">ARANEA: There were some rough patches in my original telling which I can go 8ack and fix.</span>
-<span style="color: #005682">ARANEA: This time it will 8e much 8etter!</span>
-<span style="color: #0715cd">JOHN: ok.</span>
-<span style="color: #0715cd">JOHN: what's the story about?</span>
-<span style="color: #005682">ARANEA: It is a tale a8out a very mysterious alien race called cheru8s.</span>
-<span style="color: #005682">ARANEA: Let us 8egin.</span>
-<span style="color: #005682">ARANEA: Once upon a time........</span>
+<span style="color: #005682">АРАНЕЯ: There were some rough patches in my original telling which I can go 8ack and fix.</span>
+<span style="color: #005682">АРАНЕЯ: This time it will 8e much 8etter!</span>
+<span style="color: #0715cd">ДЖОН: ok.</span>
+<span style="color: #0715cd">ДЖОН: what's the story about?</span>
+<span style="color: #005682">АРАНЕЯ: It is a tale a8out a very mysterious alien race called cheru8s.</span>
+<span style="color: #005682">АРАНЕЯ: Let us 8egin.</span>
+<span style="color: #005682">АРАНЕЯ: Once upon a time........</span>
 ###
 X

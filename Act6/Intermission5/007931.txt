@@ -7,13 +7,13 @@
 F|http://ru-homestuck.org/storyfiles/hs2/06028
 ###
 |DIALOGLOG|
-<span style="color: #005682">VRISKA: Are you coming or what!</span>
-<span style="color: #005682">ARANEA: Yes, please come! I was a8out to 8egin one final story 8efore we reach the treasure!</span>
-<span style="color: #0715cd">JOHN: oh holy shit another story? i'm there!!!</span>
-<span style="color: #0715cd">JOHN: sorry aradia, i'd love to keep chatting, but you heard the lady. it's story time again.</span>
-<span style="color: #a1a100">SOLLUX: w0w aradia, y0u actually sent the guy running t0 hear a serket st0ry.</span>
-<span style="color: #a1a100">SOLLUX: that was a REALLY impressive creep 0ut j0b, nice.</span>
-<span style="color: #a10000">ARADIA: :(</span>
+<span style="color: #005682">ВРИСКА: Are you coming or what!</span>
+<span style="color: #005682">АРАНЕЯ: Yes, please come! I was a8out to 8egin one final story 8efore we reach the treasure!</span>
+<span style="color: #0715cd">ДЖОН: oh holy shit another story? i'm there!!!</span>
+<span style="color: #0715cd">ДЖОН: sorry aradia, i'd love to keep chatting, but you heard the lady. it's story time again.</span>
+<span style="color: #a1a100">СОЛЛУКС: w0w aradia, y0u actually sent the guy running t0 hear a serket st0ry.</span>
+<span style="color: #a1a100">СОЛЛУКС: that was a REALLY impressive creep 0ut j0b, nice.</span>
+<span style="color: #a10000">АРАДИЯ: :(</span>
 ###
 007932
 X

@@ -7,23 +7,23 @@
 http://ru-homestuck.org/storyfiles/hs2/06050.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">VRISKA: Not that it would even matter to some people.</span>
-<span style="color: #005682">VRISKA: You know, they can say whatever they want a8out me.</span>
-<span style="color: #005682">VRISKA: 8ut somewhere out there is a shimmering new universe growing in a 8ig 8all of water.</span>
-<span style="color: #005682">VRISKA: He's looking hells of majestic. Amphi8ious and resplendent. His glorious croak would 8ring you to your knees.</span>
-<span style="color: #005682">VRISKA: That universe is going to give life to 8illions of trillions of zillions of cute little aliens.</span>
-<span style="color: #005682">VRISKA: You wouldn't even 8elieve how pretty and wonderful and happy all these aliens will 8e. It's making your lip trem8le just thinking a8out them, and how worth saving they are. Wow.</span>
-<span style="color: #005682">VRISKA: You could walk up to one of those aliens and put your hand on its innocent shoulder, and with a str8 face you could say, &quot;Sorry to 8r8k it to you. 8ut tomorrow, a guy named Lord English is going to destroy your universe. You are all going to die.&quot;</span>
-<span style="color: #005682">VRISKA: And when that alien looks up at you with tears in its eyes, just 8efore the first one rolls down its weird alien cheek, you lean in close to its a8surd alien ear and whisper, &quot;Psyche.&quot;</span>
-<span style="color: #005682">VRISKA: That's 8ecause you know a long time ago, in an o8scure pocket of reality the alien could never understand or give a shit a8out, some crazy girl sacrificed the &quot;lives&quot; of a 8unch ghosts in order to kill that guy forever.</span>
-<span style="color: #005682">VRISKA: They were already a million sweeps past their prime, existing on 8orrowed time, luxuri8ting in a kind of 8izarre metaphysical longevity few others will ever enjoy.</span>
-<span style="color: #005682">VRISKA: Just a fresh 8atch of 88 the squid gods kept on ice for an ins8tia8le fisherman cause they were sick of 8eing hunted themselves.</span>
-<span style="color: #005682">VRISKA: Those ghosts were all that stood in the way of an end to this eternal holocaust, and sparing their souls 8n't different in my view from personally committing atrocities on a cosmic fucking scale.</span>
-<span style="color: #005682">VRISKA: I only ever wanted to do the right thing no matter how it made people judge me, and I don't need a magic ring to do that.</span>
-<span style="color: #005682">VRISKA: You don't have to 8e alive to make yourself relevant.</span>
-<span style="color: #005682">VRISKA: And you don't have to 8e a good person to 8e a hero.</span>
-<span style="color: #005682">VRISKA: You just have to know who you are and stay true to that.</span>
-<span style="color: #005682">VRISKA: So I'm going to keep fighting for people the only way I ever knew how.</span>
+<span style="color: #005682">ВРИСКА: Not that it would even matter to some people.</span>
+<span style="color: #005682">ВРИСКА: You know, they can say whatever they want a8out me.</span>
+<span style="color: #005682">ВРИСКА: 8ut somewhere out there is a shimmering new universe growing in a 8ig 8all of water.</span>
+<span style="color: #005682">ВРИСКА: He's looking hells of majestic. Amphi8ious and resplendent. His glorious croak would 8ring you to your knees.</span>
+<span style="color: #005682">ВРИСКА: That universe is going to give life to 8illions of trillions of zillions of cute little aliens.</span>
+<span style="color: #005682">ВРИСКА: You wouldn't even 8elieve how pretty and wonderful and happy all these aliens will 8e. It's making your lip trem8le just thinking a8out them, and how worth saving they are. Wow.</span>
+<span style="color: #005682">ВРИСКА: You could walk up to one of those aliens and put your hand on its innocent shoulder, and with a str8 face you could say, &quot;Sorry to 8r8k it to you. 8ut tomorrow, a guy named Lord English is going to destroy your universe. You are all going to die.&quot;</span>
+<span style="color: #005682">ВРИСКА: And when that alien looks up at you with tears in its eyes, just 8efore the first one rolls down its weird alien cheek, you lean in close to its a8surd alien ear and whisper, &quot;Psyche.&quot;</span>
+<span style="color: #005682">ВРИСКА: That's 8ecause you know a long time ago, in an o8scure pocket of reality the alien could never understand or give a shit a8out, some crazy girl sacrificed the &quot;lives&quot; of a 8unch ghosts in order to kill that guy forever.</span>
+<span style="color: #005682">ВРИСКА: They were already a million sweeps past their prime, existing on 8orrowed time, luxuri8ting in a kind of 8izarre metaphysical longevity few others will ever enjoy.</span>
+<span style="color: #005682">ВРИСКА: Just a fresh 8atch of 88 the squid gods kept on ice for an ins8tia8le fisherman cause they were sick of 8eing hunted themselves.</span>
+<span style="color: #005682">ВРИСКА: Those ghosts were all that stood in the way of an end to this eternal holocaust, and sparing their souls 8n't different in my view from personally committing atrocities on a cosmic fucking scale.</span>
+<span style="color: #005682">ВРИСКА: I only ever wanted to do the right thing no matter how it made people judge me, and I don't need a magic ring to do that.</span>
+<span style="color: #005682">ВРИСКА: You don't have to 8e alive to make yourself relevant.</span>
+<span style="color: #005682">ВРИСКА: And you don't have to 8e a good person to 8e a hero.</span>
+<span style="color: #005682">ВРИСКА: You just have to know who you are and stay true to that.</span>
+<span style="color: #005682">ВРИСКА: So I'm going to keep fighting for people the only way I ever knew how.</span>
 ###
 007954
 X

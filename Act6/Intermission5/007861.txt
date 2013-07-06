@@ -8,18 +8,18 @@ http://ru-homestuck.org/storyfiles/hs2/05958_1.gif
 http://ru-homestuck.org/storyfiles/hs2/05958_2.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">ARANEA: There was a very mysterious alien race called cheru8s!</span>
-<span style="color: #77003c">MEENAH: aranea i thought you said youd fix the shitty parts of the story</span>
-<span style="color: #77003c">MEENAH: you started with that crappy line the first time too</span>
-<span style="color: #005682">ARANEA: The opening line is fine!</span>
-<span style="color: #77003c">MEENAH: its aight i guess</span>
-<span style="color: #77003c">MEENAH: knot</span>
-<span style="color: #005682">ARANEA: Oh shut up and let me tell my story.</span>
-<span style="color: #005682">ARANEA: Now where was I?</span>
-<span style="color: #0715cd">JOHN: there was a very mysterious alien race called cherubs.</span>
-<span style="color: #005682">ARANEA: Right.</span>
-<span style="color: #005682">ARANEA: There was a very mysterious alien race called cheru8s.</span>
-<span style="color: #005682">ARANEA: 8ut there was one cheru8 in particular who, for at least the first half of our story, will 8e our heroine.</span>
+<span style="color: #005682">АРАНЕЯ: There was a very mysterious alien race called cheru8s!</span>
+<span style="color: #77003c">МИНА: aranea i thought you said youd fix the shitty parts of the story</span>
+<span style="color: #77003c">МИНА: you started with that crappy line the first time too</span>
+<span style="color: #005682">АРАНЕЯ: The opening line is fine!</span>
+<span style="color: #77003c">МИНА: its aight i guess</span>
+<span style="color: #77003c">МИНА: knot</span>
+<span style="color: #005682">АРАНЕЯ: Oh shut up and let me tell my story.</span>
+<span style="color: #005682">АРАНЕЯ: Now where was I?</span>
+<span style="color: #0715cd">ДЖОН: there was a very mysterious alien race called cherubs.</span>
+<span style="color: #005682">АРАНЕЯ: Right.</span>
+<span style="color: #005682">АРАНЕЯ: There was a very mysterious alien race called cheru8s.</span>
+<span style="color: #005682">АРАНЕЯ: 8ut there was one cheru8 in particular who, for at least the first half of our story, will 8e our heroine.</span>
 ###
 007862
 X

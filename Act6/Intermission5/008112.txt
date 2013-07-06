@@ -7,8 +7,8 @@
 http://ru-homestuck.org/storyfiles/hs2/06209.gif
 ###
 |DIALOGLOG|
-<span style="color: #0715cd">JOHN: jade?</span>
-<span style="color: #0715cd">JOHN: nanna??</span>
+<span style="color: #0715cd">ДЖОН: jade?</span>
+<span style="color: #0715cd">ДЖОН: nanna??</span>
 ###
 008113
 X

@@ -7,20 +7,20 @@
 http://ru-homestuck.org/storyfiles/hs2/06031.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">ARANEA: The rings are said to look nearly identical.</span>
-<span style="color: #005682">ARANEA: 8ut their powers are quite different, as are their origins.</span>
-<span style="color: #005682">ARANEA: The Ring of Void supposedly once 8elonged to the 8lack queen of a void session.</span>
-<span style="color: #005682">ARANEA: 8ut one day it was stolen from her 8y a thief. And then stolen again from the thief 8y a rogue.</span>
-<span style="color: #005682">ARANEA: Legend would suggest it changed hands like this for a long time thereafter, until finally vanishing into the void itself forever.</span>
-<span style="color: #005682">ARANEA: Which is fitting, as the ring grants its wearer the a8ility to do exactly the same!</span>
-<span style="color: #005682">ARANEA: The Ring of Life has a very different story.</span>
-<span style="color: #005682">ARANEA: I have found no reports of an origin to this ring at all. Like many magic artifacts, it may not even have one which is comprehensi8le.</span>
-<span style="color: #005682">ARANEA: Earliest reports I have read would suggest it was first discovered 8y some travelers in a desert, and like its sister ring, has changed hands repeatedly since.</span>
-<span style="color: #005682">ARANEA: This ring however has a dramatically different effect. Instead of releg8ting the wearer to o8scurity and immateriality, it does just the opposite.</span>
-<span style="color: #005682">ARANEA: It is said that any ghost who wears this ring will come 8ack to life!</span>
-<span style="color: #005682">ARANEA: In some stories, the f8 of each ring appears to 8e entangled with the other. When one is lost, the other is serendipitously found.</span>
-<span style="color: #005682">ARANEA: A gr8 example of this can 8e o8served in the fa8le of-</span>
-<span style="color: #005682">VRISKA: W8 a minute........</span>
+<span style="color: #005682">АРАНЕЯ: The rings are said to look nearly identical.</span>
+<span style="color: #005682">АРАНЕЯ: 8ut their powers are quite different, as are their origins.</span>
+<span style="color: #005682">АРАНЕЯ: The Ring of Void supposedly once 8elonged to the 8lack queen of a void session.</span>
+<span style="color: #005682">АРАНЕЯ: 8ut one day it was stolen from her 8y a thief. And then stolen again from the thief 8y a rogue.</span>
+<span style="color: #005682">АРАНЕЯ: Legend would suggest it changed hands like this for a long time thereafter, until finally vanishing into the void itself forever.</span>
+<span style="color: #005682">АРАНЕЯ: Which is fitting, as the ring grants its wearer the a8ility to do exactly the same!</span>
+<span style="color: #005682">АРАНЕЯ: The Ring of Life has a very different story.</span>
+<span style="color: #005682">АРАНЕЯ: I have found no reports of an origin to this ring at all. Like many magic artifacts, it may not even have one which is comprehensi8le.</span>
+<span style="color: #005682">АРАНЕЯ: Earliest reports I have read would suggest it was first discovered 8y some travelers in a desert, and like its sister ring, has changed hands repeatedly since.</span>
+<span style="color: #005682">АРАНЕЯ: This ring however has a dramatically different effect. Instead of releg8ting the wearer to o8scurity and immateriality, it does just the opposite.</span>
+<span style="color: #005682">АРАНЕЯ: It is said that any ghost who wears this ring will come 8ack to life!</span>
+<span style="color: #005682">АРАНЕЯ: In some stories, the f8 of each ring appears to 8e entangled with the other. When one is lost, the other is serendipitously found.</span>
+<span style="color: #005682">АРАНЕЯ: A gr8 example of this can 8e o8served in the fa8le of-</span>
+<span style="color: #005682">ВРИСКА: W8 a minute........</span>
 ###
 007935
 X
