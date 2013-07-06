@@ -7,7 +7,7 @@
 http://ru-homestuck.org/storyfiles/hs2/05929.gif
 ###
 |DIALOGLOG|
-<span style="color: #626262">KARKAT: *SIGH*</span>
+<span style="color: #626262">КАРКАТ: *ВЗДОХ*</span>
 ###
 007833
 X

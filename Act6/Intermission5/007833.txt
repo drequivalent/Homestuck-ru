@@ -7,11 +7,11 @@
 http://ru-homestuck.org/storyfiles/hs2/05930.gif
 ###
 |DIALOGLOG|
-<span style="color: #626262">KARKAT: I DON'T</span>
+<span style="color: #626262">KARKAT: Я</span>
 <span style="color: #626262">KARKAT: ...</span>
-<span style="color: #626262">KARKAT: HOW DO I EVEN BEGIN TO ADDRESS THIS SHIT.</span>
-<span style="color: #626262">KARKAT: OK, HOW ABOUT THIS.</span>
-<span style="color: #626262">KARKAT: SINCE I CAN'T THINK OF A BETTER GENERAL PURPOSE QUESTION TO HELP BREAK THE ICE IN LITERALLY ANY IMAGINABLE SOCIAL SITUATION.</span>
+<span style="color: #626262">KARKAT: Я ДАЖЕ НЕ ЗНАЮ, ЧТО СКАЗАТЬ ПО ПОВОДУ ЭТОЙ ХЕРИ.</span>
+<span style="color: #626262">KARKAT: ОК, КАК НАСЧЕТ ТАКОГО.</span>
+<span style="color: #626262">KARKAT: ИБО Я НЕ МОГУ ВСПОМНИТЬ НИ ОДНОГО ПОДХОДЯЩЕГО ВОПРОСА ДЛЯ ТОГО, ЧТОБЫ РАЗРЯДИТЬ ОБСТАНОВКУ ПРАКТИЧЕСКИ НИ В ОДНОЙ СОЦИАЛЬНОЙ СИТУАЦИИ.</span>
 ###
 007834
 X
