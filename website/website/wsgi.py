@@ -15,11 +15,19 @@ framework.
 """
 import os
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysite.settings")
+import sys                                              #new
+path = '/var/www/Homestuck-ru/website/'                           #new
+if path not in sys.path:                                #new
+    sys.path.append(path)
+
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "website.settings")
 
 # This application object is used by any WSGI server configured to use this
 # file. This includes Django's development server, if the WSGI_APPLICATION
 # setting points here.
+
+print >> sys.stderr, sys.path
+
 from django.core.wsgi import get_wsgi_application
 application = get_wsgi_application()
 

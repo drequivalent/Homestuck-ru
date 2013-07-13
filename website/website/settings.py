@@ -151,4 +151,4 @@ LOGGING = {
 }
 
 import os.path
-HOMESTUCK_STORYFILES_DIR = os.path.abspath("..")
+HOMESTUCK_STORYFILES_DIR = os.path.abspath("/var/www/Homestuck-ru")
