@@ -7,8 +7,8 @@
 http://ru-homestuck.org/storyfiles/hs2/05935.gif
 ###
 |DIALOGLOG|
-<span style="color: #626262">КАРКАТ: WAKE UP SLEEPY HEAD!</span>
-<span style="color: #626262">КАРКАТ: HONK HONK HONK, YEAH THAT'S RIGHT! IT'S TIME TO FACE THE FUCKING MUSIC.</span>
+<span style="color: #626262">КАРКАТ: ВСТАВАЙ, СОНЯ!</span>
+<span style="color: #626262">КАРКАТ: ХОНК-ХОНК-ХОНК, ЕБАТЬ, ДА! ПРОСНИСЬ, БЛЯТЬ, И ПОЙ.</span>
 ###
 007839
 X
