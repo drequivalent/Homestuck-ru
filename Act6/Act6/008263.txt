@@ -1,0 +1,92 @@
+[A6A6I1] ====&gt;
+###
+7440f5fdf5
+###
+1373764298
+###
+http://ru-homestuck.org/storyfiles/hs2/06361.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: i dunno.</span>
+<span style="color: #0715cd">JOHN: but i think it might have to do with this new power i have.</span>
+<span style="color: #b536da">ROSE: What power?</span>
+<span style="color: #0715cd">JOHN: it's not a god tier power.</span>
+<span style="color: #0715cd">JOHN: it's something else. something i got when i stuck my hand in a magic thing.</span>
+<span style="color: #b536da">ROSE: A magic thing?</span>
+<span style="color: #0715cd">JOHN: um, that's a long story.</span>
+<span style="color: #0715cd">JOHN: one involving pirates.</span>
+<span style="color: #b536da">ROSE: Pirates??</span>
+<span style="color: #0715cd">JOHN: i said it's a long story!</span>
+<span style="color: #0715cd">JOHN: anyway, when i put my hand in the thing...</span>
+<span style="color: #0715cd">JOHN: i became all... blurry.</span>
+<span style="color: #b536da">ROSE: Blurry.</span>
+<span style="color: #0715cd">JOHN: yes.</span>
+<span style="color: #0715cd">JOHN: and i kept randomly getting blurry and disappearing.</span>
+<span style="color: #0715cd">JOHN: and now i think i'm sort of unstuck in existence.</span>
+<span style="color: #0715cd">JOHN: like i'm not fully a part of reality anymore, or bound by the rules governing it.</span>
+<span style="color: #b536da">ROSE: ...</span>
+<span style="color: #0715cd">JOHN: man, i'm doing a terrible job explaining this.</span>
+<span style="color: #0715cd">JOHN: ok, the bottom line is, now i just randomly disappear sometimes!</span>
+<span style="color: #0715cd">JOHN: and i reappear somewhere else in time and space.</span>
+<span style="color: #0715cd">JOHN: but it's not really like normal time travel.</span>
+<span style="color: #0715cd">JOHN: at least, i don't think so.</span>
+<span style="color: #0715cd">JOHN: with regular time travel, the rules are pretty strict.</span>
+<span style="color: #0715cd">JOHN: either paradox space already accounted for your time traveling, and you were always supposed to do it all along...</span>
+<span style="color: #0715cd">JOHN: or you messed up, and changed something you weren't supposed to. in which case you just made a bad timeline, and everyone dies or something. right?</span>
+<span style="color: #b536da">ROSE: Sure.</span>
+<span style="color: #0715cd">JOHN: but this isn't like that.</span>
+<span style="color: #0715cd">JOHN: i'm not sure how i know, but it feels like these jumps are totally outside all those rules.</span>
+<span style="color: #0715cd">JOHN: when i jump somewhere, like in the past...</span>
+<span style="color: #0715cd">JOHN: i think i can actually change stuff that isn't supposed to be changed.</span>
+<span style="color: #0715cd">JOHN: which makes me kinda nervous!</span>
+<span style="color: #b536da">ROSE: Hmm.</span>
+<span style="color: #b536da">ROSE: Can you demonstrate this ability?</span>
+<span style="color: #0715cd">JOHN: not really.</span>
+<span style="color: #0715cd">JOHN: i mean, not intentionally.</span>
+<span style="color: #0715cd">JOHN: i can't seem to control the jumps.</span>
+<span style="color: #0715cd">JOHN: maybe that's for the best though.</span>
+<span style="color: #0715cd">JOHN: if i could control it, and tried to use it to my advantage, i would probably just make a huge mess of things.</span>
+<span style="color: #008282">TEREZI: Y3S, YOU WOULD</span>
+<span style="color: #b536da">ROSE: Even so, it will be worth noting if you're able to refine the ability.</span>
+<span style="color: #b536da">ROSE: Could you please keep me informed of any developments?</span>
+<span style="color: #0715cd">JOHN: yeah!</span>
+<span style="color: #b536da">ROSE: And while you're at it, maybe you could tell us exactly what happened just after we arrived.</span>
+<span style="color: #0715cd">JOHN: ummmm...</span>
+<span style="color: #0715cd">JOHN: well, we were all pretty confused at first.</span>
+<span style="color: #0715cd">JOHN: you all just appeared out of nowhere, and started babbling about evil jade.</span>
+<span style="color: #0715cd">JOHN: you asked me what happened, but i didn't know anything because i just got there myself, and was all alone.</span>
+<span style="color: #0715cd">JOHN: but then it was cool, we all just walked around the land of hills and stone henges, or whatever it's called, and caught up a bit on the last three years.</span>
+<span style="color: #0715cd">JOHN: we were trying to figure out what to do, and decided it would be a good idea to try and meet up with all the new kids.</span>
+<span style="color: #0715cd">JOHN: but we had no idea where they were.</span>
+<span style="color: #0715cd">JOHN: and i still don't, except i have since determined that my teen nanna is evil too.</span>
+<span style="color: #0715cd">JOHN: but she is more like an evil robot than a scary wolf girl. um, but i digress.</span>
+<span style="color: #0715cd">JOHN: so we were planning to make some scouting expeditions to the new planets to look for them, and everything was fine.</span>
+<span style="color: #0715cd">JOHN: that is, until evil jade showed up.</span>
+<span style="color: #0715cd">JOHN: she made you all disappear again, and then came after me, but i used my windy powers to evade her, which really pissed her off!</span>
+<span style="color: #0715cd">JOHN: so she beat the crap out of me. :(</span>
+<span style="color: #0715cd">JOHN: but then i randomly zapped away, and have been running from her ever since.</span>
+<span style="color: #0715cd">JOHN: i am swishing the breeze around like crazy to throw her off my trail, but she keeps finding me.</span>
+<span style="color: #0715cd">JOHN: she's so crafty!</span>
+<span style="color: #b536da">ROSE: That's good.</span>
+<span style="color: #b536da">ROSE: We need you out there if we're going to stand a chance of accomplishing anything.</span>
+<span style="color: #b536da">ROSE: I agree with our prior conclusions. Finding the other players is imperative.</span>
+<span style="color: #b536da">ROSE: Given the current state of the session, I would not be surprised if they are all prisoners as well.</span>
+<span style="color: #b536da">ROSE: Do you think you can find them?</span>
+<span style="color: #0715cd">JOHN: yes, i can try.</span>
+<span style="color: #0715cd">JOHN: what should i do when i find them?</span>
+<span style="color: #b536da">ROSE: ...</span>
+<span style="color: #b536da">ROSE: That's a good question.</span>
+<span style="color: #0715cd">JOHN: heheh.</span>
+<span style="color: #b536da">ROSE: First, I guess just tell them,</span>
+<span style="color: #b536da">ROSE: We're here.</span>
+<span style="color: #0715cd">JOHN: alright.</span>
+<span style="color: #b536da">ROSE: I don't know. We'll figure something out.</span>
+<span style="color: #0715cd">JOHN: if i see your mom, is there anything you want me to tell her?</span>
+<span style="color: #b536da">ROSE: My mom?</span>
+<span style="color: #0715cd">JOHN: yes. i mean, your kid mom, obviously.</span>
+<span style="color: #b536da">ROSE: I know.</span>
+<span style="color: #b536da">ROSE: Uh,</span>
+<span style="color: #b536da">ROSE: Wow.</span>
+###
+008264
+X
