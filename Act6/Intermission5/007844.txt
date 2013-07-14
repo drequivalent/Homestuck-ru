@@ -7,13 +7,13 @@ fd59dadbc9
 http://ru-homestuck.org/storyfiles/hs2/05941.gif
 ###
 |SPRITELOG|
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: i sure do talk to myself a lot dont i</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: wow why have i never made this observation</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: i probably needed to be a bird for exactly three years to finally have that epiphany</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: i wonder if real dave ever had that epiphany</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: probably not cause hes not a bird</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: the bottom line is being a guy whos also a bird makes you think</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: anyway im out</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: дохрена я скм с собоу разговариваю не так ли</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: никогда не замечал за собой такого ух ты</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: мне наверное понадобилось побыть птицей в точности три года чтобы достигнуть такого просветления</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: интересно достигал ли настоящий дейв такого просветления</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: скорее всего нет он же не птица</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: короче говоря быть парнем который еще и птица заставляет тебя думать</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: как бы то ни было пойду я</span>
 ###
 007845
 X

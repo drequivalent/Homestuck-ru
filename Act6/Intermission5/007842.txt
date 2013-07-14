@@ -7,18 +7,18 @@
 http://ru-homestuck.org/storyfiles/hs2/05939.gif
 ###
 |SPRITELOG|
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: but you are kind of missing some important shit here</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: we spent three faux relativistic years cruising through the metaphysical asscrack of nowhere</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: and when we finally get here youre all tuckered out</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: like yall didnt sleep enough on this boat already</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: some of the sicknastiest shuteye anyone ever got i owe to this friggin boat</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: dude this is a big deal everyones waiting for us out there</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: i mean...</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: probably</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: i dont know where we are some green hilly place with all these stone henges sprinkled around</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: did you know there could be a plurality of stone henges i didnt but guess fucking what</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: henges APLENTY where this place is concerned</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: hey wheres jade</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: ты правда не пропустишь одну важную хрень</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: мы провели три релятивистских псевдогода дрейфуя сквозь метафизическую межпространственную жопу</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: и когда мы наконец добрались ты решил повалаться в отключке</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: будто ты не высыпался на этом корабле достаточно</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: по мне так вообще за самый клевый высыпон в жизни я обязан этому гребучему судну</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: чувак все серьезно нас там все ждут</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: в смысле...</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: наверное</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: я не знаю где мы но мы в каком-то месте полном зеленых холмов со всеми этими стоунхенджами там и тут</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: ты знал что стоунхенджей может быть много я вот не знал но таки да блять</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: стоунхенджей просто НАВАЛОМ по крайней мере в этом месте</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: эй а где джейд</span>
 ###
 007843
 X

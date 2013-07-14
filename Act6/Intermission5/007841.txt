@@ -7,9 +7,9 @@
 http://ru-homestuck.org/storyfiles/hs2/05938.gif
 ###
 |SPRITELOG|
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: wake up sleepy head</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: wait why did i even say that</span>
-<span style="color: #f2a400">ДЕЙВСПРАЙТ: stay asleep all you want like i give a fuck</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: вставай соня</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: стоп зачем я вообще это говорю</span>
+<span style="color: #f2a400">ДЕЙВСПРАЙТ: спи сколько влезет мне по барабану</span>
 ###
 007842
 X
