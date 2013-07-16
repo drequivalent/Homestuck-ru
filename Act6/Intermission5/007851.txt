@@ -7,11 +7,11 @@ b21910795d
 http://ru-homestuck.org/storyfiles/hs2/05948.gif
 ###
 |DIALOGLOG|
-<span style="color: #77003c">МИНА: ey its the blue buoy again!</span>
-<span style="color: #77003c">МИНА: sea him there just off the starboard shit</span>
-<span style="color: #77003c">МИНА: yo watch how far away i can fork him from</span>
-<span style="color: #005682">АРАНЕЯ: Meenah, put the trident down.</span>
-<span style="color: #005682">АРАНЕЯ: Don't make me conchfishscate it again.</span>
+<span style="color: #77003c">МИНА: эй это ж снова тот синий парень!</span>
+<span style="color: #77003c">МИНА: видите там справа по курсу</span>
+<span style="color: #77003c">МИНА: йо, смотрите, как я его издалека проткну</span>
+<span style="color: #005682">АРАНЕЯ: Мина, положи трезубец.</span>
+<span style="color: #005682">АРАНЕЯ: Не заставляй меня его снова (confishcate).</span>
 <span style="color: #77003c">МИНА: 38D</span>
 <span style="color: #77003c">МИНА: 38D</span>
 <span style="color: #77003c">МИНА: conchfishscate</span>
