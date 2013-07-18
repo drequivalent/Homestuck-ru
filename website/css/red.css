@@ -1,0 +1,34 @@
+body {
+	background-color: #440606;
+}
+
+.logo {
+	background-image: url('red.png');
+}
+
+.nav {
+	background: #4e0707;
+}
+
+#left {
+	background: #e7beb5;
+	border-color: #ffffff;
+}
+
+#news {
+	background: #ffffff;
+}
+
+
+.nav a {
+	color:#ffede9 !important;
+}
+
+a {
+	color: #440606 !important;
+}
+
+#page {
+	background: #ffede9;
+	border-color: #e7beb5;
+}
