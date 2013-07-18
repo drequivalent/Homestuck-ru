@@ -7,11 +7,11 @@
 http://ru-homestuck.org/storyfiles/hs2/05949.gif
 ###
 |DIALOGLOG|
-<span style="color: #005682">ВРИСКА: Hey, it's John!</span>
-<span style="color: #0715cd">ДЖОН: vriska, is that you?</span>
-<span style="color: #005682">ВРИСКА: Yeah! Get over here!!!!!!!!</span>
-<span style="color: #0715cd">ДЖОН: alright.</span>
-<span style="color: #a15000">ТАВРОС: (oH,)</span>
-<span style="color: #a15000">ТАВРОС: (gREAT,)</span>
+<span style="color: #005682">ВРИСКА: Эй, да это Джон!</span>
+<span style="color: #0715cd">ДЖОН: вриска, это ты?</span>
+<span style="color: #005682">ВРИСКА: Да! Давай сюда!!!!!!!!</span>
+<span style="color: #0715cd">ДЖОН: ладно.</span>
+<span style="color: #a15000">ТАВРОС: (о,)</span>
+<span style="color: #a15000">ТАВРОС: (зАШИБИСЬ,)</span>
 ###
 X

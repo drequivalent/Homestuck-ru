@@ -7,38 +7,38 @@
 http://ru-homestuck.org/storyfiles/hs2/05951.gif
 ###
 |DIALOGLOG|
-<span style="color: #0715cd">ДЖОН: by the way, hi tavros.</span>
-<span style="color: #0715cd">ДЖОН: how have you been?</span>
-<span style="color: #a15000">ТАВРОС: oKAY,</span>
-<span style="color: #0715cd">ДЖОН: cool pirate outfit you have there.</span>
-<span style="color: #a15000">ТАВРОС: nO, tHANKS, bUT IT'S NOT COOL, IT'S DUMB,</span>
-<span style="color: #a15000">ТАВРОС: vRISKA WANTS ME TO WEAR IT THOUGH, sO i DO, sO SHE'LL BE HAPPY,</span>
-<span style="color: #a15000">ТАВРОС: dON'T ASK ME WHERE MY PANTS ARE,,,</span>
-<span style="color: #0715cd">ДЖОН: i wasn't going to.</span>
-<span style="color: #005682">ВРИСКА: We all look amazing as pir8tes.</span>
-<span style="color: #005682">ВРИСКА: This is non-negotia8le.</span>
-<span style="color: #0715cd">ДЖОН: no argument here!</span>
-<span style="color: #0715cd">ДЖОН: what about the rest of your crew?</span>
-<span style="color: #0715cd">ДЖОН: i remember her, the punky one who always likes to stab me with her spear...</span>
-<span style="color: #0715cd">ДЖОН: but i really hope she doesn't do that this time.</span>
-<span style="color: #77003c">МИНА: (dream on blue nerd)</span>
-<span style="color: #77003c">МИНА: (you in my crosshairs sucka)</span>
-<span style="color: #77003c">МИНА: (gotch u right where i want)</span>
-<span style="color: #77003c">МИНА: (just biding my time)</span>
-<span style="color: #77003c">МИНА: (biding and biding)</span>
-<span style="color: #77003c">МИНА: (gonna hunt you til we both double dead)</span>
-<span style="color: #77003c">МИНА: (you are my obsession lil bluefish)</span>
-<span style="color: #77003c">МИНА: (my shrimpiest of whales)</span>
-<span style="color: #77003c">МИНА: (my mobiest of dicks)</span>
-<span style="color: #77003c">МИНА: (call me)</span>
-<span style="color: #77003c">МИНА: (fishmael)</span>
+<span style="color: #0715cd">ДЖОН: о, кстати, привет, таврос.</span>
+<span style="color: #0715cd">ДЖОН: как дела?</span>
+<span style="color: #a15000">ТАВРОС: нОРМАЛЬНО,</span>
+<span style="color: #0715cd">ДЖОН: клевый пиратский прикид.</span>
+<span style="color: #a15000">ТАВРОС: сПАСИБО, кОНЕЧНО, нО ОН НЕ КЛЕВЫЙ, оН ДЕБИЛЬНЫЙ,</span>
+<span style="color: #a15000">ТАВРОС: пРОСТО ВРИСКА ХОЧЕТ, чТОБЫ Я ЕГО НОСИЛ, вОТ Я И НОШУ ЕГО, чТОБЫ ЕЕ ПОРАДОВАТЬ,</span>
+<span style="color: #a15000">ТАВРОС: нЕСПРАШИВАЙ, гДЕ МОИ ШТАНЫ,</span>
+<span style="color: #0715cd">ДЖОН: и не собирался.</span>
+<span style="color: #005682">ВРИСКА: Мы 8се 8ыглядим потрясающе 8 пиратских шмотках.</span>
+<span style="color: #005682">ВРИСКА: Это не обсуждается.</span>
+<span style="color: #0715cd">ДЖОН: не спорю!</span>
+<span style="color: #0715cd">ДЖОН: а что с твоим остальным экипажем?</span>
+<span style="color: #0715cd">ДЖОН: я помню вот эту, припанкованную, которая еще любит в меня своим копьем кидаться...</span>
+<span style="color: #0715cd">ДЖОН: правда, надеюсь, в этот раз она этого делать не станет.</span>
+<span style="color: #77003c">МИНА: (мечтать не вредно синий задротик)</span>
+<span style="color: #77003c">МИНА: (ты у меня на прицеле сучка)</span>
+<span style="color: #77003c">МИНА: (прямо там где мне надо)</span>
+<span style="color: #77003c">МИНА: (я просто тяну время)</span>
+<span style="color: #77003c">МИНА: (жду-выжидаю)</span>
+<span style="color: #77003c">МИНА: (буду преследовать тебя пока мы оба дважды не умрем)</span>
+<span style="color: #77003c">МИНА: (я тобой одержима, окунек мой голубенький)</span>
+<span style="color: #77003c">МИНА: (криветейший из кашалотов)</span>
+<span style="color: #77003c">МИНА: (китейший из мобидиков)</span>
+<span style="color: #77003c">МИНА: (зовите меня)</span>
+<span style="color: #77003c">МИНА: (лещмаил)</span>
 <span style="color: #77003c">МИНА: 3B|</span>
-<span style="color: #005682">АРАНЕЯ: <span style="font-style: italic">(STOPIT!)</span></span>
-<span style="color: #0715cd">ДЖОН: but i don't know the one who looks kind of like your sister.</span>
-<span style="color: #0715cd">ДЖОН: what is your name?</span>
-<span style="color: #005682">АРАНЕЯ: Aranea. ::::)</span>
-<span style="color: #0715cd">ДЖОН: hi.</span>
-<span style="color: #0715cd">ДЖОН: and what about those two over there?</span>
+<span style="color: #005682">АРАНЕЯ: <span style="font-style: italic">(ПРЕКРАТИ!)</span></span>
+<span style="color: #0715cd">ДЖОН: но я не знаю ту, что похожа на тебя как сестра.</span>
+<span style="color: #0715cd">ДЖОН: как тебя зовут?</span>
+<span style="color: #005682">АРАНЕЯ: Аранея. ::::)</span>
+<span style="color: #0715cd">ДЖОН: привет.</span>
+<span style="color: #0715cd">ДЖОН: а кто вон те двое?</span>
 ###
 007855
 X

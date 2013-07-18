@@ -7,24 +7,24 @@
 http://ru-homestuck.org/storyfiles/hs2/05953.gif
 ###
 |DIALOGLOG|
-<span style="color: #0715cd">ДЖОН: and what about all those ships up ahead?</span>
-<span style="color: #0715cd">ДЖОН: are they part of the treasure hunt too?</span>
-<span style="color: #005682">ВРИСКА: Of course!</span>
-<span style="color: #005682">ВРИСКА: That's my army.</span>
-<span style="color: #77003c">МИНА: *COUG)(*</span>
-<span style="color: #005682">ВРИСКА: Ok, I mean OUR army.</span>
-<span style="color: #005682">ВРИСКА: 8ut like, on 8oats.</span>
-<span style="color: #0715cd">ДЖОН: isn't an army on boats usually called a navy?</span>
-<span style="color: #005682">ВРИСКА: John, help me out. I seem to 8e having trou8le remem8ering which one of us is the captain.</span>
-<span style="color: #005682">ВРИСКА: Was it the dork in 8lue pajamas, or was it the veteran sailor in the rad captain's coat?</span>
-<span style="color: #005682">ВРИСКА: That's right, the captain was me! And I say it's an army that happens to 8e on a 8unch of 8oats.</span>
-<span style="color: #a15000">ТАВРОС: (oHHHHHH, oHH DAMN,)</span>
-<span style="color: #a15000">ТАВРОС: (hE GOT SMOKED! wOW, sO SMOKED,)</span>
-<span style="color: #a15000">ТАВРОС: (mEENAH, dID YOU CATCH THOSE SICK FIRES,)</span>
-<span style="color: #77003c">МИНА: (no but for reel it pretty much is a navy)</span>
-<span style="color: #77003c">МИНА: (just sayin)</span>
-<span style="color: #0715cd">ДЖОН: who's in the army?</span>
-<span style="color: #005682">ВРИСКА: Thousands of ghosts. Primarily those of old friends and acquaintances.</span>
+<span style="color: #0715cd">ДЖОН: а что это за корабли впереди?</span>
+<span style="color: #0715cd">ДЖОН: тоже часть экспедиции?</span>
+<span style="color: #005682">ВРИСКА: Конечно!</span>
+<span style="color: #005682">ВРИСКА: Это и есть моя армия.</span>
+<span style="color: #77003c">МИНА: *Э)(ЕМ*</span>
+<span style="color: #005682">ВРИСКА: Хорошо, НАША армия.</span>
+<span style="color: #005682">ВРИСКА: Но типа на кораблях.</span>
+<span style="color: #0715cd">ДЖОН: вроде как армия на кораблях называется флот.</span>
+<span style="color: #005682">ВРИСКА: Джон, помоги-ка мне. Не могу припомнить, кто тут из нас капитан.</span>
+<span style="color: #005682">ВРИСКА: Это то ли дурик 8 синей пижаме, то ли бы8алый моряк 8 понто8ом капитанском камзоле.</span>
+<span style="color: #005682">ВРИСКА: 8от точно, капитан здесь я! И я го8ою, что это армия, которая, так уж случилось, плы8ет на множест8е кораблей.</span>
+<span style="color: #a15000">ТАВРОС: (оУУУУУУУ, вО ДЕЛА,)</span>
+<span style="color: #a15000">ТАВРОС: (оТШИЛИ ПАРНЯ! оТШИЛИ ТАК ОТШИЛИ,)</span>
+<span style="color: #a15000">ТАВРОС: (мИНА, вИДЕЛА, ОНА ПРЯМ НАПАЛМОМ ОТОЖГЛА,)</span>
+<span style="color: #77003c">МИНА: (нет ну по правде говоря это действительно и есть флот)</span>
+<span style="color: #77003c">МИНА: (просто к слову)</span>
+<span style="color: #0715cd">ДЖОН: и кто в этой армии?</span>
+<span style="color: #005682">ВРИСКА: Тысячи призрако8. 8 осно8ном старых друзей и знакомых.</span>
 ###
 007857
 X
