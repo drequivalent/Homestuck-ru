@@ -1,4 +1,4 @@
-[S] ACT 5 ACT 2 ==&gt;
+[S] ACT 5 ACT 2 ==>
 ###
 feef1404b2
 ###

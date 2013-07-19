@@ -8,7 +8,7 @@ http://ru-homestuck.org/storyfiles/hs2/01677.gif
 ###
 Oh, but I don't merely <span style="font-style: italic">draw</span> Homestuck...
 
-(Type &quot;==&gt;&quot;, I am about to make a joke.)
+(Type &quot;==>&quot;, I am about to make a joke.)
 ###
 003578
 X

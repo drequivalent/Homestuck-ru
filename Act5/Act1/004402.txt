@@ -1,4 +1,4 @@
-SS: Type '====', then ==&gt;
+SS: Type '====', then ==>
 ###
 52aae64101
 ###
