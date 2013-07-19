@@ -8,7 +8,8 @@ path_to_files = settings.HOMESTUCK_STORYFILES_DIR
 start_page = "001901"
 
 def parse_txt(page_number):
-    txt_file = glob(join(path_to_files, "*", str(page_number)+".txt"))
+    txt_file = glob(join(path_to_files, "*", str(page_number)+".txt")) or \
+               glob(join(path_to_files, "*", "*", str(page_number)+".txt"))
 
     contents = ""
     if txt_file:
