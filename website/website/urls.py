@@ -12,7 +12,7 @@ urlpatterns = patterns('',
     # Uncomment the admin/doc line below to enable admin documentation:
     # url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
     #url(r'^test_app/$', 'test_app.views.index'),
-    url('^ru_homestuck/', include('ru_homestuck.urls')),
+    url('^', include('ru_homestuck.urls')),
 
     # Uncomment the next line to enable the admin:
     #url(r'^admin/', include(admin.site.urls)),
