@@ -1,7 +1,9 @@
 from django.conf import settings
 from django.shortcuts import render_to_response
+from django.template.loader import render_to_string
 from django.template import RequestContext
 from glob import glob
+import re
 from os.path import join, basename
 
 path_to_files = settings.HOMESTUCK_STORYFILES_DIR
@@ -19,6 +21,9 @@ def parse_txt(page_number):
 
     result = contents.split("###")
     result[5] = result[5].rstrip("\nX ").lstrip("\n")
+    m = re.match(r"^\n\|(.*)\|(.*)$", result[4], re.DOTALL)
+    if(m):
+        result[4] = render_to_string("log.html", { 'name': m.group(1), 'text' : m.group(2).lstrip("\n").replace("\n", "\n<br />\n") })
     return result
 
 def display_page(request, page_number = start_page):

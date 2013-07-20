@@ -1,0 +1,11 @@
+<div style="border: 1px dashed gray; padding: 1px;"><div><button type="button" class="button" onmouseover="this.sv=this.style.backgroundColor; this.style.backgroundColor='#777777';" onmouseout="if(this.sv)this.style.backgroundColor=this.sv; else this.style.backgroundColor='';" onclick="this.parentNode.parentNode.childNodes[1].style.display = ''; this.parentNode.style.display = 'none'; return false;" title="Click to show the text.">Show {{ name }}</button></div><div class="spoiler" style="display: none;"><div><button type="button" class="button" onclick="this.parentNode.parentNode.parentNode.childNodes[0].style.display = ''; this.parentNode.parentNode.style.display = 'none'; return false;" title="Click to hide the spoiler.">Hide {{ name }} </button></div>
+<table width="90%" border="0" cellpadding="3" cellspacing="0">
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    {{ text|safe }}
+    </p>
+  </td>
+  </tr>
+</table>
+</div>
