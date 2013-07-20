@@ -1,4 +1,4 @@
-[A6I1] ==>
+[A6И1] ==>
 ###
 169cfaf5df
 ###
@@ -6,8 +6,8 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/04357.gif
 ###
-|DIALOGLOG|
-<span style="color: #626262">KARKAT: HOLY</span>
+|ДИАЛОГЛОГ|
+<span style="color: #626262">КАРКАТ: HOLY</span>
 ###
 006261
 X
