@@ -7,7 +7,7 @@
 http://ru-homestuck.org/storyfiles/hs2/04335.gif
 ###
 |ДИАЛОГЛОГ|
-<span style="color: #4ac925">ДЖЕЙД: популяции пяти планет составят мне компанию!</span>
+<span style="color: #4ac925">ДЖЕЙД: население пяти планет составит мне компанию!</span>
 <span style="color: #0715cd">ДЖОН: :O</span>
 <span style="color: #0715cd">ДЖОН: точно.</span>
 <span style="color: #0715cd">ДЖОН: возможно, тогда тебе будет не так скучно.</span>
