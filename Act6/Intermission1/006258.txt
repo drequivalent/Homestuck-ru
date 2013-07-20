@@ -1,4 +1,4 @@
-[A6I1] ==>
+[A6И1] ==>
 ###
 7579b92260
 ###
@@ -6,8 +6,8 @@
 ###
 http://ru-homestuck.org/storyfiles/hs2/04355.gif
 ###
-|DIALOGLOG|
-<span style="color: #008141">KANAYA: Clown Hunting</span>
+|ДИАЛОГЛОГ|
+<span style="color: #008141">КАНАЙЯ: Clown Hunting</span>
 ###
 006259
 X
