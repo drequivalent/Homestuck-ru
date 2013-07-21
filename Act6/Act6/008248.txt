@@ -9,4 +9,5 @@ http://ru-homestuck.org/storyfiles/hs2/06346.gif
 |DIALOGLOG|
 <span style="color: #008282">TEREZI: WHY DO MY 3Y3S H4V3 TO WORK SO <span style="font-style: italic">W3LL?</span></span>
 ###
+008249
 X

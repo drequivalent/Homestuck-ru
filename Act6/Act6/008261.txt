@@ -10,4 +10,5 @@ http://ru-homestuck.org/storyfiles/hs2/06359.gif
 <span style="color: #0715cd">JOHN: hi rose!</span>
 <span style="color: #0715cd">JOHN: nice glasses.</span>
 ###
+008262
 X
