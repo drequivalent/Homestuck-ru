@@ -38,4 +38,5 @@ http://ru-homestuck.org/storyfiles/hs2/04981.gif
 <span style="color: #77003c">MEENAH: what like on the floor</span>
 <span style="color: #005682">ARANEA: Yes on the floor!</span>
 ###
+006885
 X

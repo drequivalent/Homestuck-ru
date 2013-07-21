@@ -31,4 +31,5 @@ http://ru-homestuck.org/storyfiles/hs2/04687.gif
 <span style="color: #ff0000">CCG: WHAT?</span>
 <span style="color: #626262">FCG: THIS PART OF THE CONVERSATION.</span>
 ###
+006591
 X

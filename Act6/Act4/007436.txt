@@ -9,4 +9,5 @@ http://ru-homestuck.org/storyfiles/hs2/05533.gif
 |SPRITELOG|
 <span style="color: #00d5f2">JANE: HOME!!!</span>
 ###
+007437
 X

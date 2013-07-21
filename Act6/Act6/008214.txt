@@ -10,4 +10,5 @@ http://ru-homestuck.org/storyfiles/hs2/06312.gif
 <span style="color: #0715cd">JOHN: hi dave!</span>
 <span style="color: #0715cd">JOHN: what's so funny?</span>
 ###
+008215
 X

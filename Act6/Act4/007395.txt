@@ -24,4 +24,5 @@ F|http://ru-homestuck.org/storyfiles/hs2/05492
 <span style="color: #000000">Ok fine!</span>
 <span style="color: #000000">I'll tell you some stuff. Just quit it.</span>
 ###
+007396
 X

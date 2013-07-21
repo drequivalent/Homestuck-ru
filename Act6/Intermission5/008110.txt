@@ -9,4 +9,5 @@ http://ru-homestuck.org/storyfiles/hs2/06207.gif
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: we're here?</span>
 ###
+008111
 X

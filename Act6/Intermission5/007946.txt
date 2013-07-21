@@ -9,4 +9,5 @@ F|http://ru-homestuck.org/storyfiles/hs2/06043
 |DIALOGLOG|
 <span style="color: #a1a100">СОЛЛУКС: LADIES.</span>
 ###
+007947
 X

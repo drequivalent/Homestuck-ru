@@ -53,3 +53,4 @@ http://ru-homestuck.org/storyfiles/hs2/04823.gif
 [Close tab and continue playing game in original tab.]
 ###
 X
+X

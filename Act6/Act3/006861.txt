@@ -84,4 +84,5 @@ http://ru-homestuck.org/storyfiles/hs2/04958.gif
 <span style="color: #e00707">TT: Later.</span>
 <span style="color: #e00707">timaeusTestified [TT]</span> ceased pestering <span style="color: #00d5f2">gutsyGumshoe [GG]</span>
 ###
+006862
 X

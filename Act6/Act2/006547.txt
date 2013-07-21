@@ -69,4 +69,5 @@ http://ru-homestuck.org/storyfiles/hs2/04644.gif
 <span style="color: #f2a400">TT: Your sister was saying you were having some doubts about playing.</span>
 <span style="color: #f2a400">TT: Is that true?</span>
 ###
+006548
 X

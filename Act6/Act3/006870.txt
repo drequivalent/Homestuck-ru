@@ -50,4 +50,5 @@ http://ru-homestuck.org/storyfiles/hs2/04967_2.gif
 <span style="color: #323232">uu: WE'RE DONE HERE.</span>
 <span style="color: #323232">uu: THIS GAME IS OVER.</span>
 ###
+006871
 X

@@ -59,4 +59,5 @@ http://ru-homestuck.org/storyfiles/hs2/04953.gif
 <span style="color: #00d5f2">GG: You could be right.</span>
 <span style="color: #00d5f2">GG: I will give it a try.</span>
 ###
+006857
 X

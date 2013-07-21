@@ -9,4 +9,5 @@ http://ru-homestuck.org/storyfiles/hs2/05618.gif
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: Mom?</span> <span style="color: #ff6ff2">ROXY: mom?</span>
 ###
+007522
 X

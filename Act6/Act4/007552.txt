@@ -9,4 +9,5 @@ http://ru-homestuck.org/storyfiles/hs2/05649.gif
 |SPRITELOG|
 <span style="color: #e00707">EQUIUSPRITE: D --&gt; Hello</span>
 ###
+007553
 X

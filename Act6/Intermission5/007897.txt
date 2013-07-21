@@ -32,4 +32,5 @@ F|http://ru-homestuck.org/storyfiles/hs2/05994
 <span style="color: #005682">АРАНЕЯ: Yes, knowing our villain, the choice he would make is quite clear.</span>
 <span style="color: #005682">АРАНЕЯ: Knowing him, in fact, proves it could hardly 8e considered a choice at all.</span>
 ###
+007898
 X

@@ -47,4 +47,5 @@ http://ru-homestuck.org/storyfiles/hs2/05381.gif
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/vriska_smallshout2.png" border="0" />
 <span style="color: #a15000">TAVROS: oH MY GOD,</span>
 ###
+007285
 X

@@ -12,4 +12,5 @@ http://ru-homestuck.org/storyfiles/hs2/05755_2.gif
 <span style="color: #e00707">ARQUIUSPRITE: <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png" border="0" /> You there. Small servant with the umbrella</span>
 <span style="color: #e00707">ARQUIUSPRITE: <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png" border="0" /> Fetch me a towel at once</span>
 ###
+007659
 X

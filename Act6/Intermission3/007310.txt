@@ -30,4 +30,5 @@ http://ru-homestuck.org/storyfiles/hs2/05407.gif
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/gamzee_tinyhonk2.png" border="0" />
 <span style="color: #b536da">ROSE: !!</span>
 ###
+007311
 X

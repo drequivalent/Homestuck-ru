@@ -10,4 +10,5 @@ http://ru-homestuck.org/storyfiles/hs2/05926.gif
 <span style="color: #626262">KARKAT: THIS IS KARKAT.</span>
 <span style="color: #626262">KARKAT: OVER.</span>
 ###
+007830
 X

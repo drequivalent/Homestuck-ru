@@ -156,4 +156,5 @@ http://ru-homestuck.org/storyfiles/hs2/04959.gif
 <span style="color: #00d5f2">GG: Beauty?</span>
 <span style="color: #929292">UU: horror.</span>
 ###
+006863
 X

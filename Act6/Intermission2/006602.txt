@@ -23,4 +23,5 @@ http://ru-homestuck.org/storyfiles/hs2/04699.gif
 <span style="color: #b536da">ROSE: And while this may sound advantageous to the players, it's a curse in disguise. The lack of prototypings which keeps adversaries unevolved has the same influence on the battlefield.</span>
 <span style="color: #b536da">ROSE: Without successive prototypings, the battlefield will never reach its final form, which must be fertilized to grow a new universe.</span>
 ###
+006603
 X

@@ -9,4 +9,5 @@ http://ru-homestuck.org/storyfiles/hs2/06335.gif
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: whew!!!</span>
 ###
+008238
 X
