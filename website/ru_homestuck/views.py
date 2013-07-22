@@ -21,7 +21,7 @@ def parse_txt(page_number):
 
     result = contents.split("###")
     result[5] = result[5].rstrip("\nX ").lstrip("\n")
-    m = re.match(r"^\n\|(.*)\|(.*)$", result[4], re.DOTALL)
+    m = re.match(r"^\n\|(.*?)\|(.*)$", result[4], re.DOTALL)
     if(m):
         result[4] = render_to_string("log.html", { 'name': m.group(1), 'text' : m.group(2).lstrip("\n").replace("\n", "\n<br />\n") })
     return result
