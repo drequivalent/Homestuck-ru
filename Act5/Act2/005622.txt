@@ -4,7 +4,7 @@ Terezi: Exit door.
 ###
 1303170403
 ###
-http://ru-homestuck.org/storyfiles/hs2/03719.gif
+03719.gif
 ###
 The door is locked!
 

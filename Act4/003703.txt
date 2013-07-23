@@ -4,8 +4,8 @@ Rose: Combine hub and laptop.
 ###
 1273121531
 ###
-http://ru-homestuck.org/storyfiles/hs2/01803_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01803_2.gif
+01803_1.gif
+01803_2.gif
 ###
 You make the HUBTOP.
 

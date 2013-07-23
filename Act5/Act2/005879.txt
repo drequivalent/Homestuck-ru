@@ -4,8 +4,8 @@
 ###
 1311391263
 ###
-http://ru-homestuck.org/storyfiles/hs2/03976_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03976_2.gif
+03976_1.gif
+03976_2.gif
 ###
 |PESTERLOG|
 <span style="color: #4ac925">?GG: not exactly...</span>

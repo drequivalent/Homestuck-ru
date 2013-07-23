@@ -4,7 +4,7 @@
 ###
 1371523380
 ###
-http://ru-homestuck.org/storyfiles/hs2/06295.gif
+06295.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE:</span> <span style="color: #000000">i am still trying to locate my brother</span>

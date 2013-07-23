@@ -4,9 +4,9 @@ John: Zoom in.
 ###
 1274307939
 ###
-http://ru-homestuck.org/storyfiles/hs2/01878_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01878_2.gif
-http://ru-homestuck.org/storyfiles/hs2/01878_3.gif
+01878_1.gif
+01878_2.gif
+01878_3.gif
 ###
 An outrageously awesome dude stands before a crater where his favorite record shop stood one day prior.
 ###

@@ -4,9 +4,9 @@
 ###
 1265586001
 ###
-http://ru-homestuck.org/storyfiles/hs2/01334_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01334_2.gif
-http://ru-homestuck.org/storyfiles/hs2/01334_3.gif
+01334_1.gif
+01334_2.gif
+01334_3.gif
 ###
 Не сработало!!!
 

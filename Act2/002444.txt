@@ -4,8 +4,8 @@ John: Examine contents of safe.
 ###
 1251346214
 ###
-http://ru-homestuck.org/storyfiles/hs2/00544_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00544_2.gif
+00544_1.gif
+00544_2.gif
 ###
 You take a look at the other book. You're sure DAD thought this was a scintillating read, but it looks pretty boring to you. Maybe you'll crack into it some day when you're old enough to shave.
 

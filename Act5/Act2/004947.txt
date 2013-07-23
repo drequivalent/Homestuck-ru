@@ -4,7 +4,7 @@ bb464c608e
 ###
 1292022180
 ###
-http://ru-homestuck.org/storyfiles/hs2/03045.gif
+03045.gif
 ###
 |PESTERLOG|
 <span style="color: #b536da">TT: I see.</span>

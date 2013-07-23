@@ -4,7 +4,7 @@
 ###
 1253297958
 ###
-http://ru-homestuck.org/storyfiles/hs2/00655.gif
+00655.gif
 ###
 |PESTERLOG|
 -- tentacleTherapist <span style="color: #b536da">[TT]</span> ceased pestering ectoBiologist <span style="color: #0715cd">[EB]</span> at ??:?? --

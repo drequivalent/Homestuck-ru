@@ -4,7 +4,7 @@
 ###
 1331940458
 ###
-http://ru-homestuck.org/storyfiles/hs2/04705.gif
+04705.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: You would find it less disconcerting if the players were alternate versions of us?</span>

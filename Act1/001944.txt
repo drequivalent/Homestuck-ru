@@ -4,7 +4,7 @@ John: Captchalogue magician's hat.
 ###
 1240031134
 ###
-http://ru-homestuck.org/storyfiles/hs2/00044.gif
+00044.gif
 ###
 You expend your final card on the MAGICIAN'S HAT.
 ###

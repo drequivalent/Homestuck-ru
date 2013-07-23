@@ -4,7 +4,7 @@
 ###
 1373764298
 ###
-http://ru-homestuck.org/storyfiles/hs2/06361.gif
+06361.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: i dunno.</span>

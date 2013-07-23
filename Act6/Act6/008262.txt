@@ -4,7 +4,7 @@ cbb09985bb
 ###
 1373763974
 ###
-http://ru-homestuck.org/storyfiles/hs2/06360.gif
+06360.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: Thanks, John.</span>

@@ -4,7 +4,7 @@ c419a4f77a
 ###
 1350194939
 ###
-http://ru-homestuck.org/storyfiles/hs2/05383.gif
+05383.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">VRISKA: Yeah!</span>

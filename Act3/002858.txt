@@ -4,8 +4,8 @@
 ###
 1259920731
 ###
-http://ru-homestuck.org/storyfiles/hs2/00958_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00958_2.gif
+00958_1.gif
+00958_2.gif
 ###
 Your transmission is interrupted.
 

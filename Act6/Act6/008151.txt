@@ -4,7 +4,7 @@ MALE: EXAMINE ROOM.
 ###
 1371079514
 ###
-http://ru-homestuck.org/storyfiles/hs2/06249.gif
+06249.gif
 ###
 YOU EXAMINE YOUR SHITTY ROOM.
 

@@ -4,8 +4,8 @@ b148810ad6
 ###
 1274420593
 ###
-http://ru-homestuck.org/storyfiles/hs2/01899_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01899_2.gif
+01899_1.gif
+01899_2.gif
 ###
 
 ###

@@ -4,8 +4,8 @@ Dave: Preview item with holopad.
 ###
 1273722125
 ###
-http://ru-homestuck.org/storyfiles/hs2/01825_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01825_2.gif
+01825_1.gif
+01825_2.gif
 ###
 You momentarily reconfigure your alchemiter upgrades to make use of the HOLOPAD EXTENSION. You pop the card in the slot and check it out.
 

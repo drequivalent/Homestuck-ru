@@ -4,7 +4,7 @@
 ###
 1350195192
 ###
-http://ru-homestuck.org/storyfiles/hs2/05384.gif
+05384.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">VRISKA: Yes.</span>

@@ -4,8 +4,8 @@ b9e9d53e27
 ###
 1274735011
 ###
-http://ru-homestuck.org/storyfiles/hs2/01924_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01924_2.gif
+01924_1.gif
+01924_2.gif
 ###
 It is a high ranking agent from your kingdom.
 

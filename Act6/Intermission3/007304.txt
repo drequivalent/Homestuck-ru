@@ -4,7 +4,7 @@
 ###
 1351128395
 ###
-http://ru-homestuck.org/storyfiles/hs2/05401.gif
+05401.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: Iss,</span>

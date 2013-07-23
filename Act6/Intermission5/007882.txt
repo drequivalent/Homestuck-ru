@@ -4,7 +4,7 @@
 ###
 1363130025
 ###
-http://ru-homestuck.org/storyfiles/hs2/05979.gif
+05979.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: Anyway, where was I?</span>

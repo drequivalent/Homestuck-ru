@@ -4,7 +4,7 @@ ea8b8c718a
 ###
 1332631256
 ###
-http://ru-homestuck.org/storyfiles/hs2/04752.gif
+04752.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: what plan?</span>

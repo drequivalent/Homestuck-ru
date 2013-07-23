@@ -4,9 +4,9 @@ c42fec7b93
 ###
 1262575872
 ###
-http://ru-homestuck.org/storyfiles/hs2/01114_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01114_2.gif
-http://ru-homestuck.org/storyfiles/hs2/01114_3.gif
+01114_1.gif
+01114_2.gif
+01114_3.gif
 ###
 You put down the time-bait. It's out of your hands now.
 ###

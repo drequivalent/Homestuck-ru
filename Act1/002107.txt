@@ -4,8 +4,8 @@
 ###
 1243229264
 ###
-http://ru-homestuck.org/storyfiles/hs2/00207_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00207_2.gif
+00207_1.gif
+00207_2.gif
 ###
 The perfect crime.
 ###

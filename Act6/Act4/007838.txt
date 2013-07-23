@@ -4,7 +4,7 @@
 ###
 1361298300
 ###
-http://ru-homestuck.org/storyfiles/hs2/05935.gif
+05935.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">KARKAT: WAKE UP SLEEPY HEAD!</span>

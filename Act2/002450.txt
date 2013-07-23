@@ -4,8 +4,8 @@ d89baa327d
 ###
 1251409901
 ###
-http://ru-homestuck.org/storyfiles/hs2/00550_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00550_2.gif
+00550_1.gif
+00550_2.gif
 ###
 
 ###

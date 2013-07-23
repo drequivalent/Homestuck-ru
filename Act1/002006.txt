@@ -4,9 +4,9 @@ a21fa6661d
 ###
 1241246512
 ###
-http://ru-homestuck.org/storyfiles/hs2/00106_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00106_2.gif
-http://ru-homestuck.org/storyfiles/hs2/00106_3.gif
+00106_1.gif
+00106_2.gif
+00106_3.gif
 ###
 You take the RAZOR and use it to perform surgery on the CAKE.
 

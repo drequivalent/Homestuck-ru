@@ -4,8 +4,8 @@ c98beba489
 ###
 1353983007
 ###
-http://ru-homestuck.org/storyfiles/hs2/05501_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05501_2.gif
+05501_1.gif
+05501_2.gif
 ###
 |AUTHORLOG|
 <span style="color: #2ed73a">IT'S THE DIRK HUMAN.</span>

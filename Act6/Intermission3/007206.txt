@@ -4,7 +4,7 @@ d15b3eec25
 ###
 1348265989
 ###
-http://ru-homestuck.org/storyfiles/hs2/05303.gif
+05303.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: who cares about mules, or pastures, or dave sprite's stupid ephemeral sky visage.</span>

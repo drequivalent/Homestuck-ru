@@ -4,7 +4,7 @@ Karkat: Answer.
 ###
 1295920115
 ###
-http://ru-homestuck.org/storyfiles/hs2/03355.gif
+03355.gif
 ###
 |PESTERLOG|
 <span style="color: #2b0057">terminallyCapricious [TC]</span> began trolling <span style="color: #626262">carcinoGeneticist [CG]</span>

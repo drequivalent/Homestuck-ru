@@ -4,8 +4,8 @@ ef26e5829e
 ###
 1242785006
 ###
-http://ru-homestuck.org/storyfiles/hs2/00181_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00181_2.gif
+00181_1.gif
+00181_2.gif
 ###
 
 ###

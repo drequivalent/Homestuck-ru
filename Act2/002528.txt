@@ -4,7 +4,7 @@ John: Turn on &quot;detect collisions&quot;.
 ###
 1252699010
 ###
-http://ru-homestuck.org/storyfiles/hs2/00628.gif
+00628.gif
 ###
 You flip your FETCH MODI but find no such option.
 

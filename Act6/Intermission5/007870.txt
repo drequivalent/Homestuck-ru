@@ -4,7 +4,7 @@
 ###
 1362868851
 ###
-http://ru-homestuck.org/storyfiles/hs2/05967.gif
+05967.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">The m8tes will then duel as two vast frightening serpents, each an astronomical unit in length.</span> 

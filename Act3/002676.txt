@@ -4,8 +4,8 @@
 ###
 1255742685
 ###
-http://ru-homestuck.org/storyfiles/hs2/00776_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00776_2.gif
+00776_1.gif
+00776_2.gif
 ###
 Ты каптчалогируешь МЕШОК УДОБРЕНИЙ.
 ###

@@ -4,7 +4,7 @@ John: Check mail.
 ###
 1240535165
 ###
-http://ru-homestuck.org/storyfiles/hs2/00081.gif
+00081.gif
 ###
 Predictably, the mailbox is empty. You have already been scooped by your father.
 ###

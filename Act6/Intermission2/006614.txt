@@ -4,7 +4,7 @@
 ###
 1332105846
 ###
-http://ru-homestuck.org/storyfiles/hs2/04711.gif
+04711.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">KARKAT: LOOK, IT'S PERFECTLY SIMPLE.</span>

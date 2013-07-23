@@ -4,8 +4,8 @@ ed92b8522d
 ###
 1248838945
 ###
-http://ru-homestuck.org/storyfiles/hs2/00413_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00413_2.gif
+00413_1.gif
+00413_2.gif
 ###
 Ты запускаешь ГЕНЕРАТОР и втаскиваешь шнур в МАВЗОЛЕЙ. 
 

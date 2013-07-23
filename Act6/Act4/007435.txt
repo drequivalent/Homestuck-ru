@@ -4,7 +4,7 @@ f720b707dd
 ###
 1354604528
 ###
-http://ru-homestuck.org/storyfiles/hs2/05532.gif
+05532.gif
 ###
 |SPRITELOG|
 <span style="color: #00d5f2">JANE: WHAT THE HELL IS <span style="text-decoration: underline">THAT</span> SUPPOSED TO MEAN???</span>

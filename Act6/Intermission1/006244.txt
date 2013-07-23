@@ -4,7 +4,7 @@
 ###
 1324113346
 ###
-http://ru-homestuck.org/storyfiles/hs2/04341.gif
+04341.gif
 ###
 |ДИАЛОГЛОГ|
 <span style="color: #0715cd">ДЖОН: ну, думаю, вышло хорошее письмо.</span>

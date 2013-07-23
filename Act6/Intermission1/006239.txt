@@ -4,7 +4,7 @@
 ###
 1324112914
 ###
-http://ru-homestuck.org/storyfiles/hs2/04336.gif
+04336.gif
 ###
 |ДИАЛОГЛОГ|
 <span style="color: #0715cd">ДЖОН: слушай, а я могу отправить послание?</span>

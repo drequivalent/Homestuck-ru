@@ -4,8 +4,8 @@ d8ba578a33
 ###
 1277090451
 ###
-http://ru-homestuck.org/storyfiles/hs2/02065_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02065_2.gif
+02065_1.gif
+02065_2.gif
 ###
 You're not sure why you did that, really.
 

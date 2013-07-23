@@ -4,7 +4,7 @@ John: Retrieve your items.
 ###
 1241246564
 ###
-http://ru-homestuck.org/storyfiles/hs2/00107.gif
+00107.gif
 ###
 The items force the MANHANDLED CAKE into the TOILET.
 

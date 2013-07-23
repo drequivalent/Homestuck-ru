@@ -4,7 +4,7 @@
 ###
 1324517899
 ###
-http://ru-homestuck.org/storyfiles/hs2/04356.gif
+04356.gif
 ###
 |ДИАЛОГЛОГ|
 <span style="color: #626262">КАРКАТ: OH NO...</span>

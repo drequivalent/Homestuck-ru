@@ -4,7 +4,7 @@
 ###
 1371523301
 ###
-http://ru-homestuck.org/storyfiles/hs2/06294.gif
+06294.gif
 ###
 |DIALOGLOG|
 <span style="color: #ff6ff2">ROXY: well at least i know i can make a whole lot of these boring cubes if all else fails</span>

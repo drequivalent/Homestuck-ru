@@ -4,7 +4,7 @@ dd29aad745
 ###
 1348038409
 ###
-http://ru-homestuck.org/storyfiles/hs2/05299.gif
+05299.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: I'M COMING FOR YOU, DAVE SPRITE!</span>

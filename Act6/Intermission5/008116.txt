@@ -4,7 +4,7 @@
 ###
 1365669797
 ###
-http://ru-homestuck.org/storyfiles/hs2/06213.gif
+06213.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: this sucks.</span>

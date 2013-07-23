@@ -4,7 +4,7 @@
 ###
 1354528757
 ###
-http://ru-homestuck.org/storyfiles/hs2/05529.gif
+05529.gif
 ###
 |SPRITELOG|
 <span style="color: #ff6ff2">ROXY: jane</span>

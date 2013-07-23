@@ -4,7 +4,7 @@ John: Open map.
 ###
 1271468949
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/01685
+01685.swf
 ###
 
 ###

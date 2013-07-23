@@ -4,7 +4,7 @@
 ###
 1364118549
 ###
-http://ru-homestuck.org/storyfiles/hs2/06035.gif
+06035.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ВРИСКА: ARE YOU KIDDING ME.</span>

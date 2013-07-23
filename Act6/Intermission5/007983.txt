@@ -4,7 +4,7 @@
 ###
 1365056200
 ###
-http://ru-homestuck.org/storyfiles/hs2/06080.gif
+06080.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ВРИСКА: THERE!</span>

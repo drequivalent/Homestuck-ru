@@ -4,7 +4,7 @@
 ###
 1361089296
 ###
-http://ru-homestuck.org/storyfiles/hs2/05931.gif
+05931.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">KARKAT: WHERE ARE YOUR FUCKING PANTS?</span>

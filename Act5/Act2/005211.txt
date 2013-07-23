@@ -4,7 +4,7 @@ Jade: Examine.
 ###
 1295331744
 ###
-http://ru-homestuck.org/storyfiles/hs2/03308.gif
+03308.gif
 ###
 |PESTERLOG|
 <span style="color: #4ac925">GG: its...</span>

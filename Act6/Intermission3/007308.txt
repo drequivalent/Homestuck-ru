@@ -4,7 +4,7 @@
 ###
 1351163288
 ###
-http://ru-homestuck.org/storyfiles/hs2/05405.gif
+05405.gif
 ###
 |DIALOGLOG|
 <span style="color: #008141">KANAYA: Our Date</span>

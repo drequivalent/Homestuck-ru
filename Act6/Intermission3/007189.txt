@@ -4,7 +4,7 @@
 ###
 1347420353
 ###
-http://ru-homestuck.org/storyfiles/hs2/05286.gif
+05286.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: look.</span>

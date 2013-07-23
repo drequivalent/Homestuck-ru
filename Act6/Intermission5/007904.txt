@@ -4,7 +4,7 @@
 ###
 1363401394
 ###
-http://ru-homestuck.org/storyfiles/hs2/06001.gif
+06001.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: He repeats this process for each planet until they are all gone.</span>

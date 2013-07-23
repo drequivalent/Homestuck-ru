@@ -4,8 +4,8 @@
 ###
 1298493936
 ###
-http://ru-homestuck.org/storyfiles/hs2/03571_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03571_2.gif
+03571_1.gif
+03571_2.gif
 ###
 Wait a minute.
 ###

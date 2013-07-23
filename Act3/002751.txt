@@ -4,8 +4,8 @@
 ###
 1257894473
 ###
-http://ru-homestuck.org/storyfiles/hs2/00851_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00851_2.gif
+00851_1.gif
+00851_2.gif
 ###
 Ты настолько глубоко, насколько возможно.
 

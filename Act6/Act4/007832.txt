@@ -4,7 +4,7 @@
 ###
 1361088765
 ###
-http://ru-homestuck.org/storyfiles/hs2/05929.gif
+05929.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">KARKAT: *SIGH*</span>

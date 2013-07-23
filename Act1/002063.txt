@@ -4,7 +4,7 @@ TT: Grab the soiled toilet.
 ###
 1242521303
 ###
-http://ru-homestuck.org/storyfiles/hs2/00163.gif
+00163.gif
 ###
 |PESTERLOG|
 <span style="color: #b536da">TT: Whoops.</span>

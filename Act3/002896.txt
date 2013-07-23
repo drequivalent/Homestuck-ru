@@ -4,8 +4,8 @@ f5d5445e46
 ###
 1260568234
 ###
-http://ru-homestuck.org/storyfiles/hs2/00996_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00996_2.gif
+00996_1.gif
+00996_2.gif
 ###
 There is not much to realize.
 

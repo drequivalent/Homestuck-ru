@@ -4,7 +4,7 @@
 ###
 1331781784
 ###
-http://ru-homestuck.org/storyfiles/hs2/04694.gif
+04694.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: anyone seen terezi around</span>

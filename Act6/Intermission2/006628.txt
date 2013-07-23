@@ -4,8 +4,8 @@ add792390c
 ###
 1332198888
 ###
-http://ru-homestuck.org/storyfiles/hs2/04725_1.gif
-http://ru-homestuck.org/storyfiles/hs2/04725_2.gif
+04725_1.gif
+04725_2.gif
 ###
 
 ###

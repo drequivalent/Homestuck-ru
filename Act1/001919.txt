@@ -4,8 +4,8 @@ John: Nail poster to wall.
 ###
 1239745932
 ###
-http://ru-homestuck.org/storyfiles/hs2/00019_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00019_2.gif
+00019_1.gif
+00019_2.gif
 ###
 You use the HAMMER, NAILS, and POSTER on the blank space on the wall. 
 

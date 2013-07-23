@@ -4,7 +4,7 @@ e5e13d895d
 ###
 1364710751
 ###
-http://ru-homestuck.org/storyfiles/hs2/06059.gif
+06059.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">РОУЗ: Are you going to brek up with me?</span>

@@ -4,7 +4,7 @@ ec1c4dcb9c
 ###
 1371627548
 ###
-http://ru-homestuck.org/storyfiles/hs2/06301.gif
+06301.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: hahaha this piece of shit is still here too</span>

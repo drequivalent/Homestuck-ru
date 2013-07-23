@@ -4,7 +4,7 @@ Jane: ... Answer, you guess.
 ###
 1357423324
 ###
-http://ru-homestuck.org/storyfiles/hs2/05691.gif
+05691.gif
 ###
 |PESTERLOG|
 <span style="color: #929292">uranianUmbra [UU]</span> began cheering <span style="color: #00d5f2">gutsyGumshoe [GG]</span>

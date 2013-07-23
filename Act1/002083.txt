@@ -4,8 +4,8 @@ John: Captchalogue fanciful harlequins.
 ###
 1242785116
 ###
-http://ru-homestuck.org/storyfiles/hs2/00183_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00183_2.gif
+00183_1.gif
+00183_2.gif
 ###
 You take TWO (2) FANCIFUL HARLEQUINS.
 

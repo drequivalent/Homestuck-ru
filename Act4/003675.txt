@@ -4,7 +4,7 @@ John: Put it on.
 ###
 1272401261
 ###
-http://ru-homestuck.org/storyfiles/hs2/01775.gif
+01775.gif
 ###
 You equip the JUNIOR ECTOBIOLOGIST'S LAB SUIT.
 ###

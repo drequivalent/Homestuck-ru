@@ -4,7 +4,7 @@ Jade: Go downstairs.
 ###
 1291847473
 ###
-http://ru-homestuck.org/storyfiles/hs2/03030.gif
+03030.gif
 ###
 |PESTERLOG|
 <span style="color: #e00707">TG: im just going to cut right to the chase and upgrade your alchemiter so you can avoid a lot of bullshit</span>

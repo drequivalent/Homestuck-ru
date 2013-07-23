@@ -4,7 +4,7 @@ c428c8dea0
 ###
 1361763372
 ###
-http://ru-homestuck.org/storyfiles/hs2/05952.gif
+05952.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ВРИСКА: Мои друзья, Арадия и Соллукс.</span>

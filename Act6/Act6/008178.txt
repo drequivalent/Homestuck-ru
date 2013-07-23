@@ -4,7 +4,7 @@
 ###
 1371185274
 ###
-S|http://www.mspaintadventures.com/storyfiles/hs2/06276
+06276
 ###
 
 ###

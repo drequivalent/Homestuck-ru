@@ -4,7 +4,7 @@ f6d323d9f8
 ###
 1335043764
 ###
-http://ru-homestuck.org/storyfiles/hs2/04843.gif
+04843.gif
 ###
 |PESTERLOG|
 <span style="color: #f2a400">TT: Oh cool. It worked.</span>

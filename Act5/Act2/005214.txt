@@ -4,7 +4,7 @@ e214d1de38
 ###
 1295404851
 ###
-http://ru-homestuck.org/storyfiles/hs2/03311.gif
+03311.gif
 ###
 |PESTERLOG|
 <span style="color: #4ac925">GG: ok, here is a frog on the screen</span>

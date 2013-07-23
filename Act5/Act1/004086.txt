@@ -4,8 +4,8 @@ Aradia: Connect to server player.
 ###
 1278634667
 ###
-http://ru-homestuck.org/storyfiles/hs2/02186_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02186_2.gif
+02186_1.gif
+02186_2.gif
 ###
 You have a server player connect to you, someone you personally selected for the role. The devices required for entry are deployed. 
 

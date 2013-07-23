@@ -4,8 +4,8 @@
 ###
 1296235436
 ###
-http://ru-homestuck.org/storyfiles/hs2/03382_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03382_2.gif
+03382_1.gif
+03382_2.gif
 ###
 Alas, they cannot be revived.
 

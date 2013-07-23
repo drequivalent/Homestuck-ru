@@ -4,7 +4,7 @@
 ###
 1364452818
 ###
-http://ru-homestuck.org/storyfiles/hs2/06049.gif
+06049.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ВРИСКА: The treasure's down there.</span>

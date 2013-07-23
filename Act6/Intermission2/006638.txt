@@ -4,7 +4,7 @@ b8782706b1
 ###
 1332458880
 ###
-http://ru-homestuck.org/storyfiles/hs2/04735.gif
+04735.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE: WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF!</span>

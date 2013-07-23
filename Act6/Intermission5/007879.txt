@@ -4,7 +4,7 @@ e07e8d6da9
 ###
 1362937398
 ###
-http://ru-homestuck.org/storyfiles/hs2/05976.gif
+05976.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: I'm afraid not. Everyone must listen to the full story.</span>

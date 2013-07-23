@@ -4,8 +4,8 @@
 ###
 1359848508
 ###
-http://ru-homestuck.org/storyfiles/hs2/05815_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05815_2.gif
+05815_1.gif
+05815_2.gif
 ###
 |PESTERLOG|
 <span style="color: #00d5f2">GG: But it turned out you couldn't bring her back. At least not the way you thought.</span>

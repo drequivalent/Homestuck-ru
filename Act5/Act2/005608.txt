@@ -4,8 +4,8 @@ f70846272e
 ###
 1302486374
 ###
-http://ru-homestuck.org/storyfiles/hs2/03705_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03705_2.gif
+03705_1.gif
+03705_2.gif
 ###
 |PESTERLOG|
 <span style="color: #008282">GC: W3LL</span>

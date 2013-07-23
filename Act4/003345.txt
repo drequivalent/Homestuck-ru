@@ -4,8 +4,8 @@ Jade: Retrieve Dave's copy of Sburb and the impaled crow.
 ###
 1266705630
 ###
-http://ru-homestuck.org/storyfiles/hs2/01445_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01445_2.gif
+01445_1.gif
+01445_2.gif
 ###
 
 ###

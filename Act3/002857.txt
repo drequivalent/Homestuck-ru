@@ -4,8 +4,8 @@ Jack: Call a minion.
 ###
 1259920635
 ###
-http://ru-homestuck.org/storyfiles/hs2/00957_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00957_2.gif
+00957_1.gif
+00957_2.gif
 ###
 You order one of your burliest agents to the scene. He brings something heavier this time.
 ###

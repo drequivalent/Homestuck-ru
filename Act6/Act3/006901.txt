@@ -4,7 +4,7 @@
 ###
 1338513604
 ###
-http://ru-homestuck.org/storyfiles/hs2/04998.gif
+04998.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ARANEA: Thap waf.......</span>

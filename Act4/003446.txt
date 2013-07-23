@@ -4,7 +4,7 @@ PM: Command John to put the carved tablet into a pyxis.
 ###
 1267762105
 ###
-http://ru-homestuck.org/storyfiles/hs2/01546.gif
+01546.gif
 ###
 You follow the command telling you to command John to put the carved tablet in the pyxis and type, &quot;John, put the carved tablet into the pyxis.&quot;
 

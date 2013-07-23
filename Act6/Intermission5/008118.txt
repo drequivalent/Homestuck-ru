@@ -4,7 +4,7 @@ c458ed0f0d
 ###
 1365669835
 ###
-http://ru-homestuck.org/storyfiles/hs2/06215.gif
+06215.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: sigh.</span>

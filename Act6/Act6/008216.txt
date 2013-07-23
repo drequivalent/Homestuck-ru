@@ -4,7 +4,7 @@
 ###
 1371775526
 ###
-S|http://www.mspaintadventures.com/storyfiles/hs2/06314
+06314
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: no dont</span>

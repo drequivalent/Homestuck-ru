@@ -4,7 +4,7 @@ Rose: Pester John.
 ###
 1252984281
 ###
-http://ru-homestuck.org/storyfiles/hs2/00643.gif
+00643.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">EB: hey, that was a pretty, uh...</span>

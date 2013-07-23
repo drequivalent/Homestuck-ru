@@ -4,7 +4,7 @@ dbcff5265a
 ###
 1334804891
 ###
-http://ru-homestuck.org/storyfiles/hs2/04832.gif
+04832.gif
 ###
 |SPRITELOG|
 <span style="color: #0715cd">TAVRISPRITE: nO,</span>

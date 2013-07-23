@@ -4,7 +4,7 @@ cdb242dd76
 ###
 1336539368
 ###
-http://ru-homestuck.org/storyfiles/hs2/04923.gif
+04923.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ARANEA: Well, Jake? Don't you have anything to say?</span>

@@ -4,7 +4,7 @@
 ###
 1372622561
 ###
-http://ru-homestuck.org/storyfiles/hs2/06325.gif
+06325.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE:</span> <span style="color: #000000">it wont be earth for much longer</span>

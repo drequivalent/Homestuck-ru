@@ -4,7 +4,7 @@ AR: Quickly retrieve side arms.
 ###
 1262481024
 ###
-http://ru-homestuck.org/storyfiles/hs2/01104.gif
+01104.gif
 ###
 You retrieve a pair of deadly SIDE ARMS.
 

@@ -4,8 +4,8 @@ eb7b544a9b
 ###
 1353982916
 ###
-http://ru-homestuck.org/storyfiles/hs2/05500_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05500_2.gif
+05500_1.gif
+05500_2.gif
 ###
 |AUTHORLOG|
 <span style="color: #2ed73a">AH. YES. IT'S THIS BUMBLING TWIT.</span>

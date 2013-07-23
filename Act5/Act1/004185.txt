@@ -4,7 +4,7 @@ d301ec001c
 ###
 1279600772
 ###
-http://ru-homestuck.org/storyfiles/hs2/02285.gif
+02285.gif
 ###
 |SPRITELOG|
 <span style="color: #a10000">ARADIASPRITE: it l00ks nice</span>

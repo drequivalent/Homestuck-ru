@@ -4,7 +4,7 @@
 ###
 1351221134
 ###
-http://ru-homestuck.org/storyfiles/hs2/05417.gif
+05417.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: Yuouo....</span>

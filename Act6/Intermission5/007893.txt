@@ -4,7 +4,7 @@
 ###
 1363258098
 ###
-http://ru-homestuck.org/storyfiles/hs2/05990.gif
+05990.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: 8ut this game was never meant to 8e played solo.</span>

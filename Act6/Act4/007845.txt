@@ -4,7 +4,7 @@ bb332b477c
 ###
 1361344115
 ###
-http://ru-homestuck.org/storyfiles/hs2/05942.gif
+05942.gif
 ###
 |SPRITELOG|
 <span style="color: #f2a400">DAVESPRITE: p.s. happy birthday john</span>

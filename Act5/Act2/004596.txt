@@ -4,9 +4,9 @@ Kanaya: Open viewport.
 ###
 1285808640
 ###
-http://ru-homestuck.org/storyfiles/hs2/02695_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02695_2.gif
-http://ru-homestuck.org/storyfiles/hs2/02695_3.gif
+02695_1.gif
+02695_2.gif
+02695_3.gif
 ###
 There she is.
 

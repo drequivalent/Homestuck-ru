@@ -4,7 +4,7 @@
 ###
 1365750911
 ###
-http://ru-homestuck.org/storyfiles/hs2/06222.gif
+06222.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">КАРКАТ: I DON'T BELIEVE THIS.</span>

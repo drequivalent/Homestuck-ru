@@ -4,7 +4,7 @@
 ###
 1246679697
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/00338
+00338.swf
 ###
 Left knob: volume for current sample. 
 Right knob: master volume.

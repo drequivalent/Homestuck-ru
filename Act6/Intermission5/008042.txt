@@ -4,9 +4,9 @@
 ###
 1365474034
 ###
-http://ru-homestuck.org/storyfiles/hs2/06139_1.gif
-http://ru-homestuck.org/storyfiles/hs2/06139_2.gif
-http://ru-homestuck.org/storyfiles/hs2/06139_3.gif
+06139_1.gif
+06139_2.gif
+06139_3.gif
 ###
 Perfect.
 ###

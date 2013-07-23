@@ -4,7 +4,7 @@ Jade: Place present on monument.
 ###
 1262575800
 ###
-http://ru-homestuck.org/storyfiles/hs2/01112.gif
+01112.gif
 ###
 You put John's present down in just the right spot, along with a letter you prepared a little while ago after a particularly interesting series of dreams.
 

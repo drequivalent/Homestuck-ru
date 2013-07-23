@@ -4,11 +4,11 @@ c2d81df2e8
 ###
 1274308166
 ###
-http://ru-homestuck.org/storyfiles/hs2/01882_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01882_2.gif
-http://ru-homestuck.org/storyfiles/hs2/01882_3.gif
-http://ru-homestuck.org/storyfiles/hs2/01882_4.gif
-http://ru-homestuck.org/storyfiles/hs2/01882_5.gif
+01882_1.gif
+01882_2.gif
+01882_3.gif
+01882_4.gif
+01882_5retcon.gif
 ###
 A professional lady and new mother has traveled from the opposite coast at the behest of a famous and wealthy scientist to study one of numerous recent celestial anomalies while he is on expedition.
 

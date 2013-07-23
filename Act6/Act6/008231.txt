@@ -4,7 +4,7 @@ f102447c36
 ###
 1372723496
 ###
-http://ru-homestuck.org/storyfiles/hs2/06329.gif
+06329.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: *deep breath...*</span>

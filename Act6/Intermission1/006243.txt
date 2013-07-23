@@ -4,7 +4,7 @@ ba3a7b86ea
 ###
 1324113238
 ###
-http://ru-homestuck.org/storyfiles/hs2/04340.gif
+04340.gif
 ###
 |ДИАЛОГЛОГ|
 <span style="color: #0715cd">ДЖОН: мать вашу, это дейвспрайт!!!</span>

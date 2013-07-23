@@ -4,7 +4,7 @@ John: Examine 3rd and 4th walls of room.
 ###
 1240192399
 ###
-http://ru-homestuck.org/storyfiles/hs2/00061.gif
+00061.gif
 ###
 
 ###

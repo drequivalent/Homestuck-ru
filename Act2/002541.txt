@@ -4,9 +4,9 @@
 ###
 1252964434
 ###
-http://ru-homestuck.org/storyfiles/hs2/00641_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00641_2.gif
-http://ru-homestuck.org/storyfiles/hs2/00641_3.gif
+00641_1.gif
+00641_2.gif
+00641_3.gif
 ###
 
 ###

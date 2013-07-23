@@ -4,9 +4,9 @@
 ###
 1359848802
 ###
-http://ru-homestuck.org/storyfiles/hs2/05817_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05817_2.gif
-http://ru-homestuck.org/storyfiles/hs2/05817_3.gif
+05817_1.gif
+05817_2.gif
+05817_3.gif
 ###
 |PESTERLOG|
 <span style="color: #00d5f2">GG: The whole place was shaking for a moment there.</span>

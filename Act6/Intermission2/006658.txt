@@ -4,7 +4,7 @@
 ###
 1332631402
 ###
-http://ru-homestuck.org/storyfiles/hs2/04755.gif
+04755.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: whoa is that john</span>

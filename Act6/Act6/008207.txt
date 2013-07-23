@@ -4,7 +4,7 @@ df1277d0f3
 ###
 1371628035
 ###
-http://ru-homestuck.org/storyfiles/hs2/06305.gif
+06305.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: eurgh</span>

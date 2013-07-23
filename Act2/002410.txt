@@ -4,8 +4,8 @@
 ###
 1250822032
 ###
-http://ru-homestuck.org/storyfiles/hs2/00510_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00510_2.gif
+00510_1.gif
+00510_2.gif
 ###
 <a href="http://tinyurl.com/0413sprite" target="_blank" class="postlink">http://tinyurl.com/0413sprite</a>
 <a href="http://tinyurl.com/0413power" target="_blank" class="postlink">http://tinyurl.com/0413power</a>

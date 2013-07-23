@@ -4,8 +4,8 @@ fbbc53b70a
 ###
 1259870496
 ###
-http://ru-homestuck.org/storyfiles/hs2/00953_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00953_2.gif
+00953_1.gif
+00953_2.gif
 ###
 Spades Slick?
 

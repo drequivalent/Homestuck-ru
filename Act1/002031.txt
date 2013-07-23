@@ -4,7 +4,7 @@ John: Use the razor on the red package.
 ###
 1241769558
 ###
-http://ru-homestuck.org/storyfiles/hs2/00131.gif
+00131.gif
 ###
 You open the package. There is something suspicious inside. 
 

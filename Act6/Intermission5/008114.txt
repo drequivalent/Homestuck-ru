@@ -4,7 +4,7 @@
 ###
 1365669748
 ###
-http://ru-homestuck.org/storyfiles/hs2/06211.gif
+06211.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: ... regular dave?</span>

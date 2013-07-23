@@ -4,7 +4,7 @@ Aradia: Report discovery.
 ###
 1298581577
 ###
-http://ru-homestuck.org/storyfiles/hs2/03587.gif
+03587.gif
 ###
 |PESTERLOG|
 <span style="color: #a10000">apocalypseArisen [AA]</span> began trolling <span style="color: #a1a100">twinArmageddons [TA]</span> 

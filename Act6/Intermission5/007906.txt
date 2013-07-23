@@ -4,7 +4,7 @@ fa0730541f
 ###
 1363475197
 ###
-http://ru-homestuck.org/storyfiles/hs2/06003.gif
+06003.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: With each planet he destroys, he will 8e awarded a new leprechaun follower.</span>

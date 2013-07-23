@@ -4,7 +4,7 @@ John: Set Pesterchum status to &quot;bully&quot;.
 ###
 1239918753
 ###
-http://ru-homestuck.org/storyfiles/hs2/00034.gif
+00034.gif
 ###
 You don't think the situation is quite dire enough to go all the way to &quot;RANCOROUS&quot;, but you still feel the PESTERCHUM client should reflect your mood change in some way.
 

@@ -4,8 +4,8 @@ bb0873616d
 ###
 1267319121
 ###
-http://ru-homestuck.org/storyfiles/hs2/01507_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01507_2.gif
+01507_1.gif
+01507_2.gif
 ###
 |PESTERLOG|
 <span style="color: #e00707">TG: ok so</span>

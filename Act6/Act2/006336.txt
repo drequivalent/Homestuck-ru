@@ -4,7 +4,7 @@ RL: Appearify.
 ###
 1326163723
 ###
-http://ru-homestuck.org/storyfiles/hs2/04433.gif
+04433.gif
 ###
 |PESTERLOG|
 <span style="color: #00d5f2">GG: It worked!</span>

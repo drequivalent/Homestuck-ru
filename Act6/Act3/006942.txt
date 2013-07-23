@@ -4,9 +4,9 @@ f68074eb7f
 ###
 1339289894
 ###
-http://ru-homestuck.org/storyfiles/hs2/05039_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05039_2.gif
-http://ru-homestuck.org/storyfiles/hs2/05039_3.gif
+05039_1.gif
+05039_2.gif
+05039_3.gif
 ###
 |PESTERLOG|
 <span style="color: #00d5f2">GG: There. Those seem like suitable locations for the equipment.</span>

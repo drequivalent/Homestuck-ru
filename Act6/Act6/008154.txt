@@ -4,7 +4,7 @@ MALE: HIDE INSIDE CHEST.
 ###
 1371079730
 ###
-http://ru-homestuck.org/storyfiles/hs2/06252.gif
+06252.gif
 ###
 BEEP BEEP BEEP.
 

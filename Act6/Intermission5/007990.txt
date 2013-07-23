@@ -4,7 +4,7 @@
 ###
 1365056536
 ###
-http://ru-homestuck.org/storyfiles/hs2/06087.gif
+06087.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: ...</span>

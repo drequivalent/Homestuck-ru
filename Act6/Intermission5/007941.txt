@@ -4,7 +4,7 @@ e813436338
 ###
 1364203271
 ###
-http://ru-homestuck.org/storyfiles/hs2/06038.gif
+06038.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ВРИСКА: Don't play dum8 with me. That ring you had.</span>

@@ -4,7 +4,7 @@
 ###
 1364203384
 ###
-http://ru-homestuck.org/storyfiles/hs2/06039.gif
+06039.gif
 ###
 |DIALOGLOG|
 <span style="color: #a15000">ТАВРОС: i HAD IT, tHEN jOHN HAD IT,</span>

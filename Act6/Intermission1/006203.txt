@@ -4,7 +4,7 @@
 ###
 1323667234
 ###
-http://ru-homestuck.org/storyfiles/hs2/04300.gif
+04300.gif
 ###
 |ДИАЛОГЛОГ|
 <span style="color: #4ac925">ДЖЕЙД: просто пытаюсь подсчитать наше время прибытия</span>

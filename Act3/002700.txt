@@ -4,8 +4,8 @@ ea7b914a5d
 ###
 1256257688
 ###
-http://ru-homestuck.org/storyfiles/hs2/00800_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00800_2.gif
+00800_1.gif
+00800_2.gif
 ###
 Ты отключаешь случайный порядок АВТОКОСТЮМЕРА и устанавливаешь для блузки цикл из трех рисунков.
 

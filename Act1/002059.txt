@@ -4,7 +4,7 @@ b99a755405
 ###
 1242433403
 ###
-http://ru-homestuck.org/storyfiles/hs2/00159.gif
+00159.gif
 ###
 This should be useful. Now you can keep tabs on your chums while you wander around the house.
 ###

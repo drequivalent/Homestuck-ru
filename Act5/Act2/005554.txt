@@ -4,8 +4,8 @@ ba28750d28
 ###
 1300335775
 ###
-http://ru-homestuck.org/storyfiles/hs2/03651_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03651_2.gif
+03651_1.gif
+03651_2.gif
 ###
 
 ###

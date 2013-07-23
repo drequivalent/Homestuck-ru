@@ -4,7 +4,7 @@
 ###
 1348463254
 ###
-J|http://www.mspaintadventures.com/storyfiles/hs2/05305
+05305
 ###
 [If game doesn't play, try another browser. Chrome or Firefox Recommended.]
 

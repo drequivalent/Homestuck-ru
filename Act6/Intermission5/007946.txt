@@ -4,7 +4,7 @@
 ###
 1364204101
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/06043
+06043.swf
 ###
 |DIALOGLOG|
 <span style="color: #a1a100">СОЛЛУКС: LADIES.</span>

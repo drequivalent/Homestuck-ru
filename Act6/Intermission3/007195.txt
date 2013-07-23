@@ -4,7 +4,7 @@
 ###
 1347773577
 ###
-http://ru-homestuck.org/storyfiles/hs2/05292.gif
+05292.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: ok, fine.</span>

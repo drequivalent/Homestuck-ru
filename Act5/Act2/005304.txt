@@ -4,8 +4,8 @@ John: Examine photographs.
 ###
 1296446552
 ###
-http://ru-homestuck.org/storyfiles/hs2/03401_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03401_2.gif
+03401_1.gif
+03401_2.gif
 ###
 The wallet unsurprisingly contained a series of sentimental photographs of you when you were young. Some of these photos appear to have jokes written on the back. Others, cake recipes.
 

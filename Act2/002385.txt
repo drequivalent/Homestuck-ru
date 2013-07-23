@@ -4,8 +4,8 @@ a0da131bab
 ###
 1250395344
 ###
-http://ru-homestuck.org/storyfiles/hs2/00485_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00485_2.gif
+00485_1.gif
+00485_2.gif
 ###
 |ДОСТАЛОГ|
 <span style="color: #b536da">TT: Попробую восполнить запас материи за счет площадки, которую я построила ранее.</span>

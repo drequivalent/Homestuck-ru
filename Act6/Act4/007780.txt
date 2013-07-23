@@ -4,7 +4,7 @@ a32a70e9e0
 ###
 1360473373
 ###
-http://ru-homestuck.org/storyfiles/hs2/05877.gif
+05877.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE: are you jake?</span>

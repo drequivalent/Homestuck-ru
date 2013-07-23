@@ -4,7 +4,7 @@ John: Check contents of wallet.
 ###
 1296416829
 ###
-http://ru-homestuck.org/storyfiles/hs2/03395.gif
+03395.gif
 ###
 The first card you examine contains ONE TON OF SHAVING CREAM.
 

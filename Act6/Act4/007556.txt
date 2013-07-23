@@ -4,7 +4,7 @@ f7680c3ea2
 ###
 1356588561
 ###
-http://ru-homestuck.org/storyfiles/hs2/05653.gif
+05653.gif
 ###
 |SPRITELOG|
 <span style="color: #e00707">ARQUIUSPRITE: <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png" border="0" /> Holy <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/arspritetxt_fucking.gif" border="0" /> <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/arspritetxt_shit.gif" border="0" /></span>

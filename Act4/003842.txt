@@ -4,8 +4,8 @@ bf140998a2
 ###
 1275873784
 ###
-http://ru-homestuck.org/storyfiles/hs2/01942_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01942_2.gif
+01942_1.gif
+01942_2.gif
 ###
 
 ###

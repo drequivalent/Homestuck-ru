@@ -4,7 +4,7 @@ b1f8d036f2
 ###
 1338286500
 ###
-http://ru-homestuck.org/storyfiles/hs2/04986.gif
+04986.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: (hey rose)</span>

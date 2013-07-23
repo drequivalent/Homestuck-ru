@@ -4,7 +4,7 @@
 ###
 1279601092
 ###
-http://ru-homestuck.org/storyfiles/hs2/02288.gif
+02288.gif
 ###
 |SPRITELOG|
 <span style="color: #a10000">ARADIABOT: did y0u pr0gram this r0b0t t0 have feelings f0r y0u?</span>

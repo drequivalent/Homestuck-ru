@@ -4,9 +4,9 @@
 ###
 1253345824
 ###
-http://ru-homestuck.org/storyfiles/hs2/00662_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00662_2.gif
-http://ru-homestuck.org/storyfiles/hs2/00662_3.gif
+00662_1.gif
+00662_2.gif
+00662_3.gif
 ###
 It already seems like a long way down to your yard. Not even to speak of whatever's below.
 

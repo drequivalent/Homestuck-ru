@@ -4,7 +4,7 @@ d9c89bd6c1
 ###
 1358747662
 ###
-http://ru-homestuck.org/storyfiles/hs2/05754.gif
+05754.gif
 ###
 |SPRITELOG|
 <span style="color: #e00707">ARQUIUSPRITE: <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png" border="0" /> Mister bro, listen to my advice</span>

@@ -4,7 +4,7 @@
 ###
 1356073965
 ###
-http://ru-homestuck.org/storyfiles/hs2/05621.gif
+05621.gif
 ###
 |DIALOGLOG|
 <span style="color: #929292">CALLIOPE: OFF WITH YOU, LOVE!</span>

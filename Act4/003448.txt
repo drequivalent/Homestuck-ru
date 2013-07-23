@@ -4,7 +4,7 @@ PM?: Locate the Archagent.
 ###
 1267825404
 ###
-http://ru-homestuck.org/storyfiles/hs2/01548.gif
+01548.gif
 ###
 You find the agent's office. But he is nowhere to be found.
 

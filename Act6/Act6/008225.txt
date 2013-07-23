@@ -4,7 +4,7 @@ b8c267576a
 ###
 1372620604
 ###
-http://ru-homestuck.org/storyfiles/hs2/06323.gif
+06323.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">KARKAT: WHAT'S THAT.</span>

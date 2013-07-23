@@ -4,9 +4,9 @@
 ###
 1319518184
 ###
-http://ru-homestuck.org/storyfiles/hs2/04101_1.gif
-http://ru-homestuck.org/storyfiles/hs2/04101_2.gif
-http://ru-homestuck.org/storyfiles/hs2/04101_3.gif
+04101_1.gif
+04101_2.gif
+04101_3.gif
 ###
 |PESTERLOG|
 <span style="color: #626262">CG: WHAT THE HELL IS SHAVING CREAM.</span>

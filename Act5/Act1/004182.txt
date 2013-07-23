@@ -4,10 +4,10 @@ Equius: Proceed to second gate.
 ###
 1279572590
 ###
-http://ru-homestuck.org/storyfiles/hs2/02282_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02282_2.gif
-http://ru-homestuck.org/storyfiles/hs2/02282_3.gif
-http://ru-homestuck.org/storyfiles/hs2/02282_4.gif
+02282_1.gif
+02282_2.gif
+02282_3.gif
+02282_4.gif
 ###
 
 ###

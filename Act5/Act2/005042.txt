@@ -4,9 +4,9 @@ Jade: Draw conksuck boot.
 ###
 1293234138
 ###
-http://ru-homestuck.org/storyfiles/hs2/03139_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03139_2.gif
-http://ru-homestuck.org/storyfiles/hs2/03139_3.gif
+03139_1.gif
+03139_2.gif
+03139_3.gif
 ###
 |PESTERLOG|
 <span style="color: #4ac925">GG: is this conksucky enough</span>

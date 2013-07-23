@@ -4,8 +4,8 @@ cd35880bd3
 ###
 1241497776
 ###
-http://ru-homestuck.org/storyfiles/hs2/00115_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00115_2.gif
+00115_1.gif
+00115_2.gif
 ###
 You go to your CLOSET, where you keep a lot of clothes and an array of handy COMPUTER PROGRAMMING GUIDES.
 ###

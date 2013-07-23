@@ -4,7 +4,7 @@
 ###
 1331886032
 ###
-http://ru-homestuck.org/storyfiles/hs2/04702.gif
+04702.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: Yes, we will have to deal with Jack before all is said and done.</span>

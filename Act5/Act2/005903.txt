@@ -4,9 +4,9 @@
 ###
 1312308634
 ###
-http://ru-homestuck.org/storyfiles/hs2/04000_1.gif
-http://ru-homestuck.org/storyfiles/hs2/04000_2.gif
-http://ru-homestuck.org/storyfiles/hs2/04000_3.gif
+04000_1.gif
+04000_2.gif
+04000_3.gif
 ###
 |PESTERLOG|
 <span style="color: #626262">PAST carcinoGeneticist [PCG]</span> 01:34 HOURS AGO responded to memo.

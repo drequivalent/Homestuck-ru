@@ -4,8 +4,8 @@ d681624fef
 ###
 1299905158
 ###
-http://ru-homestuck.org/storyfiles/hs2/03634_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03634_2.gif
+03634_1.gif
+03634_2.gif
 ###
 
 ###

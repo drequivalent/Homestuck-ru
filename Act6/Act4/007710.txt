@@ -4,8 +4,8 @@ d69d624de5
 ###
 1359847655
 ###
-http://ru-homestuck.org/storyfiles/hs2/05807_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05807_2.gif
+05807_1.gif
+05807_2.gif
 ###
 |PESTERLOG|
 <span style="color: #ff6ff2">TG: yeah</span>

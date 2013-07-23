@@ -4,7 +4,7 @@ a98354ec55
 ###
 1244856740
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/00251
+00251.swf
 ###
 The KERNEL divides. The two halves go their separate ways, leaving behind the SPRITE portion.
 ###

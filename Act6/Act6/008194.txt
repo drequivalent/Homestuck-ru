@@ -4,7 +4,7 @@
 ###
 1371446388
 ###
-http://ru-homestuck.org/storyfiles/hs2/06292.gif
+06292.gif
 ###
 |DIALOGLOG|
 <span style="color: #ff6ff2">ROXY: blehhhh</span>

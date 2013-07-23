@@ -4,7 +4,7 @@ John: Install the Sburb beta.
 ###
 1241497715
 ###
-http://ru-homestuck.org/storyfiles/hs2/00113.gif
+00113.gif
 ###
 You decide it's time for less meta, and more beta.
 

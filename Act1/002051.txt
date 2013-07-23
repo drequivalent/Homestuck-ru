@@ -4,7 +4,7 @@ TT: Deploy Totem Lathe.
 ###
 1242290847
 ###
-http://ru-homestuck.org/storyfiles/hs2/00151.gif
+00151.gif
 ###
 
 ###

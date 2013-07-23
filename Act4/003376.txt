@@ -4,7 +4,7 @@ PM?: Retrieve package.
 ###
 1266978988
 ###
-http://ru-homestuck.org/storyfiles/hs2/01476.gif
+01476.gif
 ###
 You conclude you have no choice. You will march right up to him and ask politely for the package.
 

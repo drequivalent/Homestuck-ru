@@ -4,7 +4,7 @@
 ###
 1365669643
 ###
-http://ru-homestuck.org/storyfiles/hs2/06208.gif
+06208.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: hello???</span>

@@ -4,9 +4,9 @@ ba203f73b4
 ###
 1251011059
 ###
-http://ru-homestuck.org/storyfiles/hs2/00527_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00527_2.gif
-http://ru-homestuck.org/storyfiles/hs2/00527_3.gif
+00527_1.gif
+00527_2.gif
+00527_3.gif
 ###
 In the interest of due diligence, you enter the other code and repeat the process with that card too.
 

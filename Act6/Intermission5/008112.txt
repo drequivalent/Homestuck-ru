@@ -4,7 +4,7 @@
 ###
 1365669691
 ###
-http://ru-homestuck.org/storyfiles/hs2/06209.gif
+06209.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: jade?</span>

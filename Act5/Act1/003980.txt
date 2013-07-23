@@ -4,8 +4,8 @@ a9275efe2b
 ###
 1277322913
 ###
-http://ru-homestuck.org/storyfiles/hs2/02080_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02080_2.gif
+02080_1.gif
+02080_2.gif
 ###
 Nap time.
 ###

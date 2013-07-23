@@ -4,7 +4,7 @@
 ###
 1350083292
 ###
-http://ru-homestuck.org/storyfiles/hs2/05381.gif
+05381.gif
 ###
 |DIALOGLOG|
 <span style="color: #a15000">TAVROS: iT'S FOR PRIVATE SENTIMENTAL PURPOSES,</span>

@@ -4,7 +4,7 @@ f0a606f4bc
 ###
 1371775178
 ###
-http://ru-homestuck.org/storyfiles/hs2/06313.gif
+06313.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: whoa</span>

@@ -4,7 +4,7 @@
 ###
 1334570456
 ###
-http://ru-homestuck.org/storyfiles/hs2/04823.gif
+04823.gif
 ###
 |PESTERLOG|
 <span style="color: #e00707">timaeusTestified [TT]</span> began pestering <span style="color: #00d5f2">gutsyGumshoe [GG]</span>

@@ -4,7 +4,7 @@ be3fd1bbdd
 ###
 1363670739
 ###
-http://ru-homestuck.org/storyfiles/hs2/06014.gif
+06014.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">КАРКАТ: WHO???</span>

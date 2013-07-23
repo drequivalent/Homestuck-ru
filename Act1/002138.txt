@@ -4,8 +4,8 @@ f8d27a003f
 ###
 1244096460
 ###
-http://ru-homestuck.org/storyfiles/hs2/00238_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00238_2.gif
+00238_1.gif
+00238_2.gif
 ###
 You'll need every advantage you can get.
 ###

@@ -4,8 +4,8 @@
 ###
 1263772232
 ###
-http://ru-homestuck.org/storyfiles/hs2/01169_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01169_2.gif
+01169_1.gif
+01169_2.gif
 ###
 Вы взяли КАРТУ С ПРАВИЛАМИ БЛЭКДЖЕКА. 
 

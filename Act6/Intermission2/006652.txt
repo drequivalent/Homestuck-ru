@@ -4,7 +4,7 @@ ceba4b786f
 ###
 1332551777
 ###
-http://ru-homestuck.org/storyfiles/hs2/04749.gif
+04749.gif
 ###
 |DIALOGLOG|
 <span style="color: #77003c">MEENAH: yes you</span>

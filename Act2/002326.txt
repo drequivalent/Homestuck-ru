@@ -4,7 +4,7 @@ b3e1a3ba48
 ###
 1249266895
 ###
-http://ru-homestuck.org/storyfiles/hs2/00426.gif
+00426.gif
 ###
 |СПРАЙТЛОГ|
 <span style="color: #0715cd">ДЖОН: ага, кажется, до меня дошло!</span>

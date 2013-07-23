@@ -4,7 +4,7 @@
 ###
 1351221066
 ###
-http://ru-homestuck.org/storyfiles/hs2/05409.gif
+05409.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: Can you kep a secret?</span>

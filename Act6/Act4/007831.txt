@@ -4,7 +4,7 @@ ccc604fd3f
 ###
 1361088659
 ###
-http://ru-homestuck.org/storyfiles/hs2/05928.gif
+05928.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">KARKAT: SKAIA IS NOW VISIBLE TO THE NAKED EYE.</span>

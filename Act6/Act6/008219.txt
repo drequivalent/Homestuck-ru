@@ -4,7 +4,7 @@ c221cdd412
 ###
 1371859254
 ###
-http://ru-homestuck.org/storyfiles/hs2/06317.gif
+06317.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: where</span>

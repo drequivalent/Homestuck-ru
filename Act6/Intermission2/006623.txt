@@ -4,7 +4,7 @@ ed68f12a65
 ###
 1332135713
 ###
-http://ru-homestuck.org/storyfiles/hs2/04720.gif
+04720.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: are you serious</span>

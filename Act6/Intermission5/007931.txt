@@ -4,7 +4,7 @@
 ###
 1364091606
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/06028
+06028.swf
 ###
 |DIALOGLOG|
 <span style="color: #005682">ВРИСКА: Are you coming or what!</span>

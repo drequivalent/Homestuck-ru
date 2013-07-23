@@ -4,8 +4,8 @@ e34c67a1e8
 ###
 1271389049
 ###
-http://ru-homestuck.org/storyfiles/hs2/01681_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01681_2.gif
+01681_1.gif
+01681_2.gif
 ###
 Oh! And then you can type something like &quot;Switch wall's view to show us what's going on with John.&quot;
 

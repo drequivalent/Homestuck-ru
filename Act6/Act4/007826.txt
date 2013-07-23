@@ -4,8 +4,8 @@ END OF ACT 6 ACT 5
 ###
 1360992473
 ###
-http://ru-homestuck.org/storyfiles/hs2/05923_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05923_2.png
+05923_1.gif
+05923_2.png
 ###
 
 ###

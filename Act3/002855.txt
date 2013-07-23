@@ -4,8 +4,8 @@ State name and rank.
 ###
 1259872349
 ###
-http://ru-homestuck.org/storyfiles/hs2/00955_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00955_2.gif
+00955_1.gif
+00955_2.gif
 ###
 You are ARCHAGENT JACK NOIR. You oversee various affairs of a DARK KINGDOM. Presently you are determining how to deal with this prisoner, who has been a thorn in your side since he was apprehended.
 

@@ -4,8 +4,8 @@ b66f287c29
 ###
 1290309921
 ###
-http://ru-homestuck.org/storyfiles/hs2/02917_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02917_2.gif
+02917_1.gif
+02917_2.gif
 ###
 There is no answer.
 ###

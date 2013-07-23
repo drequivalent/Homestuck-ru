@@ -4,7 +4,7 @@
 ###
 1365056437
 ###
-http://ru-homestuck.org/storyfiles/hs2/06083.gif
+06083.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ВРИСКА: <span style="text-decoration: underline"><span style="font-style: italic">IIIIIIIIT!!!!!!!!</span></span></span>

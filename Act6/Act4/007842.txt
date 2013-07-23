@@ -4,7 +4,7 @@
 ###
 1361343560
 ###
-http://ru-homestuck.org/storyfiles/hs2/05939.gif
+05939.gif
 ###
 |SPRITELOG|
 <span style="color: #f2a400">DAVESPRITE: but you are kind of missing some important shit here</span>

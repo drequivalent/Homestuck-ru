@@ -4,7 +4,7 @@
 ###
 1242521375
 ###
-http://ru-homestuck.org/storyfiles/hs2/00164.gif
+00164.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">EB: what was that noise?</span>

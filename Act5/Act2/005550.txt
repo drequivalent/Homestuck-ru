@@ -4,8 +4,8 @@ BM: Request ruler.
 ###
 1300328679
 ###
-http://ru-homestuck.org/storyfiles/hs2/03647_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03647_2.gif
+03647_1.gif
+03647_2.gif
 ###
 
 ###

@@ -4,8 +4,8 @@ c978613b81
 ###
 1359847273
 ###
-http://ru-homestuck.org/storyfiles/hs2/05803_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05803_2.gif
+05803_1.gif
+05803_2.gif
 ###
 |PESTERLOG|
 <span style="color: #1f9400">GT: Roxy?</span>

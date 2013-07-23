@@ -4,7 +4,7 @@ AR: Find a rocket launcher.
 ###
 1262498836
 ###
-http://ru-homestuck.org/storyfiles/hs2/01105.gif
+01105.gif
 ###
 
 ###

@@ -4,7 +4,7 @@ efbeb36f74
 ###
 1267936011
 ###
-http://ru-homestuck.org/storyfiles/hs2/01563.gif
+01563.gif
 ###
 |PESTERLOG|
 <span style="color: #4ac925">GG: dave here punch this code!</span>

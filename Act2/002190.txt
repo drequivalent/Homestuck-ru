@@ -4,7 +4,7 @@ Rose: Pick up car.
 ###
 1245710255
 ###
-http://ru-homestuck.org/storyfiles/hs2/00290.gif
+00290.gif
 ###
 
 ###

@@ -4,9 +4,9 @@ f9b2900214
 ###
 1251603718
 ###
-http://ru-homestuck.org/storyfiles/hs2/00561_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00561_2.gif
-http://ru-homestuck.org/storyfiles/hs2/00561_3.gif
+00561_1.gif
+00561_2.gif
+00561_3.gif
 ###
 
 ###

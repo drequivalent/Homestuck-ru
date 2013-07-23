@@ -4,7 +4,7 @@
 ###
 1364203130
 ###
-http://ru-homestuck.org/storyfiles/hs2/06037.gif
+06037.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ВРИСКА: Tavros!!!!!!!!</span>

@@ -4,7 +4,7 @@ WV: Examine ring.
 ###
 1291088867
 ###
-http://ru-homestuck.org/storyfiles/hs2/02944.gif
+02944.gif
 ###
 You have not inspected your treasure in years. You have spent ages guarding it without understanding its purpose.
 

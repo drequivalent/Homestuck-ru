@@ -4,7 +4,7 @@ Dave: Captchalogue beta.
 ###
 1262244588
 ###
-http://ru-homestuck.org/storyfiles/hs2/01084.gif
+01084.gif
 ###
 You try to grab the <span style="color: blue">B</span><span style="color: red">E</span><span style="color: blue">T</span><span style="color: red">A</span> (6) but you forgot your sylladex is completely packed.
 

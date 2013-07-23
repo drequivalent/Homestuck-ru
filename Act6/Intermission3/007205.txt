@@ -4,7 +4,7 @@
 ###
 1348265869
 ###
-http://ru-homestuck.org/storyfiles/hs2/05302.gif
+05302.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: oh he's THERE alright.</span>

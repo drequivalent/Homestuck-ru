@@ -4,7 +4,7 @@ John: Pick up two items.
 ###
 1241596076
 ###
-http://ru-homestuck.org/storyfiles/hs2/00121.gif
+00121.gif
 ###
 You captchalogue one of the CAKES.
 

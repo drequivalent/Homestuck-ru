@@ -4,7 +4,7 @@
 ###
 1371446523
 ###
-http://ru-homestuck.org/storyfiles/hs2/06293.gif
+06293.gif
 ###
 |DIALOGLOG|
 <span style="color: #ff6ff2">ROXY: this is not a space egg</span>

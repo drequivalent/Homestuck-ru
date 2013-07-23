@@ -4,7 +4,7 @@
 ###
 1312309646
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/04015
+04015.swf
 ###
 |PESTERLOG|
 <span style="color: #626262">PCG: SORRY.</span>

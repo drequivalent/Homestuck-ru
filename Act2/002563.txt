@@ -4,8 +4,8 @@ John: Turn around...
 ###
 1253404371
 ###
-http://ru-homestuck.org/storyfiles/hs2/00663_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00663_2.gif
+00663_1.gif
+00663_2.gif
 ###
 You are confronted with a pair of enormous foes.
 

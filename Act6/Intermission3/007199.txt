@@ -4,7 +4,7 @@ b55cf56823
 ###
 1348037849
 ###
-http://ru-homestuck.org/storyfiles/hs2/05296.gif
+05296.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: THAT BASTARD!!!</span>

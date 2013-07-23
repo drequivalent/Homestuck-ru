@@ -4,8 +4,8 @@ fcfca99c8b
 ###
 1309055403
 ###
-http://ru-homestuck.org/storyfiles/hs2/03868_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03868_2.gif
+03868_1.gif
+03868_2.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">EB: but now they don't have dream selves left!</span>

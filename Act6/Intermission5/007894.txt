@@ -4,7 +4,7 @@
 ###
 1363258195
 ###
-http://ru-homestuck.org/storyfiles/hs2/05991.gif
+05991.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: He entered what is called a dead session.</span>

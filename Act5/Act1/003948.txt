@@ -4,8 +4,8 @@
 ###
 1276907963
 ###
-http://ru-homestuck.org/storyfiles/hs2/02048_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02048_2.gif
+02048_1.gif
+02048_2retcon.gif
 ###
 
 ###

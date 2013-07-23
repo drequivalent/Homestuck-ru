@@ -4,8 +4,8 @@
 ###
 1248992590
 ###
-http://ru-homestuck.org/storyfiles/hs2/00419_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00419_2.gif
+00419_1.gif
+00419_2.gif
 ###
 |ДОСТАЛОГ|
 <span style="color: #e00707">TG: oh there you are</span>

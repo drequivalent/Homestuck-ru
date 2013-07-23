@@ -4,7 +4,7 @@ df2f5f1034
 ###
 1373870359
 ###
-http://ru-homestuck.org/storyfiles/hs2/06368.gif
+06368.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: I thought of something to tell her.</span>

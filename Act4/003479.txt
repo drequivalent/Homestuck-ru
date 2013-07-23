@@ -4,7 +4,7 @@ bccb774f0b
 ###
 1268251716
 ###
-http://ru-homestuck.org/storyfiles/hs2/01579.gif
+01579.gif
 ###
 |PESTERLOG|
 -- gallowsCalibrator <span style="color: #008282">[GC]</span> began trolling ectoBiologist <span style="color: #0715cd">[EB]</span> --

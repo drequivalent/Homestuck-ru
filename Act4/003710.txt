@@ -4,8 +4,8 @@ f25a5bc240
 ###
 1273189824
 ###
-http://ru-homestuck.org/storyfiles/hs2/01810_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01810_2.gif
+01810_1.gif
+01810_2.gif
 ###
 You make a pair of NEEDLEWANDS.
 

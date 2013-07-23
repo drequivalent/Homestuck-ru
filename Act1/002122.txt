@@ -4,7 +4,7 @@ e1de42be02
 ###
 1243567810
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/00222
+00222.swf
 ###
 You waste approximately 40 seconds playing the violin while your friend is in peril. 
 

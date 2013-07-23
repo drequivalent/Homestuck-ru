@@ -4,7 +4,7 @@
 ###
 1364204051
 ###
-http://ru-homestuck.org/storyfiles/hs2/06042.gif
+06042.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ВРИСКА: What?? No, Sollux, w8!</span>

@@ -4,8 +4,8 @@ b7d667ef8d
 ###
 1297054753
 ###
-http://ru-homestuck.org/storyfiles/hs2/03446_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03446_2.gif
+03446_1.gif
+03446_2.gif
 ###
 
 ###

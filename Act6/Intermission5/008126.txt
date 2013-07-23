@@ -4,7 +4,7 @@
 ###
 1365751112
 ###
-http://ru-homestuck.org/storyfiles/hs2/06223.gif
+06223.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">ДЕЙВ: dude did you just bark</span>

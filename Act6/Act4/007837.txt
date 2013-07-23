@@ -4,7 +4,7 @@ a23c1e14a0
 ###
 1361172535
 ###
-http://ru-homestuck.org/storyfiles/hs2/05934.gif
+05934.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: what do you actually want from her</span>

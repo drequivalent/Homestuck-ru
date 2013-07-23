@@ -4,7 +4,7 @@
 ###
 1332135841
 ###
-http://ru-homestuck.org/storyfiles/hs2/04723.gif
+04723retcon.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: BOOYEAH</span>

@@ -4,8 +4,8 @@ a70189a920
 ###
 1278292320
 ###
-http://ru-homestuck.org/storyfiles/hs2/02161_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02161_2.gif
+02161_1.gif
+02161_2.gif
 ###
 |PESTERLOG|
 <span style="color: #626262">carcinoGeneticist [CG]</span> began trolling <span style="color: #416600">arsenicCatnip [AC]</span>

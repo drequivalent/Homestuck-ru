@@ -4,7 +4,7 @@ a59452f761
 ###
 1361943600
 ###
-http://ru-homestuck.org/storyfiles/hs2/05956.gif
+05956.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: Actually John, I'm very glad you 8rought this up.</span>

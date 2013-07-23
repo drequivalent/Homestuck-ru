@@ -4,7 +4,7 @@ fbf9b47e16
 ###
 1288151216
 ###
-http://ru-homestuck.org/storyfiles/hs2/02797.gif
+02797.gif
 ###
 |SPRITELOG|
 <span style="color: #0715cd">JOHN: nanna, what the heck!!!</span>

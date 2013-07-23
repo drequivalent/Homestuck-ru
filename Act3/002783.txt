@@ -4,7 +4,7 @@ John: Pick up as much grist as you can hold.
 ###
 1258846255
 ###
-http://ru-homestuck.org/storyfiles/hs2/00883.gif
+00883.gif
 ###
 Your expanded CACHE LIMIT is more than enough to accommodate the grist windfall.
 

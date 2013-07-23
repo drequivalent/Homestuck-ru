@@ -4,8 +4,8 @@ b7ae2b61c6
 ###
 1256419816
 ###
-http://ru-homestuck.org/storyfiles/hs2/00809_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00809_2.gif
+00809_1.gif
+00809_2.gif
 ###
 Вы выбрали ЛАЙМ.
 

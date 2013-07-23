@@ -4,8 +4,8 @@ cf9f3b0ba4
 ###
 1243041236
 ###
-http://ru-homestuck.org/storyfiles/hs2/00196_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00196_2.gif
+00196_1.gif
+00196_2.gif
 ###
 
 ###

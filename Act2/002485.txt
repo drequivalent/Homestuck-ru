@@ -4,8 +4,8 @@ Dave: Change to Scrabble Points Hash Modus.
 ###
 1252104335
 ###
-http://ru-homestuck.org/storyfiles/hs2/00585_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00585_2.gif
+00585_1.gif
+00585_2.gif
 ###
 First you program your modus with a SCRABBLE POINTS HASH FUNCTION, adding it to the list.
 

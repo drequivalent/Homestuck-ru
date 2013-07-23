@@ -4,7 +4,7 @@
 ###
 1332135763
 ###
-http://ru-homestuck.org/storyfiles/hs2/04721.gif
+04721.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: hold still</span>

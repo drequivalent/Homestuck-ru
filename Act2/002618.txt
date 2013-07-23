@@ -4,7 +4,7 @@ WV: Type =&gt; REBOOT.
 ###
 1254288710
 ###
-http://ru-homestuck.org/storyfiles/hs2/00718.gif
+00718.gif
 ###
 You can't! Nothing is working anymore. The timer seems to have disabled the keyboard.
 ###

@@ -4,8 +4,8 @@ d69ea4d69c
 ###
 1298494090
 ###
-http://ru-homestuck.org/storyfiles/hs2/03572_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03572_2.gif
+03572_1.gif
+03572_2.gif
 ###
 This is not specifically your memory.
 ###

@@ -4,7 +4,7 @@ uu: Defeat UU.
 ###
 1339140646
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/05029
+05029.swf
 ###
 |PESTERLOG|
 <span style="color: #929292">uranianUmbra [UU]</span> began cheering <span style="color: #323232">undyingUmbrage [uu]</span>

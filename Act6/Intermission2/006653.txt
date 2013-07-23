@@ -4,7 +4,7 @@ dae56aa856
 ###
 1332551985
 ###
-http://ru-homestuck.org/storyfiles/hs2/04750.gif
+04750.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: um... your troll friends?</span>

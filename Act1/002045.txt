@@ -4,7 +4,7 @@ TT: Select John.
 ###
 1242181207
 ###
-http://ru-homestuck.org/storyfiles/hs2/00145.gif
+00145.gif
 ###
 You cannot select a PLAYER!
 

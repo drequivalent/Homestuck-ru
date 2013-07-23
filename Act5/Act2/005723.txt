@@ -4,8 +4,8 @@ f9281270e9
 ###
 1307229269
 ###
-http://ru-homestuck.org/storyfiles/hs2/03820_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03820_2.gif
+03820_1.gif
+03820_2.gif
 ###
 
 ###

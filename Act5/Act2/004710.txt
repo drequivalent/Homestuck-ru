@@ -4,7 +4,7 @@ Aradia: Randomly explode.
 ###
 1288319928
 ###
-http://ru-homestuck.org/storyfiles/hs2/02809.gif
+02809.gif
 ###
 You fail to randomly explode.
 

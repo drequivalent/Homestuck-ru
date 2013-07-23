@@ -4,8 +4,8 @@ AR: Retrieve mysterious artifacts from ruins.
 ###
 1266518353
 ###
-http://ru-homestuck.org/storyfiles/hs2/01409_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01409_2.gif
+01409_1.gif
+01409_2.gif
 ###
 You excuse yourself for a moment and retrieve a few of your personal belongings. These should really impress your visitors.
 

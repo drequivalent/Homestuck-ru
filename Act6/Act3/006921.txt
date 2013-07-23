@@ -4,7 +4,7 @@ Jake: Shrink it.
 ###
 1338778239
 ###
-http://ru-homestuck.org/storyfiles/hs2/05018.gif
+05018.gif
 ###
 Works like a charm, as expected.
 

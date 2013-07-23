@@ -4,8 +4,8 @@ f0e3826ca5
 ###
 1273798361
 ###
-http://ru-homestuck.org/storyfiles/hs2/01838_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01838_2.gif
+01838_1.gif
+01838_2.gif
 ###
 For the sake of science, you ||-combine them instead of &amp;&amp;-combine.
 

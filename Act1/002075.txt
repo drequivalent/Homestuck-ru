@@ -4,7 +4,7 @@ John: Hit Cruxtruder with sledgehammer.
 ###
 1242627285
 ###
-http://ru-homestuck.org/storyfiles/hs2/00175.gif
+00175.gif
 ###
 |PESTERLOG|
 <span style="color: #b536da">TT: Need some help?</span>

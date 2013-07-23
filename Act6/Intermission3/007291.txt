@@ -4,7 +4,7 @@
 ###
 1350620110
 ###
-http://ru-homestuck.org/storyfiles/hs2/05388.gif
+05388.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">VRISKA: Yes, that's it. Dump them all over the floor a8out ten feet away from me, just like that.</span>

@@ -4,9 +4,9 @@ ac6cde017f
 ###
 1268351760
 ###
-http://ru-homestuck.org/storyfiles/hs2/01588_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01588_2.gif
-http://ru-homestuck.org/storyfiles/hs2/01588_3.gif
+01588_1.gif
+01588_2.gif
+01588_3.gif
 ###
 |PESTERLOG|
 <span style="color: #e00707">TG: im building up your house</span>

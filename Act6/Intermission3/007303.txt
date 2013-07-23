@@ -4,7 +4,7 @@
 ###
 1350983752
 ###
-http://ru-homestuck.org/storyfiles/hs2/05400.gif
+05400.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: dammit</span>

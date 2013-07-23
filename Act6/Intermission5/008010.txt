@@ -4,7 +4,7 @@
 ###
 1365207288
 ###
-http://ru-homestuck.org/storyfiles/hs2/06107.gif
+06107.gif
 ###
 |DIALOGLOG|
 <span style="color: #77003c">МИНА: dammit</span>

@@ -4,7 +4,7 @@ Roxy: Look out window.
 ###
 1355551043
 ###
-http://ru-homestuck.org/storyfiles/hs2/05581.gif
+05581.gif
 ###
 |PESTERLOG|
 <span style="color: #ff6ff2">TG: is there something out here?</span>

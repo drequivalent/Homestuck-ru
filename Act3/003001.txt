@@ -4,7 +4,7 @@ AR: Realize that your weapon is magazine-fed, not clip-fed.
 ###
 1262480769
 ###
-http://ru-homestuck.org/storyfiles/hs2/01101.gif
+01101.gif
 ###
 You don't give a shit about that.
 ###

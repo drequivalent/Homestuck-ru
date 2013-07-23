@@ -4,8 +4,8 @@ db305b3b59
 ###
 1253062959
 ###
-http://ru-homestuck.org/storyfiles/hs2/00646_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00646_2.gif
+00646_1.gif
+00646_2.gif
 ###
 You eject the disk and captchalogue the SERVER CD.
 ###

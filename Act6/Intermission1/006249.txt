@@ -4,7 +4,7 @@ fd42600541
 ###
 1324253083
 ###
-http://ru-homestuck.org/storyfiles/hs2/04346.gif
+04346.gif
 ###
 |ДИАЛОГЛОГ|
 <span style="color: #a10000">АРАДИЯ: видишь??</span>

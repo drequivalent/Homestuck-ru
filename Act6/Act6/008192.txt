@@ -4,7 +4,7 @@ b383e30cb6
 ###
 1371445848
 ###
-http://ru-homestuck.org/storyfiles/hs2/06290.gif
+06290.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE:</span> <span style="color: #000000">SILENCE!!!!!!</span>

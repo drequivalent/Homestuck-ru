@@ -4,7 +4,7 @@ beb1d2294b
 ###
 1363258381
 ###
-http://ru-homestuck.org/storyfiles/hs2/05993.gif
+05993.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: With perseverance, he found the final door and unlocked it.</span>

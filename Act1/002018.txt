@@ -4,7 +4,7 @@ John: Apply Fetch Modus to Sylladex.
 ###
 1241497912
 ###
-http://ru-homestuck.org/storyfiles/hs2/00118.gif
+00118.gif
 ###
 Items captchalogued in your SYLLADEX are no longer immediately accessible. You can only use the item on the bottom card, and must wait for items on upper cards to be pushed back to it.
 

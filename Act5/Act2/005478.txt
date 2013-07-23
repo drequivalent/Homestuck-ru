@@ -4,8 +4,8 @@ e3d08e7a70
 ###
 1298494155
 ###
-http://ru-homestuck.org/storyfiles/hs2/03575_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03575_2.gif
+03575_1.gif
+03575_2.gif
 ###
 
 ###

@@ -4,9 +4,9 @@ John: Recombine hammer and pogo ride.
 ###
 1261449391
 ###
-http://ru-homestuck.org/storyfiles/hs2/01053_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01053_2.gif
-http://ru-homestuck.org/storyfiles/hs2/01053_3.gif
+01053_1.gif
+01053_2.gif
+01053_3.gif
 ###
 This time instead of overlapping (&amp;&amp;) the two cards which created the POGO HAMMER, you use the two codes to double-punch (||) a blank card, producing a different hole pattern.
 

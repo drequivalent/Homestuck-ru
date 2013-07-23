@@ -4,7 +4,7 @@ Jade: Search for a new frog.
 ###
 1295425278
 ###
-http://ru-homestuck.org/storyfiles/hs2/03313.gif
+03313.gif
 ###
 |PESTERLOG|
 <span style="color: #4ac925">GG: ok, i will try this</span>

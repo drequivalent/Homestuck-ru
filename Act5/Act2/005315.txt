@@ -4,7 +4,7 @@ John: Pester Jade.
 ###
 1296538140
 ###
-http://ru-homestuck.org/storyfiles/hs2/03412.gif
+03412.gif
 ###
 |PESTERLOG|
 -- ectoBiologist <span style="color: #0715cd">[EB]</span> began pestering gardenGnostic <span style="color: #4ac925">[GG]</span> --

@@ -4,7 +4,7 @@
 ###
 1364453086
 ###
-http://ru-homestuck.org/storyfiles/hs2/06050.gif
+06050.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ВРИСКА: Not that it would even matter to some people.</span>

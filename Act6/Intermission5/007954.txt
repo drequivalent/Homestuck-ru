@@ -4,7 +4,7 @@
 ###
 1364453141
 ###
-http://ru-homestuck.org/storyfiles/hs2/06051.gif
+06051.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ВРИСКА: 8y 8eing me.</span>

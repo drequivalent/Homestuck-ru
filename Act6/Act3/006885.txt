@@ -4,7 +4,7 @@
 ###
 1338167998
 ###
-http://ru-homestuck.org/storyfiles/hs2/04982.gif
+04982.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ARANEA: Now step away from it. That's right.</span>

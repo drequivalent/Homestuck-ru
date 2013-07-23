@@ -4,7 +4,7 @@ e487995907
 ###
 1364880900
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/06070
+06070.swf
 ###
 |DIALOGLOG|
 <span style="color: #005682">ВРИСКА: Will you guys hurry up??</span>

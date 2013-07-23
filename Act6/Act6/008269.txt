@@ -4,7 +4,7 @@
 ###
 1373870307
 ###
-http://ru-homestuck.org/storyfiles/hs2/06367.gif
+06367.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: COME BACK!</span>

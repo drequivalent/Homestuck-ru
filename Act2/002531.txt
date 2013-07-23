@@ -4,8 +4,8 @@ c7bf5b80f3
 ###
 1252721967
 ###
-http://ru-homestuck.org/storyfiles/hs2/00631_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00631_2.gif
+00631_1.gif
+00631_2.gif
 ###
 You overlap two of the punched cards. They mask each other's hole patterns.
 ###

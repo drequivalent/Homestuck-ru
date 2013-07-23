@@ -4,7 +4,7 @@
 ###
 1338253765
 ###
-http://ru-homestuck.org/storyfiles/hs2/04983.gif
+04983.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ARANEA: Ok then!</span>

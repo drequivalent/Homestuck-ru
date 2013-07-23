@@ -4,7 +4,7 @@
 ###
 1340934884
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/05214
+05214.swf
 ###
 |ДИАЛОГЛОГ|
 <span style="color: #f2a400">ДИРК: Увидимся позже.</span>

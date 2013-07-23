@@ -4,8 +4,8 @@ d0b1f08b61
 ###
 1272046178
 ###
-http://ru-homestuck.org/storyfiles/hs2/01737_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01737_2.gif
+01737_1.gif
+01737_2.gif
 ###
 You decide to try out the code Davesprite gave you.
 ###

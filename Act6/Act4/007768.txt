@@ -4,8 +4,8 @@ cb461190bf
 ###
 1360472858
 ###
-http://ru-homestuck.org/storyfiles/hs2/05865_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05865_2.gif
+05865_1.gif
+05865_2.gif
 ###
 
 ###

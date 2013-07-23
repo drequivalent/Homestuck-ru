@@ -4,7 +4,7 @@ bb139b6420
 ###
 1310166847
 ###
-http://ru-homestuck.org/storyfiles/hs2/03914.gif
+03914.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">GT: what's happening?</span>

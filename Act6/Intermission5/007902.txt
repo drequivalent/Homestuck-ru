@@ -4,7 +4,7 @@
 ###
 1363401314
 ###
-http://ru-homestuck.org/storyfiles/hs2/05999.gif
+05999.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: It meant that he would only have to conquer twelve planets instead.</span>

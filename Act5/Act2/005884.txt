@@ -4,8 +4,8 @@ a7d1a4f802
 ###
 1311391569
 ###
-http://ru-homestuck.org/storyfiles/hs2/03981_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03981_2.gif
+03981_1.gif
+03981_2.gif
 ###
 |PESTERLOG|
 <span style="color: #4ac925">?GG: later my grandpa made a robot for me to help me with my sleep walking</span>

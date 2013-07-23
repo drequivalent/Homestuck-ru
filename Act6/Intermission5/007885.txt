@@ -4,7 +4,7 @@
 ###
 1363130326
 ###
-http://ru-homestuck.org/storyfiles/hs2/05982.gif
+05982.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: As you might expect, the female child was as cheerful and friendly as could 8e.</span>

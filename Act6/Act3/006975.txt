@@ -4,8 +4,8 @@
 ###
 1339555072
 ###
-http://ru-homestuck.org/storyfiles/hs2/05072_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05072_2.gif
+05072_1.gif
+05072_2.gif
 ###
 |PESTERLOG|
 <span style="color: #f2a400">TT: Ok. Now what.</span>

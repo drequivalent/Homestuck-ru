@@ -4,7 +4,7 @@ c2ca386e0b
 ###
 1297496529
 ###
-http://ru-homestuck.org/storyfiles/hs2/03488.gif
+03488.gif
 ###
 |PESTERLOG|
 <span style="color: #a10000">AA: it seems you have a hiveguest dave</span>

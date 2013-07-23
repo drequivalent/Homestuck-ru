@@ -4,9 +4,9 @@
 ###
 1245454191
 ###
-http://ru-homestuck.org/storyfiles/hs2/00273_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00273_2.gif
-http://ru-homestuck.org/storyfiles/hs2/00273_3.gif
+00273_1.gif
+00273_2.gif
+00273_3.gif
 ###
 В отдалении метеориты падают все с большей частотой. Пожар в лесу разгорелся так сильно, что даже дождь не останавливает его!
 ###

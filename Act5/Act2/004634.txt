@@ -4,7 +4,7 @@ John: Hurry up!
 ###
 1286238343
 ###
-http://ru-homestuck.org/storyfiles/hs2/02733.gif
+02733.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">EB: so, uh...</span>

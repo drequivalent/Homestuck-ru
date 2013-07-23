@@ -4,9 +4,9 @@ a5484b68c3
 ###
 1360193560
 ###
-http://ru-homestuck.org/storyfiles/hs2/05829_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05829_2.gif
-http://ru-homestuck.org/storyfiles/hs2/05829_3.gif
+05829_1.gif
+05829_2.gif
+05829_3.gif
 ###
 |PESTERLOG|
 <span style="color: #f2a400">TT: So that's how crazy it is for her to think I'm disappointed in her.</span>

@@ -4,7 +4,7 @@
 ###
 1249015307
 ###
-http://ru-homestuck.org/storyfiles/hs2/00420.gif
+00420.gif
 ###
 |СПРАЙТЛОГ|
 <span style="color: #0715cd">ДЖОН: эээ... бабуля?</span>

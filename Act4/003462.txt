@@ -4,8 +4,8 @@
 ###
 1267935962
 ###
-http://ru-homestuck.org/storyfiles/hs2/01562_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01562_2.gif
+01562_1.gif
+01562_2.gif
 ###
 The pad recognizes the drawing, but there is no designix around, and even if there was, it would obviously be way too big to captchalogue.
 

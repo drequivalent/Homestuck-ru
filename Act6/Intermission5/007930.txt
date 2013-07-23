@@ -4,7 +4,7 @@ a65d18f3f7
 ###
 1363995558
 ###
-http://ru-homestuck.org/storyfiles/hs2/06027.gif
+06027.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: oh my god, you are all so insane!</span>

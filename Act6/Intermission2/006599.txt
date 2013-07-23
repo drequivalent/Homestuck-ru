@@ -4,8 +4,8 @@ b54ebde48a
 ###
 1331782497
 ###
-http://ru-homestuck.org/storyfiles/hs2/04696_1.gif
-http://ru-homestuck.org/storyfiles/hs2/04696_2.gif
+04696_1.gif
+04696_2.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: kanaya?</span>

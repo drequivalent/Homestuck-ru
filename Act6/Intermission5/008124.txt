@@ -4,7 +4,7 @@
 ###
 1365750676
 ###
-http://ru-homestuck.org/storyfiles/hs2/06221.gif
+06221.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">ДЕЙВ: so</span>

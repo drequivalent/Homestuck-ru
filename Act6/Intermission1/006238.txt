@@ -4,7 +4,7 @@
 ###
 1324097299
 ###
-http://ru-homestuck.org/storyfiles/hs2/04335.gif
+04335.gif
 ###
 |ДИАЛОГЛОГ|
 <span style="color: #4ac925">ДЖЕЙД: население пяти планет составит мне компанию!</span>

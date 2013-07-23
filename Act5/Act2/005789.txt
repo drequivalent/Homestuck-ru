@@ -4,7 +4,7 @@ dbee6974b4
 ###
 1309646857
 ###
-http://ru-homestuck.org/storyfiles/hs2/03886.gif
+03886.gif
 ###
 |SPRITELOG|
 <span style="color: #f2a400">DAVESPRITE: hey</span>

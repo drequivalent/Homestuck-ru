@@ -4,7 +4,7 @@ b21910795d
 ###
 1361498043
 ###
-http://ru-homestuck.org/storyfiles/hs2/05948.gif
+05948.gif
 ###
 |DIALOGLOG|
 <span style="color: #77003c">MEENAH: ey its the blue buoy again!</span>

@@ -4,7 +4,7 @@ Jane: Pester shades.
 ###
 1329211377
 ###
-http://ru-homestuck.org/storyfiles/hs2/04567.gif
+04567.gif
 ###
 |PESTERLOG|
 <span style="color: #e00707">TT: Are you ready to do this thing?</span>

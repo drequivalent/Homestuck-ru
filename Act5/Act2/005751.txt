@@ -4,7 +4,7 @@ dde3fe0555
 ###
 1307923908
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/03848
+03848.swf
 ###
 |PESTERLOG|
 <span style="color: #005682">AG: Nothing too glorious a8out the way you just died, I 8et.</span>

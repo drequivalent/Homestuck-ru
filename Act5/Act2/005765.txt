@@ -4,8 +4,8 @@
 ###
 1308395161
 ###
-http://ru-homestuck.org/storyfiles/hs2/03862_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03862_2.gif
+03862_1.gif
+03862_2.gif
 ###
 |PESTERLOG|
 carcinoGeneticist <span style="color: #626262">[CG]</span> began trolling ectoBiologist <span style="color: #0715cd">[EB]</span>

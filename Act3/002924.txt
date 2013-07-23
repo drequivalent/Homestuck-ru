@@ -4,7 +4,7 @@ John: Alchemize.
 ###
 1261008346
 ###
-http://ru-homestuck.org/storyfiles/hs2/01024.gif
+01024.gif
 ###
 |PESTERLOG|
 <span style="color: #b536da">TT: I don't like to use the word &quot;crazy&quot;.</span>

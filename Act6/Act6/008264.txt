@@ -4,7 +4,7 @@
 ###
 1373764402
 ###
-http://ru-homestuck.org/storyfiles/hs2/06362.gif
+06362.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: Tell her...</span>

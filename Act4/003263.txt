@@ -4,12 +4,12 @@ f3056553f6
 ###
 1265865619
 ###
-http://ru-homestuck.org/storyfiles/hs2/01363_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01363_2.gif
-http://ru-homestuck.org/storyfiles/hs2/01363_3.gif
-http://ru-homestuck.org/storyfiles/hs2/01363_4.gif
-http://ru-homestuck.org/storyfiles/hs2/01363_5.gif
-http://ru-homestuck.org/storyfiles/hs2/01363_6.gif
+01363_1.gif
+01363_2.gif
+01363_3.gif
+01363_4.gif
+01363_5.gif
+01363_6.gif
 ###
 
 ###

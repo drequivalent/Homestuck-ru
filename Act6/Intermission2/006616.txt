@@ -4,7 +4,7 @@
 ###
 1332106032
 ###
-http://ru-homestuck.org/storyfiles/hs2/04713.gif
+04713.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: do not draw an arrangement of squares or otherwise interlocking polygons</span>

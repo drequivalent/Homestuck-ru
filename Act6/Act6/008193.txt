@@ -4,7 +4,7 @@
 ###
 1371446289
 ###
-http://ru-homestuck.org/storyfiles/hs2/06291.gif
+06291.gif
 ###
 |DIALOGLOG|
 <span style="color: #ff6ff2">ROXY: ok i opened it</span>

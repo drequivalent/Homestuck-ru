@@ -4,7 +4,7 @@
 ###
 1371859341
 ###
-http://ru-homestuck.org/storyfiles/hs2/06318.gif
+06318.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: what work</span>

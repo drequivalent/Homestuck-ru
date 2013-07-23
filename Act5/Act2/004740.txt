@@ -4,7 +4,7 @@ d316e72ca6
 ###
 1288938214
 ###
-http://ru-homestuck.org/storyfiles/hs2/02839.gif
+02839.gif
 ###
 |SPRITELOG|
 <span style="color: #f2a400">DAVESPRITE: caw caw motherfuckers</span>

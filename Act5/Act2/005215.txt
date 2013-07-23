@@ -4,7 +4,7 @@ Jade: Appearify frog.
 ###
 1295405083
 ###
-http://ru-homestuck.org/storyfiles/hs2/03312.gif
+03312.gif
 ###
 |PESTERLOG|
 <span style="color: #4ac925">GG: oh god, it is still a frogcicle!!!!</span>

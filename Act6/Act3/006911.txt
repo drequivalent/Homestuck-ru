@@ -4,7 +4,7 @@
 ###
 1338700999
 ###
-http://ru-homestuck.org/storyfiles/hs2/05008.gif
+05008.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ARANEA: Meenah?</span>

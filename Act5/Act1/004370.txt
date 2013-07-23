@@ -4,8 +4,8 @@ Karkat: Check on Sollux.
 ###
 1282281113
 ###
-http://ru-homestuck.org/storyfiles/hs2/02469_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02469_2.gif
+02469_1.gif
+02469_2.gif
 ###
 |PESTERLOG|
 <span style="color: #626262">carcinoGeneticist [CG]</span> began trolling <span style="color: #a1a100">twinArmageddons [TA]</span> 

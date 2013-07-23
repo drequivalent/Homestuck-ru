@@ -4,7 +4,7 @@ d83f43a02a
 ###
 1279360078
 ###
-http://ru-homestuck.org/storyfiles/hs2/02256.gif
+02256.gif
 ###
 |PESTERLOG|
 <span style="color: #008282">GC: H3Y WH1T3 T3XT GUY</span>

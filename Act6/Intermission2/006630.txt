@@ -4,7 +4,7 @@
 ###
 1332211353
 ###
-http://ru-homestuck.org/storyfiles/hs2/04727.gif
+04727.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE: i dont really think this is my kind of game....</span>

@@ -4,8 +4,8 @@
 ###
 1312428437
 ###
-http://ru-homestuck.org/storyfiles/hs2/04023_1.gif
-http://ru-homestuck.org/storyfiles/hs2/04023_2.gif
+04023_1.gif
+04023_2.gif
 ###
 |PESTERLOG|
 <span style="color: #626262">PCG: ANYWAY</span>

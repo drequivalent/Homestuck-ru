@@ -4,9 +4,9 @@ Jane: Captchalogue it!
 ###
 1321128243
 ###
-http://ru-homestuck.org/storyfiles/hs2/04121_1.gif
-http://ru-homestuck.org/storyfiles/hs2/04121_2.gif
-http://ru-homestuck.org/storyfiles/hs2/04121_3.gif
+04121_1.gif
+04121_2.gif
+04121_3.gif
 ###
 You stick the RECIPE MODUS in your... uh... RECIPE MODUS!
 

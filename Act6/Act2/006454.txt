@@ -4,7 +4,7 @@ b828360f4b
 ###
 1328572189
 ###
-http://ru-homestuck.org/storyfiles/hs2/04551.gif
+04551.gif
 ###
 |PESTERLOG|
 <span style="color: #f2a400">timaeusTestified [TT]</span> began pestering <span style="color: #00d5f2">gutsyGumshoe [GG]</span>

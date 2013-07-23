@@ -4,7 +4,7 @@ Dirk: Retrieve juju.
 ###
 1330745643
 ###
-http://ru-homestuck.org/storyfiles/hs2/04647.gif
+04647.gif
 ###
 |PESTERLOG|
 <span style="color: #f2a400">TT: This is probably a dumb question, but you don't really care about &quot;causal spoilers,&quot; do you?</span>

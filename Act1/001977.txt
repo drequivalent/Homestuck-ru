@@ -4,7 +4,7 @@
 ###
 1240356767
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/00077
+00077.swf
 ###
 (Pages including sound will be preceded by [S] in the command.)
 ###

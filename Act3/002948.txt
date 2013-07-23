@@ -4,8 +4,8 @@ Jade: Inspect neighbor's tower.
 ###
 1261368034
 ###
-http://ru-homestuck.org/storyfiles/hs2/01048_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01048_2.gif
+01048_1.gif
+01048_2.gif
 ###
 It is very much the same as your own! The only difference is that this one is home to a young boy instead of a young girl.
 

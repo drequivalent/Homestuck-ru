@@ -4,7 +4,7 @@ John: Prepare for flight.
 ###
 1285450371
 ###
-http://ru-homestuck.org/storyfiles/hs2/02660.gif
+02660.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">EB: jade is not answering!</span>

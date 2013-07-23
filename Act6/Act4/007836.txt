@@ -4,7 +4,7 @@
 ###
 1361171682
 ###
-http://ru-homestuck.org/storyfiles/hs2/05933.gif
+05933.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">KARKAT: WELL, WHENEVER SHE WAKES UP, WE ALL NEED TO HAVE A SERIOUS TALK ABOUT THIS.</span>

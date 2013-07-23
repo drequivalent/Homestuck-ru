@@ -4,7 +4,7 @@ bc7dd5a1a4
 ###
 1373764775
 ###
-http://ru-homestuck.org/storyfiles/hs2/06363.gif
+06363.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: I don't know. Just tell her whatever you think I should say.</span>

@@ -4,7 +4,7 @@ b43beef5b9
 ###
 1338432438
 ###
-http://ru-homestuck.org/storyfiles/hs2/04993.gif
+04993.gif
 ###
 |DIALOGLOG|
 <span style="color: #77003c">MEENAH: let alone themshellves</span>

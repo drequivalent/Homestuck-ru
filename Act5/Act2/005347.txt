@@ -4,8 +4,8 @@ ce82ef5f81
 ###
 1297054719
 ###
-http://ru-homestuck.org/storyfiles/hs2/03444_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03444_2.gif
+03444_1.gif
+03444_2.gif
 ###
 
 ###

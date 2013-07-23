@@ -4,7 +4,7 @@ Jake: Transportalize.
 ###
 1339466196
 ###
-http://ru-homestuck.org/storyfiles/hs2/05059.gif
+05059.gif
 ###
 |PESTERLOG|
 <span style="color: #1f9400">GT: Whoa what is THIS place?</span>

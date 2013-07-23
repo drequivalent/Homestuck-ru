@@ -4,8 +4,8 @@
 ###
 1282543393
 ###
-http://ru-homestuck.org/storyfiles/hs2/02504_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02504_2.gif
+02504_1.gif
+02504_2.gif
 ###
 Most other players only get one extra.
 

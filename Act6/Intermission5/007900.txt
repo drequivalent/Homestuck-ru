@@ -4,7 +4,7 @@ bba74a7aec
 ###
 1363401122
 ###
-http://ru-homestuck.org/storyfiles/hs2/05997.gif
+05997.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: The resulting explosion is known as the First 8r8k.</span>

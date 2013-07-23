@@ -4,8 +4,8 @@ Jade: Deploy Punch Designix.
 ###
 1267341952
 ###
-http://ru-homestuck.org/storyfiles/hs2/01509_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01509_2.gif
+01509_1.gif
+01509_2.gif
 ###
 You can't! You'll need some SHALE for that.
 ###

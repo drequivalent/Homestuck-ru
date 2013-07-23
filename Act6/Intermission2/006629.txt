@@ -4,7 +4,7 @@
 ###
 1332211241
 ###
-http://ru-homestuck.org/storyfiles/hs2/04726.gif
+04726.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE: john i really think we are scraping the bottom of the barrel here</span>

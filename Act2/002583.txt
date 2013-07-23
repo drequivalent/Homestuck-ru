@@ -4,7 +4,7 @@ WV: Locate a nearby sharp object.
 ###
 1253764893
 ###
-http://ru-homestuck.org/storyfiles/hs2/00683.gif
+00683.gif
 ###
 You wield your TRUSTY KNIFE.
 

@@ -4,7 +4,7 @@ a280b4787d
 ###
 1251954560
 ###
-http://ru-homestuck.org/storyfiles/hs2/00578.gif
+00578.gif
 ###
 You take the <span style="color: blue">N</span><span style="color: red">U</span><span style="color: blue">NCH</span><span style="color: red">A</span><span style="color: blue">K</span><span style="color: red">U</span> (3), once again grabbing without thinking ahead.
 ###

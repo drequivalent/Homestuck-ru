@@ -4,7 +4,7 @@ a591a7f508
 ###
 1293830289
 ###
-http://ru-homestuck.org/storyfiles/hs2/03211.gif
+03211.gif
 ###
 |SPRITELOG|
 <span style="color: #1f9400">JADESPRITE: what did you do...</span>

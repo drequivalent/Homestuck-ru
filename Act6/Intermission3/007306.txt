@@ -4,7 +4,7 @@
 ###
 1351128738
 ###
-http://ru-homestuck.org/storyfiles/hs2/05403.gif
+05403.gif
 ###
 |DIALOGLOG|
 <span style="color: #008141">KANAYA: Good Evening</span>

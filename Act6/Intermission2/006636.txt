@@ -4,7 +4,7 @@
 ###
 1332378711
 ###
-http://ru-homestuck.org/storyfiles/hs2/04733.gif
+04733.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE: remember how you told me how karkat kept sort of trying to set you up with rose?</span>

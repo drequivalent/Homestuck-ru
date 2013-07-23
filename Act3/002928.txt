@@ -4,7 +4,7 @@ Jade: Go explore the golden city.
 ###
 1261178330
 ###
-http://ru-homestuck.org/storyfiles/hs2/01028.gif
+01028.gif
 ###
 
 ###

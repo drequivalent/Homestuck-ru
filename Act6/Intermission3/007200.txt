@@ -4,7 +4,7 @@
 ###
 1348037991
 ###
-http://ru-homestuck.org/storyfiles/hs2/05297.gif
+05297.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE: where are you going?</span>

@@ -4,7 +4,7 @@ e60957dc5a
 ###
 1348038177
 ###
-http://ru-homestuck.org/storyfiles/hs2/05298.gif
+05298.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE: ok yes, that practical joke is in poor taste, but you should try to calm down and...</span>

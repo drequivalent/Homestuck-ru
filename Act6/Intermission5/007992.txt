@@ -4,7 +4,7 @@ e8a02bb949
 ###
 1365193023
 ###
-http://ru-homestuck.org/storyfiles/hs2/06089.gif
+06089.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: ok, i'm not sure what that crazy outburst was about.</span>

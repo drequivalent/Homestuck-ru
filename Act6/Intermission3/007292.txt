@@ -4,7 +4,7 @@ d05c0dca70
 ###
 1350620160
 ###
-http://ru-homestuck.org/storyfiles/hs2/05389.gif
+05389.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">VRISKA: John, come take a look at this.</span>

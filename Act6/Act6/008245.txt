@@ -4,7 +4,7 @@
 ###
 1373516571
 ###
-http://ru-homestuck.org/storyfiles/hs2/06343.gif
+06343.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: Euurgh.</span>

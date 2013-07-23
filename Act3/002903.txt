@@ -4,7 +4,7 @@ Rose: Pester John.
 ###
 1260596625
 ###
-http://ru-homestuck.org/storyfiles/hs2/01003.gif
+01003.gif
 ###
 |PESTERLOG|
 <span style="color: #b536da">TT: That's quite a totem collection.</span>

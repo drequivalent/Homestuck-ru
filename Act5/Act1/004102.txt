@@ -4,7 +4,7 @@ bf8cfaa182
 ###
 1278826388
 ###
-http://ru-homestuck.org/storyfiles/hs2/02202.gif
+02202.gif
 ###
 |PESTERLOG|
 <span style="color: #FFFFFF">Hello.</span>

@@ -4,12 +4,12 @@ c701e17903
 ###
 1261280999
 ###
-http://ru-homestuck.org/storyfiles/hs2/01039_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01039_2.gif
-http://ru-homestuck.org/storyfiles/hs2/01039_3.gif
-http://ru-homestuck.org/storyfiles/hs2/01039_4.gif
-http://ru-homestuck.org/storyfiles/hs2/01039_5.gif
-http://ru-homestuck.org/storyfiles/hs2/01039_6.gif
+01039_1.gif
+01039_2.gif
+01039_3.gif
+01039_4.gif
+01039_5.gif
+01039_6.gif
 ###
 
 ###

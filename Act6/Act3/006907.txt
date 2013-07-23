@@ -4,7 +4,7 @@
 ###
 1338609984
 ###
-http://ru-homestuck.org/storyfiles/hs2/05004.gif
+05004.gif
 ###
 |DIALOGLOG|
 <span style="color: #1f9400">JAKE: YOU KILLED DIRK AND ROXYS BRO AND MOM RESPECTIVELY!</span>

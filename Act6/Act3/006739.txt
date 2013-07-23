@@ -4,7 +4,7 @@
 ###
 1334886883
 ###
-http://ru-homestuck.org/storyfiles/hs2/04836.gif
+04836.gif
 ###
 |SPRITELOG|
 <span style="color: #005682">VRISKA: Tavros, this fucking sucks.</span>

@@ -4,7 +4,7 @@ e62ea1900e
 ###
 1361171529
 ###
-http://ru-homestuck.org/storyfiles/hs2/05932.gif
+05932.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: my pants</span>

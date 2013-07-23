@@ -4,7 +4,7 @@
 ###
 1365663181
 ###
-http://ru-homestuck.org/storyfiles/hs2/06207.gif
+06207.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: we're here?</span>

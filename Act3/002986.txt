@@ -4,7 +4,7 @@ Dave: Get beta.
 ###
 1262302421
 ###
-http://ru-homestuck.org/storyfiles/hs2/01086.gif
+01086.gif
 ###
 You get the <span style="color: green">BETA</span> (3+1+1+1), now yielding a radically different hash value with the Scrabble function.
 

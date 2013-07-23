@@ -4,7 +4,7 @@ WV: Examine the small potted plant.
 ###
 1253649045
 ###
-http://ru-homestuck.org/storyfiles/hs2/00678.gif
+00678.gif
 ###
 What plant? 
 ###

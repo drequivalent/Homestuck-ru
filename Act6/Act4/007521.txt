@@ -4,7 +4,7 @@ e5ffe8571f
 ###
 1355986415
 ###
-http://ru-homestuck.org/storyfiles/hs2/05618.gif
+05618.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: Mom?</span> <span style="color: #ff6ff2">ROXY: mom?</span>

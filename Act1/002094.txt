@@ -4,7 +4,7 @@ John: Switch modus and use telescope to inspect sky.
 ###
 1243041189
 ###
-http://ru-homestuck.org/storyfiles/hs2/00194.gif
+00194.gif
 ###
 You switch back to STACK MODUS and get a closer look with your TELESCOPE.
 

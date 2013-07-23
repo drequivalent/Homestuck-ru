@@ -4,8 +4,8 @@ da549c0881
 ###
 1265327578
 ###
-http://ru-homestuck.org/storyfiles/hs2/01311_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01311_2.gif
+01311_1.gif
+01311_2.gif
 ###
 
 ###

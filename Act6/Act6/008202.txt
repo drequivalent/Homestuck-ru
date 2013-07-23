@@ -4,7 +4,7 @@ a78b82bc86
 ###
 1371627490
 ###
-http://ru-homestuck.org/storyfiles/hs2/06300.gif
+06300.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: so weird being back here</span>

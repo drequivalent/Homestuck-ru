@@ -4,8 +4,8 @@
 ###
 1296178620
 ###
-http://ru-homestuck.org/storyfiles/hs2/03380_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03380_2.gif
+03380_1.gif
+03380_2.gif
 ###
 
 ###

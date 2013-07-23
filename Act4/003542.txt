@@ -4,7 +4,7 @@ Dave: Consult with Calsprite.
 ###
 1270242766
 ###
-http://ru-homestuck.org/storyfiles/hs2/01642.gif
+01642.gif
 ###
 |SPRITELOG|
 <span style="color: #f2a400">CALSPRITE: HAA HAA HEE HEE HOO HOO</span>

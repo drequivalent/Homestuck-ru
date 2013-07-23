@@ -4,7 +4,7 @@
 ###
 1359848282
 ###
-http://ru-homestuck.org/storyfiles/hs2/05813.gif
+05813.gif
 ###
 |PESTERLOG|
 <span style="color: #00d5f2">GG: Is everything ok?</span>

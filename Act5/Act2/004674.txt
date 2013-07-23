@@ -4,7 +4,7 @@ Dave: Pester Terezi.
 ###
 1287192047
 ###
-http://ru-homestuck.org/storyfiles/hs2/02773.gif
+02773.gif
 ###
 |PESTERLOG|
 -- turntechGodhead <span style="color: #e00707">[TG]</span> began pestering gallowsCalibrator <span style="color: #008282">[GC]</span> --

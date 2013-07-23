@@ -4,7 +4,7 @@ Roxy: You're thirsty.
 ###
 1326869113
 ###
-http://ru-homestuck.org/storyfiles/hs2/04477.gif
+04477.gif
 ###
 That isn't a command!
 

@@ -4,7 +4,7 @@ df3c7b7d42
 ###
 1350620578
 ###
-http://ru-homestuck.org/storyfiles/hs2/05391.gif
+05391.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">VRISKA: You wouldn't 8elieve my luck.</span>

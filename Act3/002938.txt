@@ -4,8 +4,8 @@ WV: Read letter.
 ###
 1261280958
 ###
-http://ru-homestuck.org/storyfiles/hs2/01038_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01038_2.gif
+01038_1.gif
+01038_2.gif
 ###
 
 ###

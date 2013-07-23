@@ -4,8 +4,8 @@
 ###
 1357978440
 ###
-http://ru-homestuck.org/storyfiles/hs2/05720_1.gif
-http://ru-homestuck.org/storyfiles/hs2/scraps/fruitone.gif
+05720_1.gif
+fruitone.gif
 ###
 |TRKSTRLOG|
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/PEACHY.gif" border="0" />

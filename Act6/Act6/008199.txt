@@ -4,7 +4,7 @@
 ###
 1371627246
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/06297
+26297.swf
 ###
 You return to the character select screen upon having completed one of the above arcs. Oh yeah, that's right. You forgot you even came from this select screen. Some of these choosable paths start getting a little long, you think. Per the drill, you double check to make sure you've clicked on them all before proceeding.
 

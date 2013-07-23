@@ -4,9 +4,9 @@ Dave: Try it out.
 ###
 1273813015
 ###
-http://ru-homestuck.org/storyfiles/hs2/01846_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01846_2.gif
-http://ru-homestuck.org/storyfiles/hs2/01846_3.gif
+01846_1.gif
+01846_2.gif
+01846_3.gif
 ###
 Looks like it automatically prints out a SBaHJ comic in some way related to whatever you take a picture of.
 

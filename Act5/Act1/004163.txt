@@ -4,7 +4,7 @@ Terezi: Inform Mr. Vanilla Milkshake about his missing orb.
 ###
 1279360581
 ###
-http://ru-homestuck.org/storyfiles/hs2/02263.gif
+02263.gif
 ###
 |PESTERLOG|
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/shehaswhat.gif" border="0" />

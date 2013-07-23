@@ -4,7 +4,7 @@ ffb1460f89
 ###
 1360991454
 ###
-http://ru-homestuck.org/storyfiles/hs2/05889.gif
+05889.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE:</span> <span style="color: #000000">BARK</span>

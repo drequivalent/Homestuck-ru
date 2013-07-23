@@ -4,9 +4,9 @@
 ###
 1360193756
 ###
-http://ru-homestuck.org/storyfiles/hs2/05830_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05830_2.gif
-http://ru-homestuck.org/storyfiles/hs2/05830_3.gif
+05830_1.gif
+05830_2.gif
+05830_3.gif
 ###
 |PESTERLOG|
 <span style="color: #f2a400">TT: Like, settle down and have a couple weirdo goddamn kids with her some day.</span>

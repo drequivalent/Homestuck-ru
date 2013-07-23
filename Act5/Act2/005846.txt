@@ -4,7 +4,7 @@
 ###
 1310677171
 ###
-http://ru-homestuck.org/storyfiles/hs2/03943.gif
+03943.gif
 ###
 |SPRITELOG|
 <span style="color: #1f9400">JADESPRITE: whats happening?</span>

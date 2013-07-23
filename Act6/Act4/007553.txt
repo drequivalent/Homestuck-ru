@@ -4,7 +4,7 @@ Dirk: Fuck it.
 ###
 1356493211
 ###
-http://ru-homestuck.org/storyfiles/hs2/05650.gif
+05650.gif
 ###
 |SPRITELOG|
 <span style="color: #f2a400">DIRK: Fuck it.</span>

@@ -4,7 +4,7 @@
 ###
 1360192041
 ###
-http://ru-homestuck.org/storyfiles/hs2/05819.gif
+05819.gif
 ###
 |PESTERLOG|
 <span style="color: #f2a400">TT: Is it still going on?</span>

@@ -4,7 +4,7 @@ ef97510e79
 ###
 1331782381
 ###
-http://ru-homestuck.org/storyfiles/hs2/04695.gif
+04695.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: got it</span>

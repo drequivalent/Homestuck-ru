@@ -4,8 +4,8 @@ Davesprite: Also pester.
 ###
 1274043079
 ###
-http://ru-homestuck.org/storyfiles/hs2/01858_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01858_2.gif
+01858_1.gif
+01858_2.gif
 ###
 |PESTERLOG|
 <span style="color: #f2a400">TG: so really why are you burning that</span>

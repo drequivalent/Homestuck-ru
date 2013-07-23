@@ -4,7 +4,7 @@ a0d2b10358
 ###
 1340853822
 ###
-http://ru-homestuck.org/storyfiles/hs2/05204.gif
+05204.gif
 ###
 |ДИАЛОГЛОГ|
 <span style="color: #f2a400">ДИРК: Что произошло?</span>

@@ -4,7 +4,7 @@
 ###
 1354673469
 ###
-http://ru-homestuck.org/storyfiles/hs2/05536.gif
+05536.gif
 ###
 |SPRITELOG|
 <span style="color: #ff6ff2">ROXY: sooo</span>

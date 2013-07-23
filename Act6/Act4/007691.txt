@@ -4,7 +4,7 @@ ce2358a6e3
 ###
 1359365377
 ###
-http://ru-homestuck.org/storyfiles/hs2/05788.gif
+05788.gif
 ###
 |PESTERLOG|
 <span style="color: #f2a400">TT: What happened to the lollipop?</span>

@@ -4,7 +4,7 @@
 ###
 1332377604
 ###
-http://ru-homestuck.org/storyfiles/hs2/04732.gif
+04732.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: what do you think they will be like by then?</span>

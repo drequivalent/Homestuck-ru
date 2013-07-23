@@ -4,7 +4,7 @@
 ###
 1288151565
 ###
-http://ru-homestuck.org/storyfiles/hs2/02801.gif
+02801.gif
 ###
 |SPRITELOG|
 <span style="color: #0715cd">JOHN: naaaaaaaaaaaaaaaaaaaaaaaannnnnnnaaaaaaaaaaaaaa!!!!!</span>

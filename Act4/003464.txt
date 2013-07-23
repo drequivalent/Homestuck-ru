@@ -4,7 +4,7 @@ bfbd1ee962
 ###
 1267936089
 ###
-http://ru-homestuck.org/storyfiles/hs2/01564.gif
+01564.gif
 ###
 |PESTERLOG|
 <span style="color: #e00707">TG: so i guess this is just a built in designix</span>

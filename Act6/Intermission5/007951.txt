@@ -4,7 +4,7 @@
 ###
 1364452649
 ###
-http://ru-homestuck.org/storyfiles/hs2/06048.gif
+06048.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ВРИСКА: Party's over, folks.</span>

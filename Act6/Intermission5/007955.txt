@@ -4,7 +4,7 @@
 ###
 1364512169
 ###
-http://ru-homestuck.org/storyfiles/hs2/06052.gif
+06052.gif
 ###
 |DIALOGLOG|
 <span style="color: #008141">КАНАЙЯ: ...</span>

@@ -4,7 +4,7 @@ cea7a3bcb9
 ###
 1328745922
 ###
-http://ru-homestuck.org/storyfiles/hs2/04560.gif
+04560.gif
 ###
 |PESTERLOG|
 <span style="color: #00d5f2">GG: Alrighty, I am in my father's study!</span>

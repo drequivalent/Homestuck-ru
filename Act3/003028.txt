@@ -4,8 +4,8 @@
 ###
 1262666833
 ###
-http://ru-homestuck.org/storyfiles/hs2/01128_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01128_2.gif
+01128_1.gif
+01128_2.gif
 ###
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/mail.gif" border="0" />
 ###

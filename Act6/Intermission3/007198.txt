@@ -4,7 +4,7 @@ cbd1c4508e
 ###
 1347773745
 ###
-http://ru-homestuck.org/storyfiles/hs2/05295.gif
+05295.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: STRIIIIIIDEEEERRRRRRRR!!!!!</span>

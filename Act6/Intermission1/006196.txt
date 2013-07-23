@@ -4,7 +4,7 @@
 ###
 1323591671
 ###
-http://ru-homestuck.org/storyfiles/hs2/04293.gif
+04293.gif
 ###
 |ДИАЛОГЛОГ|
 <span style="color: #4ac925">ДЖЕЙД: я не уверена!</span>

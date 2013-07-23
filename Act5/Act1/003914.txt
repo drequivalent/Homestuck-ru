@@ -4,8 +4,8 @@ Gamzee: Captchalogue computer.
 ###
 1276635091
 ###
-http://ru-homestuck.org/storyfiles/hs2/02014_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02014_2.gif
+02014_1.gif
+02014_2.gif
 ###
 You take your HUSKTOP.
 

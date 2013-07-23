@@ -4,7 +4,7 @@
 ###
 1338153825
 ###
-http://ru-homestuck.org/storyfiles/hs2/04980.gif
+04980.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ARANEA: WHAT DO YOU PEOPLE THINK YOU'RE DOING????????</span>

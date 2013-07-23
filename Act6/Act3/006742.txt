@@ -4,7 +4,7 @@ Jake: Regain consciousness.
 ###
 1335042393
 ###
-http://ru-homestuck.org/storyfiles/hs2/04839.gif
+04839.gif
 ###
 You fail to regain consciousness. 
 ###

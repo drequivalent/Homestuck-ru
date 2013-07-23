@@ -4,7 +4,7 @@
 ###
 1364871169
 ###
-http://ru-homestuck.org/storyfiles/hs2/06065.gif
+06065.gif
 ###
 |DIALOGLOG|
 <span style="color: #77003c">МИНА: listfin</span>

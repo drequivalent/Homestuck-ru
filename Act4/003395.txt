@@ -4,7 +4,7 @@ Examine your pet's tomb.
 ###
 1267149564
 ###
-http://ru-homestuck.org/storyfiles/hs2/01495.gif
+01495.gif
 ###
 The mausoleum was destroyed by the explosion. The secret passage remains. 
 

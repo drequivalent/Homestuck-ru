@@ -4,7 +4,7 @@ ec744c4d79
 ###
 1363130737
 ###
-http://ru-homestuck.org/storyfiles/hs2/05986.gif
+05986.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: Nevertheless, it would seem there were those who tried.</span>

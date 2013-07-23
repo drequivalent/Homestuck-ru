@@ -4,7 +4,7 @@ c74b36a364
 ###
 1350772384
 ###
-http://ru-homestuck.org/storyfiles/hs2/05393.gif
+05393.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: that is pretty neat.</span>

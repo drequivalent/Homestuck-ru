@@ -4,7 +4,7 @@ ca1e9579b0
 ###
 1332035595
 ###
-http://ru-homestuck.org/storyfiles/hs2/04708.gif
+04708.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">KARKAT: OK, LOOK I'M NOWHERE NEAR YOUR PRECIOUS STUPID CAPE. JUST LISTEN.</span>

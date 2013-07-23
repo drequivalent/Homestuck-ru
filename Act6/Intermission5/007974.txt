@@ -4,7 +4,7 @@ e3d79830ba
 ###
 1364941658
 ###
-http://ru-homestuck.org/storyfiles/hs2/06071.gif
+06071.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: so the treasure's in that chest?</span>

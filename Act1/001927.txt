@@ -4,8 +4,8 @@ John: Look out window.
 ###
 1239831633
 ###
-http://ru-homestuck.org/storyfiles/hs2/00027_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00027_2.gif
+00027_1.gif
+00027_2.gif
 ###
 You see the view of your yard from your window.
 

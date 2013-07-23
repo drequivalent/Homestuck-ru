@@ -4,8 +4,8 @@ Jade: Replace television with totem lathe.
 ###
 1266305240
 ###
-http://ru-homestuck.org/storyfiles/hs2/01403_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01403_2.gif
+01403_1.gif
+01403_2.gif
 ###
 
 ###

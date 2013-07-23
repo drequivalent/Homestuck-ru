@@ -4,7 +4,7 @@
 ###
 1265508201
 ###
-http://ru-homestuck.org/storyfiles/hs2/01325.gif
+01325.gif
 ###
 Вы просите <span style="color: #2ed73a">Клевера</span> открыть хранилище.
 ###

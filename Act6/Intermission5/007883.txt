@@ -4,7 +4,7 @@
 ###
 1363130200
 ###
-http://ru-homestuck.org/storyfiles/hs2/05980.gif
+05980.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: 8ut as we all know, 8eginnings are not always so easy to pinpoint in paradox space.</span>

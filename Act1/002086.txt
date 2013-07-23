@@ -4,7 +4,7 @@
 ###
 1242878439
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/00186
+00186.swf
 ###
 The KERNELSPRITE has been prototyped with the HARLEQUIN DOLL.
 ###

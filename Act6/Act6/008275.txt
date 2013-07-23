@@ -4,7 +4,7 @@ f983e1664d
 ###
 1373870473
 ###
-http://ru-homestuck.org/storyfiles/hs2/06372.gif
+06372.gif
 ###
 |DIALOGLOG|
 <span style="color: #008282">TEREZI: GRRRRRRR</span>

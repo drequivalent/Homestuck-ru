@@ -4,8 +4,8 @@ John: Check Pesterchum.
 ###
 1240192423
 ###
-http://ru-homestuck.org/storyfiles/hs2/00062_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00062_2.gif
+00062_1.gif
+00062_2.gif
 ###
 Another one of your chums is messaging you.
 ###

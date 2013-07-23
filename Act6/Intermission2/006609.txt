@@ -4,7 +4,7 @@ a152f67c24
 ###
 1331961690
 ###
-http://ru-homestuck.org/storyfiles/hs2/04706.gif
+04706.gif
 ###
 |DIALOGLOG|
 <span style="color: #008141">KANAYA: Augh</span>

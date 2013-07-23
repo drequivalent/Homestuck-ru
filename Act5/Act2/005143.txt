@@ -4,7 +4,7 @@
 ###
 1294102330
 ###
-http://ru-homestuck.org/storyfiles/hs2/03240.gif
+03240.gif
 ###
 |SPRITELOG|
 <span style="color: #1f9400">JADESPRITE: why are you doing this to me, why are you making me remember</span>

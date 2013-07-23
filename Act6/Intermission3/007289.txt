@@ -4,7 +4,7 @@ bc7254ea3b
 ###
 1350281587
 ###
-http://ru-homestuck.org/storyfiles/hs2/05386.gif
+05386.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: i take it you were pretty good friends back on your planet?</span>

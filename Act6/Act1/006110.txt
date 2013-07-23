@@ -4,8 +4,8 @@
 ###
 1322273286
 ###
-http://ru-homestuck.org/storyfiles/hs2/04207_1.gif
-http://ru-homestuck.org/storyfiles/hs2/04207_2.gif
+04207_1.gif
+04207_2.gif
 ###
 |PESTERLOG|
 <span style="color: #00d5f2">GG: I explored the moon, and began to notice people gathering in the streets.</span>

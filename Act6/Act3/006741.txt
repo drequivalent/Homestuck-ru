@@ -4,7 +4,7 @@ a44d9318fb
 ###
 1335042180
 ###
-http://ru-homestuck.org/storyfiles/hs2/04838.gif
+04838.gif
 ###
 You cannot proceed to the TIME CAPSULE because you are lying on the floor unconscious.
 

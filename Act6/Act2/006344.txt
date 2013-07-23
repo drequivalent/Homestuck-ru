@@ -4,7 +4,7 @@ Jane: Install Sburb client.
 ###
 1326324378
 ###
-http://ru-homestuck.org/storyfiles/hs2/04441.gif
+04441.gif
 ###
 It doesn't even seem to install anything. It just runs a small application when you execute it.
 

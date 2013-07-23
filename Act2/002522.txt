@@ -4,7 +4,7 @@ cd5513a835
 ###
 1252615589
 ###
-http://ru-homestuck.org/storyfiles/hs2/00622.gif
+00622.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">EB: whoa, did you just make all these??</span>

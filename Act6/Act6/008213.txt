@@ -4,7 +4,7 @@
 ###
 1371628327
 ###
-http://ru-homestuck.org/storyfiles/hs2/06311.gif
+06311.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: YOU WIN!</span>

@@ -4,7 +4,7 @@ Jake: Solicit profound wisdom from your friendly guide.
 ###
 1354233121
 ###
-http://ru-homestuck.org/storyfiles/hs2/05513.gif
+05513.gif
 ###
 |SPRITELOG|
 <span style="color: #1f9400">JAKE: SIIIIIGH.</span>

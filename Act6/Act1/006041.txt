@@ -4,8 +4,8 @@ e26417ee52
 ###
 1321253824
 ###
-http://ru-homestuck.org/storyfiles/hs2/04138_1.gif
-http://ru-homestuck.org/storyfiles/hs2/04138_2.gif
+04138_1.gif
+04138_2.gif
 ###
 You try the broken switch again. Hey look, it does something now, toggling your trusty bowlbuster between a STIRRING SOLUTION and a POKING SOLUTION. Neat!
 ###

@@ -4,7 +4,7 @@ a20d5fe893
 ###
 1364693899
 ###
-http://ru-homestuck.org/storyfiles/hs2/06056.gif
+06056.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">РОУЗ: No but, Karkaya.</span>

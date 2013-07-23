@@ -4,7 +4,7 @@
 ###
 1331886328
 ###
-http://ru-homestuck.org/storyfiles/hs2/04704.gif
+04704.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: While most landed in time periods corresponding with the original group,</span>

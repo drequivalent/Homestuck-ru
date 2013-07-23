@@ -4,8 +4,8 @@ SS: Type '====', then ==>
 ###
 1282504301
 ###
-http://ru-homestuck.org/storyfiles/hs2/02501_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02501_2.gif
+02501_1.gif
+02501_2.gif
 ###
 
 ###

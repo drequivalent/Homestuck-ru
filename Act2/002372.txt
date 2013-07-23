@@ -4,8 +4,8 @@ b05796cc8a
 ###
 1250225697
 ###
-http://ru-homestuck.org/storyfiles/hs2/00472_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00472_2.gif
+00472_1.gif
+00472_2.gif
 ###
 |ДОСТАЛОГ|
 <span style="color: #b536da">TT: Полагаю, также должна предупредить, что твои дом и двор ныне всецело кишат монстрами. Постарайся быть осторожнее.</span>

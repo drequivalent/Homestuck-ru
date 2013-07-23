@@ -4,7 +4,7 @@
 ###
 1364091702
 ###
-http://ru-homestuck.org/storyfiles/hs2/06029.gif
+06029.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: Thank you for joining us, John.</span>

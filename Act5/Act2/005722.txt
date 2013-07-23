@@ -4,7 +4,7 @@
 ###
 1307057328
 ###
-http://ru-homestuck.org/storyfiles/hs2/03819.gif
+03819.gif
 ###
 Where y = 8.
 

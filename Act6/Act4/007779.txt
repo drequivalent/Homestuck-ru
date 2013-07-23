@@ -4,7 +4,7 @@
 ###
 1360473227
 ###
-http://ru-homestuck.org/storyfiles/hs2/05876.gif
+05876.gif
 ###
 |DIALOGLOG|
 <span style="color: #1f9400">JAKE: ...</span>

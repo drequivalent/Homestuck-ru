@@ -4,7 +4,7 @@
 ###
 1353489825
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/05482
+05482.swf
 ###
 |AUTHORLOG|
 <span style="color: #000000">You mother fucker.</span>

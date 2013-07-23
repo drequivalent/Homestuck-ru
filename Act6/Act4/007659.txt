@@ -4,7 +4,7 @@
 ###
 1358901812
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/05756
+05756.swf
 ###
 |TRKSTRLOG|
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/trickdirktxt_1.gif" border="0" />

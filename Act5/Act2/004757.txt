@@ -4,7 +4,7 @@ a4fe0b7ada
 ###
 1289604468
 ###
-http://ru-homestuck.org/storyfiles/hs2/02856.gif
+02856.gif
 ###
 Someone has connected as your server player.
 

@@ -4,8 +4,8 @@ John: High-five Nannaquin.
 ###
 1258845916
 ###
-http://ru-homestuck.org/storyfiles/hs2/00880_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00880_2.gif
+00880_1.gif
+00880_2.gif
 ###
 |PESTERLOG|
 <span style="color: #b536da">TT: Good work, John!</span>

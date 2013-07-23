@@ -4,7 +4,7 @@
 ###
 1351128548
 ###
-http://ru-homestuck.org/storyfiles/hs2/05402.gif
+05402.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: oh my god</span>

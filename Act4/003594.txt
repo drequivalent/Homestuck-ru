@@ -4,8 +4,8 @@ f89b6e0136
 ###
 1271550719
 ###
-http://ru-homestuck.org/storyfiles/hs2/01694_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01694_2.gif
+01694_1.gif
+01694_2.gif
 ###
 |PESTERLOG|
 <span style="color: #e00707">TG: now i need you to do something else</span>

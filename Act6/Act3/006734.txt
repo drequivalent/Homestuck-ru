@@ -4,7 +4,7 @@ Jane: Say hello to your new guide.
 ###
 1334739316
 ###
-http://ru-homestuck.org/storyfiles/hs2/04831.gif
+04831.gif
 ###
 |SPRITELOG|
 <span style="color: #0715cd">TAVRISPRITE: wHAT,</span>

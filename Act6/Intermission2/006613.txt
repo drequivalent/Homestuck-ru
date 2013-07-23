@@ -4,7 +4,7 @@
 ###
 1332036108
 ###
-http://ru-homestuck.org/storyfiles/hs2/04710.gif
+04710.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: im not reading that shit</span>

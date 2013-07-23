@@ -4,7 +4,7 @@
 ###
 1338526264
 ###
-http://ru-homestuck.org/storyfiles/hs2/05002.gif
+05002.gif
 ###
 |DIALOGLOG|
 <span style="color: #1f9400">JAKE: HIIIIIIIIIIIII YA!!!!!!</span>

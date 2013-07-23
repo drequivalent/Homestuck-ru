@@ -4,7 +4,7 @@
 ###
 1359260205
 ###
-http://ru-homestuck.org/storyfiles/hs2/05776.gif
+05776.gif
 ###
 |AUTHORLOG|
 <span style="color: #000000">Please don't type in the narrative prompt.</span>

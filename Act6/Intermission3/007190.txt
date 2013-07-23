@@ -4,7 +4,7 @@ d39e7c6ac6
 ###
 1347420698
 ###
-http://ru-homestuck.org/storyfiles/hs2/05287.gif
+05287.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE: look you made us miss a whole bunch of stuff!</span>

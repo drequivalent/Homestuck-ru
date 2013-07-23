@@ -4,8 +4,8 @@
 ###
 1265412687
 ###
-http://ru-homestuck.org/storyfiles/hs2/01320_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01320_2.gif
+01320_1.gif
+01320_2.gif
 ###
 Вы догадываетесь, что духовка, в общем-то не работает. 
 

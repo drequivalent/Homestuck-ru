@@ -4,9 +4,9 @@
 ###
 1298979080
 ###
-http://ru-homestuck.org/storyfiles/hs2/03597_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03597_2.gif
-http://ru-homestuck.org/storyfiles/hs2/03597_3.gif
+03597_1.gif
+03597_2.gif
+03597_3.gif
 ###
 |PESTERLOG|
 <span style="color: #a10000">AA: an incomplete fragment consisting of four symbols</span>

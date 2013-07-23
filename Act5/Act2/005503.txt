@@ -4,9 +4,9 @@
 ###
 1298979332
 ###
-http://ru-homestuck.org/storyfiles/hs2/03600_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03600_2.gif
-http://ru-homestuck.org/storyfiles/hs2/03600_3.gif
+03600_1.gif
+03600_2.gif
+03600_3.gif
 ###
 |PESTERLOG|
 <span style="color: #a10000">AA: there was another half by scourge in two parts</span>

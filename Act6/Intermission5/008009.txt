@@ -4,7 +4,7 @@
 ###
 1365207218
 ###
-http://ru-homestuck.org/storyfiles/hs2/06106.gif
+06106.gif
 ###
 |DIALOGLOG|
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/johnblurtext3.gif" border="0" />

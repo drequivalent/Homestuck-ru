@@ -4,7 +4,7 @@ WV: Examine contents of yellow container.
 ###
 1253850510
 ###
-http://ru-homestuck.org/storyfiles/hs2/00693.gif
+00693.gif
 ###
 The container is full of MOTOR OIL. This does not seem useful to you right now.
 ###

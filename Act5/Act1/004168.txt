@@ -4,8 +4,8 @@ d9cbcdb154
 ###
 1279408737
 ###
-http://ru-homestuck.org/storyfiles/hs2/02268_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02268_2.gif
+02268_1.gif
+02268_2.gif
 ###
 One retrieves his dead custodian from the rubble below.
 

@@ -4,7 +4,7 @@ dfa472fd0c
 ###
 1353570694
 ###
-http://ru-homestuck.org/storyfiles/hs2/05485.gif
+05485.gif
 ###
 |AUTHORLOG|
 <span style="color: #323232">EXCUSE ME.</span>

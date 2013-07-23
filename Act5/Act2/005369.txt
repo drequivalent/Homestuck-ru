@@ -4,7 +4,7 @@ da72ffa2ee
 ###
 1297303224
 ###
-http://ru-homestuck.org/storyfiles/hs2/03466.gif
+03466.gif
 ###
 |PESTERLOG|
 <span style="color: #008282">gallowsCalibrator [GC]</span> began trolling <span style="color: #626262">carcinoGeneticist [CG]</span>

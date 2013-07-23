@@ -4,7 +4,7 @@ b7dbede2ee
 ###
 1302074735
 ###
-http://ru-homestuck.org/storyfiles/hs2/03695.gif
+03695.gif
 ###
 |PESTERLOG|
 <span style="color: #008282">gallowsCalibrator [GC]</span> began trolling <span style="color: #e00707">turntechGodhead [TG]</span>

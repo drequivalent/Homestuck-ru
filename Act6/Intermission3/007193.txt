@@ -4,7 +4,7 @@
 ###
 1347575673
 ###
-http://ru-homestuck.org/storyfiles/hs2/05290.gif
+05290.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: when did that happen?</span>

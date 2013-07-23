@@ -4,8 +4,8 @@
 ###
 1360193876
 ###
-http://ru-homestuck.org/storyfiles/hs2/05831_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05831_2.gif
+05831_1.gif
+05831_2.gif
 ###
 |PESTERLOG|
 <span style="color: #00d5f2">GG: I think that would be nice.</span>

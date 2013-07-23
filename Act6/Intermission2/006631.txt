@@ -4,7 +4,7 @@ ccbcbb64c5
 ###
 1332233866
 ###
-http://ru-homestuck.org/storyfiles/hs2/04728.gif
+04728.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: you should hurry up and make a character already, so we can get started.</span>

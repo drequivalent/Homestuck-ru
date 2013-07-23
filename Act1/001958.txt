@@ -4,7 +4,7 @@ John: Combine ashes with urn.
 ###
 1240121526
 ###
-http://ru-homestuck.org/storyfiles/hs2/00058.gif
+00058.gif
 ###
 You merge the SACRED URN with the ASHES.
 

@@ -4,7 +4,7 @@
 ###
 1332631287
 ###
-http://ru-homestuck.org/storyfiles/hs2/04753.gif
+04753.gif
 ###
 |DIALOGLOG|
 <span style="color: #77003c">MEENAH: S-E--------------------E</span>

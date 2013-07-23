@@ -4,7 +4,7 @@ TT: Select stuff in yard and move it back into room.
 ###
 1242181111
 ###
-http://ru-homestuck.org/storyfiles/hs2/00144.gif
+00144.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">EB: hey, do you think you could do me a favor?</span>

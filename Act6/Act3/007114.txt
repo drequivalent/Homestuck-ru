@@ -4,7 +4,7 @@ a09e68f1bd
 ###
 1340874508
 ###
-http://ru-homestuck.org/storyfiles/hs2/05211.gif
+05211.gif
 ###
 |ДИАЛОГЛОГ|
 <span style="color: #f2a400">ДИРК: Она должна вернуться домой.</span>

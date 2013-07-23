@@ -4,7 +4,7 @@ Tavros: Rap with TC.
 ###
 1277865751
 ###
-http://ru-homestuck.org/storyfiles/hs2/02123.gif
+02123.gif
 ###
 |PESTERLOG|
 <span style="color: #2b0057">terminallyCapricious [TC]</span> began trolling <span style="color: #a15000">adiosToreador [AT]</span>

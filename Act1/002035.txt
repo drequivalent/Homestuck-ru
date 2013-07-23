@@ -4,7 +4,7 @@ John: Check Pesterchum window.
 ###
 1241865105
 ###
-http://ru-homestuck.org/storyfiles/hs2/00135.gif
+00135.gif
 ###
 |PESTERLOG|
 -- tentacleTherapist <span style="color: #b536da">[TT]</span> began pestering ectoBiologist <span style="color: #0715cd">[EB]</span> at 17:08 --

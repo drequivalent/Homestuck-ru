@@ -4,7 +4,7 @@ Roxy: Say hello.
 ###
 1355612655
 ###
-http://ru-homestuck.org/storyfiles/hs2/05590.gif
+05590.gif
 ###
 |PESTERLOG|
 <span style="color: #ff6ff2">TG: twinkly herb i didnt expect to find u here</span>

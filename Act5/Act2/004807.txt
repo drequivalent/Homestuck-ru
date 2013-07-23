@@ -4,7 +4,7 @@ Jade: Pester Dave.
 ###
 1290291327
 ###
-http://ru-homestuck.org/storyfiles/hs2/02906.gif
+02906.gif
 ###
 |PESTERLOG|
 -- gardenGnostic <span style="color: #4ac925">[GG]</span> began pestering turntechGodhead <span style="color: #e00707">[TG]</span> --

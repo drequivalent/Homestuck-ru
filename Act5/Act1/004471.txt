@@ -4,7 +4,7 @@ b2932fe1db
 ###
 1283384293
 ###
-http://ru-homestuck.org/storyfiles/hs2/02570.gif
+02570.gif
 ###
 |SPRITELOG|
 <span style="color: #008282">DRAGONSPRITE: sniff sniff</span>

@@ -4,8 +4,8 @@ Dave: Install beta.
 ###
 1262982536
 ###
-http://ru-homestuck.org/storyfiles/hs2/01148_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01148_2.gif
+01148_1.gif
+01148_2.gif
 ###
 |PESTERLOG|
 <span style="color: #e00707">TG: alright im installing this game finally</span>

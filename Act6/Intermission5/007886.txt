@@ -4,8 +4,8 @@ c366552ca2
 ###
 1363130420
 ###
-http://ru-homestuck.org/storyfiles/hs2/05983_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05983_2.gif
+05983_1.gif
+05983_2.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: She took after her mother in every way. At least, the way her mother used to 8e, long 8efore she was hardened 8y centuries of isol8tion and o8sessive pursuit of justice.</span>

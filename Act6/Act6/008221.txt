@@ -4,7 +4,7 @@ fd6d081cd7
 ###
 1371859523
 ###
-http://ru-homestuck.org/storyfiles/hs2/06319.gif
+06319.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: how do we make it so it can damage him</span>

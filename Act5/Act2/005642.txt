@@ -4,7 +4,7 @@ Terezi: Examine journal entry.
 ###
 1303589499
 ###
-http://ru-homestuck.org/storyfiles/hs2/03739.gif
+03739.gif
 ###
 |JOURNALOG|
 <span style="color: #005682">I suppose I'll have to get used to writing with this hand instead.

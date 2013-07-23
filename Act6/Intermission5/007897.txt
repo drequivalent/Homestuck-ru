@@ -4,7 +4,7 @@ c470b05561
 ###
 1363258846
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/05994
+05994.swf
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: No denizen has ever 8een mistaken for pleasant company. 8ut the self-proclaimed god of all monsters is notoriously inhospita8le to his players.</span>

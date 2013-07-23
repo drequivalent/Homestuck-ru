@@ -4,7 +4,7 @@
 ###
 1365193136
 ###
-http://ru-homestuck.org/storyfiles/hs2/06090.gif
+06090.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: i'm not too worried.</span>

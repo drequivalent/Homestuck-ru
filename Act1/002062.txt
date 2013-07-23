@@ -4,8 +4,8 @@ John: Look through telescope.
 ###
 1242521258
 ###
-http://ru-homestuck.org/storyfiles/hs2/00162_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00162_2.gif
+00162_1.gif
+00162_2.gif
 ###
 It is a clear, sunny day. Nothing out of the ordinary to report. At least, not beyond the walls of your own home.
 ###

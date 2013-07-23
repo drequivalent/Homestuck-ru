@@ -4,7 +4,7 @@
 ###
 1338526201
 ###
-http://ru-homestuck.org/storyfiles/hs2/05001.gif
+05001.gif
 ###
 |DIALOGLOG|
 <span style="color: #1f9400">JAKE: (Great scott!)</span>

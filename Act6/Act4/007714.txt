@@ -4,9 +4,9 @@ e11f5d431a
 ###
 1359848022
 ###
-http://ru-homestuck.org/storyfiles/hs2/05811_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05811_2.gif
-http://ru-homestuck.org/storyfiles/hs2/05811_3.gif
+05811_1.gif
+05811_2.gif
+05811_3.gif
 ###
 |PESTERLOG|
 <span style="color: #1f9400">GT: Did you need it for something?</span>

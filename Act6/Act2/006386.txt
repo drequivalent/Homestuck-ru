@@ -4,7 +4,7 @@ cd272e4962
 ###
 1327105030
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/04483
+04483.swf
 ###
 
 ###

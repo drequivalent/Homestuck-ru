@@ -4,7 +4,7 @@
 ###
 1279600873
 ###
-http://ru-homestuck.org/storyfiles/hs2/02287.gif
+02287.gif
 ###
 |SPRITELOG|
 <span style="color: #000056">EQUIUS: D --&gt; I think it suits you</span>

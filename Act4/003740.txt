@@ -4,8 +4,8 @@ c0a7322ff3
 ###
 1273798519
 ###
-http://ru-homestuck.org/storyfiles/hs2/01840_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01840_2.gif
+01840_1.gif
+01840_2.gif
 ###
 You're looking pretty chill with your new freakshow entourage.
 

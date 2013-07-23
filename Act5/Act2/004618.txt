@@ -4,8 +4,8 @@ ac33f1698f
 ###
 1285908380
 ###
-http://ru-homestuck.org/storyfiles/hs2/02717_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02717_2.gif
+02717_1.gif
+02717_2.gif
 ###
 Uh...
 ###

@@ -4,8 +4,8 @@ Jake: Take bunny.
 ###
 1321759080
 ###
-http://ru-homestuck.org/storyfiles/hs2/04173_1.gif
-http://ru-homestuck.org/storyfiles/hs2/04173_2.gif
+04173_1.gif
+04173_2.gif
 ###
 You stash Terry in your PUZZLE MODUS. It's quite a handy modus, allowing you to captchalogue objects of any size, as long as you can fit them all in a finite space by maneuvering the cards around like a big game of Tetris. You like it because it keeps you sharp for solving any puzzles you might find when you go out raiding hallowed tombs, which is never.
 

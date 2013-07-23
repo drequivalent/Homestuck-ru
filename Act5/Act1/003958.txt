@@ -4,7 +4,7 @@ e205cccd3b
 ###
 1277008045
 ###
-http://ru-homestuck.org/storyfiles/hs2/02058.gif
+02058.gif
 ###
 |PESTERLOG|
 <span style="color: #626262">carcinoGeneticist [CG]</span> began trolling <span style="color: #008282">gallowsCalibrator [GC]</span>

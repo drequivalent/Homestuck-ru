@@ -4,8 +4,8 @@
 ###
 1312309168
 ###
-http://ru-homestuck.org/storyfiles/hs2/04005_1.gif
-http://ru-homestuck.org/storyfiles/hs2/04005_2.gif
+04005_1.gif
+04005_2.gif
 ###
 |PESTERLOG|
 <span style="color: #626262">PCG: ESPECIALLY WHEN YOU'RE BUILDING THE GENETIC CODE FOR AN ENTIRE UNIVERSE.</span>

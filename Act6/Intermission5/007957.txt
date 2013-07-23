@@ -4,7 +4,7 @@
 ###
 1364598600
 ###
-http://ru-homestuck.org/storyfiles/hs2/06054.gif
+06054.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">РОУЗ: Oh,, but you could not be further fromp the truth.</span>

@@ -4,7 +4,7 @@
 ###
 1338610076
 ###
-http://ru-homestuck.org/storyfiles/hs2/05005.gif
+05005.gif
 ###
 |DIALOGLOG|
 <span style="color: #008282">TEREZI: (psst)</span>

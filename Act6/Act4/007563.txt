@@ -4,8 +4,8 @@ c958b24de7
 ###
 1356747597
 ###
-http://ru-homestuck.org/storyfiles/hs2/05660_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05660_2.gif
+05660_1.gif
+05660_2.gif
 ###
 |PESTERLOG|
 <span style="color: #ff6ff2">TG: we need to get ready for a battle tomorries</span>

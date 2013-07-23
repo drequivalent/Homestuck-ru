@@ -4,7 +4,7 @@ b5f822a822
 ###
 1288151345
 ###
-http://ru-homestuck.org/storyfiles/hs2/02798.gif
+02798.gif
 ###
 |SPRITELOG|
 <span style="color: #0715cd">JOHN: you have?</span>

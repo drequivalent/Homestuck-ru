@@ -4,7 +4,7 @@
 ###
 1350083075
 ###
-http://ru-homestuck.org/storyfiles/hs2/05380.gif
+05380.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: huh?</span>

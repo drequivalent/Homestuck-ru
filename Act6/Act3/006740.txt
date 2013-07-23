@@ -4,7 +4,7 @@
 ###
 1334887333
 ###
-http://ru-homestuck.org/storyfiles/hs2/04837.gif
+04837.gif
 ###
 |SPRITELOG|
 <span style="color: #005682">VRISKA: Well, there's an orange guy.</span>

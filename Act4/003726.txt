@@ -4,8 +4,8 @@ dc0c42f583
 ###
 1273722195
 ###
-http://ru-homestuck.org/storyfiles/hs2/01826_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01826_2.gif
+01826_1.gif
+01826_2.gif
 ###
 Out of curiosity you try it again with a whole sword.
 

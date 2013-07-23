@@ -4,8 +4,8 @@ db09f03fb9
 ###
 1266978942
 ###
-http://ru-homestuck.org/storyfiles/hs2/01475_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01475_2.gif
+01475_1.gif
+01475_2.gif
 ###
 <span style="font-style: italic">WOMEN.</span>
 ###

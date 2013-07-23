@@ -4,7 +4,7 @@
 ###
 1347420877
 ###
-http://ru-homestuck.org/storyfiles/hs2/05289.gif
+05289.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: aw, man. really?</span>

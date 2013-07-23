@@ -4,7 +4,7 @@ DD: Check on prisoner.
 ###
 1355193266
 ###
-http://ru-homestuck.org/storyfiles/hs2/05561.gif
+05561.gif
 ###
 Speaking of the new prisoner, you wonder how the old one is doing.
 

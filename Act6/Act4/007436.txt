@@ -4,7 +4,7 @@ eff966bb58
 ###
 1354604570
 ###
-http://ru-homestuck.org/storyfiles/hs2/05533.gif
+05533.gif
 ###
 |SPRITELOG|
 <span style="color: #00d5f2">JANE: HOME!!!</span>

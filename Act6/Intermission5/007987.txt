@@ -4,7 +4,7 @@
 ###
 1365056471
 ###
-http://ru-homestuck.org/storyfiles/hs2/06084.gif
+06084.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ВРИСКА: *Huff puff.*</span>

@@ -4,7 +4,7 @@
 ###
 1241338740
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/00110
+00110.swf
 ###
 |PESTERLOG|
 -- gardenGnostic <span style="color: #4ac925">[GG]</span> began pestering ectoBiologist <span style="color: #0715cd">[EB]</span> at 16:34 --

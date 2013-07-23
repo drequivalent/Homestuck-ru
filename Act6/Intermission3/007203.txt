@@ -4,7 +4,7 @@
 ###
 1348038525
 ###
-http://ru-homestuck.org/storyfiles/hs2/05300.gif
+05300.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: HEY! I SEE YOU THERE!</span>

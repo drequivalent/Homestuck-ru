@@ -4,7 +4,7 @@ John: Scold TT.
 ###
 1242627259
 ###
-http://ru-homestuck.org/storyfiles/hs2/00174.gif
+00174.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">EB: you can see me, right.</span>

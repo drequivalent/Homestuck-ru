@@ -4,7 +4,7 @@
 ###
 1285450517
 ###
-http://ru-homestuck.org/storyfiles/hs2/02661.gif
+02661.gif
 ###
 |PESTERLOG|
 <span style="color: #005682">AG: W8! 8efore you wander too far off course like a doofus, you need to know how to get to a return node!</span>

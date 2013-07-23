@@ -4,7 +4,7 @@ e3df817277
 ###
 1364871898
 ###
-http://ru-homestuck.org/storyfiles/hs2/06068.gif
+06068.gif
 ###
 |DIALOGLOG|
 <span style="color: #77003c">МИНА: but the point is blue chump</span>

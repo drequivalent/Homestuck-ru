@@ -4,7 +4,7 @@ AR: Go search for more ammo.
 ###
 1262480942
 ###
-http://ru-homestuck.org/storyfiles/hs2/01103.gif
+01103.gif
 ###
 There is plenty of ammunition stored in the various AMMO CRATES which you have spent a great deal of time unearthing from nearby dunes and hauling back to your stronghold. You have a large variety of weaponry and ammunition at your disposal.
 

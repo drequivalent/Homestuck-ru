@@ -4,7 +4,7 @@ e42f6a4396
 ###
 1324113165
 ###
-http://ru-homestuck.org/storyfiles/hs2/04339.gif
+04339.gif
 ###
 |ДИАЛОГЛОГ|
 <span style="color: #4ac925">ДЖЕЙД: вот, это сработает?</span>

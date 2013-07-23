@@ -4,9 +4,9 @@ ea3664e969
 ###
 1277954122
 ###
-http://ru-homestuck.org/storyfiles/hs2/02130_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02130_2.gif
-http://ru-homestuck.org/storyfiles/hs2/02130_3.gif
+02130_1.gif
+02130_2.gif
+02130_3.gif
 ###
 The dragon never smelled it coming.
 

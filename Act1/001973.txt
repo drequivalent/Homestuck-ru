@@ -4,7 +4,7 @@ John: Upgrade costume with hat from hat rack.
 ###
 1240349638
 ###
-http://ru-homestuck.org/storyfiles/hs2/00073.gif
+00073.gif
 ###
 You swap the MAGICIAN'S HAT with the BOWLER HAT.
 

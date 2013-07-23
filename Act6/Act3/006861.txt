@@ -4,7 +4,7 @@ Jane: Answer again.
 ###
 1337503934
 ###
-http://ru-homestuck.org/storyfiles/hs2/04958.gif
+04958.gif
 ###
 |PESTERLOG|
 <span style="color: #e00707">TT: Hmm.</span>

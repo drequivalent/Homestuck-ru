@@ -4,8 +4,8 @@ John: Play 52 Pick-Up.
 ###
 1240443199
 ###
-http://ru-homestuck.org/storyfiles/hs2/00078_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00078_2.gif
+00078_1.gif
+00078_2.gif
 ###
 You play the prankster's favorite card game, even though you are alone in the room, thus rendering it an especially foolish version of Solitaire.
 

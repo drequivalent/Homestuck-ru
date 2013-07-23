@@ -4,7 +4,7 @@
 ###
 1359020508
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/05760
+05760.swf
 ###
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/OHBOY.gif" border="0" />
 ###

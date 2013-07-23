@@ -4,7 +4,7 @@ Roxy: Pester Jake.
 ###
 1356746662
 ###
-http://ru-homestuck.org/storyfiles/hs2/05655.gif
+05655.gif
 ###
 |PESTERLOG|
 <span style="color: #ff6ff2">tipsyGnostalgic [TG]</span> began pestering <span style="color: #1f9400">golgothasTerror [GT]</span>

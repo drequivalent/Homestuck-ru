@@ -4,7 +4,7 @@ eeadc9acdb
 ###
 1321872511
 ###
-http://ru-homestuck.org/storyfiles/hs2/04182.gif
+04182.gif
 ###
 |PESTERLOG|
 <span style="color: #f2a400">TT: Look at that statement you just made.</span>

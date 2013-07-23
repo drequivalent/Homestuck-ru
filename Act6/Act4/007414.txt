@@ -4,7 +4,7 @@ d5d061baac
 ###
 1354170243
 ###
-http://ru-homestuck.org/storyfiles/hs2/05511.gif
+05511.gif
 ###
 |PESTERLOG|
 <span style="color: #f2a400">TT: Dude!</span>

@@ -4,7 +4,7 @@ ead109aedd
 ###
 1247014461
 ###
-http://ru-homestuck.org/storyfiles/hs2/00346.gif
+00346.gif
 ###
 You take the <span style="color: blue">D</span><span style="color: red">A</span><span style="color: blue">MP T</span><span style="color: red">O</span><span style="color: blue">W</span><span style="color: red">E</span><span style="color: blue">L </span>(2+1+2+2 + 2+1+2+1+2 = 15 % 10 = 5), expelling the <span style="color: blue">B</span><span style="color: red">O</span><span style="color: blue">X</span> (2+1+2 = 5 % 10 = 5).
 ###

@@ -4,7 +4,7 @@ Rose: Pester informant.
 ###
 1299566390
 ###
-http://ru-homestuck.org/storyfiles/hs2/03624.gif
+03624.gif
 ###
 |PESTERLOG|
 <span style="color: #b536da">TT: It's quite warm here on Lohac.</span>

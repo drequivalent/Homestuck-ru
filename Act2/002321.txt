@@ -4,8 +4,8 @@
 ###
 1249015531
 ###
-http://ru-homestuck.org/storyfiles/hs2/00421_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00421_2.gif
+00421_1.gif
+00421_2.gif
 ###
 |СПРАЙТЛОГ|
 <span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Твоего отца похитили!</span>

@@ -4,8 +4,8 @@
 ###
 1311391347
 ###
-http://ru-homestuck.org/storyfiles/hs2/03977_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03977_2.gif
+03977_1.gif
+03977_2.gif
 ###
 |PESTERLOG|
 <span style="color: #4ac925">?GG: but before i got there i woke up</span>

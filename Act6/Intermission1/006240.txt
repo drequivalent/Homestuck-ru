@@ -4,7 +4,7 @@ d11bdacd95
 ###
 1324113031
 ###
-http://ru-homestuck.org/storyfiles/hs2/04337.gif
+04337.gif
 ###
 |ДИАЛОГЛОГ|
 <span style="color: #4ac925">ДЖЕЙД: как насчет этого?</span>

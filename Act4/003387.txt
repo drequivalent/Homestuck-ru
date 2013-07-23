@@ -4,8 +4,8 @@ ba5706cfd8
 ###
 1267072108
 ###
-http://ru-homestuck.org/storyfiles/hs2/01487_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01487_2.gif
+01487_1.gif
+01487_2.gif
 ###
 A big gust of wind conveniently comes along and blows out all the fire. 
 

@@ -4,8 +4,8 @@ Terezi: Retrieve chalk.
 ###
 1282785608
 ###
-http://ru-homestuck.org/storyfiles/hs2/02525_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02525_2.gif
+02525_1.gif
+02525_2.gif
 ###
 You search for the appropriate card through your SCRATCH AND SNIFF modus.
 

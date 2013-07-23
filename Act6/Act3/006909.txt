@@ -4,7 +4,7 @@ d51063f575
 ###
 1338700947
 ###
-http://ru-homestuck.org/storyfiles/hs2/05006.gif
+05006.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ARANEA: Jake, stop whaling on her like that!</span>

@@ -4,7 +4,7 @@ a6cb42ec5a
 ###
 1340874480
 ###
-http://ru-homestuck.org/storyfiles/hs2/05210.gif
+05210.gif
 ###
 |ДИАЛОГЛОГ|
 <span style="color: #f2a400">ДИРК: И я украду ее у вас, если не возражаете.</span>

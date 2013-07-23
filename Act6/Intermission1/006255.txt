@@ -4,7 +4,7 @@ b2c038da7d
 ###
 1324420677
 ###
-http://ru-homestuck.org/storyfiles/hs2/04352.gif
+04352.gif
 ###
 |ДИАЛОГЛОГ|
 <span style="color: #b536da">РОУЗ: Пока ничего.</span>

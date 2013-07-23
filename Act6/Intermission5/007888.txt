@@ -4,8 +4,8 @@
 ###
 1363130627
 ###
-http://ru-homestuck.org/storyfiles/hs2/05985_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05985_2.gif
+05985_1.gif
+05985_2.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: It is just as well that cheru8 parents a8andon their offspring. Raising such a child 8y the familial standards of any race would 8e a monumental challenge.</span>

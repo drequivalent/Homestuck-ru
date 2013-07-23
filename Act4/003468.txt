@@ -4,8 +4,8 @@ Jade: Draw the totem lathe.
 ###
 1267998803
 ###
-http://ru-homestuck.org/storyfiles/hs2/01568_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01568_2.gif
+01568_1.gif
+01568_2.gif
 ###
 You captcha the lathe ghost image and apply the upgrade.
 

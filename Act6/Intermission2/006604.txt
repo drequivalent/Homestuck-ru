@@ -4,7 +4,7 @@
 ###
 1331885839
 ###
-http://ru-homestuck.org/storyfiles/hs2/04701.gif
+04701.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: is that going to be a problem</span>

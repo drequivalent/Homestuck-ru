@@ -4,7 +4,7 @@
 ###
 1332630983
 ###
-http://ru-homestuck.org/storyfiles/hs2/04751.gif
+04751.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: yes. well, it's a dream bubble.</span>

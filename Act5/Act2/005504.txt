@@ -4,9 +4,9 @@
 ###
 1298979441
 ###
-http://ru-homestuck.org/storyfiles/hs2/03601_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03601_2.gif
-http://ru-homestuck.org/storyfiles/hs2/03601_3.gif
+03601_1.gif
+03601_2.gif
+03601_3.gif
 ###
 |PESTERLOG|
 <span style="color: #a10000">AA: and the other</span>

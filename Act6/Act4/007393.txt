@@ -4,8 +4,8 @@
 ###
 1353825159
 ###
-http://ru-homestuck.org/storyfiles/hs2/05490_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05490_2.gif
+05490_1.gif
+05490_2.gif
 ###
 |AUTHORLOG|
 <span style="color: #000000">Hey! Stop that.</span>

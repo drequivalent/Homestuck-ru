@@ -4,8 +4,8 @@ cb24dc42a6
 ###
 1327562429
 ###
-http://ru-homestuck.org/storyfiles/hs2/04504_1.gif
-http://ru-homestuck.org/storyfiles/hs2/04504_2.gif
+04504_1.gif
+04504_2.gif
 ###
 
 ###

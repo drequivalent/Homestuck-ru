@@ -4,8 +4,8 @@ adf2330ab3
 ###
 1268325427
 ###
-http://ru-homestuck.org/storyfiles/hs2/01586_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01586_2.gif
+01586_1.gif
+01586_2.gif
 ###
 
 ###

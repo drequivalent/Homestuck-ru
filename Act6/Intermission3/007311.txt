@@ -4,7 +4,7 @@
 ###
 1351221057
 ###
-http://ru-homestuck.org/storyfiles/hs2/05408.gif
+05408.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: Kaynaya.</span>

@@ -4,8 +4,8 @@ d304617813
 ###
 1273708535
 ###
-http://ru-homestuck.org/storyfiles/hs2/01822_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01822_2.gif
+01822_1.gif
+01822_2.gif
 ###
 You make the TURNTOP.
 

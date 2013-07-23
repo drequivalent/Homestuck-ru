@@ -4,7 +4,7 @@
 ###
 1324097002
 ###
-http://ru-homestuck.org/storyfiles/hs2/04334.gif
+04334.gif
 ###
 |ДИАЛОГЛОГ|
 <span style="color: #4ac925">ДЖЕЙД: ага</span>

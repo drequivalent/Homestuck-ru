@@ -4,9 +4,9 @@
 ###
 1265865538
 ###
-http://ru-homestuck.org/storyfiles/hs2/01360_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01360_2.gif
-http://ru-homestuck.org/storyfiles/hs2/01360_3.gif
+01360_1.gif
+01360_2.gif
+01360_3.gif
 ###
 
 ###

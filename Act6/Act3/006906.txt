@@ -4,7 +4,7 @@
 ###
 1338609828
 ###
-http://ru-homestuck.org/storyfiles/hs2/05003.gif
+05003.gif
 ###
 |DIALOGLOG|
 <span style="color: #1f9400">JAKE: KA POW! TAKE THAT!!!</span>

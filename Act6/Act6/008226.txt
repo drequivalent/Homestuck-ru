@@ -4,7 +4,7 @@
 ###
 1372621965
 ###
-http://ru-homestuck.org/storyfiles/hs2/06324.gif
+06324.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">KARKAT: THAT'S EARTH??</span>

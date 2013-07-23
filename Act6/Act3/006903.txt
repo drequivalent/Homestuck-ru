@@ -4,7 +4,7 @@
 ###
 1338526115
 ###
-http://ru-homestuck.org/storyfiles/hs2/05000.gif
+05000.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ARANEA: Instead of storming off to the moon in a huff, Peixes em8raced her role as an heiress.</span>

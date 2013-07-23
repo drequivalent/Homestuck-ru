@@ -4,8 +4,8 @@
 ###
 1276146123
 ###
-http://ru-homestuck.org/storyfiles/hs2/01967_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01967_2.gif
+01967_1.gif
+01967_2.gif
 ###
 The lab is in flight. Its exits, inoperative.
 ###

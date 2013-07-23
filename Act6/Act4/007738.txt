@@ -4,9 +4,9 @@
 ###
 1360194263
 ###
-http://ru-homestuck.org/storyfiles/hs2/05835_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05835_2.gif
-http://ru-homestuck.org/storyfiles/hs2/05835_3.gif
+05835_1.gif
+05835_2.gif
+05835_3.gif
 ###
 |PESTERLOG|
 <span style="color: #00d5f2">GG: The tremors are back.</span>

@@ -4,7 +4,7 @@
 ###
 1252615609
 ###
-http://ru-homestuck.org/storyfiles/hs2/00623.gif
+00623.gif
 ###
 You create a HAMMER at the expense of 2 units of BUILD GRIST.
 ###

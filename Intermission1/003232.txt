@@ -4,8 +4,8 @@ bb4a0cc001
 ###
 1265579420
 ###
-http://ru-homestuck.org/storyfiles/hs2/01332_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01332_2.gif
+01332_1.gif
+01332_2.gif
 ###
 Его удар сносит Вас в следующую неделю.
 

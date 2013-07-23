@@ -4,7 +4,7 @@ bbdf52987d
 ###
 1373870390
 ###
-http://ru-homestuck.org/storyfiles/hs2/06369.gif
+06369.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: Dammit!</span>

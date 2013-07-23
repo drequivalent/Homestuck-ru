@@ -4,8 +4,8 @@ e6c9ac2ede
 ###
 1292258142
 ###
-http://ru-homestuck.org/storyfiles/hs2/03066_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03066_2.gif
+03066_1.gif
+03066_2.gif
 ###
 
 ###

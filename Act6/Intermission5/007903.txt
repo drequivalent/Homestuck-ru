@@ -4,7 +4,7 @@
 ###
 1363401352
 ###
-http://ru-homestuck.org/storyfiles/hs2/06000.gif
+06000.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: So he must 8ring it to a design8ted loc8tion on the surface.</span>

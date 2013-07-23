@@ -4,7 +4,7 @@ d2fbb7c04a
 ###
 1332105906
 ###
-http://ru-homestuck.org/storyfiles/hs2/04712.gif
+04712.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">KARKAT: HEY, CUT IT OUT. DON'T TOUCH ME.</span>

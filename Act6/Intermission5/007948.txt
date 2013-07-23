@@ -4,7 +4,7 @@
 ###
 1364353234
 ###
-http://ru-homestuck.org/storyfiles/hs2/06045.gif
+06045.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ВРИСКА: May8e?</span>

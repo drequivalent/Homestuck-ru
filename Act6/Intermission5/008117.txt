@@ -4,7 +4,7 @@ b104b58733
 ###
 1365669817
 ###
-http://ru-homestuck.org/storyfiles/hs2/06214.gif
+06214.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: ...</span>

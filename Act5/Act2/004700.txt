@@ -4,7 +4,7 @@ acbc4ff5e3
 ###
 1288151435
 ###
-http://ru-homestuck.org/storyfiles/hs2/02799.gif
+02799.gif
 ###
 |SPRITELOG|
 <span style="color: #0715cd">JOHN: ok. what is it?</span>

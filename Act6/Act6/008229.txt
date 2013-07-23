@@ -4,7 +4,7 @@
 ###
 1372622929
 ###
-http://ru-homestuck.org/storyfiles/hs2/06327.gif
+06327.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE:</span> <span style="color: #000000">you dont?</span>

@@ -4,7 +4,7 @@ Jane: Follow the rabbit.
 ###
 1339299742
 ###
-http://ru-homestuck.org/storyfiles/hs2/05040.gif
+05040.gif
 ###
 |PESTERLOG|
 <span style="color: #00d5f2">GG: He just disappeared on that platform!</span>

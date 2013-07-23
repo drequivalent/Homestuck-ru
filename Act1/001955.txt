@@ -4,8 +4,8 @@ John: Examine oversized gift.
 ###
 1240094095
 ###
-http://ru-homestuck.org/storyfiles/hs2/00055_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00055_2.gif
+00055_1.gif
+00055_2.gif
 ###
 Contemplating what could be inside this package is sort of exciting, but it makes you a little nervous at the same time.
 ###

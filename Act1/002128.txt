@@ -4,7 +4,7 @@ Rose: Take book.
 ###
 1243748653
 ###
-http://ru-homestuck.org/storyfiles/hs2/00228.gif
+00228.gif
 ###
 You take the GRIMOIRE.
 

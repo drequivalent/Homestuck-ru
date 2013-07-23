@@ -4,7 +4,7 @@
 ###
 1365669717
 ###
-http://ru-homestuck.org/storyfiles/hs2/06210.gif
+06210.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: jaspers???</span>

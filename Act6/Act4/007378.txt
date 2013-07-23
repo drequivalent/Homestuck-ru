@@ -4,7 +4,7 @@
 ###
 1353454177
 ###
-http://ru-homestuck.org/storyfiles/hs2/05475.gif
+05475.gif
 ###
 |AUTHORLOG|
 <span style="color: #323232">HEY.</span>

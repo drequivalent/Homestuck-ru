@@ -4,8 +4,8 @@ ced0515b19
 ###
 1252560891
 ###
-http://ru-homestuck.org/storyfiles/hs2/00620_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00620_2.gif
+00620_1.gif
+00620_2.gif
 ###
 You stow the totems in your ATHENEUM.
 ###

@@ -4,8 +4,8 @@ c8580f2e1d
 ###
 1272046329
 ###
-http://ru-homestuck.org/storyfiles/hs2/01739_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01739_2.gif
+01739_1.gif
+01739_2.gif
 ###
 You use the alchemiter's scaling upgrade to reduce it to a more manageable and affordable size.
 

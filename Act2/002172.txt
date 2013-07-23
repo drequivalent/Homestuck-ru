@@ -4,8 +4,8 @@ bdc30c9d93
 ###
 1245374550
 ###
-http://ru-homestuck.org/storyfiles/hs2/00272_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00272_2.gif
+00272_1.gif
+00272_2.gif
 ###
 
 ###

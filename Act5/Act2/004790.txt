@@ -4,7 +4,7 @@ Jade: Go upstairs.
 ###
 1290043366
 ###
-http://ru-homestuck.org/storyfiles/hs2/02889.gif
+02889.gif
 ###
 |PESTERLOG|
 <span style="color: #4ac925">GG: what is the problem!!!!</span>

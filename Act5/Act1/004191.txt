@@ -4,8 +4,8 @@ ff6ae0875e
 ###
 1279601193
 ###
-http://ru-homestuck.org/storyfiles/hs2/02291_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02291_2.gif
+02291_1.gif
+02291_2.gif
 ###
 
 ###

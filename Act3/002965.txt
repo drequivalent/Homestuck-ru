@@ -4,8 +4,8 @@ John: Combine Cosby poster with computer.
 ###
 1261515857
 ###
-http://ru-homestuck.org/storyfiles/hs2/01065_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01065_2.gif
+01065_1.gif
+01065_2.gif
 ###
 You make the COSBYTOP COMPUTER.
 

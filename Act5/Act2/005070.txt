@@ -4,8 +4,8 @@ e17d363274
 ###
 1293261644
 ###
-http://ru-homestuck.org/storyfiles/hs2/03167_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03167_2.gif
+03167_1.gif
+03167_2.gif
 ###
 JOHNNY 5.
 

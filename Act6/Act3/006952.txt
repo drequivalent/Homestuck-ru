@@ -4,7 +4,7 @@ Select character.
 ###
 1339379411
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/05049
+05049.swf
 ###
 
 ###

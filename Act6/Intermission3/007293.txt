@@ -4,7 +4,7 @@ d6a721d791
 ###
 1350620465
 ###
-http://ru-homestuck.org/storyfiles/hs2/05390.gif
+05390.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">VRISKA: John, tell me what you see here.</span>

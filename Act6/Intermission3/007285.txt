@@ -4,7 +4,7 @@ da828dd65a
 ###
 1350194696
 ###
-http://ru-homestuck.org/storyfiles/hs2/05382.gif
+05382.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">VRISKA: TAAAAAAAAVR........ Oh!</span>

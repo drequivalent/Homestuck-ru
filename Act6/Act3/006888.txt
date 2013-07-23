@@ -4,7 +4,7 @@
 ###
 1338285598
 ###
-http://ru-homestuck.org/storyfiles/hs2/04985.gif
+04985.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: (I'm not sure if that's a good idea.)</span>

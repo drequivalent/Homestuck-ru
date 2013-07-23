@@ -4,7 +4,7 @@ fc2f693ef2
 ###
 1361066795
 ###
-http://ru-homestuck.org/storyfiles/hs2/05925.gif
+05925.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">KARKAT: COME IN DAVE.</span>

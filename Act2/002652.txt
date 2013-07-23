@@ -4,7 +4,7 @@ db2e52968a
 ###
 1254778691
 ###
-http://ru-homestuck.org/storyfiles/hs2/00752.gif
+00752.gif
 ###
 It seems the APPEARIFIER cannot appearify something if it will create a TIME PARADOX.
 

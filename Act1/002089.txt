@@ -4,7 +4,7 @@ TT: Explore Atheneum.
 ###
 1242943802
 ###
-http://ru-homestuck.org/storyfiles/hs2/00189.gif
+00189.gif
 ###
 Acquiring a CRUXITE DOWEL seems to have populated the ATHENEUM with one item: a PERFECTLY GENERIC OBJECT.
 ###

@@ -4,7 +4,7 @@ AR: Use gunpowder and empty crates to make a campfire.
 ###
 1266787033
 ###
-http://ru-homestuck.org/storyfiles/hs2/01450.gif
+01450.gif
 ###
 
 ###

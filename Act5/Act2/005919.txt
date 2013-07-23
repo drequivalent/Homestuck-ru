@@ -4,7 +4,7 @@ d98ecda0dc
 ###
 1312427691
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/04016
+04016.swf
 ###
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/nextbowl4.gif" border="0" />
 ###

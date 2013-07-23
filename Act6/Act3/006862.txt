@@ -4,7 +4,7 @@ Jane: Pester UU.
 ###
 1337572213
 ###
-http://ru-homestuck.org/storyfiles/hs2/04959.gif
+04959.gif
 ###
 |PESTERLOG|
 <span style="color: #00d5f2">gutsyGumshoe [GG]</span> began pestering <span style="color: #929292">uranianUmbra [UU]</span>

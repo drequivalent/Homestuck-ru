@@ -4,10 +4,10 @@ Jake: Deploy.
 ###
 1339400058
 ###
-http://ru-homestuck.org/storyfiles/hs2/05058_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05058_2.gif
-http://ru-homestuck.org/storyfiles/hs2/05058_3.gif
-http://ru-homestuck.org/storyfiles/hs2/05058_4.gif
+05058_1.gif
+05058_2.gif
+05058_3.gif
+05058_4.gif
 ###
 |PESTERLOG|
 <span style="color: #1f9400">GT: There we are. No sweat.</span>

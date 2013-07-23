@@ -4,7 +4,7 @@ b4ec8d4300
 ###
 1332234109
 ###
-http://ru-homestuck.org/storyfiles/hs2/04729.gif
+04729.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: jade.</span>

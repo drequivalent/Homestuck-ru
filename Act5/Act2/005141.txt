@@ -4,7 +4,7 @@
 ###
 1294087935
 ###
-http://ru-homestuck.org/storyfiles/hs2/03238.gif
+03238.gif
 ###
 |SPRITELOG|
 <span style="color: #4ac925">JADE: um... jade?</span>

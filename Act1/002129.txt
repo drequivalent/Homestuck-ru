@@ -4,7 +4,7 @@ Rose: Go explore the house.
 ###
 1243836803
 ###
-http://ru-homestuck.org/storyfiles/hs2/00229.gif
+00229.gif
 ###
 You leave your BEDROOM. 
 

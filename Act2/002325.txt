@@ -4,7 +4,7 @@
 ###
 1249191667
 ###
-http://ru-homestuck.org/storyfiles/hs2/00425.gif
+00425.gif
 ###
 |СПРАЙТЛОГ|
 <span style="color: #0715cd">ДЖОН: ух ты, серьезно? в чем тогда смысл?</span>

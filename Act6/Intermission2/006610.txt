@@ -4,7 +4,7 @@
 ###
 1331962005
 ###
-http://ru-homestuck.org/storyfiles/hs2/04707.gif
+04707.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: dunno but i was just leaving</span>

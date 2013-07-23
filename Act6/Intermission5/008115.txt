@@ -4,7 +4,7 @@ f4cbb54ee0
 ###
 1365669777
 ###
-http://ru-homestuck.org/storyfiles/hs2/06212.gif
+06212.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: where IS everyone?</span>

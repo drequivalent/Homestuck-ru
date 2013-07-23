@@ -4,7 +4,7 @@ Jake: Examine incoming message.
 ###
 1354169855
 ###
-http://ru-homestuck.org/storyfiles/hs2/05510.gif
+05510.gif
 ###
 
 ###

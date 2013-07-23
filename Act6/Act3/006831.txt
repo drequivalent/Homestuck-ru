@@ -4,7 +4,7 @@
 ###
 1336883504
 ###
-http://ru-homestuck.org/storyfiles/hs2/04928.gif
+04928.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ARANEA: I've gathered a small group of travelers for a meeting.</span>

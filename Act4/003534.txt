@@ -4,7 +4,7 @@ John: Captchalogue rocket pack.
 ###
 1269921537
 ###
-http://ru-homestuck.org/storyfiles/hs2/01634.gif
+01634.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">EB: ok here...</span>

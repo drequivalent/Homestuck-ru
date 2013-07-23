@@ -4,7 +4,7 @@ Jane, Dirk, Jake, Roxy: Enter.
 ###
 1342578219
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/05257
+05257.swf
 ###
 
 ###

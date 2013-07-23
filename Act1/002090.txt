@@ -4,8 +4,8 @@ John: Captchalogue telescope.
 ###
 1242955053
 ###
-http://ru-homestuck.org/storyfiles/hs2/00190_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00190_2.gif
+00190_1.gif
+00190_2.gif
 ###
 You snatch the TELESCOPE from its TRIPOD. Who knows, it might be useful. But more importantly, it pushes the CRUXITE to the last card making it available for tinkering.
 

@@ -4,8 +4,8 @@ c635ccaec4
 ###
 1277427116
 ###
-http://ru-homestuck.org/storyfiles/hs2/02089_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02089_2.gif
+02089_1.gif
+02089_2.gif
 ###
 The game has no explicit rule that demands something dead for prototyping. But in practice, the kernelsprite has particular attraction to the deceased or the doomed. Across every session ever played, exceptions to this pattern are extremely rare.
 ###

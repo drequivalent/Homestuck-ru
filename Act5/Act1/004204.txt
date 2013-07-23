@@ -4,8 +4,8 @@ d1a54d02fd
 ###
 1280353508
 ###
-http://ru-homestuck.org/storyfiles/hs2/02304_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02304_2.gif
+02304_1.gif
+02304_2.gif
 ###
 
 ###

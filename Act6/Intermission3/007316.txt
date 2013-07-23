@@ -4,7 +4,7 @@ d4848db8a2
 ###
 1351221100
 ###
-http://ru-homestuck.org/storyfiles/hs2/05413.gif
+05413.gif
 ###
 |DIALOGLOG|
 <span style="color: #008141">KANAYA: That Is</span>

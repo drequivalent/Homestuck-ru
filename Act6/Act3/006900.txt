@@ -4,7 +4,7 @@
 ###
 1338513552
 ###
-http://ru-homestuck.org/storyfiles/hs2/04997.gif
+04997.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ARANEA: Meempha.</span>

@@ -4,7 +4,7 @@
 ###
 1361860663
 ###
-http://ru-homestuck.org/storyfiles/hs2/05953.gif
+05953.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: а что это за корабли впереди?</span>

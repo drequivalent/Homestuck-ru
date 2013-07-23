@@ -4,7 +4,7 @@ bf0e557ef5
 ###
 1332106138
 ###
-http://ru-homestuck.org/storyfiles/hs2/04714.gif
+04714.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: this is so sick does she even know youre doing this</span>

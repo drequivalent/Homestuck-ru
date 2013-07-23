@@ -4,7 +4,7 @@ ec2e9fd358
 ###
 1280289097
 ###
-http://ru-homestuck.org/storyfiles/hs2/02296.gif
+02296.gif
 ###
 |PESTERLOG|
 <span style="color: #626262">carcinoGeneticist [CG]</span> began trolling <span style="color: #005682">arachnidsGrip [AG]</span>

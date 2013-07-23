@@ -4,7 +4,7 @@
 ###
 1336882144
 ###
-http://ru-homestuck.org/storyfiles/hs2/04926.gif
+04926.gif
 ###
 |DIALOGLOG|
 <span style="color: #1f9400">JAKE: Can you tell me anything more about this demon?</span>

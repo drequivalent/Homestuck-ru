@@ -4,7 +4,7 @@ Dave: Captchalogue Shurikens.
 ###
 1251954345
 ###
-http://ru-homestuck.org/storyfiles/hs2/00576.gif
+00576.gif
 ###
 You grab the <span style="color: blue">SH</span><span style="color: red">U</span><span style="color: blue">R</span><span style="color: red">I</span><span style="color: blue">K</span><span style="color: red">E</span><span style="color: blue">NS</span> (5) and...
 

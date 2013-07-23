@@ -4,7 +4,7 @@
 ###
 1277954213
 ###
-http://ru-homestuck.org/storyfiles/hs2/02131.gif
+02131.gif
 ###
 The doomsday device would display the amount of time you had to get back to your hive and enter the Medium before the forest was destroyed.
 

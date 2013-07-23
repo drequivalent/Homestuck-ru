@@ -4,9 +4,9 @@ Karkat: Examine neighborhood.
 ###
 1276492454
 ###
-http://ru-homestuck.org/storyfiles/hs2/02004_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02004_2.gif
-http://ru-homestuck.org/storyfiles/hs2/02004_3.gif
+02004_1.gif
+02004_2.gif
+02004_3.gif
 ###
 The lawnrings are empty. Blood skims the voids in your porous cranial plates, as if grazing the hollow of a threshed stem, or say, an abandoned cocoon. A sour note is produced. It's the one Agitation plays to make its audience squirm.
 

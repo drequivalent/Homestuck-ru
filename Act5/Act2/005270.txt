@@ -4,8 +4,8 @@ Terezi: Draw outline.
 ###
 1296105590
 ###
-http://ru-homestuck.org/storyfiles/hs2/03367_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03367_2.gif
+03367_1.gif
+03367_2.gif
 ###
 Professor Pucefoot immediately begins drawing a pointless chalk outline around the body, as is standard protocol.
 

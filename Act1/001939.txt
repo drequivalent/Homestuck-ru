@@ -4,7 +4,7 @@ John: Report progress to TG.
 ###
 1239918992
 ###
-http://ru-homestuck.org/storyfiles/hs2/00039.gif
+00039.gif
 ###
 |PESTERLOG| 
 <span style="color: #0715cd">EB: ok, i did it.</span>

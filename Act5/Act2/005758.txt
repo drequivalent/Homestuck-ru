@@ -4,8 +4,8 @@ dba4c4e0fe
 ###
 1308173176
 ###
-http://ru-homestuck.org/storyfiles/hs2/03855_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03855_2.gif
+03855_1.gif
+03855_2.gif
 ###
 |PESTERLOG|
 <span style="color: #005682">AG: Well, think it over.</span>

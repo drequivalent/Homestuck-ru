@@ -4,8 +4,8 @@
 ###
 1278093051
 ###
-http://ru-homestuck.org/storyfiles/hs2/02140_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02140_2.gif
+02140_1.gif
+02140_2.gif
 ###
 Tick tock tick tock tick tock.
 

@@ -4,8 +4,8 @@ a44bb6812d
 ###
 1331886226
 ###
-http://ru-homestuck.org/storyfiles/hs2/04703_1.gif
-http://ru-homestuck.org/storyfiles/hs2/04703_2.gif
+04703_1.gif
+04703_2.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: ................</span>

@@ -4,7 +4,7 @@
 ###
 1364203515
 ###
-http://ru-homestuck.org/storyfiles/hs2/06041.gif
+06041.gif
 ###
 |DIALOGLOG|
 <span style="color: #a15000">ТАВРОС: fLY, pUPA,</span>

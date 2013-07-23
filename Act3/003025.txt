@@ -4,9 +4,9 @@ e9d67bf4da
 ###
 1262657050
 ###
-http://ru-homestuck.org/storyfiles/hs2/01125_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01125_2.gif
-http://ru-homestuck.org/storyfiles/hs2/01125_3.gif
+01125_1.gif
+01125_2.gif
+01125_3.gif
 ###
 
 ###

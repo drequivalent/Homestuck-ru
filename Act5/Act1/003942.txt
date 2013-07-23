@@ -4,8 +4,8 @@ Terezi: Sentence the criminal.
 ###
 1276882165
 ###
-http://ru-homestuck.org/storyfiles/hs2/02042_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02042_2.gif
+02042_1.gif
+02042_2.gif
 ###
 As the prosecutor, it is your job to reach a final verdict and sentence the reprehensible felon, while His Tyranny watches in silence and submits grim approval.
 

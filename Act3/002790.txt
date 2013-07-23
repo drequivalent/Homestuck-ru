@@ -4,8 +4,8 @@ dff34afa34
 ###
 1258871643
 ###
-http://ru-homestuck.org/storyfiles/hs2/00890_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00890_2.gif
+00890_1.gif
+00890_2.gif
 ###
 
 ###

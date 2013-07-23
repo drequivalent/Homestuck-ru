@@ -4,7 +4,7 @@
 ###
 1259982574
 ###
-http://ru-homestuck.org/storyfiles/hs2/00969.gif
+00969.gif
 ###
 Your sylladex now behaves like both a STACK and a QUEUE. Items can be removed from either the top card or the bottom card.
 ###

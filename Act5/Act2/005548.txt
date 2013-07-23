@@ -4,8 +4,8 @@ Big Man: Request time out.
 ###
 1300327638
 ###
-http://ru-homestuck.org/storyfiles/hs2/03645_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03645_2.gif
+03645_1.gif
+03645_2.gif
 ###
 
 ###

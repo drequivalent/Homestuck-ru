@@ -4,7 +4,7 @@
 ###
 1324711795
 ###
-http://ru-homestuck.org/storyfiles/hs2/04380.gif
+04380.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: whos this guy</span>

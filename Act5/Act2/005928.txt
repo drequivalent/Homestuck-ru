@@ -4,7 +4,7 @@
 ###
 1312623253
 ###
-http://ru-homestuck.org/storyfiles/hs2/04025.gif
+04025.gif
 ###
 |PESTERLOG|
 <span style="color: #4200b0">TC: no.</span>

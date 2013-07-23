@@ -4,8 +4,8 @@
 ###
 1276023363
 ###
-http://ru-homestuck.org/storyfiles/hs2/01950_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01950_2.gif
+01950_1.gif
+01950_2.gif
 ###
 The slayer is summoned. The collateral, presented.
 ###

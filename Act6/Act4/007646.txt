@@ -4,7 +4,7 @@ bf110f850c
 ###
 1358548978
 ###
-http://ru-homestuck.org/storyfiles/hs2/05743.gif
+05743.gif
 ###
 |SPRITELOG|
 <span style="color: #50f520">ERISOLSPRITE: 2o uh...</span>

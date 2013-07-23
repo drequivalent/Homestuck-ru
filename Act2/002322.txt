@@ -4,7 +4,7 @@ e1b9260c03
 ###
 1249103381
 ###
-F|http://ru-homestuck.org/storyfiles/hs2/00422
+00422.swf
 ###
 |СПРАЙТЛОГ|
 <span style="color: #00d5f2">БАБУЛЬСПРАЙТ: Над <span style="text-decoration: underline">Медиумом</span>, за <span style="text-decoration: underline">Семью Вратами</span>, прямо в центре <span style="text-decoration: underline">Первосферы</span> расположено место под названием <span style="text-decoration: underline">Скайя</span>.</span>

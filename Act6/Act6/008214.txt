@@ -4,7 +4,7 @@
 ###
 1371628368
 ###
-http://ru-homestuck.org/storyfiles/hs2/06312.gif
+06312.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: hi dave!</span>

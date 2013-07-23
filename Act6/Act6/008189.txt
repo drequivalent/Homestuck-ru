@@ -4,7 +4,7 @@
 ###
 1371338866
 ###
-http://ru-homestuck.org/storyfiles/hs2/06287.gif
+06287.gif
 ###
 |DIALOGLOG|
 <span style="color: #ff6ff2">ROXY: yo did you just woof</span>

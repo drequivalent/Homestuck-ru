@@ -4,9 +4,9 @@
 ###
 1259870385
 ###
-http://ru-homestuck.org/storyfiles/hs2/00951_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00951_2.gif
-http://ru-homestuck.org/storyfiles/hs2/00951_3.gif
+00951_1.gif
+00951_2.gif
+00951_3.gif
 ###
 You're going to need a bigger safe.
 ###

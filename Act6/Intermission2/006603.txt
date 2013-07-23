@@ -4,8 +4,8 @@ bab6e1c93e
 ###
 1331885736
 ###
-http://ru-homestuck.org/storyfiles/hs2/04700_1.gif
-http://ru-homestuck.org/storyfiles/hs2/04700_2.gif
+04700_1.gif
+04700_2.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: Instead, it remains in its most basic form, stuck in eternal stalemate.</span>

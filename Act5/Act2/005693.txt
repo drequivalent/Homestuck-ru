@@ -4,8 +4,8 @@ db2b6f9c00
 ###
 1306370243
 ###
-http://ru-homestuck.org/storyfiles/hs2/03790_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03790_2.gif
+03790_1.gif
+03790_2.gif
 ###
 To secure a death one may parse just.
 ###

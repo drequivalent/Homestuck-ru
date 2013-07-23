@@ -4,8 +4,8 @@ PM: Scamper quickly to the newly created hole.
 ###
 1262657016
 ###
-http://ru-homestuck.org/storyfiles/hs2/01124_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01124_2.gif
+01124_1.gif
+01124_2.gif
 ###
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/HAVEthecargo.gif" border="0" />
 ###

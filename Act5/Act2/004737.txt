@@ -4,7 +4,7 @@ b8a6dd9aa6
 ###
 1288919490
 ###
-http://ru-homestuck.org/storyfiles/hs2/02836.gif
+02836.gif
 ###
 |SPRITELOG|
 <span style="color: #f2a400">DAVESPRITE: oh yeah why</span>

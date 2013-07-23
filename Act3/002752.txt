@@ -4,8 +4,8 @@
 ###
 1257903904
 ###
-http://ru-homestuck.org/storyfiles/hs2/00852_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00852_2.gif
+00852_1.gif
+00852_2.gif
 ###
 Ты спускаешься на уровень ниже.
 

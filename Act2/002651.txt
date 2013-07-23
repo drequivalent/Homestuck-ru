@@ -4,8 +4,8 @@ WV: Adjust time dial to appearify rotten pumpkin.
 ###
 1254778604
 ###
-http://ru-homestuck.org/storyfiles/hs2/00751_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00751_2.gif
+00751_1.gif
+00751_2.gif
 ###
 You and SERENITY consider new ways to waste more time with the APPEARIFIER. You are assuming she is a girl firefly even though you are not really sure that fireflies can even be girls.
 

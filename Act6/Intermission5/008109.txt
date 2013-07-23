@@ -4,7 +4,7 @@
 ###
 1365663170
 ###
-http://ru-homestuck.org/storyfiles/hs2/06206.gif
+06206.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: does this mean...</span>

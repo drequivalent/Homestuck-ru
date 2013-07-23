@@ -4,7 +4,7 @@
 ###
 1332393808
 ###
-http://ru-homestuck.org/storyfiles/hs2/04734.gif
+04734.gif
 ###
 |DIALOGLOG|
 <span style="color: #f141ef">JASPERSPRITE: Ahem.</span>

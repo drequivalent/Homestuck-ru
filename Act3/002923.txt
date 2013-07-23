@@ -4,7 +4,7 @@
 ###
 1261008247
 ###
-http://ru-homestuck.org/storyfiles/hs2/01023.gif
+01023.gif
 ###
 |PESTERLOG|
 <span style="color: #b536da">TT: It looks like you were in your father's room recently.</span>

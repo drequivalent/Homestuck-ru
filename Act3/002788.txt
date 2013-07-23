@@ -4,8 +4,8 @@
 ###
 1258871593
 ###
-http://ru-homestuck.org/storyfiles/hs2/00888_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00888_2.gif
+00888_1.gif
+00888_2.gif
 ###
 
 ###

@@ -4,8 +4,8 @@ AR: Examine the wall behind you.
 ###
 1262480882
 ###
-http://ru-homestuck.org/storyfiles/hs2/01102_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01102_2.gif
+01102_1.gif
+01102_2.gif
 ###
 The wall exhibits rows of ancient hieroglyphs depicting an array of amphibious and reptilian life forms.
 

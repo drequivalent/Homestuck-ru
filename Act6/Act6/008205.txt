@@ -4,7 +4,7 @@ a88b6ab1c9
 ###
 1371627827
 ###
-http://ru-homestuck.org/storyfiles/hs2/06303.gif
+06303.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: this poster...</span>

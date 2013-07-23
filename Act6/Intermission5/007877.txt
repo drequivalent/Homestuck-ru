@@ -4,7 +4,7 @@
 ###
 1362937208
 ###
-http://ru-homestuck.org/storyfiles/hs2/05974.gif
+05974.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: Hey!!!!!!!!</span>

@@ -4,7 +4,7 @@
 ###
 1332106310
 ###
-http://ru-homestuck.org/storyfiles/hs2/04715.gif
+04715.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: karkat whoa man what are you doing</span>

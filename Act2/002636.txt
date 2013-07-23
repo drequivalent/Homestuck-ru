@@ -4,7 +4,7 @@ WV: Look at the other wall.
 ###
 1254626905
 ###
-http://ru-homestuck.org/storyfiles/hs2/00736.gif
+00736.gif
 ###
 You examine the perplexing contraption across the room. You of course have no idea what it could possibly do.
 

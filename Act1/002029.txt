@@ -4,8 +4,8 @@ John: Captchalogue glass shards.
 ###
 1241672000
 ###
-http://ru-homestuck.org/storyfiles/hs2/00129_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00129_2.gif
+00129_1.gif
+00129_2.gif
 ###
 You take three GLASS SHARDS in quick succession and duck for cover.
 

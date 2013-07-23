@@ -4,7 +4,7 @@ John: Answer chums.
 ###
 1243129650
 ###
-http://ru-homestuck.org/storyfiles/hs2/00204.gif
+00204retcon.gif
 ###
 |PESTERLOG|
 <span style="color: #b536da">TT: I'm working on the bathroom.</span>

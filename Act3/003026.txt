@@ -4,8 +4,8 @@ PM: Read the next step of the letter.
 ###
 1262666757
 ###
-http://ru-homestuck.org/storyfiles/hs2/01126_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01126_2.gif
+01126_1.gif
+01126_2.gif
 ###
 At the bottom of the letter is a series of coordinates along with further instructions.
 

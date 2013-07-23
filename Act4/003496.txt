@@ -4,8 +4,8 @@ e6611146d7
 ###
 1269059019
 ###
-http://ru-homestuck.org/storyfiles/hs2/01596_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01596_2.gif
+01596_1.gif
+01596_2.gif
 ###
 
 ###

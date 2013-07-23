@@ -4,7 +4,7 @@ d9f1ea4630
 ###
 1353570805
 ###
-http://ru-homestuck.org/storyfiles/hs2/05486.gif
+05486.gif
 ###
 |AUTHORLOG|
 <span style="color: #000000">Well, maybe that's why it's a wireless mouse?</span>

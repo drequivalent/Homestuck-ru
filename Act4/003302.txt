@@ -4,7 +4,7 @@ Jade: Deploy the cruxtruder in its place.
 ###
 1266298726
 ###
-http://ru-homestuck.org/storyfiles/hs2/01402.gif
+01402.gif
 ###
 |PESTERLOG|
 <span style="color: #e00707">TG: so seriously what were you doing just now</span>

@@ -4,7 +4,7 @@ John: Equip array fetch modus.
 ###
 1259982256
 ###
-http://ru-homestuck.org/storyfiles/hs2/00967.gif
+00967.gif
 ###
 The ARRAY MODUS allows you to store and retrieve any item from any card at any time. It seems exceptionally serviceable, albeit difficult to weaponize.
 

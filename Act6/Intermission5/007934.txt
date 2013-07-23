@@ -4,7 +4,7 @@
 ###
 1364091910
 ###
-http://ru-homestuck.org/storyfiles/hs2/06031.gif
+06031.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: The rings are said to look nearly identical.</span>

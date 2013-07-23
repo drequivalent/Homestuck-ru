@@ -4,7 +4,7 @@
 ###
 1310167070
 ###
-http://ru-homestuck.org/storyfiles/hs2/03920.gif
+03920.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">GT: hey, look!</span>

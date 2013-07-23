@@ -4,7 +4,7 @@
 ###
 1338253915
 ###
-http://ru-homestuck.org/storyfiles/hs2/04984.gif
+04984.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">KARKAT: WHO ARE YOU PEOPLE AND WHY SHOULD I CARE ABOUT YOU.</span>

@@ -4,7 +4,7 @@
 ###
 1281378551
 ###
-http://ru-homestuck.org/storyfiles/hs2/02389.gif
+02389.gif
 ###
 |SPRITELOG|
 <span style="color: #008141">MOTHERSPRITE: There there, sweetheart.</span>

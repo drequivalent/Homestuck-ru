@@ -4,7 +4,7 @@
 ###
 1332120863
 ###
-http://ru-homestuck.org/storyfiles/hs2/04718.gif
+04718.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">KARKAT: RAAARARRAAUUUAAAAUUAGHGHGGHGGGGHHGH!</span>

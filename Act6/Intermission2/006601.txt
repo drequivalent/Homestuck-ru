@@ -4,7 +4,7 @@
 ###
 1331858346
 ###
-http://ru-homestuck.org/storyfiles/hs2/04698.gif
+04698.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">DAVE: so whats with the big book youre writing in</span>

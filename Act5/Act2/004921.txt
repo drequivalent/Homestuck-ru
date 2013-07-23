@@ -4,7 +4,7 @@
 ###
 1291776772
 ###
-http://ru-homestuck.org/storyfiles/hs2/03020.gif
+03020.gif
 ###
 |SPRITELOG|
 <span style="color: #4ac925">JADE: what happened in here?</span>

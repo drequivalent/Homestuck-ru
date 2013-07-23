@@ -4,8 +4,8 @@ f2ff73ea14
 ###
 1309646595
 ###
-http://ru-homestuck.org/storyfiles/hs2/03880_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03880_2.gif
+03880_1.gif
+03880_2.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">GT: ok.</span>

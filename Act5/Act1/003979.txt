@@ -4,8 +4,8 @@ b7bd2552f3
 ###
 1277317930
 ###
-http://ru-homestuck.org/storyfiles/hs2/02079_1.gif
-http://ru-homestuck.org/storyfiles/hs2/02079_2.gif
+02079_1.gif
+02079_2.gif
 ###
 No!!!!!!!!!
 

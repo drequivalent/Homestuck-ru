@@ -4,7 +4,7 @@
 ###
 1363400940
 ###
-http://ru-homestuck.org/storyfiles/hs2/05995.gif
+05995.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: It was at this point the real game would 8egin.</span>

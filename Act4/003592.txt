@@ -4,7 +4,7 @@ John: Answer Dave.
 ###
 1271535091
 ###
-http://ru-homestuck.org/storyfiles/hs2/01692.gif
+01692.gif
 ###
 |PESTERLOG|
 -- turntechGodhead <span style="color: #f2a400">[TG]</span> began pestering ectoBiologist <span style="color: #0715cd">[EB]</span> --

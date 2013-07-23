@@ -4,8 +4,8 @@
 ###
 1360193333
 ###
-http://ru-homestuck.org/storyfiles/hs2/05827_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05827_2.gif
+05827_1.gif
+05827_2.gif
 ###
 |PESTERLOG|
 <span style="color: #f2a400">TT: We were all designated for a session that was utterly inert.</span>

@@ -4,7 +4,7 @@ fa2f1e14a1
 ###
 1312623321
 ###
-http://ru-homestuck.org/storyfiles/hs2/04027.gif
+04027.gif
 ###
 |PESTERLOG|
 <span style="color: #4200b0">TC: terminal. Bo)</span>

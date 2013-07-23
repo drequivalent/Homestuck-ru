@@ -4,7 +4,7 @@ fd59dadbc9
 ###
 1361344037
 ###
-http://ru-homestuck.org/storyfiles/hs2/05941.gif
+05941.gif
 ###
 |SPRITELOG|
 <span style="color: #f2a400">DAVESPRITE: i sure do talk to myself a lot dont i</span>

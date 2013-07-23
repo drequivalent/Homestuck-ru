@@ -4,7 +4,7 @@
 ###
 1361343407
 ###
-http://ru-homestuck.org/storyfiles/hs2/05938.gif
+05938.gif
 ###
 |SPRITELOG|
 <span style="color: #f2a400">DAVESPRITE: wake up sleepy head</span>

@@ -4,7 +4,7 @@ b02250184b
 ###
 1373611037
 ###
-http://ru-homestuck.org/storyfiles/hs2/06347.gif
+06347.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: I take it you are still detoxing from your overdose of appalling harlequin nectar?</span>

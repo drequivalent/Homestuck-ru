@@ -4,7 +4,7 @@ be684b8556
 ###
 1347420214
 ###
-http://ru-homestuck.org/storyfiles/hs2/05285.gif
+05285.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE: whaaat</span>

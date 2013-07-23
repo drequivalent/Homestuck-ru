@@ -4,7 +4,7 @@
 ###
 1353921384
 ###
-http://ru-homestuck.org/storyfiles/hs2/05496.gif
+05496.gif
 ###
 |AUTHORLOG|
 <span style="color: #000000">Oh great.</span>

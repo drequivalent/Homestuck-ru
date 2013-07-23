@@ -4,10 +4,10 @@
 ###
 1319518345
 ###
-http://ru-homestuck.org/storyfiles/hs2/04104_1.gif
-http://ru-homestuck.org/storyfiles/hs2/04104_2.gif
-http://ru-homestuck.org/storyfiles/hs2/04104_3.gif
-http://ru-homestuck.org/storyfiles/hs2/04104_4.gif
+04104_1.gif
+04104_2.gif
+04104_3.gif
+04104_4.gif
 ###
 
 ###

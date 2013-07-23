@@ -4,8 +4,8 @@
 ###
 1353570540
 ###
-http://ru-homestuck.org/storyfiles/hs2/05484_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05484_2.gif
+05484_1.gif
+05484_2.gif
 ###
 |AUTHORLOG|
 <span style="color: #000000">Now all the monitors have power.</span>

@@ -4,7 +4,7 @@
 ###
 1350281532
 ###
-http://ru-homestuck.org/storyfiles/hs2/05385.gif
+05385.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">VRISKA: Hasn't it ever occurred to you to wonder who the ultim8 8ad guy of this adventure was going to 8e?</span>

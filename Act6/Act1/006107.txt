@@ -4,10 +4,10 @@ Jane: Read inscription again.
 ###
 1322110801
 ###
-http://ru-homestuck.org/storyfiles/hs2/04204_1.gif
-http://ru-homestuck.org/storyfiles/hs2/04204_2.gif
-http://ru-homestuck.org/storyfiles/hs2/04204_3.gif
-http://ru-homestuck.org/storyfiles/hs2/04204_4.gif
+04204_1.gif
+04204_2.gif
+04204_3.gif
+04204_4.gif
 ###
 Is your friend suggesting that you were the one who wrote this inscription? You find that idea a bit hard to swallow. Still, your friends are always babbling about time travel...
 

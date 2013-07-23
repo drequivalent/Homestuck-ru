@@ -4,8 +4,8 @@
 ###
 1268251836
 ###
-http://ru-homestuck.org/storyfiles/hs2/01580_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01580_2.gif
+01580_1.gif
+01580_2.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">EB: this is the worst crap i have ever seen.</span>

@@ -4,7 +4,7 @@ Dirk: Pester Roxy.
 ###
 1328520543
 ###
-http://ru-homestuck.org/storyfiles/hs2/04547.gif
+04547.gif
 ###
 |PESTERLOG|
 <span style="color: #f2a400">timaeusTestified [TT]</span> began pestering <span style="color: #ff6ff2">tipsyGnostalgic [TG]</span>

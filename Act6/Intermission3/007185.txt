@@ -4,7 +4,7 @@ d8c22594cd
 ###
 1347224284
 ###
-http://ru-homestuck.org/storyfiles/hs2/05282.gif
+05282.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: i think i just realized something.</span>

@@ -4,7 +4,7 @@
 ###
 1356588798
 ###
-http://ru-homestuck.org/storyfiles/hs2/05654.gif
+05654.gif
 ###
 |SPRITELOG|
 <span style="color: #e00707">ARQUIUSPRITE: <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png" border="0" /> Yes</span>

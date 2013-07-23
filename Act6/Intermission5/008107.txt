@@ -4,7 +4,7 @@ abaf240b28
 ###
 1365663141
 ###
-http://ru-homestuck.org/storyfiles/hs2/06204.gif
+06204.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: what.</span>

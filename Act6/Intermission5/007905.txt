@@ -4,7 +4,7 @@ c20401f22b
 ###
 1363401441
 ###
-http://ru-homestuck.org/storyfiles/hs2/06002.gif
+06002.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: Upon destroying the eighth planet, his true land will reveal itself.</span>

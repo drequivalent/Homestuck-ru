@@ -4,7 +4,7 @@
 ###
 1324518004
 ###
-http://ru-homestuck.org/storyfiles/hs2/04360.gif
+04360.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">KARKAT: <span style="font-style: italic">HHHHHHHHHHHHHHHHHHHHHIIIIIIIIIIIIIIIIIIIIIIIIII</span></span>

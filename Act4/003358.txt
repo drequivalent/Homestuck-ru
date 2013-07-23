@@ -4,8 +4,8 @@ cbdc0cede9
 ###
 1266878780
 ###
-http://ru-homestuck.org/storyfiles/hs2/01458_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01458_2.gif
+01458_1.gif
+01458_2.gif
 ###
 Hello. What have we here?
 ###

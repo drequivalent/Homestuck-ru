@@ -4,8 +4,8 @@ b8d53cdc42
 ###
 1273708478
 ###
-http://ru-homestuck.org/storyfiles/hs2/01821_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01821_2.gif
+01821_1.gif
+01821_2.gif
 ###
 You make a pair of iSHADES.
 

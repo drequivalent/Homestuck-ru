@@ -4,9 +4,9 @@
 ###
 1360991721
 ###
-http://ru-homestuck.org/storyfiles/hs2/05899_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05899_2.gif
-http://ru-homestuck.org/storyfiles/hs2/05899_3.gif
+05899_1.gif
+05899_2.gif
+05899_3.gif
 ###
 
 ###

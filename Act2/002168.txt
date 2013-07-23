@@ -4,8 +4,8 @@ b2b4423c44
 ###
 1245205163
 ###
-http://ru-homestuck.org/storyfiles/hs2/00268_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00268_2.gif
+00268_1.gif
+00268_2.gif
 ###
 |ДОСТАЛОГ|
 <span style="color: #b536da">TT: Джон, ты в порядке?</span>

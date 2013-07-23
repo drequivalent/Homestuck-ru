@@ -4,7 +4,7 @@
 ###
 1364353462
 ###
-http://ru-homestuck.org/storyfiles/hs2/06047.gif
+06047.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ВРИСКА: Fine.</span>

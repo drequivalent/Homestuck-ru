@@ -4,7 +4,7 @@ Jade: Attempt to deploy catchalogue disk drive.
 ###
 1267400205
 ###
-http://ru-homestuck.org/storyfiles/hs2/01516.gif
+01516.gif
 ###
 Again, the name of the thing was right there in plain sight. 
 

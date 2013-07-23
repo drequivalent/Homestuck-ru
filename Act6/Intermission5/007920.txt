@@ -4,7 +4,7 @@
 ###
 1363828837
 ###
-http://ru-homestuck.org/storyfiles/hs2/06017.gif
+06017.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">КАРКАТ: I THINK WE ARE MISSING THE POINT HERE.</span>

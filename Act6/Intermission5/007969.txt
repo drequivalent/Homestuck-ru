@@ -4,7 +4,7 @@ a722b29d10
 ###
 1364871279
 ###
-http://ru-homestuck.org/storyfiles/hs2/06066.gif
+06066.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: hmm.</span>

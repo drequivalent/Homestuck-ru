@@ -4,8 +4,8 @@ WV?: Ride.
 ###
 1296508892
 ###
-http://ru-homestuck.org/storyfiles/hs2/03408_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03408_2.gif
+03408_1.gif
+03408_2.gif
 ###
 Your feet do not reach the little steppy levers.
 

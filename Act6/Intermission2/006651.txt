@@ -4,7 +4,7 @@ ca110611a2
 ###
 1332551657
 ###
-http://ru-homestuck.org/storyfiles/hs2/04748.gif
+04748.gif
 ###
 |DIALOGLOG|
 <span style="color: #77003c">MEENAH: hey you</span>

@@ -4,7 +4,7 @@
 ###
 1361498106
 ###
-http://ru-homestuck.org/storyfiles/hs2/05949.gif
+05949.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">VRISKA: Hey, it's John!</span>

@@ -4,8 +4,8 @@ ccf37aaaac
 ###
 1359847553
 ###
-http://ru-homestuck.org/storyfiles/hs2/05806_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05806_2.gif
+05806_1.gif
+05806_2.gif
 ###
 |PESTERLOG|
 <span style="color: #ff6ff2">TG: wrong wrong wrong wrong wrong wrong</span>

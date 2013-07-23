@@ -4,8 +4,8 @@ fb4beb1a4d
 ###
 1271630370
 ###
-http://ru-homestuck.org/storyfiles/hs2/01704_1.gif
-http://ru-homestuck.org/storyfiles/hs2/01704_2.gif
+01704_1.gif
+01704_2.gif
 ###
 
 ###

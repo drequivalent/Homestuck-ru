@@ -4,7 +4,7 @@ a6a00a58ad
 ###
 1338154048
 ###
-http://ru-homestuck.org/storyfiles/hs2/04981.gif
+04981.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">ARANEA: Stop it, all of you!</span>

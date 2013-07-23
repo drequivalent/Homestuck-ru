@@ -4,7 +4,7 @@
 ###
 1372822405
 ###
-http://ru-homestuck.org/storyfiles/hs2/06340.gif
+06340.gif
 ###
 |DIALOGLOG|
 <span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">.</span>

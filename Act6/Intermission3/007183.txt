@@ -4,7 +4,7 @@ d0d3e48238
 ###
 1347224201
 ###
-http://ru-homestuck.org/storyfiles/hs2/05280.gif
+05280.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: jade...</span>

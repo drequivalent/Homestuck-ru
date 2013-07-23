@@ -4,7 +4,7 @@
 ###
 1361762872
 ###
-http://ru-homestuck.org/storyfiles/hs2/05951.gif
+05951.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">ДЖОН: о, кстати, привет, таврос.</span>

@@ -4,7 +4,7 @@ John: Leave room.
 ###
 1240031405
 ###
-http://ru-homestuck.org/storyfiles/hs2/00047.gif
+00047.gif
 ###
 You exit into the HALLWAY.
 

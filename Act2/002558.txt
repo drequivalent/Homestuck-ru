@@ -4,9 +4,9 @@ c4b40c5031
 ###
 1253332028
 ###
-http://ru-homestuck.org/storyfiles/hs2/00658_1.gif
-http://ru-homestuck.org/storyfiles/hs2/00658_2.gif
-http://ru-homestuck.org/storyfiles/hs2/00658_3.gif
+00658_1.gif
+00658_2.gif
+00658_3.gif
 ###
 
 ###

@@ -4,8 +4,8 @@ ACT 6 INTERMISSION 5
 ###
 1361066746
 ###
-http://ru-homestuck.org/storyfiles/hs2/05924_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05924_2.gif
+05924_1.gif
+05924_2.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">KARKAT: DAVE ARE YOU THERE</span>

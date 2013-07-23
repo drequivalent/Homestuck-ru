@@ -4,7 +4,7 @@
 ###
 1348266089
 ###
-http://ru-homestuck.org/storyfiles/hs2/05304.gif
+05304.gif
 ###
 |DIALOGLOG|
 <span style="color: #4ac925">JADE: john...</span>

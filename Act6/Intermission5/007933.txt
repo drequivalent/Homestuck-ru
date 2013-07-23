@@ -4,7 +4,7 @@ ebf366e92a
 ###
 1364091789
 ###
-http://ru-homestuck.org/storyfiles/hs2/06030.gif
+06030.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: No, not those rings!</span>

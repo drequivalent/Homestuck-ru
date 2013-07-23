@@ -4,7 +4,7 @@ f8db2bc9b9
 ###
 1276560558
 ###
-http://ru-homestuck.org/storyfiles/hs2/02010.gif
+02010.gif
 ###
 |PESTERLOG|
 <span style="color: #2b0057">terminallyCapricious [TC]</span> began trolling <span style="color: #626262">carcinoGeneticist [CG]</span>

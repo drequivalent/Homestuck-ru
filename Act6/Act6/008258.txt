@@ -4,7 +4,7 @@
 ###
 1373675363
 ###
-S|http://www.mspaintadventures.com/storyfiles/hs2/06356
+06356
 ###
 
 ###

@@ -4,7 +4,7 @@ eb3e4e90b5
 ###
 1351221085
 ###
-http://ru-homestuck.org/storyfiles/hs2/05411.gif
+05411.gif
 ###
 |DIALOGLOG|
 <span style="color: #b536da">ROSE: Right!!</span>

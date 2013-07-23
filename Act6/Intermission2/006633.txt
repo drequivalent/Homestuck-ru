@@ -4,7 +4,7 @@ b871bb35c2
 ###
 1332377311
 ###
-http://ru-homestuck.org/storyfiles/hs2/04730.gif
+04730.gif
 ###
 |DIALOGLOG|
 <span style="color: #0715cd">JOHN: like what?</span>

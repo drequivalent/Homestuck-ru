@@ -4,7 +4,7 @@
 ###
 1299116089
 ###
-http://ru-homestuck.org/storyfiles/hs2/03606.gif
+03606.gif
 ###
 |PESTERLOG|
 <span style="color: #000056">AA: and discovered the text which the code was recorded in</span>

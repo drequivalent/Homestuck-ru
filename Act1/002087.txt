@@ -4,7 +4,7 @@
 ###
 1242878466
 ###
-http://ru-homestuck.org/storyfiles/hs2/00187.gif
+00187.gif
 ###
 |PESTERLOG|
 <span style="color: #0715cd">EB: i still can't understand this thing's gobbledygook.</span>

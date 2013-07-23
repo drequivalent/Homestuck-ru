@@ -4,7 +4,7 @@
 ###
 1311632492
 ###
-http://ru-homestuck.org/storyfiles/hs2/03995.gif
+03995.gif
 ###
 |PESTERLOG|
 <span style="color: #a10000">AA: hey what are you doing out here!</span>

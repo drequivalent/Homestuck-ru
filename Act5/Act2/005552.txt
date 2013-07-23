@@ -4,8 +4,8 @@ f54916e8dd
 ###
 1300333498
 ###
-http://ru-homestuck.org/storyfiles/hs2/03649_1.gif
-http://ru-homestuck.org/storyfiles/hs2/03649_2.gif
+03649_1.gif
+03649_2.gif
 ###
 
 ###

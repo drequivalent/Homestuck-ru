@@ -4,7 +4,7 @@ d4da087651
 ###
 1361943697
 ###
-http://ru-homestuck.org/storyfiles/hs2/05957.gif
+05957.gif
 ###
 |DIALOGLOG|
 <span style="color: #005682">АРАНЕЯ: There were some rough patches in my original telling which I can go 8ack and fix.</span>

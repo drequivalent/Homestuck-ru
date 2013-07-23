@@ -4,8 +4,8 @@
 ###
 1337735654
 ###
-http://ru-homestuck.org/storyfiles/hs2/04964_1.gif
-http://ru-homestuck.org/storyfiles/hs2/04964_2.gif
+04964_1.gif
+04964_2.gif
 ###
 |PESTERLOG|
 <span style="color: #323232">uu: THERE WILL BE NEW ACTORS IN THIS VuLGAR EXHIBITION.</span>
