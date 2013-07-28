@@ -4,10 +4,11 @@
 ###
 1361089296
 ###
-http://ru-homestuck.org/storyfiles/hs2/05931.gif
+05931.gif
 ###
 |DIALOGLOG|
 <span style="color: #626262">КАРКАТ: ГДЕ, БЛЯТЬ, ТВОИ ШТАНЫ?</span>
 <span style="color: #008282">ТЕРЕЗИ: ХРРРРРР</span>
 ###
+007835
 X
