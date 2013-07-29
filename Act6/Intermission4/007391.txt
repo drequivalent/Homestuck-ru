@@ -4,7 +4,7 @@ d82718d912
 ###
 1353714448
 ###
-http://ru-homestuck.org/storyfiles/hs2/05488.gif
+05488.gif
 ###
 |AUTHORLOG|
 <span style="color: #2ed73a">OK. HOW'S THIS.</span>
@@ -54,4 +54,5 @@ http://ru-homestuck.org/storyfiles/hs2/05488.gif
 <span style="color: #000000">And remember. No more clown shootings, or I play the music again.</span>
 <span style="color: #2ed73a">UGH.</span>
 ###
+007392
 X

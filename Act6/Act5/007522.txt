@@ -4,7 +4,7 @@ f0cb625e5b
 ###
 1356056987
 ###
-http://ru-homestuck.org/storyfiles/hs2/05619.gif
+05619.gif
 ###
 |DIALOGLOG|
 <span style="color: #929292">CALLIOPE: NO NO NO NO NO! THIS WON'T DO AT ALL!</span>
@@ -12,4 +12,5 @@ http://ru-homestuck.org/storyfiles/hs2/05619.gif
 <span style="color: #929292">CALLIOPE: HAVE YOU GONE MENTAL? WHY DON'T WE JUST BURN A BLOODY BONFIRE IN HERE!</span>
 <span style="color: #929292">CALLIOPE: HE'LL SPOT US ANY MINUTE! ASSUMING HE ISN'T ALREADY ON HIS WAY TO BLOW US ALL TO KINGDOM COME!!!</span>
 ###
+007523
 X

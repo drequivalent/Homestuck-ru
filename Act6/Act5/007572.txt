@@ -4,7 +4,7 @@ a50642c52e
 ###
 1356912087
 ###
-http://ru-homestuck.org/storyfiles/hs2/05669.gif
+05669.gif
 ###
 |PESTERLOG|
 <span style="color: #1f9400">GT: Now just a minute buddy. Lets not get carried away.</span>
@@ -96,4 +96,5 @@ http://ru-homestuck.org/storyfiles/hs2/05669.gif
 <span style="color: #2ed73a">uu: THEN YES. YOU ARE CORRECT.</span>
 <span style="color: #2ed73a">uu: THIS IS GOING TO BE GAY AS HELL.</span>
 ###
+007573
 X

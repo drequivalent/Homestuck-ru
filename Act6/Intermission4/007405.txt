@@ -4,8 +4,8 @@ d2df089311
 ###
 1353983212
 ###
-http://ru-homestuck.org/storyfiles/hs2/05502_1.gif
-http://ru-homestuck.org/storyfiles/hs2/05502_2.gif
+05502_1.gif
+05502_2.gif
 ###
 |AUTHORLOG|
 <span style="color: #2ed73a">OH HO.</span>
@@ -45,4 +45,5 @@ http://ru-homestuck.org/storyfiles/hs2/05502_2.gif
 <span style="color: #000000">You'll get the hang of it.</span>
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/promptlock.gif" border="0" /> <span style="color: #d4d4d4">-- The narrative prompt has been locked. --</span> <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/promptlock.gif" border="0" />
 ###
+007406
 X

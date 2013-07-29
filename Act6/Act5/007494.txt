@@ -4,7 +4,7 @@ e7b9a55515
 ###
 1355612802
 ###
-http://ru-homestuck.org/storyfiles/hs2/05591.gif
+05591.gif
 ###
 |PESTERLOG|
 <span style="color: #929292">UU: - .... . .-. . / .-- .. .-.. .-.. / -... . / .--. .-.. . -. - -.-- / --- ..-. / - .. -- . / - --- / - .- .-.. -.- / ... --- --- -. --..-- / -... ..- - / .-.. . - .----. ... / .--. .-.. . .- ... . / -.- . . .--. / .- / .-.. --- .-- / .--. .-. --- ..-. .. .-.. . / ..-. --- .-. / -. --- .-- </span>
@@ -39,4 +39,5 @@ http://ru-homestuck.org/storyfiles/hs2/05591.gif
 <span style="color: #ff6ff2">TG: (ok)</span>
 <span style="color: #ff6ff2">TG: (where are we goin?)</span>
 ###
+007495
 X

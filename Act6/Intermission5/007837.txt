@@ -4,7 +4,7 @@ a23c1e14a0
 ###
 1361172535
 ###
-http://ru-homestuck.org/storyfiles/hs2/05934.gif
+05934.gif
 ###
 |DIALOGLOG|
 <span style="color: #e00707">ДЕЙВ: чего ты собственно от нее хочешь</span>
@@ -154,4 +154,5 @@ http://ru-homestuck.org/storyfiles/hs2/05934.gif
 <span style="color: #008282">ТЕРЕЗИ: НННННННННННРРНГНГНХГХГЛЗ</span>
 <span style="color: #626262">КАРКАТ: ОГО, ГЛЯНЬТЕ-КА ПОГЛЯНЬТЕ, КТО В СЕБЯ ПРИХОДИТЬ НАЧАЛ!</span>
 ###
+007838
 X

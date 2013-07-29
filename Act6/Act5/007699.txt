@@ -4,7 +4,7 @@ ad179de8e6
 ###
 1359515910
 ###
-http://ru-homestuck.org/storyfiles/hs2/05796.gif
+05796.gif
 ###
 |PESTERLOG|
 <span style="color: #ff6ff2">tipsyGnostalgic [TG]</span> began pestering <span style="color: #00d5f2">gutsyGumshoe [GG]</span>
@@ -67,4 +67,5 @@ http://ru-homestuck.org/storyfiles/hs2/05796.gif
 <span style="color: #ff6ff2">TG: i never did that for frigglish but i should have</span>
 <span style="color: #ff6ff2">TG: shit jakes buggin me again brb</span>
 ###
+007700
 X

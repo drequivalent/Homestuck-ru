@@ -4,7 +4,7 @@
 ###
 1356588798
 ###
-http://ru-homestuck.org/storyfiles/hs2/05654.gif
+05654.gif
 ###
 |SPRITELOG|
 <span style="color: #e00707">ARQUIUSPRITE: <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png" border="0" /> Yes</span>
@@ -80,4 +80,5 @@ http://ru-homestuck.org/storyfiles/hs2/05654.gif
 <span style="color: #f2a400">DIRK: Ok, if I touch your fucking muscles, will you shut up?</span>
 <span style="color: #e00707">ARQUIUSPRITE: <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png" border="0" /> Maybe</span>
 ###
+007558
 X

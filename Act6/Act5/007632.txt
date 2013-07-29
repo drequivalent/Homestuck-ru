@@ -4,7 +4,7 @@
 ###
 1358236660
 ###
-http://ru-homestuck.org/storyfiles/hs2/05729.gif
+05729.gif
 ###
 |TRKSTRLOG|
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/trickjaketxt_6.gif" border="0" />
@@ -16,4 +16,5 @@ http://ru-homestuck.org/storyfiles/hs2/05729.gif
 <span style="color: #77003c">)(IC: DWI</span>
 <span style="color: #77003c">)(er Imperious Condescension</span> <span style="color: #000000">logged the fuck out.</span>
 ###
+007633
 X

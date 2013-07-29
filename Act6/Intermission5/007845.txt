@@ -4,10 +4,11 @@ bb332b477c
 ###
 1361344115
 ###
-http://ru-homestuck.org/storyfiles/hs2/05942.gif
+05942.gif
 ###
 |SPRITELOG|
 <span style="color: #f2a400">ДЕЙВСПРАЙТ: p.s. с днем рождения джон</span>
 <span style="color: #f2a400">ДЕЙВСПРАЙТ: вот тебе водяных знаков на прощание</span>
 ###
+007846
 X

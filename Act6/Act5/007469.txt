@@ -4,7 +4,7 @@ e88b58cd7c
 ###
 1355282094
 ###
-http://ru-homestuck.org/storyfiles/hs2/05566.gif
+05566.gif
 ###
 |SRIOUSBIZ|
 <span style="color: #000000">HATLIKER: @ALL: HELP! NEED HELP.</span>
@@ -47,4 +47,5 @@ http://ru-homestuck.org/storyfiles/hs2/05566.gif
 <span style="color: #000000">WANT_MORE_SOCKS: on @pipefan413's recommendation i withdraw my motion to unsit on the hat</span>
 <span style="font-style: italic"><span style="color: #000000">WANT_MORE_SOCKS changes status to APOLOGETIC.</span></span>
 ###
+007470
 X
