@@ -4,7 +4,7 @@
 ###
 1375163219
 ###
-http://ru-homestuck.org/storyfiles/hs2/06375.gif
+06375.gif
 ###
 |SPRITELOG|
 <span style="color: #e00707">ARQUIUSPRITE: <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png" border="0" /> Oh, nothing much</span>
@@ -35,4 +35,5 @@ http://ru-homestuck.org/storyfiles/hs2/06375.gif
 <span style="color: #e00707">ARQUIUSPRITE: <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png" border="0" /> I shall now e%plicate for you these purposes in assiduous detail</span>
 <span style="color: #ffcc00">DIRK: I don't want to hear any of this!</span>
 ###
+008279
 X
