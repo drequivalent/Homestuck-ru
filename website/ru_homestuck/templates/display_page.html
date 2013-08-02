@@ -114,7 +114,7 @@
 <!-- Ссылка на следующую страницу -->
 {% if next_page_title %}
 <div id=next>
-> <a href="{% url ru_homestuck.views.display_page next_page_number %}">{{ next_page_title }}</a></br></br>
+> <a href="{% url ru_homestuck.views.display_page next_page_number %}">{{ next_page_title|safe }}</a></br></br>
 </div>
 {% endif %}
 
