@@ -29,7 +29,10 @@ def parse_txt(page_number):
 def display_page(request, page_number = start_page):
     title, wtf, wth, bogus_link, text, next_page_number = parse_txt(page_number)
     storyfiles = map(lambda x : join("storyfiles", basename(x)), bogus_link.split())
-    next_page_title = parse_txt(next_page_number)[0]
+    try:
+        next_page_title = parse_txt(next_page_number)[0]
+    except ValueError:
+        next_page_title = None
     return render_to_response(
         'display_page.html',
         { "title" : title, "text" : text, "next_page_title" : next_page_title, "next_page_number" : next_page_number,
