@@ -1,0 +1,44 @@
+[A6A6I1] ====&gt;
+###
+88fea3f3b8
+###
+1375429294
+###
+06380.gif
+###
+|DIALOGLOG|
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">her imperious condescension has duly noted your ridiculous tantrum</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">now take your welsh sword</span>
+<span style="color: #e00707">DAVE: why</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">since you have obviously been identified as the one who must deal english his fatal blow we will need to make sure you are battle ready</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">and you do not seem very battle ready to me dave</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">show me what you can do</span>
+<span style="color: #e00707">DAVE: wait since when could you use a sword</span>
+<span style="color: #e00707">DAVE: also</span>
+<span style="color: #e00707">DAVE: whats up with that dumb sword</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">i will not hear another word of such appalling slander about this fine weapon</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">its colorful and its silly and its a sword</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">end of story</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">as for why i can wield it, i surpassed the need for a strife specibus quite some time ago</span>
+<span style="color: #e00707">DAVE: how</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">havent you climbed any more god tiers over the last few years?</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">what were you even doing on that meteor</span>
+<span style="color: #e00707">DAVE: ohh</span>
+<span style="color: #e00707">DAVE: yeah no</span>
+<span style="color: #e00707">DAVE: i climbed a few yeah</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">what badges do you have on your kiddie camper handysash?</span>
+<span style="color: #e00707">DAVE: which ones do you have</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">i asked you first</span>
+<span style="color: #e00707">DAVE: show me your badges and you can see mine</span>
+<span style="color: #e00707">DAVE: i want to scope out this universal specibus badge that sounds pretty cool actually</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">dave</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">we both know neither the kiddie camper handysash nor the badges sewn onto it are real objects</span>
+<span style="color: #e00707">DAVE: oh yeah</span>
+<span style="color: #e00707">DAVE: its pretty easy to forget sometimes tho</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">yeah...</span>
+<span style="color: #e00707">DAVE: i think were getting sidetracked by the kiddie camper shit</span>
+<span style="color: #e00707">DAVE: are you really suggesting that we do an actual sword fight right now</span>
+<span style="color: #e00707">DAVE: like for training purposes</span>
+###
+008284
+X

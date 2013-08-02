@@ -9,4 +9,5 @@ b71710bdd3
 |SPRITELOG|
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/glitchtext2.gif" border="0" />
 ###
+008282
 X
