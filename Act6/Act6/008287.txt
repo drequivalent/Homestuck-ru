@@ -1,0 +1,23 @@
+[A6A6I1] ====&gt;
+###
+a01ebed8ef
+###
+1375570931
+###
+06384.gif
+###
+|DIALOGLOG|
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">dave, i did my best to put all this behind me a long time ago</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">i did not come here to dredge up any of this drama with you</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">besides, such behavior is unbecoming of her condescensions loyal subordinates</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">you can be stubborn all you want, but i will force you to comply with her wishes one way or another</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">it will be quite easy actually</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">all i have to do is target the people you care about most</span>
+<span style="color: #e00707">DAVE: hey</span>
+<span style="color: #e00707">DAVE: what are you doing</span>
+<span style="color: #e00707">DAVE: dont you dare touch the mayor</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">he is a very cute mayor</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">it therefore pains me to have to do this</span>
+<span style="color: #e00707">DAVE: GET AWAY FROM HIM!</span>
+###
+X
