@@ -11,8 +11,8 @@ d2307c5471
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/johnblurtext2.gif" border="0" />
 <span style="text-shadow:0 0 2px rgba(7,21,205,1); color: transparent;">ДЖОН: охох.</span>
 <span style="text-shadow:0 0 4px rgba(7,21,205,1); color: transparent;">ДЖОН: как-то странно я себя чувствую.</span>
-<span style="color: #005682">ВРИСКА: John, will you get your hand out of there?</span>
-<span style="color: #005682">ВРИСКА: You're vaguely fucking shit up in some totally am8iguous way.</span>
+<span style="color: #005682">ВРИСКА: Джон, 8ытащил бы ты руку оттуда.</span>
+<span style="color: #005682">ВРИСКА: Ты можешь 8се запороть каким-нибудь со8ершенно непредсказуемым способом.</span>
 ###
 008009
 X
