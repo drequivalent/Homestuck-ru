@@ -7,8 +7,6 @@ d2307c5471
 06105.gif
 ###
 |DIALOGLOG|
-<img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/johnblurtext1.gif" border="0" />
-<img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/johnblurtext2.gif" border="0" />
 <span style="text-shadow:0 0 2px rgba(7,21,205,1); color: transparent;">ДЖОН: охох.</span>
 <span style="text-shadow:0 0 4px rgba(7,21,205,1); color: transparent;">ДЖОН: как-то странно я себя чувствую.</span>
 <span style="color: #005682">ВРИСКА: Джон, 8ытащил бы ты руку оттуда.</span>
