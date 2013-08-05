@@ -9,6 +9,8 @@ d2307c5471
 |DIALOGLOG|
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/johnblurtext1.gif" border="0" />
 <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/johnblurtext2.gif" border="0" />
+<span style="color: #005682; text-shadow:0 0 12px rgba(7,21,205,0.5); color: transparent;">ДЖОН: охох.</span>
+<span style="color: #005682; text-shadow:0 0 12px rgba(7,21,205,0.5); color: transparent;">ДЖОН: как-то странно я себя чувствую.</span>
 <span style="color: #005682">ВРИСКА: John, will you get your hand out of there?</span>
 <span style="color: #005682">ВРИСКА: You're vaguely fucking shit up in some totally am8iguous way.</span>
 ###
