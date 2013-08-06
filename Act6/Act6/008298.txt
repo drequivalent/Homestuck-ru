@@ -1,0 +1,34 @@
+[A6A6I1] ====&gt;
+###
+bab747c5d9
+###
+1375772364
+###
+06395.gif
+###
+|DIALOGLOG|
+<span style="color: #008141">KANAYA: Why Would You Do That!</span>
+<span style="color: #008141">KANAYA: I Do Not Understand Why You Needed To Impale My Friend To Demonstrate Your Resurrection Abilities!</span>
+<span style="color: #008141">KANAYA: I Believed You!</span>
+<span style="color: #008141">KANAYA: It Was Pointless And Cruel And Does Not Advance My Willingness To Cooperate With You At All!</span>
+<span style="color: #008141">KANAYA: Furthermore It Did Not Prove That You Can Use Said Abilities To Harm Me!</span>
+<span style="color: #008141">KANAYA: I Believe That Assertion Was Based On A Fallacious Theory About My Constitution!</span>
+<span style="color: #008141">KANAYA: In Actuality One Could Easily Kill Me With Any Number Of Conventional Methods!</span>
+<span style="color: #008141">KANAYA: Im Sure You Could Chop My Head Off Or Burn Me Alive Or Crush Me To Death And I Would Die Just Fine!</span>
+<span style="color: #626262">KARKAT: (whoa, kanaya)</span>
+<span style="color: #626262">KARKAT: (could you maybe not give the psycho fork girl any more ideas???)</span>
+<span style="color: #008141">KANAYA: I Am Not Scared Of You!</span>
+<span style="color: #008141">KANAYA: None Of Us Are!</span>
+<span style="color: #626262">KARKAT: (i kind of am)</span>
+<span style="color: #008141">KANAYA: Karkat Shut Up!</span>
+<span style="color: #008141">KANAYA: If This Treacherous Despot Serving Turncoat Seeks Compliance From Me Then She Will Have To Pry It From My Mutilated Lifeless Cadaver!</span>
+<span style="color: #626262">KARKAT: (oh no oh god oh no oh god)</span>
+<span style="color: #008141">KANAYA: If You Are So Convinced That Your Recuperative Magic Will Strike Me Down Then Why Dont You Put Your Theory To The Test!</span>
+<span style="color: #008141">KANAYA: I Doubt You Will Since You Have Made It Clear You Need Our Participation To Achieve Your Goals Which Is A Fact That Your Naive Cohort Foolishly Revealed To Us!</span>
+<span style="color: #008141">KANAYA: I Dont Think She Is Very Good At Being A Villain And To Be Honest I Have My Doubts About You As Well So I Am Calling Your Bluff!</span>
+<span style="color: #008141">KANAYA: So If You Continue To Insist That Your Healing Enchantments Have The Power To Slay Me Then I Implore You To Give It Your Best Shot!</span>
+<span style="color: #008141">KANAYA: Go On Do It!</span>
+<span style="color: #008141">KANAYA: DO YOUR HUMAN WORST!</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">Silence, buster.</span>
+###
+X
