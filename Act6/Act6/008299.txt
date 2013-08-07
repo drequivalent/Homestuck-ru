@@ -1,0 +1,24 @@
+[A6A6I1] ====&gt;
+###
+3e10379b19
+###
+1375846244
+###
+06396.gif
+###
+|DIALOGLOG|
+<span style="color: #008141">KANAYA: Wait</span>
+<span style="color: #008141">KANAYA: You Can Talk</span>
+<span style="color: #008141">KANAYA: Using Actual Sentences</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000"> Obviously.</span>
+<span style="color: #008141">KANAYA: Then Why Resort Exclusively To Intimidating Robotic Soundbites For</span>
+<span style="color: #008141">KANAYA: However Long You Were Doing That</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000"> Because when it comes to the affairs of my empire, I am all business.</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000"> You see, Kanaya. I am a businesswoman.</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000"> A very shrewd one at that.</span>
+<span style="color: #008141">KANAYA: ...</span>
+<span style="color: #008141">KANAYA: Okay</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000"> Watch and learn, rainbow drinker.</span>
+###
+008300
+X
