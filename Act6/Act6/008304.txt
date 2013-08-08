@@ -1,0 +1,142 @@
+[A6A6I1] ====&gt;
+###
+176f7ce6d3
+###
+1375987740
+###
+06401.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: er.</span>
+<span style="color: #0715cd">JOHN: i don't know.</span>
+<span style="color: #e00707">DAVE: john dont get me wrong its cool that you randomly dropped by again but this wasnt really the best time</span>
+<span style="color: #e00707">DAVE: we were kind of in the middle of a thing here</span>
+<span style="color: #0715cd">JOHN: whoops. sorry.</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">yeah john</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">did you really have to pick now of all times to materialize out of nowhere and taunt me?</span>
+<span style="color: #0715cd">JOHN: i'm SORRY!!!</span>
+<span style="color: #0715cd">JOHN: jeez, it was an accident!</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">so what now?</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">am i REALLY supposed to tackle you, just to watch you vanish yet again?</span>
+<span style="color: #0715cd">JOHN: no, no! please don't!</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">because i dont really feel like it</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">do you have any idea how frustrating that becomes after a while?</span>
+<span style="color: #0715cd">JOHN: i didn't mean to come here, really!</span>
+<span style="color: #0715cd">JOHN: i still can't control the jumps!</span>
+<span style="color: #0715cd">JOHN: i'm TRYING, but it just...</span>
+<span style="color: #e00707">DAVE: dude are you time traveling</span>
+<span style="color: #e00707">DAVE: please dont tell me youre time traveling</span>
+<span style="color: #e00707">DAVE: you need to leave that shit to the experts</span>
+<span style="color: #0715cd">JOHN: no, it's not time travel!</span>
+<span style="color: #0715cd">JOHN: well, not technically.</span>
+<span style="color: #e00707">DAVE: who do you think youre talking to here</span>
+<span style="color: #e00707">DAVE: do you see this bright red gear on my hoodie</span>
+<span style="color: #e00707">DAVE: that means i know stuff about time travel</span>
+<span style="color: #e00707">DAVE: sure looks like youre time traveling to me</span>
+<span style="color: #0715cd">JOHN: no, i swear!</span>
+<span style="color: #0715cd">JOHN: ok, see, i went on a dream quest with some troll pirates.</span>
+<span style="color: #e00707">DAVE: troll pirates</span>
+<span style="color: #0715cd">JOHN: argh, never mind. that's the long version of the story.</span>
+<span style="color: #0715cd">JOHN: ok, so i stuck my hand in this little magic house, and...</span>
+<span style="color: #e00707">DAVE: john youre fucking shit up here</span>
+<span style="color: #0715cd">JOHN: what?</span>
+<span style="color: #e00707">DAVE: you being here</span>
+<span style="color: #e00707">DAVE: thats not supposed to happen</span>
+<span style="color: #e00707">DAVE: all this shit were saying now</span>
+<span style="color: #e00707">DAVE: its not supposed to go down like this i can feel it</span>
+<span style="color: #0715cd">JOHN: i know!</span>
+<span style="color: #0715cd">JOHN: i'm sorry, i would zap away again, but i don't know how!</span>
+<span style="color: #e00707">DAVE: i dont think it matters now dude the pooch is already screwed</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">&gt;:o</span>
+<span style="color: #e00707">DAVE: wow wait that was a terrible figure of speech in this context but you know what i mean</span>
+<span style="color: #e00707">DAVE: yo like i was JUST saying i didnt want to time travel anymore to avoid bullshit like this</span>
+<span style="color: #0715cd">JOHN: IT'S NOT TIME TRAVEL THOUGH!</span>
+<span style="color: #0715cd">JOHN: i promise!</span>
+<span style="color: #e00707">DAVE: then what is it</span>
+<span style="color: #0715cd">JOHN: i dunno!</span>
+<span style="color: #0715cd">JOHN: like, some kind of surreal, history altering... reality hopping... magic power.</span>
+<span style="color: #e00707">DAVE: thats time travel genius</span>
+<span style="color: #0715cd">JOHN: no way, dude.</span>
+<span style="color: #0715cd">JOHN: you have to trust me on this.</span>
+<span style="color: #e00707">DAVE: alright</span>
+<span style="color: #e00707">DAVE: but if it turns out you just created a doomed timeline and were all going to die im gonna be hella mad</span>
+<span style="color: #0715cd">JOHN: this isn't a doomed timeline.</span>
+<span style="color: #0715cd">JOHN: i'm telling you, i can change things.</span>
+<span style="color: #0715cd">JOHN: stuff that wasn't supposed to be changed.</span>
+<span style="color: #0715cd">JOHN: and i'm not saying bad stuff won't happen as a result of the things i change...</span>
+<span style="color: #0715cd">JOHN: but at least it won't make a doomed timeline!</span>
+<span style="color: #0715cd">JOHN: the new things that happen will just be...</span>
+<span style="color: #0715cd">JOHN: the stuff that's supposed to happen?</span>
+<span style="color: #e00707">DAVE: huh</span>
+<span style="color: #e00707">DAVE: thats pretty dope if true</span>
+<span style="color: #e00707">DAVE: actually in a way that almost makes me more nervous</span>
+<span style="color: #0715cd">JOHN: it does?</span>
+<span style="color: #e00707">DAVE: yeah messing with the alpha timeline</span>
+<span style="color: #e00707">DAVE: i mean not the alpha timeline but the ALPHA alpha timeline</span>
+<span style="color: #e00707">DAVE: almost seems</span>
+<span style="color: #e00707">DAVE: heretical i guess?</span>
+<span style="color: #e00707">DAVE: you sure you know what youre doing egbert</span>
+<span style="color: #0715cd">JOHN: um, earth to dave.</span>
+<span style="color: #0715cd">JOHN: i already said i don't have a clue what i'm doing!</span>
+<span style="color: #e00707">DAVE: gotcha</span>
+<span style="color: #e00707">DAVE: welp im sold</span>
+<span style="color: #e00707">DAVE: but uh</span>
+<span style="color: #e00707">DAVE: really man you kind of are interrupting a thing</span>
+<span style="color: #e00707">DAVE: temporal mechanics not even withstanding</span>
+<span style="color: #0715cd">JOHN: what was i interrupting?</span>
+<span style="color: #e00707">DAVE: i think this was going to be a serious conversation here</span>
+<span style="color: #e00707">DAVE: i have a feeling jade and i were going to get all heavy with our relationship issues or whatever</span>
+<span style="color: #0715cd">JOHN: you were?</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">sigh</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">yes, unfortunately thats probably where this was going</span>
+<span style="color: #0715cd">JOHN: aw man, i'm sorry. i am fucking this up so bad.</span>
+<span style="color: #0715cd">JOHN: see, this is what i'm worried about.</span>
+<span style="color: #0715cd">JOHN: even though my random jumps are supposed to be a &quot;safe&quot; form of time travel, i'm still nervous that i might be ruining important events anyway.</span>
+<span style="color: #0715cd">JOHN: like, there was all this crazy stuff that happened to get us here, whether it was good or bad.</span>
+<span style="color: #0715cd">JOHN: and if i fumble around like this accidentally changing all that stuff, then i won't even know what's going on anymore.</span>
+<span style="color: #0715cd">JOHN: maybe no one will!</span>
+<span style="color: #e00707">DAVE: uh</span>
+<span style="color: #e00707">DAVE: does anyone even know whats going on NOW?</span>
+<span style="color: #0715cd">JOHN: that's what i'm saying!</span>
+<span style="color: #0715cd">JOHN: things are complicated enough as it is!!!</span>
+<span style="color: #e00707">DAVE: truth</span>
+<span style="color: #0715cd">JOHN: ok, look...</span>
+<span style="color: #0715cd">JOHN: maybe we can try to minimize my impact on the current situation.</span>
+<span style="color: #0715cd">JOHN: if i fly away, do you think you can do whatever you were going to do in the first place?</span>
+<span style="color: #0715cd">JOHN: do you know what you were going to do?</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">yes</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">i was going to kick the mayor into the lava</span>
+<span style="color: #e00707">DAVE: what??</span>
+<span style="color: #e00707">DAVE: holy shit so uncool</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">i was going to make it clear i was serious about killing someone you cared about</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">so you would stop being a baby and start using your powers and swordfight with me you dumb jerk :p</span>
+<span style="color: #e00707">DAVE: wow</span>
+<span style="color: #e00707">DAVE: jade i think you might be a little too good at being a villain its kind of worrying</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">thank you :)</span>
+<span style="color: #e00707">DAVE: so the mayor would be dead if john didnt show up?</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">oh yes absolutely</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">he would be burnt to a crisp right now i am sure of it</span>
+<span style="color: #e00707">DAVE: god damn jade</span>
+<span style="color: #e00707">DAVE: why would you do that you know eventually id probably start using my powers and reluctantly start embracing my role as a reluctant hero</span>
+<span style="color: #e00707">DAVE: that shit always happens</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">no you wouldnt you were just going to argue with me forever!</span>
+<span style="color: #e00707">DAVE: yeah maybe</span>
+<span style="color: #e00707">DAVE: but the point is youre not going to bother killing the mayor anymore are you</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">i guess not</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">he is a very cute mayor after all</span>
+<span style="color: #e00707">DAVE: see john your fake time travel shit is already paying off</span>
+<span style="color: #e00707">DAVE: you saved the mayor congratulations</span>
+<span style="color: #0715cd">JOHN: ok, i'm glad the mayor is alive and well.</span>
+<span style="color: #0715cd">JOHN: but this is exactly what i wanted to avoid!</span>
+<span style="color: #0715cd">JOHN: isn't there some way you could just...</span>
+<span style="color: #0715cd">JOHN: pretend i never showed up, and let this play out the way it was supposed to?</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">sorry john</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">whatever dave and i were going to argue about</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">i think the moment has passed</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">the whole thing is kind of ruined to be honest</span>
+<span style="color: #0715cd">JOHN: DAMN IT!</span>
+<span style="color: #e00707">DAVE: ok all yall settle down im getting a text</span>
+<span style="color: #e00707">DAVE: ...</span>
+<span style="color: #e00707">DAVE: i cant fucking read this</span>
+###
+X
