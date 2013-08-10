@@ -1,0 +1,32 @@
+[A6A6I1] ====&gt;
+###
+fa2ba249f3
+###
+1376155852
+###
+06408.gif
+###
+|PESTERLOG|
+<span style="color: #b536da">tentacleTherapist [TT]</span> began pestering <span style="color: #008141">grimAuxiliatrix [GA]</span>
+<span style="color: #b536da">TT: So.</span>
+<span style="color: #b536da">TT: Have you made any progress in determining what our malefactors want from you and Karkat?</span>
+<span style="color: #008141">GA: Yes</span>
+<span style="color: #b536da">TT: Well?</span>
+<span style="color: #008141">GA: Oh</span>
+<span style="color: #008141">GA: She Wants Us To Speak With Echidna</span>
+<span style="color: #b536da">TT: And?</span>
+<span style="color: #b536da">TT: ...</span>
+<span style="color: #b536da">TT: Are you still there?</span>
+<span style="color: #008141">GA: Yes</span>
+<span style="color: #b536da">TT: Speak to her about what?</span>
+<span style="color: #008141">GA: About Releasing The New Frog</span>
+<span style="color: #b536da">TT: I see.</span>
+<span style="color: #b536da">TT: At least it would seem you have a project.</span>
+<span style="color: #b536da">TT: Terezi and I have received no such instruction.</span>
+<span style="color: #b536da">TT: Hello?</span>
+<span style="color: #008141">GA: Hi</span>
+<span style="color: #008141">GA: Yeah</span>
+<span style="color: #b536da">TT: Kanaya, do you want to talk about my problem?</span>
+###
+008312
+X
