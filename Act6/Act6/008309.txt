@@ -1,0 +1,28 @@
+[A6A6I1] ====&gt;
+###
+f4fe8e0780
+###
+1376097629
+###
+06406.gif
+###
+|DIALOGLOG|
+<span style="color: #b536da">ROSE: Why did she group the two seers together?</span>
+<span style="color: #b536da">ROSE: Was there a point to that?</span>
+<span style="color: #b536da">ROSE: What is her goal with these divide and conquer tactics?</span>
+<span style="color: #b536da">ROSE: Everything is so unclear.</span>
+<span style="color: #b536da">ROSE: Threads leading to the most fortuitous outcomes have gotten so badly tangled.</span>
+<span style="color: #b536da">ROSE: I can't tell if it's the hangover, or if something else is happening.</span>
+<span style="color: #b536da">ROSE: Something out there...</span>
+<span style="color: #b536da">ROSE: Unaccounted for.</span>
+<span style="color: #b536da">ROSE: Why can't I see it?</span>
+<span style="color: #b536da">ROSE: Why have I become so blind again?</span>
+<span style="color: #b536da">ROSE: No offense, Terezi.</span>
+<span style="color: #008282">TEREZI: 4R3 YOU T4LK1NG TO M3?</span>
+<span style="color: #b536da">ROSE: NO, I'M TALKING TO MYSELF!</span>
+<span style="color: #008282">TEREZI: WHY?</span>
+<span style="color: #b536da">ROSE: STOP MAKING ME YELL! I STILL HAVE A HEADACHE, AND SO DO YOU!</span>
+<span style="color: #008282">TEREZI: 4LR1GHT, SORRY!</span>
+###
+008310
+X
