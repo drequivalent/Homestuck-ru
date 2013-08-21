@@ -1,0 +1,105 @@
+[A6A6I1] ====&gt;
+###
+5f788653a3
+###
+1377049191
+###
+06448.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: don't worry, i am not a villain.</span>
+<span style="color: #0715cd">JOHN: i'm just passing through, looking for someone.</span>
+<span style="color: #0715cd">JOHN: i was told to find a girl named roxy.</span>
+<span style="color: #ff6ff2">ROXY: roxy huh</span>
+<span style="color: #ff6ff2">ROXY: sounds like a babe</span>
+<span style="color: #0715cd">JOHN: heh.</span>
+<span style="color: #0715cd">JOHN: yeah, maybe.</span>
+<span style="color: #0715cd">JOHN: do you know her?</span>
+<span style="color: #ff6ff2">ROXY: kinda</span>
+<span style="color: #0715cd">JOHN: really?</span>
+<span style="color: #0715cd">JOHN: have you seen her??</span>
+<span style="color: #ff6ff2">ROXY: nope not in a while i am fraid</span>
+<span style="color: #0715cd">JOHN: darn.</span>
+<span style="color: #ff6ff2">ROXY: i could help you find her though</span>
+<span style="color: #ff6ff2">ROXY: w a series of vexing riddles + clues</span>
+<span style="color: #ff6ff2">ROXY: each more bewildering than the last</span>
+<span style="color: #ff6ff2">ROXY: each less infuriating than the next</span>
+<span style="color: #ff6ff2">ROXY: for i am the sphinx of this pyramid and that sort of coy bs is the shit i get up to ery day</span>
+<span style="color: #ff6ff2">ROXY: (all pyramids have sphinxes i decided j now)</span>
+<span style="color: #0715cd">JOHN: no, that sounds really dumb.</span>
+<span style="color: #0715cd">JOHN: i would rather just have some straightforward information as to her whereabouts.</span>
+<span style="color: #ff6ff2">ROXY: ummmmmmmmmm</span>
+<span style="color: #ff6ff2">ROXY: *strokes sphinxly chin enigmatically*</span>
+<span style="color: #0715cd">JOHN: can you at least tell me what she looks like?</span>
+<span style="color: #ff6ff2">ROXY: well the thing is</span>
+<span style="color: #ff6ff2">ROXY: shes hard 2 recognize lately</span>
+<span style="color: #ff6ff2">ROXY: she started wearing a mask for some fukin reason</span>
+<span style="color: #ff6ff2">ROXY: maybe so as to avoid detection from snoopy boys??? ;)</span>
+<span style="color: #ff6ff2">ROXY: (just wonked @ u fyi)</span>
+<span style="color: #0715cd">JOHN: you just what?</span>
+<span style="color: #ff6ff2">ROXY: nothin!</span>
+<span style="color: #0715cd">JOHN: alright, well...</span>
+<span style="color: #0715cd">JOHN: can you tell me where and when you last saw her?</span>
+<span style="color: #ff6ff2">ROXY: heck yes</span>
+<span style="color: #ff6ff2">ROXY: it was last time i looked in a mirror</span>
+<span style="color: #ff6ff2">ROXY: theres no mirrors in jail though</span>
+<span style="color: #ff6ff2">ROXY: which is a shame</span>
+<span style="color: #ff6ff2">ROXY: could use an eyeload of that stone cold fox 2 get me thru the long nites</span>
+<span style="color: #ff6ff2">ROXY: hardest time i ever done :(</span>
+<span style="color: #0715cd">JOHN: oh my god.</span>
+<span style="color: #0715cd">JOHN: it's you!</span>
+<span style="color: #0715cd">JOHN: how could i possibly fall for such a stupid prank.</span>
+<span style="color: #ff6ff2">ROXY: ell em ay friggin OH</span>
+<span style="color: #ff6ff2">ROXY: youre almost as gullible as english</span>
+<span style="color: #ff6ff2">ROXY: how perf is it that thats some kinda family trait</span>
+<span style="color: #0715cd">JOHN: what?</span>
+<span style="color: #ff6ff2">ROXY: you must be john right</span>
+<span style="color: #0715cd">JOHN: yes.</span>
+<span style="color: #0715cd">JOHN: how did you know that?</span>
+<span style="color: #ff6ff2">ROXY: because jake rambled about meetin you a bunch of times</span>
+<span style="color: #ff6ff2">ROXY: also u sound like him</span>
+<span style="color: #0715cd">JOHN: oh.</span>
+<span style="color: #0715cd">JOHN: it seems like you have me at a disadvantage then.</span>
+<span style="color: #0715cd">JOHN: which is impressive, considering you are in jail, and also in a little green pyramid thingy for some reason.</span>
+<span style="color: #0715cd">JOHN: did you...</span>
+<span style="color: #0715cd">JOHN: did you actually build that thing?</span>
+<span style="color: #ff6ff2">ROXY: f yeah!</span>
+<span style="color: #0715cd">JOHN: that's cool. it's like a little fort.</span>
+<span style="color: #0715cd">JOHN: i built a fort once in my room. i made it out of a bed sheet, and some cruxite dowels.</span>
+<span style="color: #0715cd">JOHN: then my friend threw it in a bottomless pit.</span>
+<span style="color: #ff6ff2">ROXY: hahah</span>
+<span style="color: #ff6ff2">ROXY: thas awesome</span>
+<span style="color: #0715cd">JOHN: it was alright.</span>
+<span style="color: #ff6ff2">ROXY: no but 4 real dont wreck my fort or i fuck you up</span>
+<span style="color: #0715cd">JOHN: i wouldn't dare.</span>
+<span style="color: #0715cd">JOHN: aren't you going to come out so i can see you?</span>
+<span style="color: #ff6ff2">ROXY: i would but</span>
+<span style="color: #ff6ff2">ROXY: ive been tryin to concentrate on something</span>
+<span style="color: #ff6ff2">ROXY: so i built this sick pyramid deal to help focus my brain chi and spiritual majyyks and if at all possible to blitz my chakras out the yin yang</span>
+<span style="color: #0715cd">JOHN: is it working?</span>
+<span style="color: #ff6ff2">ROXY: no</span>
+<span style="color: #ff6ff2">ROXY: but at least its nice and dark and quiet in here and free of distactions</span>
+<span style="color: #ff6ff2">ROXY: or it was until a guy came along lookin for some chick</span>
+<span style="color: #0715cd">JOHN: what are you trying to do exactly?</span>
+<span style="color: #ff6ff2">ROXY: i have to make a spikeball appear out of thin air</span>
+<span style="color: #ff6ff2">ROXY: but all i can make are these lame cubes</span>
+<span style="color: #0715cd">JOHN: you made all these cubes??</span>
+<span style="color: #ff6ff2">ROXY: yup</span>
+<span style="color: #0715cd">JOHN: that's a neat power.</span>
+<span style="color: #ff6ff2">ROXY: ty</span>
+<span style="color: #ff6ff2">ROXY: i also made some pumpkins</span>
+<span style="color: #ff6ff2">ROXY: cubes n pumpkins</span>
+<span style="color: #ff6ff2">ROXY: the manifestations of amateurs</span>
+<span style="color: #ff6ff2">ROXY: theyre basically freebies for void players i think</span>
+<span style="color: #0715cd">JOHN: i remember making some of those cubes with my alchemiter.</span>
+<span style="color: #0715cd">JOHN: i think that's what a blank card makes? so yeah, they're super primitive.</span>
+<span style="color: #0715cd">JOHN: but making pumpkins is pretty impressive. they're like... these big ol' vegetables.</span>
+<span style="color: #ff6ff2">ROXY: no dude</span>
+<span style="color: #ff6ff2">ROXY: pumpkins are helllls o primitive</span>
+<span style="color: #ff6ff2">ROXY: voidwise theyre like the middle square on a bingo card</span>
+<span style="color: #ff6ff2">ROXY: drummin up a dumb gourd aint nothing to write home about</span>
+<span style="color: #0715cd">JOHN: well, if you're really having trouble...</span>
+<span style="color: #0715cd">JOHN: i know a thing or two about learning to use god tier powers.</span>
+<span style="color: #0715cd">JOHN: maybe i could help?</span>
+###
+X

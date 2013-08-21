@@ -1,0 +1,16 @@
+[A6A6I1] ====&gt;
+###
+142f845e0e
+###
+1377048852
+###
+06447.gif
+###
+|DIALOGLOG|
+<span style="color: #0715cd">JOHN: hello?</span>
+<span style="color: #0715cd">JOHN: is uh...</span>
+<span style="color: #0715cd">JOHN: anyone inside that thing?</span>
+<span style="color: #ff6ff2">ROXY: who goes thr</span>
+###
+008351
+X
