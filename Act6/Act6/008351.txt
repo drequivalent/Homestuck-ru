@@ -102,4 +102,5 @@
 <span style="color: #0715cd">JOHN: i know a thing or two about learning to use god tier powers.</span>
 <span style="color: #0715cd">JOHN: maybe i could help?</span>
 ###
+008352
 X
