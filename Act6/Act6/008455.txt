@@ -1,0 +1,16 @@
+[A6A6I2] ====&gt;
+###
+6351f442f7
+###
+1378262769
+###
+06552.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">ARANEA: I guess it's a risk.</span>
+<span style="color: #005682">ARANEA: 8ut you seem so serene and compliant.</span>
+<span style="color: #005682">ARANEA: Alright. I will 8e gracious, and allow you some free will privileges.</span>
+<span style="color: #005682">ARANEA: Use them wisely, my trusty jongleur.</span>
+###
+008456
+X

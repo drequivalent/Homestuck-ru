@@ -1,0 +1,17 @@
+[A6A6I2] ====&gt;
+###
+e83126ed2d
+###
+1378262734
+###
+06551.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">ARANEA: Now then.</span>
+<span style="color: #005682">ARANEA: What to do a8out you?</span>
+<span style="color: #005682">ARANEA: Shall I continue to manipul8 you? Or will you comply with my orders if I decide to loosen my grip?</span>
+<span style="color: #005682">ARANEA: Perhaps the threat of 8eing controlled again will 8e enough to keep your capricious tendencies in check?</span>
+<span style="color: #005682">ARANEA: ........</span>
+###
+008455
+X
