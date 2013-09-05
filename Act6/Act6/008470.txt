@@ -1,0 +1,18 @@
+[A6A6I2] ====&gt;
+###
+1bb295fc84
+###
+1378363217
+###
+06567.gif
+###
+|DIALOGLOG|
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">Crocker to Harley.</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">Come in Harley.</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">Do you read me?</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">yes :B</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">I suggest that you come to Derse right away.</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">what is it</span>
+###
+008471
+X
