@@ -1,0 +1,25 @@
+[A6A6I2] ====&gt;
+###
+7b980eb54e
+###
+1378582711
+###
+06584.gif
+###
+|DIALOGLOG|
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">who took my ship??</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">I don't know.</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">When I arrived, it was already parked here.</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">Most illegally, I might add.</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">that is SO illegal</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">maybe we should call in some authority regulators to have it ticketed and towed</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">If you really wanted to relocate the vehicle, couldn't you just.</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">You know. Teleport it somewhere else?</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">yes</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">but i love watching those guys write their little tickets</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">theyre so cute</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">Indeed.</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">But observing adorable creatures issue citations will not address our problem.</span>
+###
+008488
+X

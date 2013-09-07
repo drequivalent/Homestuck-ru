@@ -1,0 +1,25 @@
+[A6A6I2] ====&gt;
+###
+a82e3084a7
+###
+1378582815
+###
+06585.gif
+###
+|DIALOGLOG|
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">do you think we should ask the condesce what to do?</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">I would rather not involve her in this matter.</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">We should be more than sufficiently equipped to handle it.</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">yes youre right</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">what would she think if we went whimpering to her every time some buffoon parked a battleship illegally</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">She would think we were a couple of silly children.</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">yeah</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">hmm</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">What?</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">maybe we should check on the prisoners again</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">That would be a logical course of action.</span>
+<span style="color: #4ac925">JADE:</span> <span style="color: #000000">whoa</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">What?</span>
+###
+008489
+X
