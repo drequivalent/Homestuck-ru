@@ -1,0 +1,14 @@
+[A6A6I2] ====&gt;
+###
+94208ab8e8
+###
+1378520132
+###
+06576.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">ARANEA: I can repair it all for you, Jake.</span>
+<span style="color: #1f9400">JAKE: (Oh no...)</span>
+###
+008480
+X

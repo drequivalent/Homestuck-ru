@@ -1,0 +1,16 @@
+[A6A6I2] ====&gt;
+###
+1d40e75e81
+###
+1378520042
+###
+06574.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">ARANEA: I am here to shorten that journey for you.</span>
+<span style="color: #005682">ARANEA: And in return for this favor, you will serve my needs.</span>
+<span style="color: #1f9400">JAKE: H-</span>
+<span style="color: #1f9400">JAKE: How?</span>
+###
+008478
+X

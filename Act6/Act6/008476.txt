@@ -1,0 +1,41 @@
+[A6A6I2] ====&gt;
+###
+8ae1f803c7
+###
+1378520011
+###
+06573.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">ARANEA: Greetings, Jake.</span>
+<span style="color: #005682">ARANEA: We meet again.</span>
+<span style="color: #1f9400">JAKE: Aranea?</span>
+<span style="color: #1f9400">JAKE: Wait this means im still dreaming doesnt it.</span>
+<span style="color: #005682">ARANEA: On the contrary!</span>
+<span style="color: #005682">ARANEA: You are awake now.</span>
+<span style="color: #005682">ARANEA: And I, alive.</span>
+<span style="color: #1f9400">JAKE: Hold the phone...</span>
+<span style="color: #1f9400">JAKE: Youre not a spooky ghost babe anymore?</span>
+<span style="color: #1f9400">JAKE: Girl! Ghost girl.</span>
+<span style="color: #1f9400">JAKE: (Dangit!)</span>
+<span style="color: #005682">ARANEA: No, Jake. I have returned from the dead for good.</span>
+<span style="color: #005682">ARANEA: And I have come for you.</span>
+<span style="color: #1f9400">JAKE: G-g-g-</span>
+<span style="color: #1f9400">JAKE: Gulp. :o</span>
+<span style="color: #005682">ARANEA: Surely you remem8er the first time we met? And what we talked a8out?</span>
+<span style="color: #1f9400">JAKE: Yeah.</span>
+<span style="color: #1f9400">JAKE: Um.</span>
+<span style="color: #1f9400">JAKE: Mostly?</span>
+<span style="color: #005682">ARANEA: I once spoke of your destiny. The one where8y you will deal the Lord of Time his first defeat. Do you recall?</span>
+<span style="color: #1f9400">JAKE: No.</span>
+<span style="color: #1f9400">JAKE: I mean...</span>
+<span style="color: #1f9400">JAKE: Maybe?</span>
+<span style="color: #005682">ARANEA: It doesn't matter. The plan has changed.</span>
+<span style="color: #1f9400">JAKE: It has?</span>
+<span style="color: #005682">ARANEA: Yes, Jake.</span>
+<span style="color: #005682">ARANEA: You see, in every hero of hope there dwells a gr8 hidden power, unrivaled 8y that of any other aspect.</span>
+<span style="color: #005682">ARANEA: And for a page, the journey to reach his full potential is longer than it is for any other class.</span>
+<span style="color: #005682">ARANEA: 8ut once that journey is over, how fearsome he 8ecomes!</span>
+###
+008477
+X
