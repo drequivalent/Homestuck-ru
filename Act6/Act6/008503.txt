@@ -1,0 +1,13 @@
+[A6A6I2] ====&gt;
+###
+4be2cb4a20
+###
+1378750720
+###
+06600.gif
+###
+|SPRITELOG|
+<span style="color: #e00707">ARQUIUSPRITE: <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png" border="0" /> The power...</span> 
+###
+008504
+X

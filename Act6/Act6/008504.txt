@@ -1,0 +1,15 @@
+[A6A6I2] ====&gt;
+###
+1864baacd8
+###
+1378750757
+###
+06601.gif
+###
+|SPRITELOG|
+<span style="color: #e00707">ARQUIUSPRITE: <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png" border="0" /> It's...</span> 
+<span style="color: #e00707">ARQUIUSPRITE: <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png" border="0" /> It's over...</span>
+<span style="color: #f2a400">DAVESPRITE: over what</span>
+###
+008505
+X
