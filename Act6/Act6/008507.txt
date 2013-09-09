@@ -1,0 +1,17 @@
+[A6A6I2] ====&gt;
+###
+561b42d367
+###
+1378764956
+###
+06604.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">ARANEA: I don't think he can hear you right now.</span>
+<span style="color: #005682">ARANEA: The hope field is nigh impenetra8le!</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">Who are you?</span>
+<span style="color: #005682">ARANEA: Who. Me?</span>
+<span style="color: #005682">ARANEA: Oh........</span>
+###
+008508
+X

@@ -9,4 +9,5 @@ a34131d514
 |SPRITELOG|
 <span style="color: #e00707">ARQUIUSPRITE: <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/arquius_shades.png" border="0" /> IT IS E%CEEDING A CERTAIN AMOUNT IN QUANTITY</span> 
 ###
+008506
 X
