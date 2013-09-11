@@ -21,4 +21,5 @@
 <img src="http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext5.gif" border="0" />
 <span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">Oh, for Pete's sake.</span>
 ###
+008517
 X
