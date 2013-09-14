@@ -1,0 +1,21 @@
+[A6A6I2] ====&gt;
+###
+4a8fc2da55
+###
+1379143681
+###
+06639.gif
+###
+|DIALOGLOG|
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">JAKE.</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">DO YOU EVEN REALIZE WHAT YOU HAVE JUST DONE TO OUR BIOLOGICAL DAUGHTER?</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">YOU ARE OUT OF CONTROL. COME TO YOUR SENSES THIS INSTANT.</span>
+<span style="color: #005682">ARANEA: I know that you have a gr8 deal of fondness for your human family mem8er, even though you have 8een corrupted 8y an evil computer.</span>
+<span style="color: #005682">ARANEA: As such, it sincerely pains me to have to do this.</span>
+<span style="color: #005682">ARANEA: 8ut the moment she wakes up, she will simply 8ecome possessed again.</span>
+<span style="color: #005682">ARANEA: And then where would we 8e?</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">Wait.</span>
+<span style="color: #00d5f2">JANE:</span> <span style="color: #ff0000">Do what??</span>
+###
+008543
+X
