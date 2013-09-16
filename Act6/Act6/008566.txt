@@ -1,0 +1,22 @@
+[A6A6I2] ====&gt;
+###
+81700a925d
+###
+1379315743
+###
+06663.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">ARANEA: You might as well come out of hiding so I can see you.</span>
+<span style="color: #005682">ARANEA: Ah yes. There you go!</span>
+<span style="color: #005682">ARANEA: Don't you look nice. I always did like the rogue outfit. And needless to say, I'm quite partial the void color scheme.</span>
+<span style="color: #ff6ff2">ROXY: im so fuckin flattered</span>
+<span style="color: #ff6ff2">ROXY: whore you</span>
+<span style="color: #005682">ARANEA: I 8EG your pardon?</span>
+<span style="color: #ff6ff2">ROXY: u heard me bitch</span>
+<span style="color: #005682">ARANEA: Oh.</span>
+<span style="color: #005682">ARANEA: &quot;Who ARE you.&quot;</span>
+<span style="color: #005682">ARANEA: Yes. Ha ha.</span>
+###
+008567
+X
