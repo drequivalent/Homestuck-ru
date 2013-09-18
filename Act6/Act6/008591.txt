@@ -1,0 +1,30 @@
+[A6A6I2] ====&gt;
+###
+fb2496b352
+###
+1379514183
+###
+06688.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">ARANEA: Where did you come from?</span>
+<span style="color: #005682">ARANEA: I did not sense your approach.</span>
+<span style="color: #f2a400">DIRK: You can't sense what ain't real.</span>
+<span style="color: #005682">ARANEA: 8n't real?</span>
+<span style="color: #005682">ARANEA: It seems to me that you are quite real, Dirk.</span>
+<span style="color: #f2a400">DIRK: That's because my buddy Jake just helped me become a whole hell of a lot less fake.</span>
+<span style="color: #f2a400">DIRK: You see,</span>
+<span style="color: #f2a400">DIRK: He believes in me.</span>
+<span style="color: #005682">ARANEA: Hmm.</span>
+<span style="color: #005682">ARANEA: Honestly, Dirk. The convers8tion we are having right now 8ears a striking resem8lance to a8solute nonsense.</span>
+<span style="color: #005682">ARANEA: I recall once your dream self appeared out of thin air, just as you have done now.</span>
+<span style="color: #005682">ARANEA: And I did you the favor of helping you on your way. Don't you remem8er?</span>
+<span style="color: #005682">ARANEA: There's no need to thank me. I'm quite 8enevolent 8y nature. I prefer to do the right thing, even in situations where I'm not likely to receive credit for my good deeds.</span>
+<span style="color: #f2a400">DIRK: Holy shit.</span>
+<span style="color: #f2a400">DIRK: Can you stop saying stuff?</span>
+<span style="color: #005682">ARANEA: No need to 8e so rude. I'm just curious.</span>
+<span style="color: #005682">ARANEA: As an ancient and learned scholar, I'm versed in a wide range of unusual phenomena. However I must say I am flummoxed 8y the nature of your 8eing.</span>
+<span style="color: #005682">ARANEA: What exactly <span style="font-style: italic">are</span> you?</span>
+###
+008592
+X
