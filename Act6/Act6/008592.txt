@@ -13,4 +13,5 @@ e558209131
 <img src="http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext14.gif" border="0" />
 <span style="color: #f2a400">DIRK: Not helping, dude.</span>
 ###
+008593
 X
