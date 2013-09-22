@@ -1,0 +1,17 @@
+[A6A6I2] ====&gt;
+###
+e1c72a464d
+###
+1379810208
+###
+06712.gif
+###
+|DIALOGLOG|
+<span style="color: #929292">CALLIOPE: do yoU remember anything yet?</span>
+<span style="color: #4ac925">JADE: ummm</span>
+<span style="color: #4ac925">JADE: not really :\</span>
+<span style="color: #929292">CALLIOPE: that's a pity.</span>
+<span style="color: #929292">CALLIOPE: i was hoping yoU might be able to tell me what my friends are Up to.</span>
+###
+008616
+X

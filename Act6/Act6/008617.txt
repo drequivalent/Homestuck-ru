@@ -1,0 +1,45 @@
+[A6A6I2] ====&gt;
+###
+4fa8b1e0b2
+###
+1379810611
+###
+06714.gif
+###
+|DIALOGLOG|
+<span style="color: #4ac925">JADE: callie...</span>
+<span style="color: #4ac925">JADE: there is something very familiar about you</span>
+<span style="color: #4ac925">JADE: are you sure weve never met before?</span>
+<span style="color: #929292">CALLIOPE: i'm qUite sUre.</span>
+<span style="color: #929292">CALLIOPE: i woUld certainly have remembered meeting yoU.</span>
+<span style="color: #4ac925">JADE: but you did know my name...</span>
+<span style="color: #929292">CALLIOPE: well, yes.</span>
+<span style="color: #929292">CALLIOPE: i knew OF yoU.</span>
+<span style="color: #4ac925">JADE: hmmm</span>
+<span style="color: #4ac925">JADE: i cant shake the feeling that we have spoken before</span>
+<span style="color: #4ac925">JADE: maybe in an old dream i cant remember?</span>
+<span style="color: #4ac925">JADE: im not sure if its the sound of your voice or what</span>
+<span style="color: #4ac925">JADE: i dont recognize your face, but then thats not what you really look like is it?</span>
+<span style="color: #929292">CALLIOPE: no.</span>
+<span style="color: #4ac925">JADE: ...</span>
+<span style="color: #929292">CALLIOPE: before yoU ask, my actUal appearance is mUch less appealing, at least in my own view.</span>
+<span style="color: #929292">CALLIOPE: i woUld rather yoU didn't see it, if that's alright.</span>
+<span style="color: #4ac925">JADE: thats fine!</span>
+<span style="color: #4ac925">JADE: its not a big deal</span>
+<span style="color: #4ac925">JADE: if its true that weve met before, im sure ill remember in due time</span>
+<span style="color: #4ac925">JADE: lets not worry about it for now</span>
+<span style="color: #929292">CALLIOPE: okay.</span>
+<span style="color: #4ac925">JADE: by the way</span>
+<span style="color: #4ac925">JADE: what is with this stage?</span>
+<span style="color: #4ac925">JADE: is it from one of your memories?</span>
+<span style="color: #929292">CALLIOPE: no.</span>
+<span style="color: #929292">CALLIOPE: i thoUght it was yoUr memory?</span>
+<span style="color: #4ac925">JADE: i dont think so</span>
+<span style="color: #4ac925">JADE: it would seem to be some sort of imaginary figment that turned into a real object</span>
+<span style="color: #4ac925">JADE: i wonder why it looks like a drawing?</span>
+<span style="color: #929292">CALLIOPE: shrUg.</span>
+<span style="color: #4ac925">JADE: hey why dont you come up here and help me get these curtains open</span>
+<span style="color: #4ac925">JADE: since its the only thing weve got in this boring vortex we might as well try to have a little fun!</span>
+<span style="color: #929292">CALLIOPE: yeah!!</span>
+###
+X
