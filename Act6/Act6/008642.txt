@@ -1,0 +1,18 @@
+[A6A6I2] ====&gt;
+###
+512301f553
+###
+1380347330
+###
+06739_1.gif
+06739_2.gif
+###
+|DIALOGLOG|
+<span style="color: #f2a400">DIRK: I'm not going to cut off your arm.</span>
+<span style="color: #f2a400">DIRK: It's such an obvious trap.</span>
+<span style="color: #f2a400">DIRK: You'll just put me to sleep or something. With your psychic powers, or maybe a long story.</span>
+<span style="color: #f2a400">DIRK: I have a better idea.</span>
+<span style="color: #005682">ARANEA: Oh?</span>
+###
+008643
+X

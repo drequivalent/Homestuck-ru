@@ -1,0 +1,18 @@
+[A6A6I2] ====&gt;
+###
+8f3e24adf4
+###
+1380347238
+###
+06738.gif
+###
+|DIALOGLOG|
+<span style="color: #005682">ARANEA: Really, you would 8e doing me a favor 8y taking my arm.</span>
+<span style="color: #005682">ARANEA: It would 8ring me that much closer to following in the footsteps of my true self.</span>
+<span style="color: #005682">ARANEA: She was a very successful pir8, you know. She lost her arm in 8attle to a cunning adversary she underestim8ted, much like yourself.</span>
+<span style="color: #005682">ARANEA: Won't you help me 8ecome who I was always meant to 8e?</span>
+<span style="color: #f2a400">DIRK: Ugh.</span>
+<span style="color: #f2a400">DIRK: Shut up.</span>
+###
+008642
+X
