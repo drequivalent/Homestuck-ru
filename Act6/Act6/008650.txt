@@ -1,0 +1,18 @@
+[A6A6I2] ====&gt;
+###
+e3e319dfbc
+###
+1380767678
+###
+06747_1.gif
+06747_2.gif
+###
+|DIALOGLOG|
+<span style="color: #f2a400">DIRK: JAKE, YOUR HOPE FIELD IS DISSIPATING!</span>
+<span style="color: #f2a400">DIRK: COME ON MAN, YOU DON'T NEED TO RELY ON HER TO KEEP BELIEVING!</span>
+<span style="color: #f2a400">DIRK: TRY AND HOLD YOUR SHIT TOGETHER FOR JUST A LITTLE LONGER!</span>
+<img src="http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext15.gif" border="0" />
+<span style="color: #f2a400">DIRK: GOD <span style="font-style: italic">DAMN</span> IT, JAKE!</span>
+###
+008651
+X
