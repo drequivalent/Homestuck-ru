@@ -1,0 +1,15 @@
+[A6A6I2] ====&gt;
+###
+1934f08f90
+###
+1381480455
+###
+06807.gif
+###
+|DIALOGLOG|
+<span style="color: #b536da">ROSE: Or, wait.</span>
+<span style="color: #b536da">ROSE: Is this some sort of blackrom thing?</span>
+<span style="color: #b536da">ROSE: I certainly hope not.</span>
+###
+008711
+X

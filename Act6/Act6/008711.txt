@@ -1,0 +1,23 @@
+[A6A6I2] ====&gt;
+###
+f1d5031c48
+###
+1381480659
+###
+06808.gif
+###
+|DIALOGLOG|
+<span style="color: #b536da">ROSE: Think, Lalonde. Think!</span>
+<span style="color: #b536da">ROSE: What did Kanaya tell you about this quadrant?</span>
+<span style="color: #b536da">ROSE: Does it really involve such gruesome fisticuffs?</span>
+<span style="color: #b536da">ROSE: I...</span>
+<span style="color: #b536da">ROSE: I can't remember!</span>
+<span style="color: #b536da">ROSE: I was probably drunk during that particular lesson.</span>
+<span style="color: #b536da">ROSE: What am I saying.</span>
+<span style="color: #b536da">ROSE: I was drunk for all the lessons!</span>
+<span style="color: #b536da">ROSE: Ugh, what a disgrace.</span>
+<span style="color: #b536da">ROSE: I am the actual worst auspistice who ever lived.</span>
+<span style="color: #b536da">ROSE: THE ACTUAL WORST!!!</span>
+###
+008712
+X
