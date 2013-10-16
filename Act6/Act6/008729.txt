@@ -1,0 +1,24 @@
+[A6A6I2] ====&gt;
+###
+d3cc39dd90
+###
+1381908135
+###
+06826.gif
+###
+|DIALOGLOG|
+<span style="color: #1f9400">JAKE: Pardon me...</span>
+<span style="color: #1f9400">JAKE: Sir jester?</span>
+<span style="color: #1f9400">JAKE: I dont know what this masked bandit has done to deserve such a throttling...</span>
+<span style="color: #1f9400">JAKE: Something sufficiently felonious i presume?</span>
+<span style="color: #1f9400">JAKE: But it is hard to imagine she has not been punished enough and then some.</span>
+<span style="color: #1f9400">JAKE: Perhaps you could um...</span>
+<span style="color: #1f9400">JAKE: If its not much bother...</span>
+<span style="color: #1f9400">JAKE: See to...</span>
+<span style="color: #1f9400">JAKE: Unhanding the lady?</span>
+<span style="color: #1f9400">JAKE: Maybe?</span>
+<span style="color: #2b0057">GAMZEE: ;o)</span>
+<span style="color: #b536da">ROSE: ENOUGH!</span>
+###
+008730
+X
